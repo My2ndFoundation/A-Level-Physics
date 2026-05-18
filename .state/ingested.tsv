@@ -1,1 +1,6 @@
 raw_path	date	source_page	status	notes
+raw/specifications/ocr-physics-h556-home.url	2026-05-18	13_Sources/OCR-Specifications/OCR-Physics-A-H556-Specification.md	ingested	spec skeleton only; atomic pages deferred to module content ingests
+raw/specifications/ocr-physics-h556-specification-at-a-glance.url	2026-05-18	13_Sources/OCR-Specifications/OCR-Physics-A-H556-Specification.md	ingested	summary view; folded into canonical spec source page (user choice B); no new objects
+raw/specifications/ocr-physics-h556-specification-update-2024.url	2026-05-18	13_Sources/OCR-Specifications/OCR-Physics-A-H556-Specification.md	ingested	v2.7 change-log; folded into canonical spec source page (version history); no new objects
+raw/specifications/171726-specification-accredited-a-level-gce-physics-a-h556.pdf	2026-05-18	13_Sources/OCR-Specifications/OCR-Physics-A-H556-Specification.md	ingested	official spec PDF (v3.0); deeper pass: 66 third-level sub-topics added to OCR-Physics-Map; primary local provenance
+raw/specifications/295471-mathematical-skills-handbook.pdf	2026-05-18	13_Sources/OCR-Specifications/OCR-Physics-Mathematical-Skills-Handbook.md	ingested	M0-M4 maths framework mapped into Mathematical-Methods-in-Physics-MOC; per-skill pages deferred

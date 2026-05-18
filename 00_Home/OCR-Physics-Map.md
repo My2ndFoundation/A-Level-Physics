@@ -7,34 +7,159 @@ tags:
   - a-level-physics
   - syllabus-map
 status: draft
+aliases:
+  - OCR Physics Map
+  - H556 Map
 ---
 
 # OCR Physics A H556 Map
 
 This page maps OCR A-Level Physics A H556 to the wiki's atomic pages.
 
-It is not a textbook chapter list. It is a syllabus alignment map.
+It is not a textbook chapter list. It is a syllabus alignment map. Sub-topics
+below are syllabus anchors (spec §2c, third-level headings); atomic pages are
+linked in as content sources are ingested. Source:
+[[OCR-Physics-A-H556-Specification]].
+
+Modules 1–4 form the standalone AS (H156); the A-Level adds Modules 5–6.
 
 ## Module 1: Development of Practical Skills in Physics
 
-_To be populated during ingestion._
+See: [[Practical-Skills-MOC]]
+
+- **1.1 Practical skills assessed in a written examination**
+  - 1.1.1 Planning
+  - 1.1.2 Implementing
+  - 1.1.3 Analysis
+  - 1.1.4 Evaluation
+- **1.2 Practical skills assessed in the Practical Endorsement**
+  - 1.2.1 Practical skills
+  - 1.2.2 Use of apparatus and techniques
 
 ## Module 2: Foundations of Physics
 
-_To be populated during ingestion._
+See: [[Foundations-MOC]], [[Physical-Quantities-MOC]], [[Mathematical-Methods-in-Physics-MOC]]
+
+- **2.1 Physical quantities and units**
+  - 2.1.1 Physical quantities
+  - 2.1.2 S.I. units
+- **2.2 Making measurements and analysing data** → [[Practical-Skills-MOC]]
+  - 2.2.1 Measurements and uncertainties
+- **2.3 Nature of quantities**
+  - 2.3.1 Scalars and vectors
 
 ## Module 3: Forces and Motion
 
-_To be populated during ingestion._
+See: [[Mechanics-MOC]]
+
+- **3.1 Motion** → [[Motion-MOC]]
+  - 3.1.1 Kinematics
+  - 3.1.2 Linear motion
+  - 3.1.3 Projectile motion
+- **3.2 Forces in action** → [[Forces-MOC]]
+  - 3.2.1 Dynamics
+  - 3.2.2 Motion with non-uniform acceleration
+  - 3.2.3 Equilibrium
+  - 3.2.4 Density and pressure
+- **3.3 Work, energy and power** → [[Energy-MOC]]
+  - 3.3.1 Work and conservation of energy
+  - 3.3.2 Kinetic and potential energies
+  - 3.3.3 Power
+- **3.4 Materials** → [[Materials-MOC]]
+  - 3.4.1 Springs
+  - 3.4.2 Mechanical properties of matter
+- **3.5 Newton's laws of motion and momentum** → [[Mechanics-MOC]]
+  - 3.5.1 Newton's laws of motion
+  - 3.5.2 Collisions
 
 ## Module 4: Electrons, Waves and Photons
 
-_To be populated during ingestion._
+See: [[Electricity-MOC]], [[Waves-MOC]], [[Quantum-Physics-MOC]]
+
+- **4.1 Charge and current** → [[Electricity-MOC]]
+  - 4.1.1 Charge
+  - 4.1.2 Mean drift velocity
+- **4.2 Energy, power and resistance** → [[Electricity-MOC]]
+  - 4.2.1 Circuit symbols
+  - 4.2.2 E.m.f. and p.d.
+  - 4.2.3 Resistance
+  - 4.2.4 Resistivity
+  - 4.2.5 Power
+- **4.3 Electrical circuits** → [[Circuits-MOC]]
+  - 4.3.1 Series and parallel circuits
+  - 4.3.2 Internal resistance
+  - 4.3.3 Potential dividers
+- **4.4 Waves** → [[Waves-MOC]]
+  - 4.4.1 Wave motion
+  - 4.4.2 Electromagnetic waves
+  - 4.4.3 Superposition
+  - 4.4.4 Stationary waves
+- **4.5 Quantum physics** → [[Quantum-Physics-MOC]]; frontier: [[Quantum-Mechanics-Map]]
+  - 4.5.1 Photons
+  - 4.5.2 The photoelectric effect
+  - 4.5.3 Wave–particle duality
 
 ## Module 5: Newtonian World and Astrophysics
 
-_To be populated during ingestion._
+See: [[Astrophysics-MOC]]
+
+- **5.1 Thermal physics** → [[Thermal-Physics-MOC]]
+  - 5.1.1 Temperature
+  - 5.1.2 Solid, liquid and gas
+  - 5.1.3 Thermal properties of materials
+  - 5.1.4 Ideal gases
+- **5.2 Circular motion** → [[Circular-Motion-MOC]]
+  - 5.2.1 Kinematics of circular motion
+  - 5.2.2 Centripetal force
+- **5.3 Oscillations** → [[Simple-Harmonic-Motion-MOC]]
+  - 5.3.1 Simple harmonic oscillations
+  - 5.3.2 Energy of a simple harmonic oscillator
+  - 5.3.3 Damping
+- **5.4 Gravitational fields** → [[Fields-MOC]]
+  - 5.4.1 Point and spherical masses
+  - 5.4.2 Newton's law of gravitation
+  - 5.4.3 Planetary motion
+  - 5.4.4 Gravitational potential and energy
+- **5.5 Astrophysics and cosmology** → [[Astrophysics-MOC]]; frontier: [[Cosmology-Map]]
+  - 5.5.1 Stars
+  - 5.5.2 Electromagnetic radiation from stars
+  - 5.5.3 Cosmology
 
 ## Module 6: Particles and Medical Physics
 
-_To be populated during ingestion._
+See: [[Fields-MOC]], [[Nuclear-Physics-MOC]], [[Particles-MOC]], [[Medical-Physics-MOC]]
+
+- **6.1 Capacitors** → [[Electricity-MOC]]
+  - 6.1.1 Capacitors
+  - 6.1.2 Energy
+  - 6.1.3 Charging and discharging capacitors
+- **6.2 Electric fields** → [[Fields-MOC]]
+  - 6.2.1 Point and spherical charges
+  - 6.2.2 Coulomb's law
+  - 6.2.3 Uniform electric field
+  - 6.2.4 Electric potential and energy
+- **6.3 Electromagnetism** → [[Fields-MOC]]
+  - 6.3.1 Magnetic fields
+  - 6.3.2 Motion of charged particles
+  - 6.3.3 Electromagnetism
+- **6.4 Nuclear and particle physics** → [[Nuclear-Physics-MOC]], [[Particles-MOC]]; frontier: [[Particle-Physics-Map]]
+  - 6.4.1 The nuclear atom
+  - 6.4.2 Fundamental particles
+  - 6.4.3 Radioactivity
+  - 6.4.4 Nuclear fission and fusion
+- **6.5 Medical imaging** → [[Medical-Physics-MOC]]
+  - 6.5.1 Using X-rays
+  - 6.5.2 Diagnostic methods in medicine
+  - 6.5.3 Using ultrasound
+
+## Assessment Structure
+
+- **Component 01 — Modelling physics**: 100 marks · 2 h 15 min · 37% · modules 1, 2, 3, 5
+- **Component 02 — Exploring physics**: 100 marks · 2 h 15 min · 37% · modules 1, 2, 4, 6
+- **Component 03 — Unified physics**: 70 marks · 1 h 30 min · 26% · all modules 1–6
+- **Component 04 — Practical Endorsement**: non-exam, teacher assessed, reported separately; ≥12 activities covering PAG1–PAG12 (spec §5g)
+- All components include synoptic assessment.
+
+## Source
+
+- [[OCR-Physics-A-H556-Specification]]

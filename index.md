@@ -70,7 +70,8 @@ _Populated during ingestion._
 
 ## Sources
 
-_Populated during ingestion._
+- [[OCR-Physics-A-H556-Specification]]
+- [[OCR-Physics-Mathematical-Skills-Handbook]]
 
 ## Maintenance
 
