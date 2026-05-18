@@ -1,0 +1,53 @@
+# ── Obsidian vault ─────────────────────────────────────────────
+# Per-machine UI state churns constantly — ignore it.
+# Shared vault config (app/appearance/core-plugins/graph .json,
+# community-plugins, snippets) is intentionally tracked.
+.obsidian/workspace.json
+.obsidian/workspace-mobile.json
+.obsidian/workspace
+.obsidian/cache
+.obsidian/.cache/
+.trash/
+
+# ── macOS ──────────────────────────────────────────────────────
+.DS_Store
+.DS_Store?
+.AppleDouble
+.LSOverride
+._*
+.Spotlight-V100
+.Trashes
+Icon?
+
+# ── Windows ────────────────────────────────────────────────────
+Thumbs.db
+Thumbs.db:encryptable
+ehthumbs.db
+Desktop.ini
+$RECYCLE.BIN/
+
+# ── Linux ──────────────────────────────────────────────────────
+.directory
+.fuse_hidden*
+.nfs*
+
+# ── Editors / IDEs ─────────────────────────────────────────────
+.vscode/
+.idea/
+*.sublime-workspace
+*.swp
+*.swo
+*~
+*.bak
+*.orig
+*.tmp
+*.temp
+
+# ── Local / secret config (do not commit) ──────────────────────
+.env
+.env.*
+*.local
+.claude/settings.local.json
+
+# Note: .state/ and raw/ are intentionally tracked.
+# .state/ is the ingestion ledger; raw/ is immutable source input.
