@@ -8,7 +8,7 @@ tags:
   - graphs
 level: a-level
 difficulty: core
-status: draft
+status: usable
 aliases:
   - Line of best fit
   - Best fit line

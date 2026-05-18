@@ -1,0 +1,87 @@
+---
+type: experiment-practical
+subject: physics
+tags:
+  - practical
+  - required-practical
+  - electricity
+  - electric-circuits
+  - uncertainty
+  - ocr-h556
+level: a-level
+difficulty: 2
+status: usable
+aliases:
+  - internal resistance experiment
+  - measuring emf and internal resistance
+  - Determining-Internal-Resistance
+sources: []
+---
+
+# Determining Internal Resistance
+
+## Aim
+
+To determine the electromotive force (emf) and [[Internal-Resistance]] of a cell from how its terminal potential difference falls as the current it supplies increases.
+
+## Variables
+
+- Independent variable: current `I` drawn from the cell (changed with a variable resistor).
+- Dependent variable: terminal potential difference `V` across the cell.
+- Control variables: same cell, short measurement times (to avoid the cell running down or heating), same temperature.
+
+## Apparatus
+
+- Cell, variable resistor (rheostat) or resistance box, switch.
+- Ammeter in series; voltmeter across the cell terminals (high resistance).
+- Connecting leads (see [[Circuit-Diagram]]).
+
+## Method
+
+1. Connect the cell, switch, ammeter and variable resistor in series; connect the voltmeter directly across the cell terminals.
+2. Set the variable resistor to its maximum and close the switch only while taking a reading.
+3. Record the current `I` and terminal pd `V`.
+4. Reduce the resistance in steps to increase the current, recording `I` and `V` each time over a good range.
+5. Open the switch between readings to prevent the cell discharging or warming.
+
+## Measurements
+
+Pairs of current `I` and terminal pd `V`.
+
+## Data Processing
+
+From `V = ε − I r` (terminal pd = emf − lost volts across internal resistance). A graph of `V` (y-axis) against `I` (x-axis) is a straight line: y-intercept = `ε` (the emf), gradient = `−r` (negative of the internal resistance).
+
+## Graph Use
+
+Plot `V` against `I`. The **y-intercept** gives the emf `ε` (see [[Using-Intercept]]); the **gradient** is `−r`, so internal resistance `r = −gradient` (see [[Using-Gradient]]).
+
+## Uncertainty
+
+- Sources: meter resolution, cell warming/discharging during the experiment, voltmeter not being ideal (small current through it).
+- Reduction: take readings quickly with the switch open between them; use a wide range of currents; repeat; use a high-resistance (digital) voltmeter; draw worst-fit lines for intercept and gradient uncertainty.
+
+## Safety / Practical Limits
+
+Low risk. Avoid short-circuiting the cell (large currents heat components and drain the cell fast). Keep currents modest and measurement times short. The simple model assumes constant `r`, which weakens if the cell heats significantly.
+
+## Related Quantities
+
+- [[Internal-Resistance]]
+- [[Potential-Difference]]
+- [[Current]]
+
+## Related Laws or Results
+
+- [[Ohms-Law]]
+
+## Common Mistakes
+
+- Leaving the circuit closed so the cell discharges and `ε`, `r` drift.
+- Forgetting the gradient is `−r`, not `+r`.
+- Using a low-resistance voltmeter that draws significant current.
+
+## Source Trace
+
+- Source: OCR Practical Skills Handbook; The Physics Classroom; IOPSpark; OpenStax
+- OCR alignment: [[OCR-Physics-A-H556-Specification]]

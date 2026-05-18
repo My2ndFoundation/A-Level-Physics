@@ -8,7 +8,7 @@ tags:
   - uncertainty
 level: a-level
 difficulty: core
-status: draft
+status: usable
 aliases:
   - Percentage difference
   - Percentage error

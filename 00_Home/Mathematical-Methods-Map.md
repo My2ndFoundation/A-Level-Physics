@@ -23,8 +23,8 @@ This page tracks the mathematical tools required for A-Level Physics.
 
 ## Graphs
 
-- [[Gradient]]
-- [[Area-Under-a-Graph]]
+- [[Finding-Gradient-from-a-Graph]]
+- [[Finding-Area-Under-a-Graph]]
 - [[Linearising-a-Graph]]
 
 ## Vectors
@@ -35,18 +35,19 @@ This page tracks the mathematical tools required for A-Level Physics.
 ## Trigonometry
 
 - [[Resolving-Forces]]
-- [[Projectile-Motion]]
+- [[Projectile-Motion-Model]]
 
 ## Exponentials and Logarithms
 
-- [[Capacitor-Discharge]]
+- [[Capacitor-Discharge-Equation]]
 - [[Radioactive-Decay]]
+- [[Radioactive-Decay-Law]]
 
 ## Calculus Links
 
 - [[Velocity-Time-Graph]]
 - [[Acceleration-Time-Graph]]
-- [[Simple-Harmonic-Motion]]
+- [[Simple-Harmonic-Oscillator]]
 
 ## Notes
 

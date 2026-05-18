@@ -318,6 +318,20 @@ Do not run `git commit` unless explicitly asked.
 
 Leave the working tree dirty for human review.
 
+### 5.12 Baseline build and source policy
+
+This vault is built upfront into a complete usable baseline, not grown only as
+the course progresses. The authoritative rules are:
+
+- `_meta/baseline-build-policy.md` — what the baseline must contain, the
+  `status` / `learning_stage` vocabulary, and the baseline-build authorisation
+  (no per-page checkpoint during the approved baseline pass; normal
+  `physics-ingest-source` keeps its checkpoint).
+- `_meta/source-policy.md` — the trusted source pool and per-page-type source
+  selection rules. All content-building skills select sources through this file.
+
+These do not weaken any rule in §1–§5.11; they specialise §10 for baseline construction.
+
 ---
 
 ## 6. Page Types

@@ -8,7 +8,7 @@ tags:
   - astrophysics
   - modern-physics
 level: edge-map
-status: draft
+status: usable
 aliases:
   - Cosmology Map
   - Big Bang Map

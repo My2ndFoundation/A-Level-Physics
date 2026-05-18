@@ -12,58 +12,41 @@ status: draft
 ## Mechanics Mistakes
 
 - [[Confusing-Mass-and-Weight]]
+- [[Forgetting-Resultant-Force]]
+- [[Forgetting-Vector-Direction]]
+- [[Treating-Scalars-as-Vectors]]
+- [[Using-Distance-Instead-of-Displacement]]
+- [[Using-SUVAT-When-Acceleration-Is-Not-Constant]]
+- [[Mixing-Speed-and-Velocity]]
 
-## Foundations
+## Energy and Power Mistakes
 
-_To be populated during ingestion._
+- [[Confusing-Energy-and-Power]]
 
-## Common-Sense Links
+## Electricity Mistakes
 
-_To be populated during ingestion._
+- [[Mixing-Up-Series-and-Parallel-Circuits]]
 
-## Physical Quantities
+## Graphs and Data Mistakes
 
-_To be populated during ingestion._
-
-## Concepts
-
-_To be populated during ingestion._
-
-## Laws and Results
-
-_To be populated during ingestion._
-
-## Models
-
-_To be populated during ingestion._
-
-## Methods
-
-_To be populated during ingestion._
-
-## Representations
-
-_To be populated during ingestion._
-
-## Experiments and Practicals
-
-_To be populated during ingestion._
-
-## Applications
-
-_To be populated during ingestion._
-
-## Problem Types
-
-_To be populated during ingestion._
+- [[Misreading-Graph-Gradient]]
+- [[Ignoring-Units]]
+- [[Incorrect-Sign-Convention]]
 
 ## Common Mistake Patterns
 
 - [[Confusing-Mass-and-Weight]]
-
-## Frontier Links
-
-_To be populated during ingestion._
+- [[Confusing-Energy-and-Power]]
+- [[Forgetting-Resultant-Force]]
+- [[Forgetting-Vector-Direction]]
+- [[Ignoring-Units]]
+- [[Incorrect-Sign-Convention]]
+- [[Misreading-Graph-Gradient]]
+- [[Mixing-Speed-and-Velocity]]
+- [[Mixing-Up-Series-and-Parallel-Circuits]]
+- [[Treating-Scalars-as-Vectors]]
+- [[Using-Distance-Instead-of-Displacement]]
+- [[Using-SUVAT-When-Acceleration-Is-Not-Constant]]
 
 ## Sources
 

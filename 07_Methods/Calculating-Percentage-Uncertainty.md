@@ -8,7 +8,7 @@ tags:
   - maths-link
 level: a-level
 difficulty: core
-status: draft
+status: usable
 aliases:
   - Percentage uncertainty
   - Fractional uncertainty

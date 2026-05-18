@@ -8,7 +8,7 @@ tags:
   - uncertainty
 level: a-level
 difficulty: core
-status: draft
+status: usable
 aliases:
   - Significant figures
   - Sig figs

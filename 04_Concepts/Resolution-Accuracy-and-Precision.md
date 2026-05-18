@@ -7,7 +7,7 @@ tags:
   - practical
 level: a-level
 difficulty: core
-status: draft
+status: usable
 aliases:
   - Accuracy
   - Precision

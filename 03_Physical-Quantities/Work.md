@@ -1,0 +1,91 @@
+---
+type: physical-quantity
+subject: physics
+tags:
+  - forces-and-motion
+  - mechanics
+  - energy
+  - work
+  - ocr-h556
+  - a-level-physics
+level: a-level
+difficulty: 2
+status: usable
+aliases:
+  - W
+  - work done
+  - mechanical work
+sources: []
+---
+
+# Work
+
+## Core Idea
+
+Work is energy transferred when a force moves its point of application. If you push a wall and it doesn't move, you do no work on it (physically), no matter how tired you feel. Only the component of force along the displacement does work.
+
+## Symbol
+
+`W` (work done)
+
+## SI Unit
+
+`J` (joule). `1 J = 1 N m = 1 kg m² s⁻²`.
+
+## Scalar or Vector
+
+Scalar. It can be positive (energy given to the object), negative (energy taken from it, e.g. friction), or zero.
+
+## Definition
+
+Work done by a force is the product of the force and the displacement moved in the direction of the force. It equals the energy transferred by that force.
+
+## Related Equations
+
+- `W = Fs cosθ` — `W` = work (J), `F` = force (N), `s` = displacement (m), `θ` = angle between force and displacement.
+- `W = Fs` when force and displacement are parallel (`θ = 0`).
+- Work–energy principle: `W_net = ΔE_k`. See [[Energy]].
+- Gravitational PE change: `W = mgΔh` — `m` = mass (kg), `g` = 9.81 N kg⁻¹, `Δh` = height change (m).
+
+## How It Is Measured
+
+From measured force and displacement, or by measuring the energy change it produces (e.g. gain in kinetic or potential energy). For a varying force, work is found from the area under a force–displacement graph.
+
+## Graphical Meaning
+
+On a **force–displacement graph**, work is the **area under the curve**. For a stretched spring this area (`½Fx`) is the elastic strain energy stored — see [[Force-Extension-Graph]].
+
+## Foundation Links
+
+- [[Energy]] (GCSE-Foundations layer — prerequisite idea)
+
+## Related Concepts
+
+- [[Energy]]
+- [[Power]]
+- [[Force]]
+- [[Displacement]]
+
+## Related Laws or Results
+
+- [[Newton-Second-Law]]
+- [[Hookes-Law]]
+
+## Related Experiments
+
+- Determining work from force–extension data for a spring
+
+## Frontier Links
+
+- None at A-Level depth
+
+## Common Mistakes
+
+- Forgetting the `cosθ` factor when force is at an angle
+- Believing a force always does work even with zero displacement
+- Confusing work with power
+
+## Source Trace
+
+- Source: OpenStax College Physics; The Physics Classroom; HyperPhysics (paraphrased, no copied text)
+- OCR alignment: [[OCR-Physics-A-H556-Specification]]

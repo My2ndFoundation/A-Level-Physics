@@ -10,43 +10,56 @@ status: draft
 
 ## Foundations
 
-_To be populated during ingestion._
-
-## Common-Sense Links
-
-_To be populated during ingestion._
+- [[From-Circuits-to-Circuit-Models]]
+- [[Electric-Current]]
+- [[Resistance]]
+- [[Voltage]]
 
 ## Physical Quantities
 
-_To be populated during ingestion._
+- [[Charge]]
+- [[Current]]
+- [[Potential-Difference]]
+- [[Resistance]]
+- [[Resistivity]]
+- [[Power]]
 
 ## Concepts
 
-_To be populated during ingestion._
+- [[Internal-Resistance]]
+- [[Potential-Divider]]
 
 ## Laws and Results
 
-_To be populated during ingestion._
+- [[Ohms-Law]]
+- [[Kirchhoffs-First-Law]]
+- [[Kirchhoffs-Second-Law]]
 
 ## Models
 
-_To be populated during ingestion._
+- [[Ohmic-Conductor-Model]]
+- [[Internal-Resistance-Model]]
+- [[Potential-Divider-Model]]
 
 ## Methods
 
-_To be populated during ingestion._
+- [[Analysing-Circuit-Diagrams]]
+- [[Using-Kirchhoffs-Laws]]
+- [[Using-Potential-Dividers]]
 
 ## Representations
 
-_To be populated during ingestion._
+- [[Circuit-Diagram]]
+- [[IV-Characteristic]]
 
 ## Experiments and Practicals
 
-_To be populated during ingestion._
+- [[Determining-Internal-Resistance]]
 
 ## Applications
 
-_To be populated during ingestion._
+- [[Capacitor-Timing-Circuits]]
+- [[Potential-Divider-Sensors]]
 
 ## Problem Types
 
@@ -54,7 +67,7 @@ _To be populated during ingestion._
 
 ## Common Mistake Patterns
 
-_To be populated during ingestion._
+- [[Mixing-Up-Series-and-Parallel-Circuits]]
 
 ## Frontier Links
 
@@ -62,5 +75,4 @@ _To be populated during ingestion._
 
 ## Sources
 
-_To be populated during ingestion._
-
+- [[OCR-Physics-A-H556-Specification]]

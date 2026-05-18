@@ -13,6 +13,12 @@ Processes one raw source from `raw/` into the physics knowledge graph (`02_Found
 
 This is **not** a textbook-copying workflow. The source page is a provenance and extraction record, not reproduced source text.
 
+> **Baseline build note.** This skill keeps its Step 6 user checkpoint for all
+> normal long-term ingestion. The upfront baseline construction pass is a
+> separate, pre-authorised workflow owned by `physics-build-base-cluster`
+> (`_meta/baseline-build-policy.md`) and does not use this skill's checkpoint.
+> Source selection for any content built here follows `_meta/source-policy.md`.
+
 ## Arguments
 
 The skill accepts one raw file path:

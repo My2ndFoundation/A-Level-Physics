@@ -7,60 +7,84 @@ tags:
   - modern-physics
   - quantum-physics
 level: edge-map
-status: seed
+status: usable
 aliases:
   - quantum mechanics
   - quantum physics map
-sources: []
+sources:
+  - IOP-Explore-Physics
 ---
 
 # Quantum Mechanics Map
 
 ## What This Field Studies
 
-Quantum mechanics studies the behaviour of matter and energy at very small scales, where classical ideas are no longer enough.
+Quantum mechanics studies the behaviour of matter and energy at very small
+scales — atoms, electrons, photons — where classical ideas of definite paths
+and continuous energy no longer work. Outcomes become probabilistic, energy
+comes in discrete amounts, and "particle" and "wave" stop being separate
+categories.
 
 ## Why It Matters
 
-It underpins modern physics and technologies such as semiconductors, lasers, quantum sensors, and quantum computing.
+It is the foundation of modern physics and of much modern technology:
+[[Semiconductor-Physics-Map|semiconductors]], lasers, LEDs, MRI, quantum
+sensors, and [[Quantum-Computing-Map|quantum computing]]. It also explains the
+structure of atoms and the chemistry that follows from it.
 
 ## A-Level Entry Points
 
-- [[Photoelectric-Effect]]
-- Wave-particle duality
-- Photons
-- Energy levels
-- Electron diffraction
+Which A-Level (H556) ideas connect here:
+
+- [[Photoelectric-Effect]] — light delivering energy in discrete photons
+- [[Wave-Particle-Duality]] — light and matter showing both behaviours
+- [[Energy-Levels]] — discrete atomic energy and line spectra
+- [[De-Broglie-Equation]] — matter having a wavelength; electron diffraction
 
 ## Key Ideas at the Edge
 
-- Quantisation
-- Probability amplitudes
-- Wavefunctions
-- Measurement
-- Superposition
-- Uncertainty
+Names to recognise — not to master:
+
+- **Quantisation** — energy and other quantities come in discrete steps.
+- **Wavefunction** — a mathematical object whose square gives a probability.
+- **Probability amplitude** — outcomes are predicted as likelihoods, not certainties.
+- **Superposition** — a system can be in a combination of states until measured.
+- **Measurement** — observing a system changes what we can say about it.
+- **Uncertainty principle** — some pairs of quantities cannot both be sharp.
+- **Entanglement** — correlated systems that behave as one across distance.
 
 ## What Not to Worry About Yet
 
-Do not try to master Schrödinger equations, Hilbert spaces, operators, or advanced quantum formalism at this stage.
+Out of scope at A-Level and deliberately omitted here:
+
+- The Schrödinger equation and solving it.
+- Hilbert spaces, operators, bra–ket notation.
+- Spin formalism, perturbation theory, quantum field theory.
+- Interpretation debates (many-worlds, etc.) as if settled.
+
+Recognising the vocabulary and the core surprises is enough at this stage.
 
 ## Useful Analogies
 
-Quantum objects do not behave exactly like particles or waves in everyday experience. A-Level only gives the entry point.
+A quantum object is not a tiny ball and not a ripple — it behaves in a way
+with no everyday equivalent. A-Level gives only the entry point: discrete
+energy, photons, and matter waves.
 
 ## Related Frontier Maps
 
-- Particle-Physics-Map
-- Semiconductor-Physics-Map
+- [[Particle-Physics-Map]]
+- [[Semiconductor-Physics-Map]]
+- [[Quantum-Computing-Map]]
+- [[Relativity-Map]]
 
 ## Related A-Level Pages
 
-- Photoelectric effect
-- Photons
-- Wave-particle duality
+- [[Photoelectric-Effect]]
+- [[Wave-Particle-Duality]]
+- [[Energy-Levels]]
+- [[De-Broglie-Equation]]
 
 ## Source Trace
 
-- Source: Seed page
-- Section/Page: To be expanded during ingestion
+- Source: [[IOP-Explore-Physics]]; Institute of Physics — Explore Physics; Wikipedia (navigation)
+- Section/Page: orientation hub (no copied text)

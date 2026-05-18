@@ -79,7 +79,16 @@ _To be populated during ingestion._
 
 ## Experiments and Practicals
 
-_Deferred — individual experiment-practical pages from practical guides via `/physics-practical-extract`._
+- [[Measuring-Acceleration-Due-to-Gravity]]
+- [[Measuring-Young-Modulus]]
+- [[Determining-Internal-Resistance]]
+- [[Investigating-Stationary-Waves]]
+- [[Investigating-Photoelectric-Effect]]
+- [[Using-a-Micrometer]]
+- [[Using-Vernier-Calipers]]
+- [[Using-Light-Gates]]
+- [[Using-Gradient]]
+- [[Using-Intercept]]
 
 ## Applications
 

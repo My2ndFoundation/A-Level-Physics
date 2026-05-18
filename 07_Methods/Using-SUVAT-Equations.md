@@ -8,10 +8,11 @@ tags:
   - ocr-h556
 level: a-level
 difficulty: 2
-status: seed
+status: usable
 aliases:
   - SUVAT
   - suvat equations
+  - kinematic equations
 sources: []
 ---
 
@@ -19,54 +20,62 @@ sources: []
 
 ## Purpose
 
-SUVAT equations are used to solve constant-acceleration motion problems.
+The SUVAT equations solve any constant-acceleration motion problem. Given any three of the five quantities — displacement *s*, initial velocity *u*, final velocity *v*, [[Acceleration]] *a*, time *t* — you can find the remaining two without calculus.
 
 ## When to Use
 
-Use them when acceleration is constant and the problem involves displacement, initial velocity, final velocity, acceleration, and time.
+Use SUVAT when the [[Constant-Acceleration-Model]] applies: acceleration is constant in magnitude and direction. Typical triggers are free fall (*a = g*), uniform braking, a trolley down a fixed slope, or a straight-line [[Velocity-Time-Graph]]. Do **not** use it when acceleration varies (air resistance, springs, [[Simple-Harmonic-Oscillator]]).
 
 ## Prerequisites
 
 - [[Constant-Acceleration-Model]]
 - [[Acceleration]]
+- [[Velocity]]
 
 ## Method
 
-1. List known quantities.
-2. Identify the unknown quantity.
-3. Choose an equation that contains no unnecessary unknowns.
-4. Substitute with units and signs.
-5. Check whether the answer is physically reasonable.
+1. Define a positive direction and stick to it for all vectors.
+2. List the known quantities with units and signs (e.g. *u*, *a*, *t*).
+3. Identify the single unknown the question asks for, and note which quantity is irrelevant.
+4. Choose the equation that contains your knowns and the target unknown but *not* the irrelevant quantity:
+   - no *s* → *v = u + at*
+   - no *v* → *s = ut + ½at²*
+   - no *t* → *v² = u² + 2as*
+   - no *a* → *s = ½(u + v)t*
+5. Substitute numbers with units; solve algebraically.
+6. Check the answer is physically reasonable (sign, magnitude, sensible time).
 
 ## Worked Example
 
-To be expanded during ingestion.
+A stone is thrown straight up at 12 m s⁻¹. Taking up as positive, *a = −9.81 m s⁻²*. Find the maximum height. At the top *v = 0*, *s* unknown, *t* irrelevant → use *v² = u² + 2as*. So *0 = 12² + 2(−9.81)s*, giving *s = 144 / 19.62 ≈ 7.3 m*. The positive value confirms the stone rises above the launch point.
 
 ## Why It Works
 
-SUVAT equations describe the mathematical consequences of constant acceleration.
+The SUVAT equations are the exact algebraic consequences of integrating a constant acceleration. *v = u + at* is acceleration integrated once; *s = ut + ½at²* is velocity integrated again. They encode the geometry of a straight-line velocity–time graph (gradient = *a*, area = *s*).
 
 ## Common Mistakes
 
-- Mixing up displacement and distance
-- Using inconsistent sign conventions
-- Using SUVAT when acceleration is not constant
+- [[Constant-Acceleration-Model]] not actually valid (acceleration varies).
+- Mixing displacement and distance.
+- Inconsistent sign convention (up vs down, *g* sign).
+- Forgetting *v = 0* at the top of vertical motion.
 
 ## Related Quantities
 
-- Displacement
-- Velocity
 - [[Acceleration]]
+- [[Velocity]]
 
 ## Related Laws or Results
 
-- SUVAT equations
+- [[Constant-Acceleration-Model]]
+- [[Newton-Second-Law]] (links acceleration to force)
 
 ## Related Problem Types
 
-- Constant acceleration motion problems
+- [[Projectile-Motion]]
+- Vertical free-fall problems
 
 ## Source Trace
 
-- Source: Seed page
-- Section/Page: To be expanded during ingestion
+- Source: OpenStax College Physics; The Physics Classroom; Isaac Physics — paraphrased, no copied text.
+- OCR alignment: [[OCR-Physics-A-H556-Specification]]

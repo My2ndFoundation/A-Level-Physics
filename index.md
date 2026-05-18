@@ -1,7 +1,8 @@
 # Physics Wiki Index
 
-## Home
+_Baseline build 2026-05-18 — ~184 atomic pages._
 
+## Home
 - [[Home]]
 - [[Physics-MOC]]
 - [[Four-Layer-Physics-Map]]
@@ -10,87 +11,261 @@
 - [[Mathematical-Methods-Map]]
 - [[Cross-Subject-Links]]
 
-## Learning Layers
-
-- [[Everyday-Physics-MOC]]
-- [[Pre-GCSE-Foundations-MOC]]
-- [[GCSE-Foundations-MOC]]
+## Topic MOCs
+- [[Astrophysics-MOC]]
 - [[Bridge-to-A-Level-MOC]]
+- [[Circuits-MOC]]
+- [[Circular-Motion-MOC]]
+- [[Electricity-MOC]]
+- [[Energy-MOC]]
+- [[Everyday-Physics-MOC]]
+- [[Fields-MOC]]
+- [[Forces-MOC]]
+- [[Foundations-MOC]]
 - [[Frontier-Physics-MOC]]
+- [[GCSE-Foundations-MOC]]
+- [[Materials-MOC]]
+- [[Mathematical-Methods-in-Physics-MOC]]
+- [[Mechanics-MOC]]
+- [[Medical-Physics-MOC]]
+- [[Mistake-Patterns-MOC]]
+- [[Modern-Physics-MOC]]
+- [[Motion-MOC]]
+- [[Nuclear-Physics-MOC]]
+- [[Particles-MOC]]
+- [[Physical-Quantities-MOC]]
+- [[Physics-MOC]]
+- [[Practical-Skills-MOC]]
+- [[Pre-GCSE-Foundations-MOC]]
+- [[Problem-Solving-MOC]]
+- [[Quantum-Physics-MOC]]
+- [[Simple-Harmonic-Motion-MOC]]
+- [[Thermal-Physics-MOC]]
+- [[Waves-MOC]]
 
-## Foundations
-
-- [[Force]]
-- [[Energy]]
-- [[From-Speed-to-Velocity]]
-
-## Common-Sense Physics
-
+## Foundations — Everyday Physics
+- [[Why-Ice-Floats]]
+- [[Why-Metal-Feels-Colder-Than-Wood]]
+- [[Why-Objects-Keep-Moving-in-Space]]
 - [[Why-Seatbelts-Matter]]
+- [[Why-Sky-Is-Blue]]
+- [[Why-Sound-Needs-a-Medium]]
+
+## Foundations — GCSE
+- [[Atoms]]
+- [[Electric-Current]]
+- [[Energy]]
+- [[Force]]
+- [[Power]]
+- [[Resistance]]
+- [[Voltage]]
+- [[Waves]]
+
+## Foundations — Bridge to A-Level
+- [[From-Circuits-to-Circuit-Models]]
+- [[From-Distance-to-Displacement]]
+- [[From-Speed-to-Velocity]]
+- [[From-Waves-to-Superposition]]
+- [[From-Weight-to-Gravitational-Field-Strength]]
 
 ## Physical Quantities
-
 - [[Acceleration]]
+- [[Amplitude]]
+- [[Capacitance]]
+- [[Charge]]
+- [[Current]]
+- [[Density]]
+- [[Displacement]]
+- [[Distance]]
+- [[Electric-Field-Strength]]
+- [[Energy]]
+- [[Force]]
+- [[Frequency]]
+- [[Gravitational-Field-Strength]]
+- [[Impulse]]
+- [[Intensity]]
+- [[Magnetic-Flux-Density]]
+- [[Mass]]
+- [[Momentum]]
+- [[Period]]
+- [[Potential-Difference]]
+- [[Power]]
+- [[Pressure]]
+- [[Resistance]]
+- [[Resistivity]]
+- [[Speed]]
+- [[Strain]]
+- [[Stress]]
+- [[Velocity]]
+- [[Wavelength]]
+- [[Weight]]
+- [[Work]]
+- [[Young-Modulus]]
 
 ## Concepts
-
+- [[Centre-of-Mass]]
+- [[Diffraction]]
+- [[Drag]]
+- [[Energy-Levels]]
+- [[Equilibrium]]
+- [[Free-Fall]]
+- [[Friction]]
+- [[Half-Life]]
+- [[Interference]]
+- [[Internal-Resistance]]
+- [[Ionisation]]
 - [[Measurement-Uncertainty]]
-- [[Systematic-and-Random-Errors]]
+- [[Moment]]
+- [[Nuclear-Fission]]
+- [[Nuclear-Fusion]]
+- [[Photoelectric-Effect]]
+- [[Potential-Divider]]
+- [[Radioactive-Decay]]
 - [[Resolution-Accuracy-and-Precision]]
+- [[Resultant-Force]]
+- [[Standing-Waves]]
+- [[Superposition]]
+- [[Systematic-and-Random-Errors]]
+- [[Terminal-Velocity]]
+- [[Wave-Particle-Duality]]
+- [[Wave-Reflection]]
+- [[Wave-Refraction]]
 
 ## Laws and Results
-
+- [[Capacitor-Discharge-Equation]]
+- [[Conservation-of-Energy]]
+- [[Conservation-of-Momentum]]
+- [[Coulombs-Law]]
+- [[De-Broglie-Equation]]
+- [[Hookes-Law]]
+- [[Kirchhoffs-First-Law]]
+- [[Kirchhoffs-Second-Law]]
+- [[Newton-First-Law]]
 - [[Newton-Second-Law]]
+- [[Newton-Third-Law]]
+- [[Newtons-Law-of-Gravitation]]
+- [[Ohms-Law]]
+- [[Photoelectric-Equation]]
+- [[Radioactive-Decay-Law]]
+- [[Snell-Law]]
+- [[Wave-Speed-Equation]]
 
 ## Models
-
 - [[Constant-Acceleration-Model]]
+- [[Free-Body-Model]]
+- [[Ideal-Gas-Model]]
+- [[Ideal-Spring-Model]]
+- [[Internal-Resistance-Model]]
+- [[Ohmic-Conductor-Model]]
+- [[Photon-Model]]
+- [[Point-Mass-Model]]
+- [[Potential-Divider-Model]]
+- [[Projectile-Motion-Model]]
+- [[Ray-Model-of-Light]]
+- [[Simple-Harmonic-Oscillator]]
+- [[Wavefront-Model]]
 
 ## Methods
-
-- [[Using-SUVAT-Equations]]
-- [[Estimating-Uncertainty-from-Apparatus]]
-- [[Combining-Uncertainties]]
-- [[Calculating-Percentage-Uncertainty]]
-- [[Significant-Figures-in-Measurements]]
+- [[Analysing-Circuit-Diagrams]]
+- [[Analysing-Wave-Superposition]]
+- [[Applying-Conservation-of-Energy]]
+- [[Applying-Conservation-of-Momentum]]
+- [[Applying-Newton-Second-Law]]
+- [[Applying-Snell-Law]]
 - [[Calculating-Percentage-Difference]]
+- [[Calculating-Percentage-Uncertainty]]
+- [[Combining-Uncertainties]]
+- [[Drawing-Free-Body-Diagrams]]
+- [[Estimating-Uncertainty-from-Apparatus]]
+- [[Finding-Area-Under-a-Graph]]
+- [[Finding-Gradient-from-a-Graph]]
+- [[Linearising-a-Graph]]
+- [[Resolving-Forces]]
+- [[Significant-Figures-in-Measurements]]
+- [[Using-Kirchhoffs-Laws]]
+- [[Using-Potential-Dividers]]
+- [[Using-SUVAT-Equations]]
+- [[Using-the-Photoelectric-Equation]]
+- [[Using-Uncertainty-Propagation]]
 
 ## Representations
-
-- [[Velocity-Time-Graph]]
-- [[Results-Table]]
+- [[Acceleration-Time-Graph]]
+- [[Circuit-Diagram]]
+- [[Displacement-Time-Graph]]
+- [[Electric-Field-Line-Diagram]]
+- [[Force-Extension-Graph]]
+- [[Free-Body-Diagram]]
+- [[Gravitational-Field-Line-Diagram]]
+- [[IV-Characteristic]]
 - [[Line-of-Best-Fit-Graph]]
+- [[Nuclear-Decay-Graph]]
+- [[Ray-Diagram]]
+- [[Results-Table]]
+- [[Standing-Wave-Diagram]]
+- [[Stress-Strain-Graph]]
+- [[Velocity-Time-Graph]]
+- [[Wavefront-Diagram]]
 
 ## Experiments and Practicals
-
-_Populated during ingestion._
+- [[Determining-Internal-Resistance]]
+- [[Investigating-Photoelectric-Effect]]
+- [[Investigating-Stationary-Waves]]
+- [[Measuring-Acceleration-Due-to-Gravity]]
+- [[Measuring-Young-Modulus]]
+- [[Using-a-Micrometer]]
+- [[Using-Gradient]]
+- [[Using-Intercept]]
+- [[Using-Light-Gates]]
+- [[Using-Vernier-Calipers]]
 
 ## Applications
+- [[Bridge-and-Beam-Loading]]
+- [[Capacitor-Timing-Circuits]]
+- [[Car-Safety]]
+- [[Medical-Imaging]]
+- [[Optical-Fibres]]
+- [[Particle-Accelerators]]
+- [[Potential-Divider-Sensors]]
+- [[Projectile-Motion]]
+- [[Stars-and-Cosmology]]
+- [[Terminal-Velocity-in-Skydiving]]
 
-_Populated during ingestion._
-
-## Problems
-
+## Problems — Mistake Patterns
+- [[Confusing-Energy-and-Power]]
 - [[Confusing-Mass-and-Weight]]
+- [[Forgetting-Resultant-Force]]
+- [[Forgetting-Vector-Direction]]
+- [[Ignoring-Units]]
+- [[Incorrect-Sign-Convention]]
+- [[Misreading-Graph-Gradient]]
+- [[Mixing-Speed-and-Velocity]]
+- [[Mixing-Up-Series-and-Parallel-Circuits]]
+- [[Treating-Scalars-as-Vectors]]
+- [[Using-Distance-Instead-of-Displacement]]
+- [[Using-SUVAT-When-Acceleration-Is-Not-Constant]]
 
 ## Frontier Maps
-
-- [[Quantum-Mechanics-Map]]
-- [[Particle-Physics-Map]]
+- [[Chaos-and-Complexity-Map]]
 - [[Cosmology-Map]]
+- [[Particle-Physics-Map]]
+- [[Quantum-Computing-Map]]
+- [[Quantum-Mechanics-Map]]
+- [[Relativity-Map]]
+- [[Semiconductor-Physics-Map]]
 
 ## Sources
-
-- [[OCR-Physics-A-H556-Specification]]
-- [[OCR-Physics-Mathematical-Skills-Handbook]]
-- [[OCR-Physics-Practical-Skills-Handbook]]
-- [[OCR-GCSE-Gateway-Physics-A-J249-Specification]]
 - [[CERN-Science]]
 - [[IOP-Explore-Physics]]
 - [[NASA-Astrophysics]]
+- [[OCR-GCSE-Gateway-Physics-A-J249-Specification]]
+- [[OCR-Physics-A-H556-Specification]]
+- [[OCR-Physics-Mathematical-Skills-Handbook]]
+- [[OCR-Physics-Practical-Skills-Handbook]]
 
 ## Maintenance
-
 - [[log]]
 - [[unresolved-links]]
 - [[source-inventory]]
+- [[baseline-build-progress]]
+- [[baseline-build-audit]]
+- [[wiki-lint-report]]

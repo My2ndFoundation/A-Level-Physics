@@ -14,14 +14,17 @@ This page tracks Physics ideas that connect to Mathematics and Computer Science.
 
 ## Physics ↔ Mathematics
 
-- [[Vectors]]
-- [[Gradient]]
-- [[Area-Under-a-Graph]]
+- [[Resolving-Forces]]
+- [[Finding-Gradient-from-a-Graph]]
+- [[Finding-Area-Under-a-Graph]]
+- [[Linearising-a-Graph]]
 - [[Differentiation]]
 - [[Integration]]
 - [[Trigonometry]]
-- [[Exponential-Decay]]
-- [[Uncertainty]]
+- [[Capacitor-Discharge-Equation]]
+- [[Radioactive-Decay-Law]]
+- [[Measurement-Uncertainty]]
+- [[Combining-Uncertainties]]
 - [[Differential-Equations]]
 
 ## Physics ↔ Computer Science

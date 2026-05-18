@@ -10,57 +10,26 @@ status: draft
 
 ## Foundations
 
-_To be populated during ingestion._
-
-## Common-Sense Links
-
-_To be populated during ingestion._
+- [[From-Weight-to-Gravitational-Field-Strength]]
 
 ## Physical Quantities
 
-_To be populated during ingestion._
-
-## Concepts
-
-_To be populated during ingestion._
+- [[Charge]]
+- [[Electric-Field-Strength]]
+- [[Gravitational-Field-Strength]]
+- [[Magnetic-Flux-Density]]
+- [[Weight]]
 
 ## Laws and Results
 
-_To be populated during ingestion._
-
-## Models
-
-_To be populated during ingestion._
-
-## Methods
-
-_To be populated during ingestion._
+- [[Coulombs-Law]]
+- [[Newtons-Law-of-Gravitation]]
 
 ## Representations
 
-_To be populated during ingestion._
-
-## Experiments and Practicals
-
-_To be populated during ingestion._
-
-## Applications
-
-_To be populated during ingestion._
-
-## Problem Types
-
-_To be populated during ingestion._
-
-## Common Mistake Patterns
-
-_To be populated during ingestion._
-
-## Frontier Links
-
-_To be populated during ingestion._
+- [[Electric-Field-Line-Diagram]]
+- [[Gravitational-Field-Line-Diagram]]
 
 ## Sources
 
-_To be populated during ingestion._
-
+- [[OCR-Physics-A-H556-Specification]]

@@ -8,59 +8,35 @@ status: draft
 
 # Quantum Physics MOC
 
-## Foundations
-
-_To be populated during ingestion._
-
-## Common-Sense Links
-
-_To be populated during ingestion._
-
-## Physical Quantities
-
-_To be populated during ingestion._
-
 ## Concepts
 
-_To be populated during ingestion._
+- [[Photoelectric-Effect]]
+- [[Wave-Particle-Duality]]
+- [[Energy-Levels]]
+- [[Ionisation]]
 
 ## Laws and Results
 
-_To be populated during ingestion._
+- [[Photoelectric-Equation]]
+- [[De-Broglie-Equation]]
 
 ## Models
 
-_To be populated during ingestion._
+- [[Photon-Model]]
 
 ## Methods
 
-_To be populated during ingestion._
-
-## Representations
-
-_To be populated during ingestion._
+- [[Using-the-Photoelectric-Equation]]
 
 ## Experiments and Practicals
 
-_To be populated during ingestion._
-
-## Applications
-
-_To be populated during ingestion._
-
-## Problem Types
-
-_To be populated during ingestion._
-
-## Common Mistake Patterns
-
-_To be populated during ingestion._
+- [[Investigating-Photoelectric-Effect]]
 
 ## Frontier Links
 
-_To be populated during ingestion._
+- [[Quantum-Mechanics-Map]]
+- [[Quantum-Computing-Map]]
 
 ## Sources
 
-_To be populated during ingestion._
-
+- [[OCR-Physics-A-H556-Specification]]

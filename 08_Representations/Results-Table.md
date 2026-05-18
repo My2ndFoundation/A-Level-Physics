@@ -7,7 +7,7 @@ tags:
   - graph-skill
 level: a-level
 difficulty: core
-status: draft
+status: usable
 aliases:
   - Table of results
   - Data table

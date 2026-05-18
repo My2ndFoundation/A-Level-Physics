@@ -13,6 +13,10 @@ status: draft
 ## Foundations
 
 - [[From-Speed-to-Velocity]]
+- [[From-Distance-to-Displacement]]
+- [[From-Weight-to-Gravitational-Field-Strength]]
+- [[From-Circuits-to-Circuit-Models]]
+- [[From-Waves-to-Superposition]]
 
 ## Common-Sense Links
 

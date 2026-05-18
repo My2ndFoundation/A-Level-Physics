@@ -11,6 +11,11 @@ effort: medium
 
 Rebuilds or improves one (or several) MOC in `01_MOCs/` or `00_Home/` from the existing graph — member pages, tags, and wikilinks. Authoritative rules: `_meta/workflows/moc-update-workflow.md`, `_meta/templates/moc-template.md`, `CLAUDE.md` §5.8.
 
+> **Baseline build note.** During the baseline construction pass
+> (`_meta/baseline-build-policy.md`), MOC/index/log updates are run **centrally**
+> here after the atomic page builders finish, so parallel page builders never
+> write MOCs concurrently. The `all` scope is pre-authorised for that pass.
+
 ## Arguments
 
 ```

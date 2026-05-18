@@ -7,7 +7,7 @@ tags:
   - particles
   - modern-physics
 level: edge-map
-status: draft
+status: usable
 aliases:
   - Particle Physics Map
   - Standard Model Map

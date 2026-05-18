@@ -42,6 +42,12 @@ teaching content is ingested.
 
 - [[Force]]
 - [[Energy]]
+- [[Power]]
+- [[Atoms]]
+- [[Electric-Current]]
+- [[Voltage]]
+- [[Resistance]]
+- [[Waves]]
 
 ## Common-Sense Links
 

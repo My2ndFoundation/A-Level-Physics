@@ -14,10 +14,25 @@ status: draft
 - [[Force]]
 - [[Energy]]
 - [[From-Speed-to-Velocity]]
+- [[Power]]
+- [[Atoms]]
+- [[Electric-Current]]
+- [[Voltage]]
+- [[Resistance]]
+- [[Waves]]
+- [[From-Distance-to-Displacement]]
+- [[From-Weight-to-Gravitational-Field-Strength]]
+- [[From-Circuits-to-Circuit-Models]]
+- [[From-Waves-to-Superposition]]
 
 ## Common-Sense Links
 
 - [[Why-Seatbelts-Matter]]
+- [[Why-Ice-Floats]]
+- [[Why-Metal-Feels-Colder-Than-Wood]]
+- [[Why-Objects-Keep-Moving-in-Space]]
+- [[Why-Sky-Is-Blue]]
+- [[Why-Sound-Needs-a-Medium]]
 
 ## Physical Quantities
 

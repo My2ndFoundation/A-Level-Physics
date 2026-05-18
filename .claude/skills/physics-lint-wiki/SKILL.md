@@ -11,6 +11,11 @@ effort: medium
 
 Health-checks the wiki layer (`02_Foundations/`…`13_Sources/`、`01_MOCs/`、`00_Home/`、`index.md`) and reports problems. The authoritative check list is `_meta/workflows/lint-workflow.md` and `CLAUDE.md` §13. This skill **reports**; it does not silently rewrite content.
 
+> **Baseline build note.** Used as the per-cluster lint pass during baseline
+> construction (`_meta/baseline-build-policy.md`). After a baseline pass,
+> `status: seed` pages in built clusters are a real finding (the bar is
+> `usable`), reported with normal — not low — severity.
+
 ## Arguments
 
 Optional scope:
