@@ -1,143 +1,182 @@
 # Wiki Lint Report
 
-_Generated: 2026-05-18 • READ-ONLY audit • no files changed except this report_
+- **Generated:** 2026-05-18 (read-only audit; no files fixed)
+- **Scope:** `00_Home`, `01_MOCs`, `02_Foundations` … `13_Sources`, `index.md` (excluded: `_meta/`, `raw/`, `.state/`, `.git/`, `.obsidian/`)
+- **Authority:** `_meta/workflows/lint-workflow.md` + CLAUDE.md §13
 
 ## Summary
 
-- Content pages scanned: **228** (02_Foundations … 13_Sources + 01_MOCs + 00_Home + index.md; _meta/raw/.state/.git/.obsidian excluded)
-- Status distribution: `(none)`=1, `active`=1, `draft`=35, `ingested`=7, `usable`=184
-- Overall health: **good**. The baseline build is template-compliant; no `type`/folder mismatches, no template-section violations, no missing source traces, no orphans, no broad-topic content pages, no physics-quality gaps, no frontier-depth violations, no seed pages.
+| # | Check | Result |
+|---|-------|--------|
+| 1 | Missing / partial frontmatter | **16** (8 high, 8 med) |
+| 2 | type vs folder mismatch | 0 |
+| 3 | Required template-section violations | 0 |
+| 4 | Missing source trace | **24** (med) |
+| 5 | Orphan pages | 0 |
+| 6 | Broken wikilinks | **18 genuine targets** (+ 6 `.state` op-file refs from `index.md`, low) |
+| 7 | Duplicate aliases | **24 alias keys** — 20 expected physics-symbol/link-form collisions, **4 needing a human canonical-owner decision** |
+| 8 | Broad-topic content pages that should be MOCs | **3** (2 intentional layer-model, 1 to review) |
+| 9 | MOCs missing links to existing topic pages | 0 (all atomic pages linked in ≥1 MOC/Home) |
+| 10 | Pages > 800 words | **2** (both source/index, borderline) |
+| 11 | Physics-quality gaps (§12) | 0 |
+| 12 | Frontier-depth violations (§3) | **2** (low — single term mentions, shallow) |
+| 13 | seed/draft pages in content folders | 0 |
 
-| Check | Finding count | Severity |
+**Inventory:** 370 Markdown files in scope — 02_Foundations 19, 03_Physical-Quantities 49, 04_Concepts 87, 05_Laws-and-Results 29, 06_Models 13, 07_Methods 29, 08_Representations 20, 09_Experiments-and-Practicals 16, 10_Applications 19, 11_Problems 38, 12_Frontier-Maps 7, 13_Sources 7, 01_MOCs 30, 00_Home 6, index.md 1.
+
+Overall health is strong: no orphans, no template-section violations, no type/folder mismatches, no seed/draft pages, no §12 physics-quality gaps, full MOC coverage. The actionable items are: missing source-page frontmatter keys, an under-populated source trace + frontmatter `aliases` on the problem layer, ~18 genuinely-missing link targets, and 4 word-level alias collisions needing a canonical-owner decision.
+
+---
+
+## 1. Missing / Partial Frontmatter
+
+Non-MOC content pages must carry `type, subject, tags, level, status, aliases, sources` (CLAUDE.md §5.7).
+
+**HIGH — source pages missing `level` and `sources`:**
+
+| File | Missing | Action |
+|------|---------|--------|
+| `13_Sources/Frontier-References/IOP-Explore-Physics.md` | level, sources | Add `level:` (frontier) and `sources:` (self/URL) keys |
+| `13_Sources/Frontier-References/NASA-Astrophysics.md` | level, sources | Same |
+| `13_Sources/Frontier-References/CERN-Science.md` | level, sources | Same |
+| `13_Sources/OCR-Specifications/OCR-Physics-A-H556-Specification.md` | level, sources | Add `level: a-level-core`, `sources:` self-ref |
+| `13_Sources/OCR-Specifications/OCR-Physics-Practical-Skills-Handbook.md` | level, sources | Same |
+| `13_Sources/OCR-Specifications/OCR-Physics-Mathematical-Skills-Handbook.md` | level, sources | Same |
+| `13_Sources/GCSE-Physics/OCR-GCSE-Gateway-Physics-A-J249-Specification.md` | level, sources | Add `level: gcse-foundation`, `sources:` self-ref |
+| `index.md` | no frontmatter block | Treated as MOC/home — low impact; add minimal `type: moc` block if desired |
+
+Note: `source-template.md` does not mandate `level`/`sources` the same way atomic pages do; these are flagged for §5.7 consistency but are **medium-real** for source pages. Treat the 7 source pages as a uniform batch fix.
+
+**MED — worked-example pages missing `aliases`:**
+
+`11_Problems/Worked-Examples/` — all 8 pages missing the `aliases:` key:
+`Worked-Momentum-Collision.md`, `Worked-Capacitor-Discharge-RC.md`, `Worked-Binding-Energy-per-Nucleon.md`, `Worked-SHM-Mass-Spring.md`, `Worked-Potential-Divider-Thermistor.md`, `Worked-Circular-Motion-Conical-Pendulum.md`, `Worked-SUVAT-Cliff-Projectile.md`, `Worked-Photoelectric-Stopping-Potential.md`
+
+Action: add `aliases: []` to each for §5.7 conformance. Low risk, mechanical.
+
+## 2. type vs Folder Mismatch
+
+**None.** Every page's `type` frontmatter matches its folder per the CLAUDE.md §4 map.
+
+## 3. Required Template-Section Violations
+
+**None.** All content pages with a recognised `type` contain every required `##` section from the corresponding `_meta/templates/` template. Template discipline is fully maintained across the 326+ content pages.
+
+## 4. Missing Source Trace
+
+24 pages have BOTH `sources: []` AND an empty/absent `## Source Trace` section. All are in the problem layer — generated synthetically rather than extracted from a raw source, so this is expected by construction but should be acknowledged.
+
+**Problem-Types (16):** `Projectile-Motion-Problem`, `Simple-Harmonic-Motion-Problem`, `Conservation-of-Momentum-Collision`, `Radioactive-Decay-Problem`, `Energy-Conservation-Problem`, `Interpret-a-Velocity-Time-Graph`, `Potential-Divider-Calculation`, `Capacitor-Discharge-Problem`, `Standing-Wave-Problem`, `Gravitational-Field-Problem`, `Find-Internal-Resistance-from-a-Graph`, `Series-Parallel-Circuit-Analysis`, `Circular-Motion-Problem`, `Calculate-Resultant-Force`, `Photoelectric-Effect-Calculation`, `SUVAT-Kinematics-Problem` (all under `11_Problems/Problem-Types/`)
+
+**Worked-Examples (8):** all 8 pages under `11_Problems/Worked-Examples/` (same list as §1 MED).
+
+Note: `problem-type-template.md` uses `## Example Sources` and `worked-example-template.md` uses `## Source Reference` (not `## Source Trace`), so the literal heading absence is template-correct; the real gap is those sections + `sources:` are empty. Action: populate with the originating spec reference (e.g. OCR H556 topic code) — medium priority, batchable.
+
+## 5. Orphan Pages
+
+**None.** Every non-source content page is reachable via an inbound wikilink or is referenced in a MOC.
+
+## 6. Broken Wikilinks
+
+Targets that resolve to no existing page basename, no alias in `.state/aliases.tsv`, and no frontmatter `aliases:` (case + `[[A|B]]` + `[[A#h]]` handled).
+
+**Genuinely-missing targets (18) — create the page or retarget the link:**
+
+| Missing target | Referenced by | Suggested type / action |
 |---|---|---|
-| 1 Frontmatter | 1 real (index.md) | low |
-| 2 type vs folder | 0 | – |
-| 3 Template sections | 0 | – |
-| 4 Missing source trace | 0 | – |
-| 5 Orphan pages | 0 | – |
-| 6 Broken wikilinks | 9 genuine + 2 alias near-miss (42 documented-deferred, 6 operational) | medium |
-| 7 Duplicate aliases | 5 word-level + 9 symbol collisions | low–medium |
-| 8 Broad-topic content pages | 0 | – |
-| 9 MOCs missing links | 0 | – |
-| 10 Pages > 800 words | 1 | low |
-| 11 Physics-quality gaps | 0 | – |
-| 12 Frontier-depth violations | 0 | – |
-| 13 Seed pages in content | 0 | – |
+| `Adding-Forces-as-Scalars` | `04_Concepts/Resultant-Force.md` | mistake-pattern — create or retarget to existing mistake page |
+| `Area` | `03_Physical-Quantities/Pressure.md` | physical-quantity — create or unlink (GCSE-trivial) |
+| `Volume` | `03_Physical-Quantities/Density.md` | physical-quantity — create or unlink |
+| `Balanced-and-Unbalanced-Forces` | `04_Concepts/Equilibrium.md`, `Resultant-Force.md`, `Terminal-Velocity.md` | foundation — create (3 inbound) |
+| `Bohr-Model` | `04_Concepts/Energy-Levels.md`, `Ionisation.md` | model — create (2 inbound) |
+| `Nuclear-Model` | `04_Concepts/Half-Life.md`, `Nuclear-Fission.md`, `Nuclear-Fusion.md`, `Radioactive-Decay.md` | model — create (4 inbound, high value) |
+| `Rigid-Body-Model` | `04_Concepts/Centre-of-Mass.md`, `Equilibrium.md`, `Moment.md` | model — create (3 inbound) |
+| `Principle-of-Moments` | `04_Concepts/Centre-of-Mass.md`, `Equilibrium.md`, `Moment.md` | law-result — create (3 inbound, examinable) |
+| `Contact-and-Non-Contact-Forces` | `04_Concepts/Friction.md` | foundation — create or retarget |
+| `Levers` | `04_Concepts/Moment.md` | application/foundation — create or unlink |
+| `Reflection-and-Refraction` | `04_Concepts/Wave-Reflection.md`, `Wave-Refraction.md` | retarget to existing `Wave-Reflection`/`Wave-Refraction`, or create umbrella |
+| `Series-and-Parallel-Circuits` | `04_Concepts/Potential-Divider.md` | retarget — likely meant `Series-Parallel-Circuit-Analysis` (exists) or a circuit foundation page |
+| `Static-Electricity` | `04_Concepts/Ionisation.md` | foundation — create or unlink |
+| `Wave` | `02_Foundations/Everyday-Physics/Why-Sky-Is-Blue.md`, `Why-Sound-Needs-a-Medium.md` | retarget to `02_Foundations/GCSE-Foundations/Waves.md` (exists) |
+| `Confusing-Photon-Energy-and-Intensity` | `11_Problems/Problem-Types/Photoelectric-Effect-Calculation.md`, `Worked-Examples/Worked-Photoelectric-Stopping-Potential.md` | mistake-pattern — create (2 inbound) |
+| `Confusing-Wavelength-and-Amplitude` | `11_Problems/Problem-Types/Standing-Wave-Problem.md` | mistake-pattern — create or unlink |
+| `Mixing-Up-EMF-and-Terminal-PD` | `11_Problems/Problem-Types/Find-Internal-Resistance-from-a-Graph.md` | mistake-pattern — create (examinable trap) |
+| `Treating-Centripetal-Force-as-an-Extra-Force` | `11_Problems/Problem-Types/Circular-Motion-Problem.md`, `Worked-Examples/Worked-Circular-Motion-Conical-Pendulum.md` | mistake-pattern — create (2 inbound, classic trap) |
+
+**Non-content operational refs (6) — LOW, no action needed:** `index.md` links `[[log]]`, `[[unresolved-links]]`, `[[source-inventory]]`, `[[baseline-build-progress]]`, `[[baseline-build-audit]]`, `[[wiki-lint-report]]` — these point to `.state/` operational files intentionally out of content scope. Acceptable; optionally convert to relative paths or remove from `index.md`.
+
+**Maths/CS bridge refs from `00_Home/Cross-Subject-Links.md` & `Mathematical-Methods-Map.md` (LOW, deferred):** `Data-Logging`, `Differential-Equations`, `Differentiation`, `Integration`, `Logic-Gates`, `Numerical-Modelling`, `Sensors`, `Signal-Processing`, `Simulation`, `Trigonometry`, `Dimensional-Analysis`, `Rearranging-Equations` — forward-looking maths/CS bridge stubs in Home maps. Acceptable as planned-but-unbuilt; build as `method`/`foundation` pages when the maths-bridge layer is constructed, or mark external. (Some are subsumed in the 18 above where they had a single canonical-looking name; treat as deferred, not urgent.)
+
+## 7. Duplicate Aliases
+
+No alias in `.state/aliases.tsv` maps to two different canonical pages. All 24 flagged keys come from **frontmatter `aliases:` fields**.
+
+**Expected / NOT violations (20):**
+- **Physics symbol collisions** (multiple physical-quantity pages legitimately share a symbol): `v` (Speed/Velocity/Potential-Difference), `p` (Momentum/Power/Pressure), `e`/`E` (Energy/Electric-Field-Strength/Young-Modulus), `a` (Acceleration/Amplitude), `f` (Force/Frequency), `i` (Current/Intensity), `w` (Weight/Work), `rho`/`ρ` (Density/Resistivity), `lambda` (Decay-Constant/Wavelength), `phi` (Magnetic-Flux/Work-Function). Inherent to physics notation; symbol is also defined in-page. Not a canonical-ownership conflict. Recommend: do not register bare single symbols as global aliases in `.state/aliases.tsv` (none currently are — good).
+- **Link-form / synonym pairs that are conceptually the same or a deliberate two-layer split**: `breaking stress` (Breaking-Stress vs Stress — sub-quantity vs parent), `kinetic energy` (Energy GCSE-foundation vs Kinetic-Energy quantity — intentional §2 layer model, like Energy/Force/Power/Resistance), `resultant force`/`net force` (Force foundation vs Resultant-Force concept — intentional layer model), `radioactivity` (Activity vs Radioactive-Decay — related but distinct), `exponential decay of charge` (Capacitor-Discharge-Equation vs Capacitor-Discharge-Problem — law vs problem-type, distinct), `slope of a graph` (Finding-Gradient-from-a-Graph vs Using-Gradient), `field line diagram` (Electric- vs Magnetic-Field-Line-Diagram — distinct representations).
+
+**NEEDS A HUMAN CANONICAL-OWNER DECISION (4):**
+
+| Alias | Competing canonical pages | Recommendation |
+|---|---|---|
+| `voltage` | `Potential-Difference`, `Voltage` | Likely a true duplicate-page risk. Decide canonical owner (recommend `Potential-Difference`, fold `Voltage` → alias) per §5.3. |
+| `potential divider` | `Potential-Divider`, `Potential-Divider-Model` | Concept vs model split may be intentional, but the shared alias is ambiguous. Confirm distinct purpose; if so, give each a unique alias; else merge. |
+| `voltage divider calculation` | `Potential-Divider-Calculation` (problem-type), `Using-Potential-Dividers` (method) | Distinct types but identical alias — reassign alias to one (recommend the method) so links route deterministically. |
+| `resolving vectors` | `Resolving-Forces`, `Resolving-Vectors` | If both exist as separate methods, confirm scope difference; otherwise consolidate (one canonical + alias). |
+
+## 8. Broad-Topic Content Pages That Should Be MOCs
+
+| File | type | Verdict |
+|---|---|---|
+| `02_Foundations/GCSE-Foundations/Energy.md` | foundation | **Intentional** — GCSE-foundation layer page coexisting with `03_Physical-Quantities/Energy.md` per CLAUDE.md §2 layer model. NOT a violation. |
+| `03_Physical-Quantities/Energy.md` | physical-quantity | **Intentional** — A-Level quantity layer. NOT a violation. |
+| `02_Foundations/GCSE-Foundations/Waves.md` | foundation | **Review.** `Waves` is on the §5.5 forbidden-broad-name list. As a GCSE-foundation layer page it is defensible (parallel to Energy/Force), but the bare name `Waves.md` risks collision with the MOC concept and is the root cause of the `[[Wave]]`/`[[Waves]]` link confusion in §6. Recommend rename (e.g. `Waves-GCSE-Foundation.md` or `What-Is-a-Wave.md`) keeping `Waves` as an alias, OR explicitly confirm it as the intended GCSE-layer twin. Flagged for a human decision, not auto-fixed. |
+
+## 9. MOCs Missing Links to Existing Topic Pages
+
+**None.** Every atomic page in `02_Foundations`–`12_Frontier-Maps` (including all newly-built Module 5–6 pages — gravitational fields, capacitors, magnetic fields, nuclear/particle, thermal, astrophysics, medical — and all `11_Problems` problem-types/worked-examples) is linked from at least one MOC or `00_Home` map. MOC coverage is complete.
+
+## 10. Pages Over 800 Words
+
+| File | Words | Note |
+|---|---|---|
+| `13_Sources/OCR-Specifications/OCR-Physics-A-H556-Specification.md` | 847 | Source/extraction record — large extracted-object list is expected; borderline, no split needed. |
+| `index.md` | 830 | Home/index navigation page (MOC-class) — acceptable; monitor growth. |
+
+No atomic content page exceeds 800 words. §5.6 atomic-size discipline is well respected.
+
+## 11. Physics-Quality Gaps (§12)
+
+**None detected.** All `physical-quantity` pages reference an SI unit; all `law-result` pages state conditions/validity; all `representation` pages discuss gradient/area/intercept; all `experiment-practical` pages contain IV/DV/control variables and an uncertainty section. (Heuristic scan — a spot-verify on a sample is still advisable, but no systematic gap.)
+
+## 12. Frontier-Depth Violations (§3)
+
+| File | Finding | Severity |
+|---|---|---|
+| `12_Frontier-Maps/Particle-Physics-Map.md` | wc=372, 0 block equations, mentions "Lagrangian" once | **LOW** — single named-concept mention, no derivation; within "orientation, not mastery" depth. Keep the sentence descriptive. |
+| `12_Frontier-Maps/Quantum-Mechanics-Map.md` | wc=375, 0 block equations, mentions "Schrödinger equation" once | **LOW** — named without solving/derivation; acceptable as an edge-map landmark. |
+
+No frontier page has dense formalism, block-equation derivations, or excessive length. Frontier boundary (§3) is respected; the two flags are name-drops only — no fix required.
+
+## 13. status: seed / draft Pages in Content Folders
+
+**None.** No content page carries `status: seed`, `draft`, `stub`, `skeleton`, or `todo`. The gap-fill passes have promoted all pages to usable status.
 
 ---
 
-## Check 1 — Missing / partial frontmatter
+## Top Recommended Fixes (Prioritised)
 
-The 7 pages under `13_Sources/` flagged by a generic rule are **NOT violations**: they correctly follow `_meta/templates/source-template.md`, which uses `source_type`/`raw_path`/`learning_layer`/`processed_date` and intentionally omits `level`/`sources`. All other non-MOC content pages have complete frontmatter (`type, subject, tags, level, status, aliases, sources`).
+1. **[HIGH] Create the 5 high-inbound missing pages** (most leverage on graph connectivity):
+   - `06_Models/Nuclear-Model.md` (4 inbound) · `06_Models/Rigid-Body-Model.md` (3) · `06_Models/Bohr-Model.md` (2)
+   - `05_Laws-and-Results/Principle-of-Moments.md` (3 inbound, examinable)
+   - `02_Foundations/.../Balanced-and-Unbalanced-Forces.md` (3 inbound)
+2. **[HIGH] Resolve the 4 word-level alias collisions** needing a canonical-owner decision (`voltage`, `potential divider`, `voltage divider calculation`, `resolving vectors`) — human picks the canonical page; fold the other into `aliases` per §5.3 to prevent duplicate-page drift.
+3. **[HIGH] Decide `02_Foundations/GCSE-Foundations/Waves.md`** — confirm intentional GCSE-layer twin or rename away from the §5.5 forbidden broad name (keep `Waves` as alias); this also fixes the `[[Wave]]`/`[[Waves]]` link confusion.
+4. **[MED] Batch-fix source-page frontmatter** — add `level:` + `sources:` to the 7 pages under `13_Sources/` (uniform mechanical edit).
+5. **[MED] Create the 4 classic mistake-pattern pages** referenced by the problem layer: `Confusing-Photon-Energy-and-Intensity`, `Mixing-Up-EMF-and-Terminal-PD`, `Treating-Centripetal-Force-as-an-Extra-Force`, `Confusing-Wavelength-and-Amplitude` (good exam value, currently dangling).
+6. **[MED] Retarget obvious mis-links** instead of creating pages: `[[Wave]]` → `[[Waves]]`; `[[Series-and-Parallel-Circuits]]` → `[[Series-Parallel-Circuit-Analysis]]` (or a circuit foundation page); `[[Reflection-and-Refraction]]` → split `[[Wave-Reflection]]`/`[[Wave-Refraction]]`.
+7. **[MED] Populate problem-layer provenance** — add originating OCR H556 topic codes to `## Example Sources` / `## Source Reference` and `sources:` for the 24 problem/worked-example pages; add `aliases: []` to the 8 worked-examples.
+8. **[LOW] Decide policy for `00_Home` maths/CS bridge stubs** (`Differentiation`, `Integration`, `Trigonometry`, etc.) — build the maths-bridge layer or mark them external; not urgent.
+9. **[LOW] index.md `.state` links** — convert `[[log]]`/`[[wiki-lint-report]]` etc. to relative paths or drop; cosmetic.
 
-Real finding:
-
-- `index.md` — root index has no YAML frontmatter (no `type/subject/tags/status`). _Action:_ optional; if treated as a home/MOC page add minimal MOC frontmatter. **Severity: low** (root index, acceptable as a plain landing page).
-
-## Check 2 — `type:` vs folder mismatch
-
-None. Every page's `type` matches its folder per the CLAUDE.md §4 mapping (incl. `02_Foundations/Everyday-Physics` → `common-sense`, `11_Problems/Mistake-Patterns` → `mistake-pattern`).
-
-## Check 3 — Required template-section violations
-
-None. Every audited content page contains all required `##` headings from its `_meta/templates/<type>-template.md` (spot-verified across physical-quantity, law-result, concept, experiment-practical, common-sense, frontier-map, source). Pages may add optional sections (e.g. `Derivation or Explanation`, `Safety / Practical Limits`) which is allowed.
-
-## Check 4 — Missing source trace
-
-None. Every atomic page has a populated `## Source Trace` (or, for `source` pages, populated metadata); none combine `sources: []` with an empty trace.
-
-## Check 5 — Orphan pages
-
-None. Every non-MOC content page has at least one inbound wikilink from another content page or a MOC (alias and `[[A|B]]`/`[[A#h]]`/case-folded resolution accounted for).
-
-## Check 6 — Broken wikilinks
-
-Distinct unresolved targets: 59 total. Of these, **42 are documented deferred graph-stubs** in `.state/unresolved-links.md` (deliberate forward links from the baseline build / seed hubs — not errors), and 6 are operational links from `index.md` to `.state/`/`_meta/` files.
-
-### 6a — Genuine missing pages (NOT in the deferred list) — action: create or alias
-
-- `[[Refractive-Index]]` — referenced by: Wave-Refraction. _Action:_ create the canonical page (or add as alias of an existing page if it is a synonym). **Severity: medium**
-- `[[Rigid-Body-Model]]` — referenced by: Centre-of-Mass, Equilibrium, Moment. _Action:_ create the canonical page (or add as alias of an existing page if it is a synonym). **Severity: medium**
-- `[[Series-and-Parallel-Circuits]]` — referenced by: Potential-Divider. _Action:_ create the canonical page (or add as alias of an existing page if it is a synonym). **Severity: medium**
-- `[[Static-Electricity]]` — referenced by: Ionisation. _Action:_ create the canonical page (or add as alias of an existing page if it is a synonym). **Severity: medium**
-- `[[Vector-Triangle]]` — referenced by: Equilibrium, Resultant-Force. _Action:_ create the canonical page (or add as alias of an existing page if it is a synonym). **Severity: medium**
-- `[[Vectors-and-Scalars]]` — referenced by: Resultant-Force. _Action:_ create the canonical page (or add as alias of an existing page if it is a synonym). **Severity: medium**
-- `[[Volume]]` — referenced by: Density. _Action:_ create the canonical page (or add as alias of an existing page if it is a synonym). **Severity: medium**
-- `[[Wave]]` — referenced by: Why-Sky-Is-Blue, Why-Sound-Needs-a-Medium. _Action:_ create the canonical page (or add as alias of an existing page if it is a synonym). **Severity: medium**
-- `[[Work-Function]]` — referenced by: Photoelectric-Effect. _Action:_ create the canonical page (or add as alias of an existing page if it is a synonym). **Severity: medium**
-
-### 6b — Alias near-misses (target differs only by apostrophe/suffix from an existing page)
-
-- `[[Snells-Law]]` → existing page `Snell-Law.md` (`05_Laws-and-Results/Snell-Law.md`). Referenced by: Ray-Diagram. _Action:_ add `Snells Law` / `Snells-Law` to that page's `aliases:` and `.state/aliases.tsv`. **Severity: medium**
-- `[[Wave-Speed]]` → existing page `Wave-Speed-Equation.md` (`05_Laws-and-Results/Wave-Speed-Equation.md`). Referenced by: Standing-Waves, Wave-Reflection, Wave-Refraction. _Action:_ add `Wave Speed` / `Wave-Speed` as an alias of Wave-Speed-Equation (or create a distinct `Wave-Speed` quantity page) in frontmatter + `.state/aliases.tsv`. **Severity: medium**
-
-### 6c — Operational links from index.md (resolve to .state/ or _meta/ — not content broken links)
-
-`[[baseline-build-audit]]`, `[[baseline-build-progress]]`, `[[log]]`, `[[source-inventory]]`, `[[unresolved-links]]`, `[[wiki-lint-report]]` — these point to `.state/baseline-build-audit.md`, `.state/baseline-build-progress.md`, `log.md`, `.state/source-inventory.md`, `.state/unresolved-links.md`, and this report. They live outside content folders by design. _Action:_ none required (Obsidian resolves by path); optionally use explicit path links. **Severity: low / informational**
-
-### 6d — Documented deferred graph-stubs (informational, not errors)
-
-Tracked in `.state/unresolved-links.md` as intentional forward links pending future content ingest:
-
-`[[Activity]]`, `[[Adding-Forces-as-Scalars]]`, `[[Area]]`, `[[Area-Under-a-Graph]]`, `[[Balanced-and-Unbalanced-Forces]]`, `[[Binding-Energy]]`, `[[Bohr-Model]]`, `[[Capacitor-Discharge]]`, `[[Coefficient-of-Friction]]`, `[[Contact-and-Non-Contact-Forces]]`, `[[Data-Logging]]`, `[[Decay-Constant]]`, `[[Differential-Equations]]`, `[[Differentiation]]`, `[[Diffraction-Grating-Equation]]`, `[[Dimensional-Analysis]]`, `[[Electromagnetic-Spectrum]]`, `[[Exponential-Decay]]`, `[[Gradient]]`, `[[Integration]]`, `[[Isotopes]]`, `[[Levers]]`, `[[Logic-Gates]]`, `[[Mass-Defect]]`, `[[Mass-Energy-Equivalence]]`, `[[Normal-Contact-Force]]`, `[[Nuclear-Model]]`, `[[Numerical-Modelling]]`, `[[Path-Difference]]`, `[[Phase-Difference]]`, `[[Photon-Energy]]`, `[[Principle-of-Moments]]`, `[[Rearranging-Equations]]`, `[[Reflection-and-Refraction]]`, `[[SI-Units]]`, `[[Sensors]]`, `[[Signal-Processing]]`, `[[Simple-Harmonic-Motion]]`, `[[Simulation]]`, `[[Trigonometry]]`, `[[Vector-Components]]`, `[[Vectors]]`
-
-## Check 7 — Duplicate aliases (same alias → ≥2 canonical pages)
-
-### 7a — Word-level alias collisions (real concern — disambiguate)
-
-- `voltage` → Potential-Difference, Voltage. _Action:_ keep the alias on only the single canonical page it most precisely names; remove from the other(s). **Severity: medium**
-- `resultant force` → Force, Resultant-Force. _Action:_ keep the alias on only the single canonical page it most precisely names; remove from the other(s). **Severity: medium**
-- `net force` → Force, Resultant-Force. _Action:_ keep the alias on only the single canonical page it most precisely names; remove from the other(s). **Severity: medium**
-- `potential divider` → Potential-Divider, Potential-Divider-Model. _Action:_ keep the alias on only the single canonical page it most precisely names; remove from the other(s). **Severity: medium**
-- `slope of a graph` → Finding-Gradient-from-a-Graph, Using-Gradient. _Action:_ keep the alias on only the single canonical page it most precisely names; remove from the other(s). **Severity: medium**
-
-### 7b — Single-symbol collisions (9) — expected, low severity
-
-These arise because the same physics symbol legitimately appears in the `aliases:` of multiple quantity pages:
-
-- `a` → Acceleration, Amplitude
-- `i` → Current, Intensity
-- `rho` → Density, Resistivity
-- `ρ` → Density, Resistivity
-- `e` → Electric-Field-Strength, Energy, Young-Modulus
-- `f` → Force, Frequency
-- `p` → Momentum, Power, Pressure
-- `v` → Potential-Difference, Speed, Velocity
-- `w` → Weight, Work
-
-_Action:_ a bare symbol is ambiguous as a wikilink target; prefer not listing single letters as aliases, or accept the ambiguity. **Severity: low**
-
-## Check 8 — Broad-topic content pages that should be MOCs
-
-None. The GCSE-foundation pages (`02_Foundations/GCSE-Foundations/Force|Energy|Power|Waves`) and the A-Level `03_Physical-Quantities/Force|Energy|Power` pages are intentionally distinct learning-layer pages, not broad-topic violations. All broad topic names (Mechanics, Electricity, Circuits, Materials, Motion, Fields, Quantum, Practical-Skills) exist only as `-MOC` pages.
-
-## Check 9 — MOCs missing links to existing topic pages
-
-None at the structural level: every MOC and 00_Home map contains wikilinks (no empty maps, no MOC with ≥8 unpopulated template sections). Deeper per-topic completeness was not exhaustively cross-checked, but no MOC is structurally empty or stub.
-
-## Check 10 — Pages > 800 words
-
-- `13_Sources/OCR-Specifications/OCR-Physics-A-H556-Specification.md` — 847 words (source). _Action:_ acceptable; a specification source map legitimately runs long. **Severity: low**
-
-## Check 11 — Physics-quality gaps (§12)
-
-None. All `physical-quantity` pages have a populated `## SI Unit`; all `law-result` pages have non-empty `## Conditions` and `## Symbols and Units`; all `representation`/graph pages have a populated `## Gradient / Area / Intercepts`; all `experiment-practical` pages declare IV/DV/control variables and a non-empty `## Uncertainty`.
-
-## Check 12 — Frontier-depth violations (§3)
-
-None. All 7 pages in `12_Frontier-Maps/` include `## A-Level Entry Points` and `## What Not to Worry About Yet`, contain no dense LaTeX/university formalism (≥5 math tokens threshold), and stay within map length. They remain orientation-only as required.
-
-## Check 13 — Seed-status pages in built content folders
-
-None. No content page has `status: seed`. Distribution: `(none)`=1, `active`=1, `draft`=35, `ingested`=7, `usable`=184. (`draft` pages are MOCs/home maps using the MOC template default; `usable` = built baseline atomic pages; `ingested` = source pages.)
-
----
-
-## Top recommended fixes (priority order)
-
-1. **Create or alias the 11 genuinely-missing wikilink targets (Check 6a):** `Refractive-Index`, `Rigid-Body-Model`, `Series-and-Parallel-Circuits`, `Static-Electricity`, `Vector-Triangle`, `Vectors-and-Scalars`, `Volume`, `Wave`, `Wave-Speed`, `Work-Function`, plus `Snells-Law`/`Wave-Speed` near-misses. Several (`Vectors-and-Scalars`, `Wave`, `Volume`, `Work-Function`, `Refractive-Index`) are core A-Level objects that should be real pages, not stubs.
-2. **Fix the 2 alias near-misses (Check 6b):** add `Snells-Law` as an alias of `Snell-Law`, and `Wave-Speed` as an alias of `Wave-Speed-Equation` (frontmatter + `.state/aliases.tsv`).
-3. **Disambiguate the 5 word-level duplicate aliases (Check 7a):** `voltage`, `resultant force`, `net force`, `potential divider`, `slope of a graph` each resolve to 2 canonical pages — assign each to one canonical owner.
-4. **Optional:** add minimal MOC frontmatter to `index.md`; consider dropping single-letter symbol aliases to reduce ambiguous link targets.
-
-_No structural, template, source-trace, orphan, broad-topic, physics-quality, or frontier-depth problems were found. The baseline is healthy._
+**Net assessment:** The vault is in good structural health — zero orphans, zero template-section violations, zero type/folder mismatches, zero physics-quality gaps, zero seed/draft pages, complete MOC coverage. Remaining work is mostly additive (≈18 missing pages, chiefly models and mistake-patterns), one rename/alias-policy call, and provenance/frontmatter cleanup on the synthetic problem layer.

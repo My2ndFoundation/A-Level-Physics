@@ -25,6 +25,7 @@ status: draft
 - [[Period]]
 - [[Amplitude]]
 - [[Intensity]]
+- [[Refractive-Index]]
 
 ## Concepts
 
@@ -34,11 +35,19 @@ status: draft
 - [[Standing-Waves]]
 - [[Wave-Reflection]]
 - [[Wave-Refraction]]
+- [[Total-Internal-Reflection]]
+- [[Critical-Angle]]
+- [[Electromagnetic-Spectrum]]
+- [[Polarisation]]
+- [[Path-Difference]]
+- [[Phase-Difference]]
+- [[Diffraction-Grating]]
 
 ## Laws and Results
 
 - [[Wave-Speed-Equation]]
 - [[Snell-Law]]
+- [[Diffraction-Grating-Equation]]
 
 ## Models
 
@@ -59,6 +68,7 @@ status: draft
 ## Experiments and Practicals
 
 - [[Investigating-Stationary-Waves]]
+- [[Investigating-Diffraction-with-a-Grating]]
 
 ## Applications
 
@@ -66,11 +76,11 @@ status: draft
 
 ## Problem Types
 
-_To be populated during ingestion._
+- [[Standing-Wave-Problem]]
 
 ## Common Mistake Patterns
 
-_To be populated during ingestion._
+- [[Confusing-Wavelength-and-Amplitude]]
 
 ## Frontier Links
 

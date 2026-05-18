@@ -38,7 +38,7 @@ A straw in a glass of water looks bent at the surface. A swimming pool looks sha
 
 - [[Waves]]
 - [[Wave-Speed]]
-- [[Reflection-and-Refraction]]
+- [[Wave-Reflection]]
 
 ## Why It Matters
 

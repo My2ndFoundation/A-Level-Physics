@@ -1,0 +1,89 @@
+---
+type: physical-quantity
+subject: physics
+tags:
+  - physical-quantity
+  - units
+  - gcse-foundation
+  - a-level-core
+  - ocr-h556
+level: a-level
+difficulty: 1
+status: usable
+aliases:
+  - Capacity
+sources: []
+---
+
+# Volume
+
+## Core Idea
+
+Volume measures the amount of three-dimensional space an object occupies or
+encloses.
+
+## Symbol
+
+- V
+
+## SI Unit
+
+- cubic metre (m³)
+
+## Scalar or Vector
+
+- Scalar
+
+## Definition
+
+Volume is the space inside a three-dimensional region, found by multiplying
+three perpendicular lengths for a cuboid: V = length × width × height.
+
+## Related Equations
+
+- Cuboid: V = l × w × h
+- Sphere: V = (4/3)πr³
+- It appears in [[Density]]: ρ = m / V
+- Used with [[Pressure]] in gas relationships (pV behaviour for gases)
+
+## How It Is Measured
+
+Regular solids: measure lengths and apply a formula. Irregular solids:
+displacement of liquid in a measuring cylinder (the volume of liquid pushed up
+equals the object's volume). Liquids: a measuring cylinder or burette.
+
+## Graphical Meaning
+
+In gas work, the area or position on a pressure–volume diagram represents
+states of the gas; volume itself is a measured three-dimensional quantity.
+
+## Foundation Links
+
+- [[Area]]
+
+## Related Concepts
+
+- [[Density]]
+
+## Related Laws or Results
+
+- [[Density]] equation ρ = m / V
+
+## Related Experiments
+
+- Finding the density of an irregular solid by liquid displacement
+
+## Frontier Links
+
+- Volume changes and scaling in stellar and atomic physics
+
+## Common Mistakes
+
+- Forgetting to cube the unit (m³, not m or m²).
+- Mixing unit prefixes (1 cm³ = 1 × 10⁻⁶ m³, not 10⁻²).
+
+## Source Trace
+
+OpenStax College Physics; HyperPhysics; The Physics Classroom — no copied text.
+
+OCR alignment: [[OCR-Physics-A-H556-Specification]]

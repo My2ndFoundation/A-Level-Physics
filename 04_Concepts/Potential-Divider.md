@@ -41,7 +41,7 @@ A volume control or dimmer switch is a potential divider — sliding the contact
 
 - [[Voltage]]
 - [[Resistance]]
-- [[Series-and-Parallel-Circuits]]
+- [[Series-Parallel-Circuit-Analysis]]
 
 ## Why It Matters
 

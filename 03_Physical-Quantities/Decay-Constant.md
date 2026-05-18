@@ -1,0 +1,88 @@
+---
+type: physical-quantity
+subject: physics
+tags:
+  - nuclear-physics
+  - particles
+  - particles-and-medical-physics
+  - a-level-core
+level: a-level
+difficulty: 2
+status: usable
+aliases:
+  - Lambda
+  - Radioactive Decay Constant
+sources: []
+---
+
+# Decay Constant
+
+## Core Idea
+
+The decay constant measures how likely a given unstable nucleus is to decay per unit time — a fixed property of each radioisotope.
+
+## Symbol
+
+- λ (lambda)
+
+## SI Unit
+
+- per second, s⁻¹ (also h⁻¹, yr⁻¹ in practice)
+
+## Scalar or Vector
+
+- Scalar
+
+## Definition
+
+The decay constant λ is the probability per unit time that an individual nucleus will decay. For a large number N of nuclei, the rate of decay is proportional to N:
+
+ΔN/Δt = −λN
+
+This is the basis of the [[Radioactive-Decay-Law]], whose solution is N = N₀ e^(−λt).
+
+## Related Equations
+
+- A = λN  (links to [[Activity]])
+- t₁/₂ = ln 2 / λ  (links to [[Half-Life]])
+- N = N₀ e^(−λt)
+
+## How It Is Measured
+
+Measure [[Activity]] A and number of nuclei N (or measure how activity falls with time) and use λ = A/N, or determine [[Half-Life]] from a decay curve and compute λ = ln 2 / t₁/₂.
+
+## Graphical Meaning
+
+On a graph of ln N (or ln A) against time, the line is straight with gradient −λ. The steeper the decline, the larger λ and the more unstable the isotope.
+
+## Foundation Links
+
+- [[Atomic-Structure]]
+- [[Isotopes]]
+
+## Related Concepts
+
+- [[Radioactive-Decay]]
+
+## Related Laws or Results
+
+- [[Radioactive-Decay-Law]]
+
+## Related Experiments
+
+- [[Modelling-Radioactive-Decay]]
+
+## Frontier Links
+
+- [[Particle-Physics-Map]]
+
+## Common Mistakes
+
+- Confusing λ (probability per unit time) with [[Half-Life]] (a time)
+- Using inconsistent time units between λ and t
+- Forgetting the minus sign in ΔN/Δt = −λN
+
+## Source Trace
+
+- Source: OpenStax College Physics; HyperPhysics; CERN educational material — no copied text
+- OCR alignment: [[OCR-Physics-A-H556-Specification]]

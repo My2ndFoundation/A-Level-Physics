@@ -23,17 +23,24 @@ status: draft
 - [[Resistance]]
 - [[Resistivity]]
 - [[Power]]
+- [[Capacitance]]
+- [[Electromotive-Force]]
+- [[Time-Constant]]
 
 ## Concepts
 
 - [[Internal-Resistance]]
 - [[Potential-Divider]]
+- [[Capacitor]]
+- [[Energy-Stored-in-a-Capacitor]]
+- [[Capacitors-in-Series-and-Parallel]]
 
 ## Laws and Results
 
 - [[Ohms-Law]]
 - [[Kirchhoffs-First-Law]]
 - [[Kirchhoffs-Second-Law]]
+- [[Capacitor-Discharge-Equation]]
 
 ## Models
 
@@ -46,11 +53,13 @@ status: draft
 - [[Analysing-Circuit-Diagrams]]
 - [[Using-Kirchhoffs-Laws]]
 - [[Using-Potential-Dividers]]
+- [[Analysing-Capacitor-Charge-and-Discharge]]
 
 ## Representations
 
 - [[Circuit-Diagram]]
 - [[IV-Characteristic]]
+- [[Capacitor-Discharge-Graph]]
 
 ## Experiments and Practicals
 
@@ -63,11 +72,15 @@ status: draft
 
 ## Problem Types
 
-_To be populated during ingestion._
+- [[Series-Parallel-Circuit-Analysis]]
+- [[Find-Internal-Resistance-from-a-Graph]]
+- [[Potential-Divider-Calculation]]
+- [[Capacitor-Discharge-Problem]]
 
 ## Common Mistake Patterns
 
 - [[Mixing-Up-Series-and-Parallel-Circuits]]
+- [[Mixing-Up-EMF-and-Terminal-PD]]
 
 ## Frontier Links
 

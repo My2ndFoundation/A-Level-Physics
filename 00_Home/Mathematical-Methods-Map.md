@@ -30,6 +30,9 @@ This page tracks the mathematical tools required for A-Level Physics.
 ## Vectors
 
 - [[Resolving-Forces]]
+- [[Resolving-Vectors]]
+- [[Vector-Triangle]]
+- [[Vectors-and-Scalars]]
 - [[Vector-Components]]
 
 ## Trigonometry
@@ -48,6 +51,7 @@ This page tracks the mathematical tools required for A-Level Physics.
 - [[Velocity-Time-Graph]]
 - [[Acceleration-Time-Graph]]
 - [[Simple-Harmonic-Oscillator]]
+- [[Simple-Harmonic-Motion-Equation]]
 
 ## Notes
 

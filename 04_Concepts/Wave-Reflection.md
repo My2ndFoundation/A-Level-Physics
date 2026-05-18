@@ -37,7 +37,7 @@ Seeing yourself in a mirror, hearing an echo across a valley, and watching rippl
 
 - [[Waves]]
 - [[Ray-Model-of-Light]]
-- [[Reflection-and-Refraction]]
+- [[Wave-Refraction]]
 
 ## Why It Matters
 

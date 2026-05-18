@@ -1,0 +1,84 @@
+---
+type: application
+subject: physics
+tags:
+  - gravitational-fields
+  - newtonian-world
+  - a-level-core
+  - technology-link
+level: a-level
+difficulty: 2
+status: usable
+aliases:
+  - Geostationary Orbit
+  - Satellites
+  - Geosynchronous Orbit
+sources: []
+---
+
+# Satellites and Geostationary Orbits
+
+## Problem Context
+
+Artificial satellites orbit Earth under gravity alone. A **geostationary**
+satellite has an orbit chosen so it appears fixed above one point on the
+equator — the basis of satellite TV, communications and weather monitoring.
+
+## Physical Ideas
+
+- [[Orbital-Motion]]
+- [[Gravitational-Field]]
+- [[Circular-Motion]]
+- [[Centripetal-Force]]
+- [[Newtons-Law-of-Gravitation]]
+
+## Mathematical Tools
+
+- [[Keplers-Third-Law]]
+- [[Using-Keplers-Third-Law]]
+
+## Typical Questions
+
+- Show that a geostationary orbit has a period of 24 hours and radius
+  ≈ 4.2 × 10⁷ m (about 3.6 × 10⁷ m above the surface).
+- Compare a low polar orbit with a geostationary orbit.
+- Calculate the speed of a satellite at a given orbital radius.
+
+## Method Outline
+
+1. State the geostationary conditions: period T = 24 h (one sidereal day),
+   equatorial orbit, west-to-east direction matching Earth's rotation.
+2. Apply the orbital condition GMm/r² = mω²r with ω = 2π/T.
+3. Rearrange to r³ = GMT²/4π² ([[Keplers-Third-Law]]) and solve for r.
+4. Subtract Earth's radius to get the height above the surface, or use
+   v = √(GM/r) for orbital speed.
+
+## Assumptions
+
+- Circular orbit
+- Earth treated as a point mass / uniform sphere
+- Only Earth's gravity acts (drag and other bodies neglected)
+- Satellite mass negligible compared with Earth's
+
+## Links to Other Subjects
+
+- Mathematics: rearranging equations, indices and powers of ten
+- Computer Science: satellite-based GPS positioning and communication links
+
+## Frontier Links
+
+- [[Cosmology-Map]]
+
+## Common Mistakes
+
+- Using height above the surface instead of radius from Earth's centre
+- Thinking a geostationary satellite is stationary in space (it orbits at
+  ~3 km s⁻¹)
+- Placing a geostationary satellite over the poles (it must be equatorial)
+- Forgetting period must be one sidereal day, not exactly the calendar day
+
+## Source Trace
+
+- Source: OpenStax College Physics; HyperPhysics; NASA educational material — no copied text
+- OCR alignment: [[OCR-Physics-A-H556-Specification]]
+- Section/Page: OCR M5.4 Gravitational fields

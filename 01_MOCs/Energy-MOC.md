@@ -25,6 +25,9 @@ status: draft
 
 ## Concepts
 
+- [[Kinetic-Energy]]
+- [[Gravitational-Potential-Energy]]
+- [[Elastic-Strain-Energy]]
 - [[Equilibrium]]
 
 ## Laws and Results
@@ -56,7 +59,7 @@ status: draft
 
 ## Problem Types
 
-_To be populated during ingestion._
+- [[Energy-Conservation-Problem]]
 
 ## Common Mistake Patterns
 

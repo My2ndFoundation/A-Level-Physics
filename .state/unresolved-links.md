@@ -29,3 +29,11 @@ content ingest / second pass (not lint errors — deliberate graph stubs):
 - Canonicalised this pass: [[Refraction-of-Waves]] → alias of [[Wave-Refraction]] (added to page frontmatter aliases + .state/aliases.tsv).
 
 Note: targets like [[OCR-Physics-A-H556-Specification]], [[CERN-Science]], [[NASA-Astrophysics]], [[IOP-Explore-Physics]], and the topic MOCs DO resolve (they live in 13_Sources/ and 01_MOCs/); they appeared in a content-folder-only probe and are not broken.
+
+## Pass 2 (2026-05-18) — residual notes (NOT errors)
+
+- All Module 5–6 H556 core + problem/worked-example layer now built (content layer 341, all usable). No examinable atomic page is missing.
+- Judgement items (intentional, documented — not auto-changed per lint convention / CLAUDE.md §5.3-§5.5):
+  - `Waves.md` (02_Foundations/GCSE-Foundations) — kept as the intentional GCSE-layer twin of the A-Level wave pages, exactly as the user's baseline spec required and parallel to Energy/Force/Power. To rename it away from the §5.5 broad name, say so.
+  - Alias twins by §2 layer / concept-model design (deterministic enough; not duplicate pages): `voltage` (GCSE [[Voltage]] vs A-Level [[Potential-Difference]]); `potential divider` ([[Potential-Divider]] concept vs [[Potential-Divider-Model]]); `resolving vectors` ([[Resolving-Forces]] vs general [[Resolving-Vectors]]); `voltage divider calculation` ([[Potential-Divider-Calculation]] problem-type vs [[Using-Potential-Dividers]] method).
+- Out of scope by design (not gaps): pre-GCSE foundation atomic layer (not H556-examinable); pure-maths/CS cross-subject stubs in 00_Home maps (Differentiation, Integration, Logic-Gates, …) — resolve when/if maths-skills content is ingested.

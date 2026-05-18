@@ -27,6 +27,9 @@ status: draft
 
 ## Concepts
 
+- [[Elastic-and-Plastic-Behaviour]]
+- [[Breaking-Stress]]
+- [[Elastic-Strain-Energy]]
 - [[Equilibrium]]
 
 ## Laws and Results

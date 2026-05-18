@@ -14,6 +14,10 @@ status: draft
 - [[Wave-Particle-Duality]]
 - [[Energy-Levels]]
 - [[Ionisation]]
+- [[Photon-Energy]]
+- [[The-Electronvolt]]
+- [[Work-Function]]
+- [[Threshold-Frequency]]
 
 ## Laws and Results
 
@@ -23,6 +27,7 @@ status: draft
 ## Models
 
 - [[Photon-Model]]
+- [[Bohr-Model]]
 
 ## Methods
 
@@ -31,6 +36,11 @@ status: draft
 ## Experiments and Practicals
 
 - [[Investigating-Photoelectric-Effect]]
+- [[Measuring-the-Planck-Constant]]
+
+## Common Mistake Patterns
+
+- [[Confusing-Photon-Energy-and-Intensity]]
 
 ## Frontier Links
 

@@ -8,6 +8,10 @@ status: draft
 
 # Medical Physics MOC
 
+## Physical Quantities
+
+- [[Acoustic-Impedance]]
+
 ## Concepts
 
 - [[Ionisation]]
@@ -16,6 +20,10 @@ status: draft
 ## Applications
 
 - [[Medical-Imaging]]
+- [[X-ray-Imaging]]
+- [[CT-Scanning]]
+- [[PET-Scanning]]
+- [[Ultrasound-Imaging]]
 
 ## Sources
 
