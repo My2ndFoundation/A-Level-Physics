@@ -55,3 +55,9 @@ This log records major wiki operations.
 - Updated: 01_MOCs/Practical-Skills-MOC.md (skills framework + PAG1–PAG12 + linked new pages), index.md, .state/ingested.tsv, .state/aliases.tsv, .state/unresolved-links.md
 - Deferred: individual experiment-practical pages (full methods on Teach Cambridge, not in PDF); uncertainty/graph problem-type & mistake-pattern pages → future /physics-problem-extract
 - Notes: OCR Practical Skills Handbook v2.1 (Jan 2026), PDF supplied by user after the .url bookmark proved gated. 10 atomic pages created (3 concept, 5 method, 2 representation) — all original/paraphrased explanations, formula-level rules + page refs only, no verbatim text. All targets new → no source variation. Layer = a-level-core. Full-scope pass per user confirmation.
+
+## [2026-05-18] ingest | OCR GCSE Gateway Physics A (J249) Specification
+- Created: 13_Sources/GCSE-Physics/OCR-GCSE-Gateway-Physics-A-J249-Specification.md
+- Updated: 01_MOCs/GCSE-Foundations-MOC.md (added GCSE syllabus structure P1–P9 + assessment + aliases + Sources), index.md, .state/ingested.tsv, .state/aliases.tsv
+- Deferred: per-topic GCSE-foundation atomic pages (P1.1…P8.3) → future GCSE teaching-content ingests; bridge-to-A-Level pages linking GCSE P-topics to H556 modules
+- Notes: OCR GCSE (9–1) Gateway Science Physics A J249, v4.2 (Feb 2024), 104pp. Syllabus skeleton only (no atomic content pages — empty foundation stubs would violate §5.6/§5.10). Layer = gcse-foundation. Factual topic/section structure + assessment only; no LO prose copied. Clean slate — no source variation.

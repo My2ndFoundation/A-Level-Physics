@@ -82,6 +82,7 @@ _Populated during ingestion._
 - [[OCR-Physics-A-H556-Specification]]
 - [[OCR-Physics-Mathematical-Skills-Handbook]]
 - [[OCR-Physics-Practical-Skills-Handbook]]
+- [[OCR-GCSE-Gateway-Physics-A-J249-Specification]]
 
 ## Maintenance
 
