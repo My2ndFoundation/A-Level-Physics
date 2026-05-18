@@ -79,3 +79,9 @@ This log records major wiki operations.
 - Updated: 01_MOCs/Frontier-Physics-MOC.md (added Cosmology-Map + entry point), index.md, .state/ingested.tsv, .state/aliases.tsv
 - Deferred: none — deeper cosmology (GR, Friedmann/FLRW) intentionally out of scope (§3, frontier-rules)
 - Notes: .url bookmark → science.nasa.gov/astrophysics. Layer = frontier. Created the previously-broken-link [[Cosmology-Map]] as a shallow orientation map (no GR field equations / FLRW maths; explicit "what not to worry about yet"). Resolves wikilinks from OCR-Physics-Map (Module 5.5), Cross-Subject-Links, and the H556 spec source. No source variation. No copyrighted text (NASA public-domain outreach, paraphrased).
+
+## [2026-05-18] lint | whole wiki
+- Created: (none)
+- Updated: 04_Concepts/Measurement-Uncertainty.md & Resolution-Accuracy-and-Precision.md (retargeted dangling [[SI-Units]] → [[Physical-Quantities-MOC]]); 01_MOCs/Physics-MOC.md (linked 3 orphan MOCs: Problem-Solving-MOC, Mistake-Patterns-MOC, Modern-Physics-MOC + Frontier-Physics-MOC); .state/unresolved-links.md (recorded SI-Units + ~27 seed-hub placeholder links)
+- Deferred: ~27 placeholder links in seed hub pages (Mathematical-Methods-Map, Cross-Subject-Links) — resolve as content is ingested, not by editing seed hubs; seed-page frontmatter gaps (empty tags/sources) left for /physics-expand-concept; H556 source page 934w accepted (source pages exempt from §5.6 atomic-size rule)
+- Notes: Read-only audit then 3 user-confirmed mechanical fixes. Orphans 3→0; new-content dangling [[SI-Units]] cleared. Declined the "ignore copyright rule" instruction — CLAUDE.md §5.2 is non-negotiable; not engaged here anyway (link-only fixes, no source text). No content overwritten, no pages deleted.
