@@ -2,11 +2,41 @@
 type: moc
 subject: physics
 tags:
-  - moc practical-skills practical
+  - moc
+  - practical-skills
+  - practical
 status: draft
+aliases:
+  - Practical Skills Map
+  - PAG Map
 ---
 
 # Practical Skills MOC
+
+Navigation for the OCR Physics A H556 practical-skills layer. Framework from
+[[OCR-Physics-Practical-Skills-Handbook]]; spec anchor in [[OCR-Physics-Map]].
+
+## Written-Paper Skills Framework (spec §1.1)
+
+- Planning — experimental design, variables, method evaluation
+- Implementing — apparatus/technique use, units, recording data
+- Analysis — processing data, graphs, significant figures
+- Evaluation — anomalies, limitations, [[Measurement-Uncertainty|uncertainty]], improvements
+
+## Practical Endorsement — PAG1–PAG12 (spec §1.2)
+
+- PAG1 Investigating motion
+- PAG2 Investigating properties of materials
+- PAG3 Investigating electrical properties
+- PAG4 Investigating electrical circuits
+- PAG5 Investigating waves
+- PAG6 Investigating quantum effects
+- PAG7 Investigating ionising radiation
+- PAG8 Investigating gases
+- PAG9 Investigating capacitors
+- PAG10 Investigating simple harmonic motion
+- PAG11 Independent investigation skills
+- PAG12 Use of ICT / data analysis
 
 ## Foundations
 
@@ -22,7 +52,9 @@ _To be populated during ingestion._
 
 ## Concepts
 
-_To be populated during ingestion._
+- [[Measurement-Uncertainty]]
+- [[Systematic-and-Random-Errors]]
+- [[Resolution-Accuracy-and-Precision]]
 
 ## Laws and Results
 
@@ -34,15 +66,20 @@ _To be populated during ingestion._
 
 ## Methods
 
-_To be populated during ingestion._
+- [[Estimating-Uncertainty-from-Apparatus]]
+- [[Combining-Uncertainties]]
+- [[Calculating-Percentage-Uncertainty]]
+- [[Significant-Figures-in-Measurements]]
+- [[Calculating-Percentage-Difference]]
 
 ## Representations
 
-_To be populated during ingestion._
+- [[Results-Table]]
+- [[Line-of-Best-Fit-Graph]]
 
 ## Experiments and Practicals
 
-_To be populated during ingestion._
+_Deferred — individual experiment-practical pages from practical guides via `/physics-practical-extract`._
 
 ## Applications
 
@@ -62,5 +99,4 @@ _To be populated during ingestion._
 
 ## Sources
 
-_To be populated during ingestion._
-
+- [[OCR-Physics-Practical-Skills-Handbook]]
