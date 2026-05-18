@@ -20,12 +20,20 @@ The goal is orientation, not mastery.
 ## Frontier Maps
 
 - [[Quantum-Mechanics-Map]]
+- [[Particle-Physics-Map]]
+- [[Cosmology-Map]]
+
+## Further Exploration (external)
+
+- [[IOP-Explore-Physics]] — general public-engagement orientation hub
 
 ## A-Level Entry Points
 
 - Photoelectric effect
 - Wave-particle duality
 - Photons
+- The nuclear atom and fundamental particles (H556 Module 6.4)
+- Astrophysics and cosmology; gravitational fields (H556 Modules 5.5, 5.4)
 
 ## Foundations
 

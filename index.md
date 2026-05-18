@@ -76,6 +76,8 @@ _Populated during ingestion._
 ## Frontier Maps
 
 - [[Quantum-Mechanics-Map]]
+- [[Particle-Physics-Map]]
+- [[Cosmology-Map]]
 
 ## Sources
 
@@ -83,6 +85,9 @@ _Populated during ingestion._
 - [[OCR-Physics-Mathematical-Skills-Handbook]]
 - [[OCR-Physics-Practical-Skills-Handbook]]
 - [[OCR-GCSE-Gateway-Physics-A-J249-Specification]]
+- [[CERN-Science]]
+- [[IOP-Explore-Physics]]
+- [[NASA-Astrophysics]]
 
 ## Maintenance
 

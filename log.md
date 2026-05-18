@@ -61,3 +61,21 @@ This log records major wiki operations.
 - Updated: 01_MOCs/GCSE-Foundations-MOC.md (added GCSE syllabus structure P1–P9 + assessment + aliases + Sources), index.md, .state/ingested.tsv, .state/aliases.tsv
 - Deferred: per-topic GCSE-foundation atomic pages (P1.1…P8.3) → future GCSE teaching-content ingests; bridge-to-A-Level pages linking GCSE P-topics to H556 modules
 - Notes: OCR GCSE (9–1) Gateway Science Physics A J249, v4.2 (Feb 2024), 104pp. Syllabus skeleton only (no atomic content pages — empty foundation stubs would violate §5.6/§5.10). Layer = gcse-foundation. Factual topic/section structure + assessment only; no LO prose copied. Clean slate — no source variation.
+
+## [2026-05-18] ingest | CERN Science (frontier reference)
+- Created: 13_Sources/Frontier-References/CERN-Science.md; 12_Frontier-Maps/Particle-Physics-Map.md
+- Updated: 01_MOCs/Frontier-Physics-MOC.md (added Particle-Physics-Map + entry point), index.md, .state/ingested.tsv, .state/aliases.tsv
+- Deferred: none — deeper particle-physics content intentionally out of scope (§3, frontier-rules)
+- Notes: .url bookmark → home.cern/science. Layer = frontier. Created the previously-broken-link [[Particle-Physics-Map]] as a shallow orientation map (no QFT/Lagrangians/Feynman maths; explicit "what not to worry about yet"). Resolves wikilinks from OCR-Physics-Map (Module 6.4) and the practical source. No source variation. No copyrighted text.
+
+## [2026-05-18] ingest | IOP Explore Physics (frontier reference)
+- Created: 13_Sources/Frontier-References/IOP-Explore-Physics.md
+- Updated: 01_MOCs/Frontier-Physics-MOC.md (added Further Exploration external pointer), index.md, .state/ingested.tsv, .state/aliases.tsv
+- Deferred: none — general hub, not a single field, so no frontier-map page (CLAUDE.md §3 / §5.5)
+- Notes: .url bookmark → iop.org/explore-physics. Live page HTTP 403 (bot-protected, not fetched); recorded from known nature, no content reproduced. Provenance-only per user choice A. Layer = frontier. No source variation.
+
+## [2026-05-18] ingest | NASA Astrophysics (frontier reference)
+- Created: 13_Sources/Frontier-References/NASA-Astrophysics.md; 12_Frontier-Maps/Cosmology-Map.md
+- Updated: 01_MOCs/Frontier-Physics-MOC.md (added Cosmology-Map + entry point), index.md, .state/ingested.tsv, .state/aliases.tsv
+- Deferred: none — deeper cosmology (GR, Friedmann/FLRW) intentionally out of scope (§3, frontier-rules)
+- Notes: .url bookmark → science.nasa.gov/astrophysics. Layer = frontier. Created the previously-broken-link [[Cosmology-Map]] as a shallow orientation map (no GR field equations / FLRW maths; explicit "what not to worry about yet"). Resolves wikilinks from OCR-Physics-Map (Module 5.5), Cross-Subject-Links, and the H556 spec source. No source variation. No copyrighted text (NASA public-domain outreach, paraphrased).
