@@ -47,7 +47,6 @@ If current is like the rate of water flow, voltage is like the pressure differen
 
 ## Key Quantities
 
-- [[Voltage]]
 - [[Electric-Current]]
 - [[Resistance]]
 - [[Energy]]

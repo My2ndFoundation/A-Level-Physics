@@ -48,3 +48,13 @@ Snells Law	Snell-Law	law-result
 Snells-Law	Snell-Law	law-result	link-form alias
 Wave Speed	Wave-Speed-Equation	law-result	
 Wave-Speed	Wave-Speed-Equation	law-result	link-form alias
+Energy Transfer	Energy	physical-quantity	
+Energy-Transfer	Energy	physical-quantity	link-form; 5 inbound
+Principle of Superposition	Superposition	concept	
+Principle-of-Superposition	Superposition	concept	link-form; 3 inbound
+Ionisation Energy	Ionisation	concept	
+Ionisation-Energy	Ionisation	concept	link-form
+Law of Reflection	Wave-Reflection	concept	
+Law-of-Reflection	Wave-Reflection	concept	link-form
+Vector Components	Vectors-and-Scalars	concept	
+Vector-Components	Vectors-and-Scalars	concept	link-form

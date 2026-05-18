@@ -103,3 +103,9 @@ This log records major wiki operations.
 - Updated: 6 mis-link retargets ([[Wave]]→[[Waves]] ×3, [[Series-and-Parallel-Circuits]]→[[Series-Parallel-Circuit-Analysis]], [[Reflection-and-Refraction]] split→[[Wave-Reflection]]/[[Wave-Refraction]]); 2 self-links cleaned; index.md regenerated (391 links); MOCs patched for the 15 pages; log.md
 - Deferred: nothing examinable. Out of H556 scope by design: pre-GCSE foundation atomic layer; ~6 GCSE-trivial unlink candidates folded as real pages instead
 - Notes: Closes the pass-2 lint residual. 4 "alias collisions" (voltage / potential divider / voltage-divider-calculation / resolving-vectors) are the intentional CLAUDE.md §2 layer + concept/model twins (same pattern lint classed NON-violation for Energy/Force) — documented, not merged. `02_Foundations/GCSE-Foundations/Waves.md` kept as the intentional GCSE-layer twin (explicitly in the user's baseline spec; parallels Energy/Force/Power); `Wave`/`Waves` link confusion resolved by retarget. No git commit (§5.11).
+
+## [2026-05-18] lint | post-pass-2 confirmation + safe cleanup
+- Created: (none)
+- Updated: 7 self-link list items removed (6 GCSE-Foundations + Temperature); .state/aliases.tsv (+5 alias resolutions: Energy-Transfer, Principle-of-Superposition, Ionisation-Energy, Law-of-Reflection, Vector-Components); .state/wiki-lint-report.md (fresh full audit + post-cleanup delta)
+- Deferred: §2 same-basename twin disambiguation (Energy/Force/Power/Resistance/Voltage) — human decision, lint-classified acceptable, documented in unresolved-links
+- Notes: Fresh read-only lint of 341 usable pages — 8/13 checks zero issues; entire prior backlog (16 frontmatter, 24 source-trace, 18 broken links) resolved. Applied only safe mechanical fixes (self-link removal, alias registration); no prose/structure overwritten, no pages deleted (§5.4). Verified on disk: 0 true self-links, replacement targets exist, 5 aliases resolve. Net: clean. No git commit (§5.11).

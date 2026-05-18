@@ -41,9 +41,9 @@ A moving ball can knock something over, transferring its movement energy. A stre
 
 ## Key Quantities
 
-- [[Energy]]
 - [[Power]]
 - [[Force]]
+- [[Work]]
 
 ## Related Concepts
 

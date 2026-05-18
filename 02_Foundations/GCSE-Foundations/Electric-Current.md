@@ -47,9 +47,9 @@ Current is like the rate at which water flows past a point in a pipe. A wider, l
 
 ## Key Quantities
 
-- [[Electric-Current]]
 - [[Voltage]]
 - [[Resistance]]
+- [[Charge]]
 
 ## Related Concepts
 

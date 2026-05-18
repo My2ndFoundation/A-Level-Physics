@@ -45,7 +45,6 @@ Resistance is like a narrow or rough section of a water pipe: it makes it harder
 
 ## Key Quantities
 
-- [[Resistance]]
 - [[Voltage]]
 - [[Electric-Current]]
 - [[Power]]
