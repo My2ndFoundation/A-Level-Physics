@@ -11,7 +11,6 @@ status: usable
 aliases:
   - Wave Reflection
   - Reflection of Waves
-  - Law of Reflection
 sources: []
 ---
 

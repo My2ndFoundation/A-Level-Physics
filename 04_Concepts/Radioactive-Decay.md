@@ -13,7 +13,6 @@ status: usable
 aliases:
   - Radioactive Decay
   - Nuclear Decay
-  - Radioactivity
 sources: []
 ---
 

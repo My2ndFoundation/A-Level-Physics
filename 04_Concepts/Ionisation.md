@@ -13,7 +13,6 @@ status: usable
 aliases:
   - Ionisation
   - Ionization
-  - Ionisation Energy
 sources: []
 ---
 

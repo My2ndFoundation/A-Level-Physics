@@ -25,6 +25,7 @@ status: draft
 - [[Period]]
 - [[Amplitude]]
 - [[Intensity]]
+- [[Wave-Speed]]
 - [[Refractive-Index]]
 
 ## Concepts
@@ -46,6 +47,7 @@ status: draft
 ## Laws and Results
 
 - [[Wave-Speed-Equation]]
+- [[Law-of-Reflection]]
 - [[Snell-Law]]
 - [[Diffraction-Grating-Equation]]
 

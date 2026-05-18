@@ -14,6 +14,7 @@ status: draft
 - [[Wave-Particle-Duality]]
 - [[Energy-Levels]]
 - [[Ionisation]]
+- [[Ionisation-Energy]]
 - [[Photon-Energy]]
 - [[The-Electronvolt]]
 - [[Work-Function]]

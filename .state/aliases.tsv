@@ -46,15 +46,13 @@ Refraction of Waves	Wave-Refraction	concept
 Refraction-of-Waves	Wave-Refraction	concept	link-form alias; 7 inbound links
 Snells Law	Snell-Law	law-result	
 Snells-Law	Snell-Law	law-result	link-form alias
-Wave Speed	Wave-Speed-Equation	law-result	
-Wave-Speed	Wave-Speed-Equation	law-result	link-form alias
+Wave Speed	Wave-Speed	physical-quantity	the quantity; equation is [[Wave-Speed-Equation]]
 Energy Transfer	Energy	physical-quantity	
 Energy-Transfer	Energy	physical-quantity	link-form; 5 inbound
 Principle of Superposition	Superposition	concept	
 Principle-of-Superposition	Superposition	concept	link-form; 3 inbound
-Ionisation Energy	Ionisation	concept	
-Ionisation-Energy	Ionisation	concept	link-form
-Law of Reflection	Wave-Reflection	concept	
-Law-of-Reflection	Wave-Reflection	concept	link-form
+Ionisation Energy	Ionisation-Energy	physical-quantity	quantity; process is [[Ionisation]]
+Ionization Energy	Ionisation-Energy	physical-quantity
+Law of Reflection	Law-of-Reflection	law-result	law; phenomenon is [[Wave-Reflection]]
 Vector Components	Vectors-and-Scalars	concept	
 Vector-Components	Vectors-and-Scalars	concept	link-form

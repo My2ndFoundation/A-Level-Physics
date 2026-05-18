@@ -11,7 +11,6 @@ difficulty: 1
 status: usable
 aliases:
   - wave speed equation
-  - Wave-Speed
   - wave equation
   - v = f lambda
   - v=fλ
