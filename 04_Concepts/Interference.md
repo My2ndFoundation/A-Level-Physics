@@ -54,7 +54,7 @@ Interference confirms the wave model of light, enables precise wavelength and di
 
 ## Related Laws or Results
 
-- [[Principle-of-Superposition]]
+- [[Superposition|Principle of Superposition]]
 - [[Wave-Speed-Equation]]
 
 ## Related Models
@@ -84,6 +84,13 @@ Interference confirms the wave model of light, enables precise wavelength and di
 - Forgetting that coherence is required for a stable pattern.
 - Confusing path difference with phase difference.
 - Using the wrong half-wavelength condition for destructive interference.
+
+## Visuals
+
+### Two-source interference geometry
+![[_attachments/04_Concepts/Interference--two-source-path-difference.svg]]
+*Figure: Coherent sources S₁ and S₂ (separation s) are a distance D from the screen. Point P receives waves whose path lengths differ by a whole number of wavelengths (constructive — bright fringe). Point Q has a half-wavelength path difference (destructive — dark fringe). Fringe spacing w = λD/s.*
+*Source: Authored for this vault (CC0). No external copyright.*
 
 ## Source Trace
 

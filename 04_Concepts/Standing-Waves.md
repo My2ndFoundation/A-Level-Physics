@@ -53,7 +53,7 @@ Standing waves explain musical instruments, resonance in structures, microwave o
 
 ## Related Laws or Results
 
-- [[Principle-of-Superposition]]
+- [[Superposition|Principle of Superposition]]
 - [[Wave-Speed-Equation]]
 
 ## Related Models

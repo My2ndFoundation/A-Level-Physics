@@ -47,8 +47,9 @@ Refraction-of-Waves	Wave-Refraction	concept	link-form alias; 7 inbound links
 Snells Law	Snell-Law	law-result	
 Snells-Law	Snell-Law	law-result	link-form alias
 Wave Speed	Wave-Speed	physical-quantity	the quantity; equation is [[Wave-Speed-Equation]]
-Energy Transfer	Energy	physical-quantity	
-Energy-Transfer	Energy	physical-quantity	link-form; 5 inbound
+Energy Transfer	Energy-Transfer	concept	promoted to own page 2026-05-19
+Energy Transferred	Energy-Transfer	concept
+Transfer of Energy	Energy-Transfer	concept
 Principle of Superposition	Superposition	concept	
 Principle-of-Superposition	Superposition	concept	link-form; 3 inbound
 Ionisation Energy	Ionisation-Energy	physical-quantity	quantity; process is [[Ionisation]]

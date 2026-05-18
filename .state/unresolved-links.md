@@ -22,11 +22,21 @@ This file tracks quantities, concepts, laws, models, methods, representations, e
 Created during the usable-baseline pass as forward wikilinks; resolve in a future
 content ingest / second pass (not lint errors — deliberate graph stubs):
 
-- Forces/mechanics: [[Balanced-and-Unbalanced-Forces]], [[Contact-and-Non-Contact-Forces]], [[Normal-Contact-Force]], [[Coefficient-of-Friction]], [[Adding-Forces-as-Scalars]], [[Principle-of-Moments]], [[Levers]], [[Energy-Transfer]], [[Area]]
+- Forces/mechanics: [[Balanced-and-Unbalanced-Forces]], [[Contact-and-Non-Contact-Forces]], [[Normal-Contact-Force]], [[Coefficient-of-Friction]], [[Adding-Forces-as-Scalars]], [[Principle-of-Moments]], [[Levers]], [[Area]] *(— [[Energy-Transfer]] promoted to its own concept page 2026-05-19)*
 - Electricity: [[Electromotive-Force]]
 - Waves: [[Principle-of-Superposition]], [[Path-Difference]], [[Phase-Difference]], [[Diffraction-Grating-Equation]], [[Electromagnetic-Spectrum]], [[Law-of-Reflection]], [[Reflection-and-Refraction]]
 - Quantum/nuclear: [[Bohr-Model]], [[Nuclear-Model]], [[Atomic-Structure]], [[Isotopes]], [[Binding-Energy]], [[Mass-Defect]], [[Mass-Energy-Equivalence]], [[Decay-Constant]], [[Activity]], [[Photon-Energy]]
 - Canonicalised this pass: [[Refraction-of-Waves]] → alias of [[Wave-Refraction]] (added to page frontmatter aliases + .state/aliases.tsv).
+
+## Alias-link retarget pass (2026-05-19) — RESOLVED
+
+Body links using a hyphenated form that pointed at no file (grey graph nodes) were retargeted to the real page with readable display text `[[Canonical|display]]`, instead of relying on Obsidian alias resolution:
+
+- [[Refraction-of-Waves]] → `[[Wave-Refraction|Refraction of Waves]]` (10 occurrences, 8 pages; 1 true duplicate bullet consolidated in Optical-Fibres)
+- [[Snells-Law]] → `[[Snell-Law|Snell's law]]` (2, Ray-Diagram)
+- [[Principle-of-Superposition]] → `[[Superposition|Principle of Superposition]]` (3; one is a self-reference on Superposition.md — flagged for optional future split into a dedicated law-result page)
+- [[Vector-Components]] → `[[Vectors-and-Scalars|Vector Components]]` (1, Mathematical-Methods-Map seed hub — user-authorised override of the seed-hub no-edit note)
+- [[Energy-Transfer]] → promoted to its own `concept` page `04_Concepts/Energy-Transfer.md` (user-confirmed; supersedes the 2026-05-18 decision to keep it as an alias of [[Energy]])
 
 ## Alias-promotion pass (2026-05-18) — RESOLVED
 

@@ -23,7 +23,7 @@ A ray diagram represents the path of light (or any wave treated in the ray model
 
 ## Form
 
-Light is drawn as straight rays with arrowheads showing direction of travel. At a boundary the ray bends according to the law of reflection or [[Snells-Law]]. Normals are drawn as dashed lines perpendicular to the surface, and angles are measured *from the normal*, not from the surface.
+Light is drawn as straight rays with arrowheads showing direction of travel. At a boundary the ray bends according to the law of reflection or [[Snell-Law|Snell's law]]. Normals are drawn as dashed lines perpendicular to the surface, and angles are measured *from the normal*, not from the surface.
 
 ## Axes / Labels / Components
 
@@ -45,7 +45,7 @@ Not applicable. The analytic content is the geometry: equal angles for reflectio
 ## Converts To / From
 
 - From: an optical scenario (boundary, lens, fibre, prism).
-- To: numerical predictions via the law of reflection and [[Snells-Law]].
+- To: numerical predictions via the law of reflection and [[Snell-Law|Snell's law]].
 
 ## Related Quantities
 
@@ -61,6 +61,14 @@ Not applicable. The analytic content is the geometry: equal angles for reflectio
 - Measuring angles from the surface instead of from the normal.
 - Forgetting to draw the normal at the point of incidence.
 - Drawing rays bending the wrong way (toward vs away from the normal when speed changes).
+
+## Visuals
+
+### Ray diagram: refraction at a boundary
+
+![[_attachments/08_Representations/ray-diagram--refraction-at-boundary.svg]]
+*Figure: An incident ray (orange) strikes a boundary between medium 1 (less dense, n₁) and medium 2 (more dense, n₂). The dashed normal is perpendicular to the boundary. The angle of incidence θ₁ and angle of refraction θ₂ are both measured from the normal, not the surface. Because n₂ > n₁, the refracted ray (blue) bends toward the normal (θ₂ < θ₁), consistent with [[Snell-Law|Snell's law]]: n₁ sin θ₁ = n₂ sin θ₂.*
+*Source: Authored for this vault (CC0). No external copyright.*
 
 ## Source Trace
 

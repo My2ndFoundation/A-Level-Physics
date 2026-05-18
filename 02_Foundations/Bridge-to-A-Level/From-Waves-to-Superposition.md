@@ -64,7 +64,7 @@ Two stones dropped into a pond send out ripples that cross: where two crests mee
 ## Related Laws or Results
 
 - [[Superposition]]
-- [[Refraction-of-Waves]]
+- [[Wave-Refraction|Refraction of Waves]]
 
 ## Common Misconceptions
 

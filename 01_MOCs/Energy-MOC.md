@@ -25,6 +25,7 @@ status: draft
 
 ## Concepts
 
+- [[Energy-Transfer]]
 - [[Kinetic-Energy]]
 - [[Gravitational-Potential-Energy]]
 - [[Elastic-Strain-Energy]]

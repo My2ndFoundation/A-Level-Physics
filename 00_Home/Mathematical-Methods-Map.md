@@ -33,7 +33,7 @@ This page tracks the mathematical tools required for A-Level Physics.
 - [[Resolving-Vectors]]
 - [[Vector-Triangle]]
 - [[Vectors-and-Scalars]]
-- [[Vector-Components]]
+- [[Vectors-and-Scalars|Vector Components]]
 
 ## Trigonometry
 

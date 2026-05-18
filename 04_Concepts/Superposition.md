@@ -53,7 +53,7 @@ Superposition is the single principle from which interference, standing waves an
 
 ## Related Laws or Results
 
-- [[Principle-of-Superposition]]
+- [[Superposition|Principle of Superposition]]
 
 ## Related Models
 

@@ -155,6 +155,7 @@ _Baseline + Module 5–6 gap-fill + final cleanup 2026-05-18 — 341 atomic page
 - [[Energy-in-Simple-Harmonic-Motion]]
 - [[Energy-Levels]]
 - [[Energy-Stored-in-a-Capacitor]]
+- [[Energy-Transfer]]
 - [[Equilibrium]]
 - [[Free-and-Forced-Oscillations]]
 - [[Free-Fall]]

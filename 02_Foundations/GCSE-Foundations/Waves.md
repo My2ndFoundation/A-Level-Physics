@@ -38,7 +38,7 @@ GCSE also introduces wave behaviours: reflection, refraction (change of speed an
 
 ## Why It Matters for A-Level Physics
 
-Waves are a major A-Level topic. The GCSE foundations support [[Superposition]], interference and [[Diffraction]], standing waves, polarisation, [[Refraction-of-Waves]] and total internal reflection, the photoelectric effect, and wave–particle duality. The wave equation v = fλ is used constantly.
+Waves are a major A-Level topic. The GCSE foundations support [[Superposition]], interference and [[Diffraction]], standing waves, polarisation, [[Wave-Refraction|refraction of waves]] and total internal reflection, the photoelectric effect, and wave–particle duality. The wave equation v = fλ is used constantly.
 
 ## Everyday Intuition
 
@@ -60,7 +60,7 @@ Dropping a stone in a pond sends ripples outward: the energy spreads across the 
 ## Related Laws or Results
 
 - [[Superposition]]
-- [[Refraction-of-Waves]]
+- [[Wave-Refraction|Refraction of Waves]]
 
 ## Common Misconceptions
 

@@ -24,7 +24,7 @@ Stars are natural laboratories: their light tells us their temperature, composit
 ## Physical Ideas
 
 - [[Conservation-of-Energy]]
-- [[Refraction-of-Waves]]
+- [[Wave-Refraction|Refraction of Waves]]
 
 ## Mathematical Tools
 

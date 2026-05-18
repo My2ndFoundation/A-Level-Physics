@@ -22,8 +22,7 @@ Optical fibres carry telephone, internet and television data as pulses of light 
 
 ## Physical Ideas
 
-- [[Refraction-of-Waves]]
-- [[Wave-Refraction]]
+- [[Wave-Refraction|Refraction of Waves]]
 
 ## Mathematical Tools
 

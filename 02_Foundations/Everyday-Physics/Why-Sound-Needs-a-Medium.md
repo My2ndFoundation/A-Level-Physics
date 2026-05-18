@@ -36,13 +36,13 @@ Space is very nearly a vacuum — almost no particles. With nothing to compress 
 
 ## What This Builds Toward
 
-This builds toward the idea of a longitudinal mechanical [[Waves]], the difference between mechanical and electromagnetic waves, wave speed in different media, and the general principle that waves transfer energy without transferring matter. It connects forward to [[Superposition]], [[Diffraction]], and [[Refraction-of-Waves]].
+This builds toward the idea of a longitudinal mechanical [[Waves]], the difference between mechanical and electromagnetic waves, wave speed in different media, and the general principle that waves transfer energy without transferring matter. It connects forward to [[Superposition]], [[Diffraction]], and [[Wave-Refraction|refraction of waves]].
 
 ## Related A-Level Ideas
 
 - [[Waves]]
 - [[Superposition]]
-- [[Refraction-of-Waves]]
+- [[Wave-Refraction|Refraction of Waves]]
 - [[Energy]]
 
 ## Common Wrong Intuition

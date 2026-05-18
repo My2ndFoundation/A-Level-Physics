@@ -22,7 +22,7 @@ Medical imaging lets clinicians see inside the body without surgery. X-rays reve
 
 ## Physical Ideas
 
-- [[Refraction-of-Waves]]
+- [[Wave-Refraction|Refraction of Waves]]
 - [[Conservation-of-Energy]]
 
 ## Mathematical Tools
