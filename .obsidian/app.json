@@ -3,6 +3,7 @@
     "raw/",
     "_templates/",
     "_meta/",
+    ".state/",
     "docs/",
     "tools/",
     "contents",
