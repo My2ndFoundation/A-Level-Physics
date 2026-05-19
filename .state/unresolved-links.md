@@ -14,7 +14,7 @@ This file tracks quantities, concepts, laws, models, methods, representations, e
 
 - Lint 2026-05-18 — known placeholder links in pre-existing seed hub pages, pending canonical pages (do not edit the seed hubs; resolve as content is ingested):
   - From `00_Home/Mathematical-Methods-Map.md`: [[Gradient]], [[Area-Under-a-Graph]], [[Linearising-a-Graph]], [[Rearranging-Equations]], [[Dimensional-Analysis]], [[Resolving-Forces]], [[Vector-Components]], [[Projectile-Motion]], [[Simple-Harmonic-Motion]], [[Capacitor-Discharge]], [[Radioactive-Decay]], [[Acceleration-Time-Graph]]
-  - From `00_Home/Cross-Subject-Links.md`: [[Differentiation]], [[Integration]], [[Vectors]], [[Trigonometry]], [[Exponential-Decay]], [[Differential-Equations]], [[Numerical-Modelling]], [[Simulation]], [[Sensors]], [[Data-Logging]], [[Signal-Processing]], [[Logic-Gates]], [[Semiconductor-Physics-Map]]
+  - From `00_Home/Cross-Subject-Links.md`: ~~[[Differentiation]], [[Integration]], [[Trigonometry]], [[Differential-Equations]], [[Numerical-Modelling]], [[Simulation]], [[Sensors]], [[Data-Logging]], [[Signal-Processing]], [[Logic-Gates]]~~ — **RESOLVED 2026-05-19** (built as cross-subject method/application pages, user-confirmed). `[[Semiconductor-Physics-Map]]` already existed. `[[Vectors]]`/`[[Exponential-Decay]]` are no longer linked on that page (use [[Vectors-and-Scalars]] / [[Radioactive-Decay-Law]]).
   - From seed atomic pages: [[Momentum]] (Why-Seatbelts-Matter), [[Photoelectric-Effect]] (Quantum-Mechanics-Map)
 
 ## Baseline build 2026-05-18 — mentioned-but-not-yet-built atomic pages

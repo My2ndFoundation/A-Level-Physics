@@ -87,6 +87,10 @@ _To be populated during ingestion._
 
 ## Methods
 
+- [[Differentiation]]
+- [[Integration]]
+- [[Trigonometry]]
+- [[Differential-Equations]]
 - [[Finding-Gradient-from-a-Graph]]
 - [[Finding-Area-Under-a-Graph]]
 - [[Linearising-a-Graph]]

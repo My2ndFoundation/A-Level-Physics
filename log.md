@@ -131,3 +131,9 @@ This log records major wiki operations.
 - Manifest: .state/visual-manifest.tsv
 - Provenance pages: 13_Sources/Wikimedia-Commons-Image-Pool.md, 13_Sources/NASA-Image-Library.md
 - No commit (CLAUDE.md §5.11).
+
+## [2026-05-19] create | Cross-Subject-Links stub pages (user-confirmed)
+- Created: 07_Methods/Differentiation.md, Integration.md, Trigonometry.md, Differential-Equations.md (type: method, maths-link); 10_Applications/Logic-Gates.md, Sensors.md, Signal-Processing.md, Data-Logging.md, Simulation.md, Numerical-Modelling.md (type: application, computer-science-link) — 10 pages, each per its `_meta/templates/` template, status: draft.
+- Updated: index.md (+4 Methods, +6 Applications); 01_MOCs/Mathematical-Methods-in-Physics-MOC.md (+4 maths methods); .state/unresolved-links.md (Cross-Subject-Links backlog marked RESOLVED).
+- Deferred: Mathematical-Methods-Map seed-hub stubs (Gradient, Rearranging-Equations, Dimensional-Analysis, …) — separate task; `[[Vectors]]`/`[[Exponential-Decay]]` no longer on the page (canonical: Vectors-and-Scalars / Radioactive-Decay-Law).
+- Notes: Semantic split (maths→method, CS→application) per user choice; deliberately shallow cross-subject orientation pages (~150–250 words) flagged as by-design so lint won't treat thinness as a defect. Every internal wikilink verified against an existing page — no new grey nodes. External resources limited to reputable free educational sources with stable URLs (Khan Academy, Isaac Physics, PMT, BBC Bitesize, OpenStax, Wikipedia). No prose copied; templates followed (§4). No git commit (§5.11).
