@@ -93,12 +93,12 @@ On a distance–time graph of a single wavefront, the gradient is the wave speed
 
 ```mermaid
 flowchart LR
-    v["Wave Speed v (m s⁻¹)\nphase speed of wave pattern"]
-    feq["v = fλ\nwave equation"]
+    v["Wave Speed v (m s⁻¹)<br/>phase speed of wave pattern"]
+    feq["v = fλ<br/>wave equation"]
     f["Frequency f (Hz)"]
     lam["Wavelength λ (m)"]
     T["Period T: v = λ/T"]
-    refr["In medium: v = c/n\n(n = refractive index)"]
+    refr["In medium: v = c/n<br/>(n = refractive index)"]
 
     f -->|"× λ"| v
     lam --> v

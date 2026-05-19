@@ -89,11 +89,11 @@ Quark composition explains the charge and identity of nucleons and predicts allo
 ### Quark classification: flavour → hadron
 ```mermaid
 flowchart TD
-    Q["Quarks (feel strong interaction)"] --> UP["Up-type: u · c · t\ncharge +2/3 e"]
-    Q --> DOWN["Down-type: d · s · b\ncharge −1/3 e"]
-    UP --> BAR["Baryons (3 quarks)\nproton = uud · neutron = udd"]
+    Q["Quarks (feel strong interaction)"] --> UP["Up-type: u · c · t<br/>charge +2/3 e"]
+    Q --> DOWN["Down-type: d · s · b<br/>charge −1/3 e"]
+    UP --> BAR["Baryons (3 quarks)<br/>proton = uud · neutron = udd"]
     DOWN --> BAR
-    UP --> MES["Mesons (quark + antiquark)\nπ⁺ = u d̄"]
+    UP --> MES["Mesons (quark + antiquark)<br/>π⁺ = u d̄"]
     DOWN --> MES
     BAR --> HAD["Hadrons"]
     MES --> HAD

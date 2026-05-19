@@ -84,9 +84,9 @@ flowchart TD
     C --> E["T = 2π/ω, f = 1/T"]
     D --> E
     E --> F{What is asked?}
-    F -->|"Speed at position x"| G["v = ±ω√(A²−x²)\nv_max = ωA at x = 0"]
-    F -->|"Acceleration at x"| H["a = −ω²x\na_max = ω²A at x = ±A"]
-    F -->|"Energy"| I["E_total = ½mω²A²\nE_k = ½mω²(A²−x²)\nE_p = ½mω²x²"]
+    F -->|"Speed at position x"| G["v = ±ω√(A²−x²)<br/>v_max = ωA at x = 0"]
+    F -->|"Acceleration at x"| H["a = −ω²x<br/>a_max = ω²A at x = ±A"]
+    F -->|"Energy"| I["E_total = ½mω²A²<br/>E_k = ½mω²(A²−x²)<br/>E_p = ½mω²x²"]
     G --> J[Keep calculator in radians]
     H --> J
     I --> J

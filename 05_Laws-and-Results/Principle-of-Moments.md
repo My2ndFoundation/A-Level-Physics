@@ -103,9 +103,9 @@ setting the two totals equal is an equivalent statement of "net moment = 0".
 ```mermaid
 graph TD
     pivot(("Pivot"))
-    F1["Force F₁\ndistance d₁ left\nMoment = F₁ × d₁ (anticlockwise)"]
-    F2["Force F₂\ndistance d₂ right\nMoment = F₂ × d₂ (clockwise)"]
-    balance["Rotational equilibrium\nF₁ × d₁ = F₂ × d₂"]
+    F1["Force F₁<br/>distance d₁ left<br/>Moment = F₁ × d₁ (anticlockwise)"]
+    F2["Force F₂<br/>distance d₂ right<br/>Moment = F₂ × d₂ (clockwise)"]
+    balance["Rotational equilibrium<br/>F₁ × d₁ = F₂ × d₂"]
     F1 --> pivot
     F2 --> pivot
     pivot --> balance

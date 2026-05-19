@@ -94,11 +94,11 @@ Collision analysis is central to vehicle safety, particle physics scattering, sp
 
 ```mermaid
 flowchart TD
-    A["Collision\n(isolated system)"] --> B["Momentum always conserved\nΣmv before = Σmv after"]
-    B --> C{"Kinetic energy\nconserved?"}
-    C -->|Yes| D["Elastic collision\nΣ½mv² unchanged\n(e.g. gas molecules, steel balls)"]
-    C -->|No| E["Inelastic collision\nKE decreases\n(→ heat, sound, deformation)"]
-    E --> F["Perfectly inelastic:\nobjects stick together\nmaximum KE loss"]
+    A["Collision<br/>(isolated system)"] --> B["Momentum always conserved<br/>Σmv before = Σmv after"]
+    B --> C{"Kinetic energy<br/>conserved?"}
+    C -->|Yes| D["Elastic collision<br/>Σ½mv² unchanged<br/>(e.g. gas molecules, steel balls)"]
+    C -->|No| E["Inelastic collision<br/>KE decreases<br/>(→ heat, sound, deformation)"]
+    E --> F["Perfectly inelastic:<br/>objects stick together<br/>maximum KE loss"]
 ```
 
 *Figure: Momentum is conserved in all collisions. Elastic: KE also conserved. Inelastic: KE decreases. Perfectly inelastic: maximum KE loss, objects move together after.*

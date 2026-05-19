@@ -86,12 +86,12 @@ On a [[Stress-Strain-Graph]] strain is the x-axis. Within the linear region, str
 
 ```mermaid
 flowchart LR
-    eps["Strain ε = x/L\ndimensionless"]
+    eps["Strain ε = x/L<br/>dimensionless"]
     x["Extension x (m)"]
     L["Original length L (m)"]
     sig["Stress σ = F/A (Pa)"]
-    E["Young Modulus E = σ/ε (Pa)\ngradient of linear region"]
-    SSG["Stress–Strain Graph\nx-axis = ε, y-axis = σ"]
+    E["Young Modulus E = σ/ε (Pa)<br/>gradient of linear region"]
+    SSG["Stress–Strain Graph<br/>x-axis = ε, y-axis = σ"]
 
     x -->|"÷ L"| eps
     L --> eps

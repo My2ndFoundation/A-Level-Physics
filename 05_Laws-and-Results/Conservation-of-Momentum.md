@@ -99,10 +99,10 @@ From [[Newton-Second-Law]] in momentum form, $F_{ext} = \Delta p_{total}/\Delta 
 
 ```mermaid
 graph LR
-    before["Before collision\np_total = m₁u₁ + m₂u₂"]
-    after["After collision\np_total = m₁v₁ + m₂v₂"]
-    before -->|"No external force\n→ total p conserved"| after
-    Newton3["Newton's Third Law\nF_AB = −F_BA\n→ impulses cancel"]
+    before["Before collision<br/>p_total = m₁u₁ + m₂u₂"]
+    after["After collision<br/>p_total = m₁v₁ + m₂v₂"]
+    before -->|"No external force<br/>→ total p conserved"| after
+    Newton3["Newton's Third Law<br/>F_AB = −F_BA<br/>→ impulses cancel"]
     Newton3 --> before
 ```
 *Figure: Conservation of momentum follows from Newton's Third Law — internal forces cancel, leaving total momentum unchanged.*

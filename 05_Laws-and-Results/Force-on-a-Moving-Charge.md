@@ -90,10 +90,10 @@ This is the magnetic part of the Lorentz force. Summing this single-charge force
 
 ```mermaid
 graph TD
-    charge["Charge q at speed v\nenters field B (perpendicular)"]
-    force["Magnetic force F = Bqv\n(perpendicular to v and B)"]
-    circle["Circular path\nradius r = mv / (Bq)"]
-    nowork["Force ⊥ velocity\n→ no work done\n→ speed unchanged"]
+    charge["Charge q at speed v<br/>enters field B (perpendicular)"]
+    force["Magnetic force F = Bqv<br/>(perpendicular to v and B)"]
+    circle["Circular path<br/>radius r = mv / (Bq)"]
+    nowork["Force ⊥ velocity<br/>→ no work done<br/>→ speed unchanged"]
     charge --> force
     force --> circle
     force --> nowork

@@ -85,9 +85,9 @@ Low risk. Secure trolleys/runways so masses cannot fall onto feet; clamp gates f
 ### Light Gate Measurement Geometry
 ```mermaid
 flowchart LR
-    A["Interrupt card\n(width d)"] -->|"blocks beam\nfor time t"| B["Light Gate 1\n(timer starts/stops)"]
-    B -->|"speed v₁ = d/t₁"| C["Gap = s\n(measured)"]
-    C --> D["Light Gate 2\n(second timing)"]
+    A["Interrupt card<br/>(width d)"] -->|"blocks beam<br/>for time t"| B["Light Gate 1<br/>(timer starts/stops)"]
+    B -->|"speed v₁ = d/t₁"| C["Gap = s<br/>(measured)"]
+    C --> D["Light Gate 2<br/>(second timing)"]
     D -->|"speed v₂ = d/t₂"| E["Data logger"]
     E -->|"a = (v₂−v₁)/Δt"| F["Result: acceleration"]
 ```

@@ -78,10 +78,10 @@ The work function explains why photoemission depends on frequency, not brightnes
 ### Work function: photon energy partition diagram
 ```mermaid
 flowchart LR
-    PH["Photon energy\nhf"] --> PHI["Work function φ\n(energy to escape\nmetal surface)"]
-    PH --> KE["KE_max = hf − φ\n(kinetic energy of\nescaping electron)"]
-    PHI --> COND["If hf < φ:\nno emission\n(threshold not met)"]
-    PHI --> EMIT["If hf ≥ φ:\nelectron escapes\n(instantaneous)"]
+    PH["Photon energy<br/>hf"] --> PHI["Work function φ<br/>(energy to escape<br/>metal surface)"]
+    PH --> KE["KE_max = hf − φ<br/>(kinetic energy of<br/>escaping electron)"]
+    PHI --> COND["If hf < φ:<br/>no emission<br/>(threshold not met)"]
+    PHI --> EMIT["If hf ≥ φ:<br/>electron escapes<br/>(instantaneous)"]
     KE --> EMIT
 ```
 *Figure: The work function φ is the minimum energy to remove one electron. Any photon energy above φ appears as electron kinetic energy. φ = hf₀ where f₀ is the threshold frequency.*

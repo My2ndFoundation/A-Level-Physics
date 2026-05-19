@@ -87,10 +87,10 @@ Atomic structure underpins chemistry, ionisation, conduction, [[Radioactive-Deca
 
 ```mermaid
 flowchart TD
-    A["Atom\n(electrically neutral)"] --> B["Nucleus\n(tiny, dense)"]
-    A --> C["Electrons (Z)\ncharge = −Ze\nmass ≈ 1/1836 u each"]
-    B --> D["Protons (Z)\ncharge = +e\nmass ≈ 1 u each"]
-    B --> E["Neutrons (N = A − Z)\ncharge = 0\nmass ≈ 1 u each"]
+    A["Atom<br/>(electrically neutral)"] --> B["Nucleus<br/>(tiny, dense)"]
+    A --> C["Electrons (Z)<br/>charge = −Ze<br/>mass ≈ 1/1836 u each"]
+    B --> D["Protons (Z)<br/>charge = +e<br/>mass ≈ 1 u each"]
+    B --> E["Neutrons (N = A − Z)<br/>charge = 0<br/>mass ≈ 1 u each"]
     D --> F["Fixes the element"]
     E --> G["Determines isotope"]
 ```

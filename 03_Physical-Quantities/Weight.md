@@ -89,9 +89,9 @@ A plot of weight against mass for objects at one location is a straight line thr
 
 ```mermaid
 flowchart LR
-    W["Weight W = mg (N)\ngravitational force, vector downward"]
-    m["Mass m (kg)\nconstant everywhere"]
-    g["Gravitational field strength g (N kg⁻¹)\nvaries with location"]
+    W["Weight W = mg (N)<br/>gravitational force, vector downward"]
+    m["Mass m (kg)<br/>constant everywhere"]
+    g["Gravitational field strength g (N kg⁻¹)<br/>varies with location"]
     Earth["Near Earth: g ≈ 9.81 N kg⁻¹"]
     Moon["On Moon: g ≈ 1.6 N kg⁻¹"]
     Space["Deep space: g ≈ 0"]

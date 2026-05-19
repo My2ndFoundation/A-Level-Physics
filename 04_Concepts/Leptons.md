@@ -87,11 +87,11 @@ Lepton-number conservation is a core tool for checking whether a proposed nuclea
 ### Beta-minus decay: lepton number conservation
 ```mermaid
 flowchart LR
-    N["neutron\n(baryon number = 1\nlepton number = 0)"]
-    N --> P["proton\n(baryon B = 1)"]
-    N --> E["electron e⁻\n(lepton L = +1)"]
-    N --> ANu["antineutrino ν̄ₑ\n(lepton L = −1)"]
-    check["Lepton number check:\n0 = 0 + 1 + (−1)  ✓\nBaryon number check:\n1 = 1 + 0 + 0  ✓"]
+    N["neutron<br/>(baryon number = 1<br/>lepton number = 0)"]
+    N --> P["proton<br/>(baryon B = 1)"]
+    N --> E["electron e⁻<br/>(lepton L = +1)"]
+    N --> ANu["antineutrino ν̄ₑ<br/>(lepton L = −1)"]
+    check["Lepton number check:<br/>0 = 0 + 1 + (−1)  ✓<br/>Baryon number check:<br/>1 = 1 + 0 + 0  ✓"]
 ```
 *Figure: In β⁻ decay a neutron converts to a proton and an electron. An electron antineutrino is also emitted to conserve lepton number: the initial lepton number is 0, and the electron (+1) is balanced by the antineutrino (−1).*
 *Source: Authored for this vault (CC0). No external copyright.*

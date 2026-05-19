@@ -90,15 +90,15 @@ Not derived independently — it is the consequence of energy conservation appli
 
 ```mermaid
 graph TD
-    change["Flux linkage NΦ increasing\n(magnet approaching)"]
-    induced["Induced current flows\nto create opposing field"]
-    oppose["Near face of coil\nbecomes N pole → repels magnet"]
-    energy["Work done against\nrepulsion = electrical energy\n(Conservation of Energy)"]
+    change["Flux linkage NΦ increasing<br/>(magnet approaching)"]
+    induced["Induced current flows<br/>to create opposing field"]
+    oppose["Near face of coil<br/>becomes N pole → repels magnet"]
+    energy["Work done against<br/>repulsion = electrical energy<br/>(Conservation of Energy)"]
     change --> induced
     induced --> oppose
     oppose --> energy
-    withdraw["Flux linkage NΦ decreasing\n(magnet withdrawing)"]
-    attract["Induced current reverses\n→ coil attracts magnet"]
+    withdraw["Flux linkage NΦ decreasing<br/>(magnet withdrawing)"]
+    attract["Induced current reverses<br/>→ coil attracts magnet"]
     withdraw --> attract
     attract --> energy
 ```

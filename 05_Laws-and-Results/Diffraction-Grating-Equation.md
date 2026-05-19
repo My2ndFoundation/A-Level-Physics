@@ -81,11 +81,11 @@ Adjacent slits separated by $d$ emit rays at angle $\theta$; the extra path of o
 
 ```mermaid
 graph TD
-    grating["Diffraction grating\nslit spacing d"]
-    n0["n = 0\nStraight-through maximum\nθ = 0°"]
-    n1["n = ±1\nFirst-order maxima\nd sin θ = λ"]
-    n2["n = ±2\nSecond-order maxima\nd sin θ = 2λ"]
-    nmax["Max order n_max = ⌊d/λ⌋\n(sin θ ≤ 1)"]
+    grating["Diffraction grating<br/>slit spacing d"]
+    n0["n = 0<br/>Straight-through maximum<br/>θ = 0°"]
+    n1["n = ±1<br/>First-order maxima<br/>d sin θ = λ"]
+    n2["n = ±2<br/>Second-order maxima<br/>d sin θ = 2λ"]
+    nmax["Max order n_max = ⌊d/λ⌋<br/>(sin θ ≤ 1)"]
     grating --> n0
     grating --> n1
     grating --> n2

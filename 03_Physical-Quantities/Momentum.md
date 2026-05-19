@@ -88,11 +88,11 @@ On a force–time graph the **area under the curve** equals the change in moment
 
 ```mermaid
 flowchart LR
-    p["Momentum p = mv\n(kg m s⁻¹, vector)"]
+    p["Momentum p = mv<br/>(kg m s⁻¹, vector)"]
     F["Force F (N)"]
-    J["Impulse FΔt = Δp\n(N s)"]
-    cons["Conservation:\nΣp_before = Σp_after\n(closed system)"]
-    FT["Force–time graph\nArea = Δp"]
+    J["Impulse FΔt = Δp<br/>(N s)"]
+    cons["Conservation:<br/>Σp_before = Σp_after<br/>(closed system)"]
+    FT["Force–time graph<br/>Area = Δp"]
 
     p -->|"rate of change"| F
     F -->|"× Δt"| J

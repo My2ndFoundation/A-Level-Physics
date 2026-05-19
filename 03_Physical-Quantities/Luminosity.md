@@ -95,11 +95,11 @@ $L \propto r^2 T^4$.
 
 ```mermaid
 flowchart LR
-    T["Surface\nTemperature T (K)"]
-    r["Stellar\nRadius r (m)"]
-    L["Luminosity\nL = 4π r² σ T⁴ (W)"]
-    d["Distance\nd (m)"]
-    F["Radiant Flux\nF = L / 4πd² (W m⁻²)"]
+    T["Surface<br/>Temperature T (K)"]
+    r["Stellar<br/>Radius r (m)"]
+    L["Luminosity<br/>L = 4π r² σ T⁴ (W)"]
+    d["Distance<br/>d (m)"]
+    F["Radiant Flux<br/>F = L / 4πd² (W m⁻²)"]
 
     T -->|"σT⁴ (Stefan)"| L
     r -->|"4πr²"| L

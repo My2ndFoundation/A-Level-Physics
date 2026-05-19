@@ -90,10 +90,10 @@ Annihilation underlies PET (positron emission tomography) medical scanning, and 
 ```mermaid
 flowchart LR
     A["electron (e⁻)"] -->|meets| B["positron (e⁺)"]
-    B --> C["Annihilation\nE ≥ 2m_e c²"]
-    C --> D["γ photon 1\n(≥ 0.51 MeV)"]
-    C --> E["γ photon 2\n(≥ 0.51 MeV)"]
-    F["high-energy photon\nhf ≥ 2m_e c²"] -->|near nucleus| G["Pair Production"]
+    B --> C["Annihilation<br/>E ≥ 2m_e c²"]
+    C --> D["γ photon 1<br/>(≥ 0.51 MeV)"]
+    C --> E["γ photon 2<br/>(≥ 0.51 MeV)"]
+    F["high-energy photon<br/>hf ≥ 2m_e c²"] -->|near nucleus| G["Pair Production"]
     G --> H["e⁻"]
     G --> I["e⁺"]
 ```

@@ -90,8 +90,8 @@ flowchart LR
     R["Resistance R = V/I (Ω)"]
     V["Potential Difference V (V)"]
     I["Current I (A)"]
-    ohmic["Ohmic: R constant\nI–V straight line"]
-    nonohmic["Non-ohmic: R varies\n(filament lamp, thermistor, diode)"]
+    ohmic["Ohmic: R constant<br/>I–V straight line"]
+    nonohmic["Non-ohmic: R varies<br/>(filament lamp, thermistor, diode)"]
     rho["Resistivity ρ: R = ρL/A"]
 
     V -->|"÷ I"| R

@@ -108,10 +108,10 @@ coherent picture and is the framework for all of A-Level cosmology.
 
 ```mermaid
 flowchart LR
-    BB["Big Bang Theory\n(expanding universe)"]
-    BB --> E1["Galactic redshift\n& Hubble's Law\nv = H₀ d"]
-    BB --> E2["Cosmic Microwave\nBackground (CMB)\nblack-body ~2.7 K"]
-    BB --> E3["Light element\nabundances\n~75% H, ~25% He"]
+    BB["Big Bang Theory<br/>(expanding universe)"]
+    BB --> E1["Galactic redshift<br/>& Hubble's Law<br/>v = H₀ d"]
+    BB --> E2["Cosmic Microwave<br/>Background (CMB)<br/>black-body ~2.7 K"]
+    BB --> E3["Light element<br/>abundances<br/>~75% H, ~25% He"]
     E1 --> C["Age ≈ 1/H₀"]
 ```
 

@@ -79,10 +79,10 @@ Discharge current is proportional to the remaining charge ($I = V/R = Q/RC$), so
 
 ```mermaid
 flowchart TD
-    A[RC circuit problem] --> B{Is the capacitor\ncharging or discharging?}
-    B -->|Discharging| C["Q = Q₀ e^(−t/RC)\nV = V₀ e^(−t/RC)\nI = I₀ e^(−t/RC)"]
-    B -->|Charging| D["Q = Q₀(1 − e^(−t/RC))\nI = I₀ e^(−t/RC)"]
-    C --> E[Compute τ = RC\nSolve for unknown]
+    A[RC circuit problem] --> B{Is the capacitor<br/>charging or discharging?}
+    B -->|Discharging| C["Q = Q₀ e^(−t/RC)<br/>V = V₀ e^(−t/RC)<br/>I = I₀ e^(−t/RC)"]
+    B -->|Charging| D["Q = Q₀(1 − e^(−t/RC))<br/>I = I₀ e^(−t/RC)"]
+    C --> E[Compute τ = RC<br/>Solve for unknown]
     D --> E
     E --> F{Finding time t?}
     F -->|Yes| G["t = −RC ln(Q/Q₀)"]

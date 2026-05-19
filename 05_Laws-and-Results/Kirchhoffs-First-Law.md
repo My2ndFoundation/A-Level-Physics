@@ -99,7 +99,7 @@ graph LR
     I_in --> node
     node --> I2
     node --> I3
-    note["ΣI_in = ΣI_out\n3 A = 2 A + 1 A\n(charge conservation)"]
+    note["ΣI_in = ΣI_out<br/>3 A = 2 A + 1 A<br/>(charge conservation)"]
     node -.-> note
 ```
 *Figure: At any junction the current splits so that total current in equals total current out — conservation of charge.*

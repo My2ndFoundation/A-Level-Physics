@@ -89,11 +89,11 @@ Diffraction limits the resolution of telescopes and microscopes, enables spectro
 
 ```mermaid
 flowchart LR
-    A["Incoming wavefront\n(wavelength λ)"] --> B{"Gap width vs λ"}
-    B -->|"gap >> λ"| C["Little spreading\n(straight rays, shadows)"]
-    B -->|"gap ≈ λ"| D["Strong spreading\n(wide diffraction pattern)"]
-    B -->|"gap << λ"| E["Very strong spreading\n(acts like a point source)"]
-    D --> F["Central bright fringe\n(double width)\nflanked by dimmer fringes"]
+    A["Incoming wavefront<br/>(wavelength λ)"] --> B{"Gap width vs λ"}
+    B -->|"gap >> λ"| C["Little spreading<br/>(straight rays, shadows)"]
+    B -->|"gap ≈ λ"| D["Strong spreading<br/>(wide diffraction pattern)"]
+    B -->|"gap << λ"| E["Very strong spreading<br/>(acts like a point source)"]
+    D --> F["Central bright fringe<br/>(double width)<br/>flanked by dimmer fringes"]
 ```
 
 *Figure: The degree of spreading depends on λ/gap. Maximum diffraction when gap ≈ λ. Single-slit: central fringe is twice as wide as secondary fringes.*

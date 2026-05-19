@@ -79,10 +79,10 @@ Uncertainty decides how many [[Significant-Figures-in-Measurements|significant f
 ### How uncertainty propagates from measurement to result
 ```mermaid
 flowchart LR
-    M["Measurement\n e.g. l = 24.0 ± 0.5 cm"] --> A["Absolute uncertainty\n Δl = 0.5 cm"]
-    A --> P["Percentage uncertainty\n (Δl / l) × 100%\n = 2.1%"]
-    P --> C["Combined uncertainty\n add % uncertainties\n when multiplying/dividing"]
-    C --> R["Result with uncertainty\n e.g. area = 576 ± 24 cm²"]
+    M["Measurement<br/> e.g. l = 24.0 ± 0.5 cm"] --> A["Absolute uncertainty<br/> Δl = 0.5 cm"]
+    A --> P["Percentage uncertainty<br/> (Δl / l) × 100%<br/> = 2.1%"]
+    P --> C["Combined uncertainty<br/> add % uncertainties<br/> when multiplying/dividing"]
+    C --> R["Result with uncertainty<br/> e.g. area = 576 ± 24 cm²"]
 ```
 *Figure: Uncertainty flows from an individual measurement through percentage form into a combined uncertainty for the final calculated result. The number of significant figures in the result should match the uncertainty.*
 *Source: Authored for this vault (CC0). No external copyright.*

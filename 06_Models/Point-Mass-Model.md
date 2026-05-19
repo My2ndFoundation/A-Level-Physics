@@ -77,11 +77,11 @@ This formalises the GCSE habit of drawing an object as a dot with arrows. It mak
 
 ```mermaid
 graph TD
-    A["Real object\n(size, shape, rotation, deformation)"]
+    A["Real object<br/>(size, shape, rotation, deformation)"]
     B["Point mass model"]
     C["Single point carrying mass m"]
-    D["Translational equations apply\nF = ma,  p = mv"]
-    E["Rotation / moments → excluded\n(use Rigid Body Model instead)"]
+    D["Translational equations apply<br/>F = ma,  p = mv"]
+    E["Rotation / moments → excluded<br/>(use Rigid Body Model instead)"]
 
     A -->|"idealise"| B
     B --> C

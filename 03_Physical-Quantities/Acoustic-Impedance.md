@@ -89,9 +89,9 @@ Plotting $I_r/I_0$ against the impedance ratio $Z_2/Z_1$ shows reflection is min
 
 ```mermaid
 flowchart LR
-  A["Medium 1\nZ₁ = ρ₁c₁"] -->|"Incident wave I₀"| B["Boundary"]
+  A["Medium 1<br/>Z₁ = ρ₁c₁"] -->|"Incident wave I₀"| B["Boundary"]
   B -->|"Reflected wave Iᵣ"| A
-  B -->|"Transmitted wave Iₜ"| C["Medium 2\nZ₂ = ρ₂c₂"]
+  B -->|"Transmitted wave Iₜ"| C["Medium 2<br/>Z₂ = ρ₂c₂"]
   B -. "Iᵣ/I₀ = ((Z₂−Z₁)/(Z₂+Z₁))²" .- B
 ```
 

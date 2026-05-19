@@ -93,10 +93,10 @@ Combining $p \propto 1/V$ (Boyle, constant $T$), $V \propto T$ (Charles, constan
 
 ```mermaid
 graph TD
-    state["Ideal gas state\npV = nRT"]
-    boyle["Boyle's Law\np ∝ 1/V (constant T)\npV = constant"]
-    charles["Charles's Law\nV ∝ T (constant p)"]
-    pressure["Pressure Law\np ∝ T (constant V)"]
+    state["Ideal gas state<br/>pV = nRT"]
+    boyle["Boyle's Law<br/>p ∝ 1/V (constant T)<br/>pV = constant"]
+    charles["Charles's Law<br/>V ∝ T (constant p)"]
+    pressure["Pressure Law<br/>p ∝ T (constant V)"]
     state --> boyle
     state --> charles
     state --> pressure

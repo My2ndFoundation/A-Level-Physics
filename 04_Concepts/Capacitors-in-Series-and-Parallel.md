@@ -101,12 +101,12 @@ flowchart LR
         P1["C₁"] --- Pjoin
         P2["C₂"] --- Pjoin
         P3["C₃"] --- Pjoin
-        Pjoin["C_total = C₁ + C₂ + C₃\n(capacitance increases)"]
+        Pjoin["C_total = C₁ + C₂ + C₃<br/>(capacitance increases)"]
     end
     subgraph SER["Series — same Q through each"]
         direction TB
         S1["C₁"] --> S2["C₂"] --> S3["C₃"]
-        Sresult["1/C_total = 1/C₁ + 1/C₂ + 1/C₃\n(C_total < smallest Cᵢ)"]
+        Sresult["1/C_total = 1/C₁ + 1/C₂ + 1/C₃<br/>(C_total < smallest Cᵢ)"]
     end
 ```
 

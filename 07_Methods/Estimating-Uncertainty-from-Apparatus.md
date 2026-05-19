@@ -71,15 +71,15 @@ Uncertainty should reflect the *largest* genuine source of doubt. Quoting the re
 ```mermaid
 flowchart TD
     A[Single reading — what instrument?] --> B{Instrument type}
-    B -->|"Analogue scale\n(ruler, thermometer)"| C["± half the smallest division"]
-    B -->|"Digital instrument\n(multimeter, digital timer)"| D["± last displayed digit"]
-    B -->|"Difference of two readings\n(e.g. length from ruler)"| E["± 1 whole division\n(uncertainty at both ends)"]
-    B -->|"Hand-timed with stopwatch"| F["± reaction time ~0.3 s\n(dominates over 0.01 s resolution)"]
-    C --> G[Use as Δx in\nCalculating-Percentage-Uncertainty]
+    B -->|"Analogue scale<br/>(ruler, thermometer)"| C["± half the smallest division"]
+    B -->|"Digital instrument<br/>(multimeter, digital timer)"| D["± last displayed digit"]
+    B -->|"Difference of two readings<br/>(e.g. length from ruler)"| E["± 1 whole division<br/>(uncertainty at both ends)"]
+    B -->|"Hand-timed with stopwatch"| F["± reaction time ~0.3 s<br/>(dominates over 0.01 s resolution)"]
+    C --> G[Use as Δx in<br/>Calculating-Percentage-Uncertainty]
     D --> G
     E --> G
     F --> G
-    A2[Repeated readings] --> H["Δx ≈ ½ × range\n= ½ × (max − min)"]
+    A2[Repeated readings] --> H["Δx ≈ ½ × range<br/>= ½ × (max − min)"]
     H --> G
 ```
 *Figure: Decision tree for estimating absolute uncertainty from apparatus. Always use the largest genuine source of doubt — do not default to instrument resolution when a larger effect (e.g. reaction time) dominates.*

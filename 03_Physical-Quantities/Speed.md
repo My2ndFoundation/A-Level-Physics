@@ -87,11 +87,11 @@ On a distance–time graph, speed is the **gradient**. On a speed–time graph t
 
 ```mermaid
 flowchart LR
-    s["Speed v = d/t (m s⁻¹)\nscalar — magnitude only"]
-    dt["Distance–time graph\ngradient = speed"]
-    st["Speed–time graph\ngradient = acceleration\narea = distance"]
-    vel["Velocity (vector)\n= speed + direction"]
-    acc["Acceleration\n= rate of change of speed\n(or direction)"]
+    s["Speed v = d/t (m s⁻¹)<br/>scalar — magnitude only"]
+    dt["Distance–time graph<br/>gradient = speed"]
+    st["Speed–time graph<br/>gradient = acceleration<br/>area = distance"]
+    vel["Velocity (vector)<br/>= speed + direction"]
+    acc["Acceleration<br/>= rate of change of speed<br/>(or direction)"]
 
     s -->|"add direction"| vel
     s -->|"d vs t"| dt

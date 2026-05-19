@@ -91,15 +91,15 @@ By definition, in one period the wave moves one wavelength: $v = \text{distance}
 
 ```mermaid
 graph TD
-    v["Wave speed v (m s⁻¹)\nset by the medium"]
-    f["Frequency f (Hz)\nset by the source\nunchanged across boundaries"]
-    lambda["Wavelength λ (m)\nλ = v / f"]
+    v["Wave speed v (m s⁻¹)<br/>set by the medium"]
+    f["Frequency f (Hz)<br/>set by the source<br/>unchanged across boundaries"]
+    lambda["Wavelength λ (m)<br/>λ = v / f"]
     T["Period T = 1/f (s)"]
     v --> lambda
     f --> lambda
     f --> T
     T --> lambda
-    note["When entering a new medium:\nf fixed, v changes → λ changes"]
+    note["When entering a new medium:<br/>f fixed, v changes → λ changes"]
     lambda --- note
 ```
 *Figure: Wave speed equation — v = fλ. Frequency is fixed by the source; wavelength adjusts when the wave enters a new medium.*

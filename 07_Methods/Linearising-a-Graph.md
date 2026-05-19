@@ -74,13 +74,13 @@ Any relationship reducible to $y = mx + c$ maps onto a straight line whose slope
 ```mermaid
 flowchart TD
     A[Suspected relationship] --> B{Type of law?}
-    B -->|"Power: y = axⁿ"| C["Take logs: log y vs log x\ngradient = n, intercept = log a"]
-    B -->|"Exponential: y = A e^(−kx)"| D["Take ln: ln y vs x\ngradient = −k, intercept = ln A"]
-    B -->|"Polynomial (e.g. T² ∝ L)"| E["Rearrange algebraically\nPlot transformed variables"]
-    C --> F[Straight-line plot — apply\nFinding-Gradient-from-a-Graph]
+    B -->|"Power: y = axⁿ"| C["Take logs: log y vs log x<br/>gradient = n, intercept = log a"]
+    B -->|"Exponential: y = A e^(−kx)"| D["Take ln: ln y vs x<br/>gradient = −k, intercept = ln A"]
+    B -->|"Polynomial (e.g. T² ∝ L)"| E["Rearrange algebraically<br/>Plot transformed variables"]
+    C --> F[Straight-line plot — apply<br/>Finding-Gradient-from-a-Graph]
     D --> F
     E --> F
-    F --> G[Gradient and intercept give\nthe physical constant(s)]
+    F --> G[Gradient and intercept give<br/>the physical constant(s)]
 ```
 *Figure: Decision tree for selecting the correct linearisation. Power laws use log–log; exponential laws use ln–linear; polynomial relationships use algebraic rearrangement.*
 *Source: Authored for this vault (CC0). No external copyright.*

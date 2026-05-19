@@ -94,11 +94,11 @@ By analogy with the photon, for which $p = h/\lambda$ (from $E = hf$ and $E = pc
 
 ```mermaid
 graph LR
-    p["Momentum p = mv\n(kg m s⁻¹)"]
-    h["Planck constant h\n≈ 6.63 × 10⁻³⁴ J s"]
-    lambda["de Broglie wavelength\nλ = h / p (m)"]
-    p -->|"larger p →"| shorter["Shorter λ\n(less wave-like\nbehaviour)"]
-    p -->|"smaller p →"| longer["Longer λ\n(diffraction observable\nif λ ≈ obstacle size)"]
+    p["Momentum p = mv<br/>(kg m s⁻¹)"]
+    h["Planck constant h<br/>≈ 6.63 × 10⁻³⁴ J s"]
+    lambda["de Broglie wavelength<br/>λ = h / p (m)"]
+    p -->|"larger p →"| shorter["Shorter λ<br/>(less wave-like<br/>behaviour)"]
+    p -->|"smaller p →"| longer["Longer λ<br/>(diffraction observable<br/>if λ ≈ obstacle size)"]
     h --> lambda
     p --> lambda
 ```

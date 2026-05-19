@@ -87,11 +87,11 @@ On a displacement–time graph, the period is the time for one full cycle (peak 
 
 ```mermaid
 flowchart LR
-    T["Period T (s)\none complete cycle"]
+    T["Period T (s)<br/>one complete cycle"]
     f["Frequency f = 1/T (Hz)"]
-    omega["Angular frequency\nω = 2π/T (rad s⁻¹)"]
-    pend["Simple pendulum\nT = 2π√(L/g)"]
-    spring["Mass–spring\nT = 2π√(m/k)"]
+    omega["Angular frequency<br/>ω = 2π/T (rad s⁻¹)"]
+    pend["Simple pendulum<br/>T = 2π√(L/g)"]
+    spring["Mass–spring<br/>T = 2π√(m/k)"]
 
     T <-->|"reciprocal"| f
     T -->|"2π/T"| omega

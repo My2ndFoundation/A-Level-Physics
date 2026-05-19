@@ -86,7 +86,7 @@ states of the gas; volume itself is a measured three-dimensional quantity.
 
 ```mermaid
 flowchart LR
-    V["Volume V (m³)\n3-D space occupied"]
+    V["Volume V (m³)<br/>3-D space occupied"]
     cub["Cuboid: V = l × w × h"]
     sph["Sphere: V = (4/3)πr³"]
     cyl["Cylinder: V = πr²h"]

@@ -93,9 +93,9 @@ The first law is a special case of [[Newton-Second-Law]] with zero resultant for
 ```mermaid
 graph TD
     ΣF{"Resultant force ΣF"}
-    ΣF -->|"ΣF = 0"| eq["Constant velocity\n(or rest)"]
-    ΣF -->|"ΣF ≠ 0"| acc["Acceleration\na = ΣF / m"]
-    eq --> inertia["Inertia — no cause needed\nfor uniform motion"]
+    ΣF -->|"ΣF = 0"| eq["Constant velocity<br/>(or rest)"]
+    ΣF -->|"ΣF ≠ 0"| acc["Acceleration<br/>a = ΣF / m"]
+    eq --> inertia["Inertia — no cause needed<br/>for uniform motion"]
 ```
 *Figure: Newton's First Law decision tree: zero resultant force gives constant velocity; non-zero resultant force gives acceleration.*
 *Source: Authored for this vault (CC0). No external copyright.*

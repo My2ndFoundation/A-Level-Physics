@@ -90,9 +90,9 @@ current as moving charge.
 ### Static charge: electron transfer by friction
 ```mermaid
 flowchart LR
-    A["Object A (insulator)"] -- "friction / contact\ntransfers electrons" --> B["Object B (insulator)"]
-    A --> PA["Loses electrons\n→ positively charged"]
-    B --> PB["Gains electrons\n→ negatively charged"]
+    A["Object A (insulator)"] -- "friction / contact<br/>transfers electrons" --> B["Object B (insulator)"]
+    A --> PA["Loses electrons<br/>→ positively charged"]
+    B --> PB["Gains electrons<br/>→ negatively charged"]
     PA -- "unlike charges" --> ATT["attract"]
     PB -- "unlike charges" --> ATT
     PA -- "like charges" --> REP["repel (with another +)"]

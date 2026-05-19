@@ -84,8 +84,8 @@ The photon concept explains why only sufficiently high-frequency light causes th
 flowchart TB
     E2["Higher energy level  E₂"]
     E1["Lower energy level  E₁"]
-    E2 -->|"electron drops\nemits photon\nE_photon = E₂ − E₁ = hf"| E1
-    note["E = hf = hc/λ\nh ≈ 6.63 × 10⁻³⁴ J s\nHigher f → more energetic photon"]
+    E2 -->|"electron drops<br/>emits photon<br/>E_photon = E₂ − E₁ = hf"| E1
+    note["E = hf = hc/λ<br/>h ≈ 6.63 × 10⁻³⁴ J s<br/>Higher f → more energetic photon"]
 ```
 *Figure: When an electron falls from level E₂ to E₁ it emits a photon with exactly the energy difference. This fixes the photon's frequency f = (E₂ − E₁)/h and hence its colour. A brighter source means more photons per second, not more energetic ones.*
 *Source: Authored for this vault (CC0). No external copyright.*

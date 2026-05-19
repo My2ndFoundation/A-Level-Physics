@@ -90,11 +90,11 @@ On an [[IV-Characteristic]], current is plotted against p.d.; the gradient gives
 
 ```mermaid
 flowchart LR
-  A["Charge Q\n(coulombs)"] -->|"÷ time t"| B["Current I = ΔQ/Δt\n(amperes)"]
+  A["Charge Q<br/>(coulombs)"] -->|"÷ time t"| B["Current I = ΔQ/Δt<br/>(amperes)"]
   B -->|"× time t"| A
-  B -->|"V = IR"| C["Potential Difference V\n(volts)"]
+  B -->|"V = IR"| C["Potential Difference V<br/>(volts)"]
   C -->|"I = V/R"| B
-  B -->|"I = nAvq"| D["Drift model:\nn, A, v, q"]
+  B -->|"I = nAvq"| D["Drift model:<br/>n, A, v, q"]
 ```
 
 *Figure: Current I is the rate of charge flow. It links upward to charge (Q = It) and laterally to p.d. via Ohm's law. The drift model I = nAvq shows how carrier density, cross-section, drift speed and charge determine macroscopic current.*

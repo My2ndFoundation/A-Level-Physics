@@ -95,12 +95,12 @@ Area under a force–displacement graph = energy transferred (work). On a [[Forc
 
 ```mermaid
 flowchart TD
-  KE["Kinetic Energy\nEk = ½mv²"] -->|"work done\nby friction"| Thermal["Thermal Energy"]
-  KE -->|"rises in height"| GPE["Gravitational PE\nEp = mgΔh"]
+  KE["Kinetic Energy<br/>Ek = ½mv²"] -->|"work done<br/>by friction"| Thermal["Thermal Energy"]
+  KE -->|"rises in height"| GPE["Gravitational PE<br/>Ep = mgΔh"]
   GPE -->|"falls"| KE
-  KE -->|"stretches spring"| Elastic["Elastic Strain Energy\nE = ½kx²"]
+  KE -->|"stretches spring"| Elastic["Elastic Strain Energy<br/>E = ½kx²"]
   Elastic -->|"releases"| KE
-  Elec["Electrical Energy\nE = QV"] -->|"motor"| KE
+  Elec["Electrical Energy<br/>E = QV"] -->|"motor"| KE
   KE -->|"generator"| Elec
 ```
 

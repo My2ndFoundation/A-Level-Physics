@@ -96,7 +96,7 @@ graph LR
     N["Number of turns N"]
     theta["Angle θ between B and area normal"]
     NΦ["Flux linkage NΦ = NBAcosθ (Wb)"]
-    emf["Induced e.m.f.\nε = −Δ(NΦ)/Δt (V)"]
+    emf["Induced e.m.f.<br/>ε = −Δ(NΦ)/Δt (V)"]
     B --> NΦ
     A --> NΦ
     N --> NΦ

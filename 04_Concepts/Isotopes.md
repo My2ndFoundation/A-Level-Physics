@@ -82,18 +82,18 @@ Isotopes enable radioactive dating (e.g. ¹⁴C in [[Carbon-Dating]]), medical t
 flowchart LR
     subgraph H1["¹H  Protium"]
         direction TB
-        p1["1 proton\n0 neutrons"]
+        p1["1 proton<br/>0 neutrons"]
     end
     subgraph H2["²H  Deuterium"]
         direction TB
-        p2["1 proton\n1 neutron"]
+        p2["1 proton<br/>1 neutron"]
     end
     subgraph H3["³H  Tritium (radioactive)"]
         direction TB
-        p3["1 proton\n2 neutrons"]
+        p3["1 proton<br/>2 neutrons"]
     end
     H1 --- H2 --- H3
-    note["All three: Z = 1, identical chemistry\nOnly A (mass number) differs"]
+    note["All three: Z = 1, identical chemistry<br/>Only A (mass number) differs"]
 ```
 *Figure: The three hydrogen isotopes share one proton (same element, same chemistry) but carry 0, 1, or 2 neutrons. Tritium is unstable (radioactive) because its neutron-to-proton ratio is too high.*
 *Source: Authored for this vault (CC0). No external copyright.*

@@ -79,9 +79,9 @@ Phase difference defines coherence (needed for stable [[Interference]]), describ
 ### Phase relationship: in phase vs antiphase
 ```mermaid
 flowchart LR
-    A["Phase difference = 0\n(or 2π, 4π, …)\nIn phase → constructive"] --> B["Both crests arrive together\nResultant amplitude = 2A"]
-    C["Phase difference = π\n(or 3π, 5π, …)\nAntiphase → destructive"] --> D["Crest meets trough\nResultant amplitude = 0"]
-    E["Phase difference = π/2\n(quarter cycle)"] --> F["Partial reinforcement\nResultant between 0 and 2A"]
+    A["Phase difference = 0<br/>(or 2π, 4π, …)<br/>In phase → constructive"] --> B["Both crests arrive together<br/>Resultant amplitude = 2A"]
+    C["Phase difference = π<br/>(or 3π, 5π, …)<br/>Antiphase → destructive"] --> D["Crest meets trough<br/>Resultant amplitude = 0"]
+    E["Phase difference = π/2<br/>(quarter cycle)"] --> F["Partial reinforcement<br/>Resultant between 0 and 2A"]
 ```
 *Figure: The result of superposition depends entirely on the phase difference. In phase (Δφ = 0, 2π, …) gives constructive interference; antiphase (Δφ = π, 3π, …) gives destructive. Phase difference links to path difference via Δφ = (2π/λ)Δx.*
 *Source: Authored for this vault (CC0). No external copyright.*

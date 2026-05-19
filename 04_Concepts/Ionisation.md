@@ -91,9 +91,9 @@ flowchart TB
     Zero["0 eV  ──── ionisation level (free electron)"]
     L2["─────── excited level (e.g. −1.5 eV)"]
     L1["─────── ground state (e.g. −13.6 eV for hydrogen)"]
-    L1 -->|"excitation:\nphoton absorbed,\nelectron stays bound"| L2
-    L1 -->|"ionisation:\nenough energy to\nreach 0 eV — electron escapes"| Zero
-    L2 -->|"recombination:\nphoton emitted"| L1
+    L1 -->|"excitation:<br/>photon absorbed,<br/>electron stays bound"| L2
+    L1 -->|"ionisation:<br/>enough energy to<br/>reach 0 eV — electron escapes"| Zero
+    L2 -->|"recombination:<br/>photon emitted"| L1
 ```
 *Figure: Ionisation requires raising the electron from its current level all the way to the zero (free) level. Excitation only raises it to an intermediate level; the electron remains bound. Ionisation energy = energy needed to reach 0 eV from the ground state.*
 *Source: Authored for this vault (CC0). No external copyright.*

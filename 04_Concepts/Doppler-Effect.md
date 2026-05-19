@@ -106,11 +106,11 @@ galaxies, detect binary stars and exoplanets, and — through galactic
 
 ```mermaid
 flowchart LR
-    S["Moving source\n(speed v toward observer)"] --> C["Wavefronts compressed\nahead of source\n→ shorter observed λ\n→ higher observed f"]
-    S --> R["Wavefronts stretched\nbehind source\n→ longer observed λ\n→ lower observed f"]
-    C --> Blue["Blueshift\n(approach)"]
-    R --> Red["Redshift\n(recession)"]
-    Red --> Astro["Galactic redshift\nΔλ/λ = v/c\n→ Hubble's Law"]
+    S["Moving source<br/>(speed v toward observer)"] --> C["Wavefronts compressed<br/>ahead of source<br/>→ shorter observed λ<br/>→ higher observed f"]
+    S --> R["Wavefronts stretched<br/>behind source<br/>→ longer observed λ<br/>→ lower observed f"]
+    C --> Blue["Blueshift<br/>(approach)"]
+    R --> Red["Redshift<br/>(recession)"]
+    Red --> Astro["Galactic redshift<br/>Δλ/λ = v/c<br/>→ Hubble's Law"]
 ```
 
 *Figure: A source moving toward an observer compresses wavefronts (blueshift); moving away stretches them (redshift). For astronomical light: $\Delta\lambda/\lambda \approx v/c$ for $v \ll c$.*

@@ -92,7 +92,7 @@ In a force–acceleration plot for a fixed body, the gradient equals the mass. I
 
 ```mermaid
 flowchart LR
-    m["Mass m (kg)\n(inertia + gravitational strength)"]
+    m["Mass m (kg)<br/>(inertia + gravitational strength)"]
     F["Resultant Force F (N)"]
     a["Acceleration a (m s⁻²)"]
     W["Weight W = mg (N)"]

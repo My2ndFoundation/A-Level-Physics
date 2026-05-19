@@ -90,11 +90,11 @@ Speed measured by light gates / motion sensors combined with an observed or reco
 
 ```mermaid
 flowchart LR
-    v["Velocity v = Δs/Δt\n(m s⁻¹, vector)"]
-    DT["Displacement–time graph\ngradient = velocity\n(sign gives direction)"]
-    VT["Velocity–time graph\ngradient = acceleration\narea = displacement"]
-    comp["Components:\nvₓ = v cosθ\nvy = v sinθ"]
-    SUVAT["SUVAT equations\nv = u + at\nv² = u² + 2as"]
+    v["Velocity v = Δs/Δt<br/>(m s⁻¹, vector)"]
+    DT["Displacement–time graph<br/>gradient = velocity<br/>(sign gives direction)"]
+    VT["Velocity–time graph<br/>gradient = acceleration<br/>area = displacement"]
+    comp["Components:<br/>vₓ = v cosθ<br/>vy = v sinθ"]
+    SUVAT["SUVAT equations<br/>v = u + at<br/>v² = u² + 2as"]
 
     v --> DT
     v --> VT

@@ -92,11 +92,11 @@ The gradient of an energy–time graph equals power. The area under a power–ti
 
 ```mermaid
 flowchart LR
-    P["Power P (W)\nrate of energy transfer"]
-    Pmech["P = W/t = Fv\nmechanical"]
-    Pelec["P = IV = I²R = V²/R\nelectrical"]
-    Eff["Efficiency\n= P_useful / P_total"]
-    E["Energy E (J)\nE = Pt"]
+    P["Power P (W)<br/>rate of energy transfer"]
+    Pmech["P = W/t = Fv<br/>mechanical"]
+    Pelec["P = IV = I²R = V²/R<br/>electrical"]
+    Eff["Efficiency<br/>= P_useful / P_total"]
+    E["Energy E (J)<br/>E = Pt"]
 
     P --> Pmech
     P --> Pelec

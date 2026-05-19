@@ -99,17 +99,17 @@ flowchart LR
         Gs["Source: mass m"]
         Gf["Force: F = Gm₁m₂/r²"]
         Gst["Field: g = F/m (N kg⁻¹)"]
-        Gp["Potential: V_g = −GM/r\n(always negative)"]
+        Gp["Potential: V_g = −GM/r<br/>(always negative)"]
         Ga["Always attractive only"]
     end
     subgraph E["Electric field"]
         Es["Source: charge Q"]
         Ef["Force: F = (1/4πε₀)Q₁Q₂/r²"]
         Est["Field: E = F/Q (N C⁻¹)"]
-        Ep["Potential: V = (1/4πε₀)Q/r\n(+ or −)"]
+        Ep["Potential: V = (1/4πε₀)Q/r<br/>(+ or −)"]
         Ea["Can attract OR repel"]
     end
-    G -.->|"same maths\n1/r² force\n1/r potential"| E
+    G -.->|"same maths<br/>1/r² force<br/>1/r potential"| E
 ```
 
 *Figure: Both fields share the same inverse-square force law and 1/r potential. Key difference: gravity is always attractive (no negative mass); electric force can attract or repel (two charge signs exist).*

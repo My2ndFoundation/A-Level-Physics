@@ -79,12 +79,12 @@ Systematic error damages **accuracy**; random error damages **precision**. Knowi
 ### Systematic vs random errors: cause and remedy
 ```mermaid
 flowchart TD
-    ERR["Measurement error\n(measured ≠ true value)"] --> SYS["Systematic error\nAll readings shifted same way\n(zero error, calibration drift,\nincorrect technique)"]
-    ERR --> RAN["Random error\nReadings scatter either side\n(reaction time, parallax,\nfluctuating conditions)"]
-    SYS --> FIX1["Fix: redesign method,\nzero the instrument,\napply correction"]
-    RAN --> FIX2["Reduce: repeat and average,\nmore repeats → smaller\nrandom uncertainty"]
-    SYS --> EFF1["Damages accuracy\n(result biased from true value)"]
-    RAN --> EFF2["Damages precision\n(wide scatter in repeats)"]
+    ERR["Measurement error<br/>(measured ≠ true value)"] --> SYS["Systematic error<br/>All readings shifted same way<br/>(zero error, calibration drift,<br/>incorrect technique)"]
+    ERR --> RAN["Random error<br/>Readings scatter either side<br/>(reaction time, parallax,<br/>fluctuating conditions)"]
+    SYS --> FIX1["Fix: redesign method,<br/>zero the instrument,<br/>apply correction"]
+    RAN --> FIX2["Reduce: repeat and average,<br/>more repeats → smaller<br/>random uncertainty"]
+    SYS --> EFF1["Damages accuracy<br/>(result biased from true value)"]
+    RAN --> EFF2["Damages precision<br/>(wide scatter in repeats)"]
 ```
 *Figure: Systematic error cannot be averaged away; random error can. Knowing which type is present tells you whether to average more or fix the procedure.*
 *Source: Authored for this vault (CC0). No external copyright.*

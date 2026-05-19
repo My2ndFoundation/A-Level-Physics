@@ -87,12 +87,12 @@ On a [[Stress-Strain-Graph]] (stress on the y-axis, strain on the x-axis), the i
 
 ```mermaid
 flowchart LR
-    sig["Stress σ = F/A (Pa)\ny-axis of stress–strain graph"]
+    sig["Stress σ = F/A (Pa)<br/>y-axis of stress–strain graph"]
     F["Applied Force F (N)"]
     A["Cross-section A = πd²/4 (m²)"]
-    E["Young Modulus E = σ/ε\ngradient of linear region"]
-    UTS["Ultimate Tensile Stress\nmaximum before fracture"]
-    SSG["Stress–Strain Graph\nelastic → yield → plastic → fracture"]
+    E["Young Modulus E = σ/ε<br/>gradient of linear region"]
+    UTS["Ultimate Tensile Stress<br/>maximum before fracture"]
+    SSG["Stress–Strain Graph<br/>elastic → yield → plastic → fracture"]
 
     F -->|"÷ A"| sig
     A --> sig

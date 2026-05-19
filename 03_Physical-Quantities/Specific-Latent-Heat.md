@@ -88,9 +88,9 @@ flowchart LR
     E["Energy E = mL (J)"]
     m["Mass changing state m (kg)"]
     L["Specific Latent Heat L (J kg⁻¹)"]
-    Lf["Fusion Lf\nsolid ⇌ liquid"]
-    Lv["Vaporisation Lv\nliquid ⇌ gas"]
-    T["Temperature stays constant\nduring state change"]
+    Lf["Fusion Lf<br/>solid ⇌ liquid"]
+    Lv["Vaporisation Lv<br/>liquid ⇌ gas"]
+    T["Temperature stays constant<br/>during state change"]
 
     m -->|"× L"| E
     L --> Lf

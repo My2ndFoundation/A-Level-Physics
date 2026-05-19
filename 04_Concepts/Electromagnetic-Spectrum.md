@@ -80,7 +80,7 @@ The spectrum organises how each region interacts with matter: visible light for 
 
 ```mermaid
 flowchart LR
-    A["Radio\n(lowest f\nlongest λ)"] --> B["Microwave"] --> C["Infrared"] --> D["Visible\n(~400–700 nm)"] --> E["Ultraviolet"] --> F["X-rays"] --> G["Gamma rays\n(highest f\nshortest λ)"]
+    A["Radio<br/>(lowest f<br/>longest λ)"] --> B["Microwave"] --> C["Infrared"] --> D["Visible<br/>(~400–700 nm)"] --> E["Ultraviolet"] --> F["X-rays"] --> G["Gamma rays<br/>(highest f<br/>shortest λ)"]
     style A fill:#e8f4fd
     style B fill:#d4eaf7
     style C fill:#fdebd0

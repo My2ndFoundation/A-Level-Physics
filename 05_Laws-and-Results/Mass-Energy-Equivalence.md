@@ -91,15 +91,15 @@ Treated as a stated relativistic result at A-Level; no derivation required.
 
 ```mermaid
 graph LR
-    reactants["Reactant nuclei\ntotal mass M_before"]
-    products["Product nuclei\ntotal mass M_after"]
-    defect["Mass defect\nΔm = M_before − M_after"]
-    energy["Energy released\nΔE = Δm × c²"]
+    reactants["Reactant nuclei<br/>total mass M_before"]
+    products["Product nuclei<br/>total mass M_after"]
+    defect["Mass defect<br/>Δm = M_before − M_after"]
+    energy["Energy released<br/>ΔE = Δm × c²"]
     reactants -->|"fission or fusion"| products
     reactants --> defect
     products --> defect
     defect -->|"ΔE = Δm c²"| energy
-    note["1 u ↔ 931.5 MeV\nc² ≈ 9 × 10¹⁶ m² s⁻²"]
+    note["1 u ↔ 931.5 MeV<br/>c² ≈ 9 × 10¹⁶ m² s⁻²"]
     energy --- note
 ```
 *Figure: Mass–energy equivalence in nuclear processes — the mass defect converts to released energy via E = Δmc².*

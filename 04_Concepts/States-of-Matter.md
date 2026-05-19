@@ -84,9 +84,9 @@ During a **change of state**, energy is supplied but [[Temperature]] does not ch
 ### States of matter: particle arrangement and energy transitions
 ```mermaid
 flowchart LR
-    S["Solid\nFixed lattice\nStrong bonds\nVibration only"] -- "melt (add energy,\nT stays flat)" --> L["Liquid\nClose, mobile\nWeaker bonds\nFlow"] -- "boil (add energy,\nT stays flat)" --> G["Gas\nFar apart\nNegligible forces\nRandom fast motion"]
-    G -- "condense\n(remove energy)" --> L
-    L -- "freeze\n(remove energy)" --> S
+    S["Solid<br/>Fixed lattice<br/>Strong bonds<br/>Vibration only"] -- "melt (add energy,<br/>T stays flat)" --> L["Liquid<br/>Close, mobile<br/>Weaker bonds<br/>Flow"] -- "boil (add energy,<br/>T stays flat)" --> G["Gas<br/>Far apart<br/>Negligible forces<br/>Random fast motion"]
+    G -- "condense<br/>(remove energy)" --> L
+    L -- "freeze<br/>(remove energy)" --> S
 ```
 *Figure: Moving right (solid → gas) adds potential energy (breaking bonds) — T does not rise during a change of state. Kinetic energy (and hence T) rises only within a single state.*
 *Source: Authored for this vault (CC0). No external copyright.*

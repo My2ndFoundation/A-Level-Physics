@@ -88,12 +88,12 @@ way. Long-range weather forecasting hits the same wall.
 
 ```mermaid
 flowchart TD
-    A["Deterministic equations\n(Newton's laws)"] --> B["Nonlinear system"]
-    B --> C["Sensitive dependence\non initial conditions"]
-    C --> D["Practical unpredictability\n(weather, turbulence)"]
+    A["Deterministic equations<br/>(Newton's laws)"] --> B["Nonlinear system"]
+    B --> C["Sensitive dependence<br/>on initial conditions"]
+    C --> D["Practical unpredictability<br/>(weather, turbulence)"]
     B --> E["Many interacting parts"]
-    E --> F["Emergence\n(collective order)"]
-    D --> G["Strange attractor\n(structured chaos)"]
+    E --> F["Emergence<br/>(collective order)"]
+    D --> G["Strange attractor<br/>(structured chaos)"]
     F --> H["Complexity science"]
     G --> H
 ```

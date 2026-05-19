@@ -87,11 +87,11 @@ Terminal velocity is a standard exam scenario linking forces, energy and graph i
 ### Terminal velocity: force balance and velocity–time behaviour
 ```mermaid
 flowchart TD
-    REL["Object released from rest\nv = 0, drag = 0"] --> ACC["Accelerates at g\n(W > drag, resultant ≠ 0)"]
-    ACC --> DRAG["Speed increases\n→ drag increases"]
-    DRAG --> DEC["Resultant force decreases\n→ acceleration decreases"]
-    DEC --> TERM["Eventually drag = W\nResultant = 0\nAcceleration = 0"]
-    TERM --> TV["Terminal velocity:\nconstant speed,\nnot at rest"]
+    REL["Object released from rest<br/>v = 0, drag = 0"] --> ACC["Accelerates at g<br/>(W > drag, resultant ≠ 0)"]
+    ACC --> DRAG["Speed increases<br/>→ drag increases"]
+    DRAG --> DEC["Resultant force decreases<br/>→ acceleration decreases"]
+    DEC --> TERM["Eventually drag = W<br/>Resultant = 0<br/>Acceleration = 0"]
+    TERM --> TV["Terminal velocity:<br/>constant speed,<br/>not at rest"]
 ```
 *Figure: The velocity–time graph rises steeply then curves to a horizontal line at terminal velocity. The gradient (acceleration) starts at g and falls smoothly to zero.*
 *Source: Authored for this vault (CC0). No external copyright.*

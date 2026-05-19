@@ -95,11 +95,11 @@ The electric field in an electrostatic circuit is conservative, so the work done
 
 ```mermaid
 graph LR
-    emf["EMF source ε\n(energy gained per unit charge)"]
-    R1["Resistor R₁\nVoltage drop I·R₁"]
-    R2["Resistor R₂\nVoltage drop I·R₂"]
-    r["Internal resistance r\nVoltage drop I·r"]
-    loop["Closed loop:\nΣε = ΣIR\nε = I(R₁ + R₂ + r)\n(energy conservation)"]
+    emf["EMF source ε<br/>(energy gained per unit charge)"]
+    R1["Resistor R₁<br/>Voltage drop I·R₁"]
+    R2["Resistor R₂<br/>Voltage drop I·R₂"]
+    r["Internal resistance r<br/>Voltage drop I·r"]
+    loop["Closed loop:<br/>Σε = ΣIR<br/>ε = I(R₁ + R₂ + r)<br/>(energy conservation)"]
     emf --> R1
     R1 --> R2
     R2 --> r

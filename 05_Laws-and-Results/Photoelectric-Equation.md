@@ -96,9 +96,9 @@ Energy conservation for a single photon–electron interaction: input photon ene
 ```mermaid
 graph LR
     photon["Photon energy hf"]
-    phi["Work function φ\n(energy to escape metal)"]
-    KE["KE_max = hf − φ\n(maximum kinetic energy\nof emitted electron)"]
-    threshold["Threshold frequency f₀\nhf₀ = φ → KE = 0"]
+    phi["Work function φ<br/>(energy to escape metal)"]
+    KE["KE_max = hf − φ<br/>(maximum kinetic energy<br/>of emitted electron)"]
+    threshold["Threshold frequency f₀<br/>hf₀ = φ → KE = 0"]
     photon -->|"if hf ≥ φ"| KE
     photon --> phi
     phi --> threshold

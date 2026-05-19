@@ -90,11 +90,11 @@ On an [[IV-Characteristic]], p.d. is the x-axis (or y-axis depending on conventi
 
 ```mermaid
 flowchart LR
-    V["Potential Difference V\n(energy per unit charge, J C⁻¹)"]
+    V["Potential Difference V<br/>(energy per unit charge, J C⁻¹)"]
     I["Current I (A)"]
     R["Resistance R (Ω)"]
     P["Power P = IV (W)"]
-    emf["emf ε: terminal p.d. = ε − Ir\n(lost volts = Ir)"]
+    emf["emf ε: terminal p.d. = ε − Ir<br/>(lost volts = Ir)"]
 
     V -->|"V = IR (Ohm's Law)"| R
     I --> R

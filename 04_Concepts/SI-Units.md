@@ -94,13 +94,13 @@ SI units make measurements reproducible worldwide, allow dimensional checking of
 ### SI base units → derived units (selected A-Level examples)
 ```mermaid
 flowchart TD
-    KG["kg (mass)"] --> N["newton N = kg m s⁻²\nF = ma"]
+    KG["kg (mass)"] --> N["newton N = kg m s⁻²<br/>F = ma"]
     M["m (length)"] --> N
     S["s (time)"] --> N
-    N --> J["joule J = N m = kg m² s⁻²\nW = Fd"]
-    N --> PA["pascal Pa = N m⁻² = kg m⁻¹ s⁻²\np = F/A"]
-    J --> W2["watt W = J s⁻¹ = kg m² s⁻³\nP = W/t"]
-    A_["A (current)"] --> V2["volt V = kg m² s⁻³ A⁻¹\nV = W/I"]
+    N --> J["joule J = N m = kg m² s⁻²<br/>W = Fd"]
+    N --> PA["pascal Pa = N m⁻² = kg m⁻¹ s⁻²<br/>p = F/A"]
+    J --> W2["watt W = J s⁻¹ = kg m² s⁻³<br/>P = W/t"]
+    A_["A (current)"] --> V2["volt V = kg m² s⁻³ A⁻¹<br/>V = W/I"]
     J --> V2
     S --> V2
 ```

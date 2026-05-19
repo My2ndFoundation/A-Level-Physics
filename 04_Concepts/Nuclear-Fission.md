@@ -87,14 +87,14 @@ Fission provides nuclear electricity, raises questions of waste and safety, and 
 ### Nuclear fission chain reaction
 ```mermaid
 flowchart LR
-    N0["Slow neutron"] --> U235["²³⁵U absorbs\nneutron"]
-    U235 --> Split["Nucleus splits into\n2 daughter nuclei\n+ 2–3 fast neutrons\n+ energy (KE + γ)"]
+    N0["Slow neutron"] --> U235["²³⁵U absorbs<br/>neutron"]
+    U235 --> Split["Nucleus splits into<br/>2 daughter nuclei<br/>+ 2–3 fast neutrons<br/>+ energy (KE + γ)"]
     Split --> N1["Neutron 1"]
     Split --> N2["Neutron 2"]
-    Split --> N3["Neutron 3 (absorbed\nby control rod)"]
+    Split --> N3["Neutron 3 (absorbed<br/>by control rod)"]
     N1 --> U235b["²³⁵U → splits again"]
     N2 --> U235c["²³⁵U → splits again"]
-    note["One neutron per fission\ncauses the next →\ncritical (controlled) chain"]
+    note["One neutron per fission<br/>causes the next →<br/>critical (controlled) chain"]
 ```
 *Figure: Each fission releases 2–3 neutrons. In a controlled reactor, on average one neutron from each fission triggers the next, maintaining a critical chain reaction. Control rods absorb surplus neutrons.*
 *Source: Authored for this vault (CC0). No external copyright.*

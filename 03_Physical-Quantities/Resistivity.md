@@ -87,11 +87,11 @@ A graph of resistance against length (constant cross-section) is a straight line
 
 ```mermaid
 flowchart LR
-    rho["Resistivity ρ (Ω m)\nmaterial property"]
-    R["Resistance R = ρL/A (Ω)\nsample property"]
+    rho["Resistivity ρ (Ω m)<br/>material property"]
+    R["Resistance R = ρL/A (Ω)<br/>sample property"]
     L["Length L (m)"]
     A["Cross-section A = πd²/4 (m²)"]
-    graph["R vs L graph\ngradient = ρ/A"]
+    graph["R vs L graph<br/>gradient = ρ/A"]
 
     rho -->|"× L/A"| R
     L --> R

@@ -94,7 +94,7 @@ graph LR
     A["Object A"]
     B["Object B"]
     A -->|"F_A on B  →"| B
-    B -->|"← F_B on A\n(equal magnitude,\nopposite direction,\nsame type)"| A
+    B -->|"← F_B on A<br/>(equal magnitude,<br/>opposite direction,<br/>same type)"| A
 ```
 *Figure: Newton's Third Law — every force has an equal and opposite partner acting on the other object.*
 *Source: Authored for this vault (CC0). No external copyright.*

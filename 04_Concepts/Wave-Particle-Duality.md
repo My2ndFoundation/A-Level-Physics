@@ -88,11 +88,11 @@ Duality is the conceptual gateway to quantum mechanics, explains the electron mi
 ### Wave–particle duality: dual evidence chain
 ```mermaid
 flowchart LR
-    LIGHT["Light / EM radiation"] -- "shows WAVE nature" --> LW["Interference · Diffraction\n(Young's slits, grating patterns)"]
-    LIGHT -- "shows PARTICLE nature" --> LP["Photoelectric effect:\nphotons absorbed one-at-a-time"]
-    MAT["Matter (electrons, etc.)"] -- "shows PARTICLE nature" --> MP["Definite mass, charge,\nscatters like a particle"]
-    MAT -- "shows WAVE nature" --> MW["Electron diffraction:\nde Broglie λ = h/p\nring patterns in crystal"]
-    LW --> DUAL["Neither model alone is complete:\nbehaviour depends on the experiment"]
+    LIGHT["Light / EM radiation"] -- "shows WAVE nature" --> LW["Interference · Diffraction<br/>(Young's slits, grating patterns)"]
+    LIGHT -- "shows PARTICLE nature" --> LP["Photoelectric effect:<br/>photons absorbed one-at-a-time"]
+    MAT["Matter (electrons, etc.)"] -- "shows PARTICLE nature" --> MP["Definite mass, charge,<br/>scatters like a particle"]
+    MAT -- "shows WAVE nature" --> MW["Electron diffraction:<br/>de Broglie λ = h/p<br/>ring patterns in crystal"]
+    LW --> DUAL["Neither model alone is complete:<br/>behaviour depends on the experiment"]
     LP --> DUAL
     MP --> DUAL
     MW --> DUAL

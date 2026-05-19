@@ -89,11 +89,11 @@ The centre of mass lets complex objects be treated as point masses, makes Newton
 
 ```mermaid
 flowchart TD
-    A["Extended body\n(distributed mass)"] --> B["Centre of Mass (CoM)\nsingle representative point"]
+    A["Extended body<br/>(distributed mass)"] --> B["Centre of Mass (CoM)<br/>single representative point"]
     B --> C["Weight acts through CoM"]
-    B --> D{"CoM over\nbase of support?"}
-    D -->|Yes| E["Stable — restoring\nmoment returns it"]
-    D -->|No| F["Topples — weight\nmoment tips it over"]
+    B --> D{"CoM over<br/>base of support?"}
+    D -->|Yes| E["Stable — restoring<br/>moment returns it"]
+    D -->|No| F["Topples — weight<br/>moment tips it over"]
 ```
 
 *Figure: The weight of an object acts effectively through its centre of mass. Stability depends on whether the CoM lies over the base of support; if it moves outside, a toppling moment results.*

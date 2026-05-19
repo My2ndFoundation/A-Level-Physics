@@ -81,12 +81,12 @@ The SUVAT equations are the exact algebraic consequences of integrating a consta
 
 ```mermaid
 flowchart TD
-    A[List known suvat quantities] --> B{Which quantity\nis irrelevant / unknown?}
+    A[List known suvat quantities] --> B{Which quantity<br/>is irrelevant / unknown?}
     B -->|"No s"| C["v = u + at"]
     B -->|"No v"| D["s = ut + ½at²"]
     B -->|"No t"| E["v² = u² + 2as"]
     B -->|"No a"| F["s = ½(u + v)t"]
-    C --> G[Substitute with consistent signs\nCheck answer is physically sensible]
+    C --> G[Substitute with consistent signs<br/>Check answer is physically sensible]
     D --> G
     E --> G
     F --> G

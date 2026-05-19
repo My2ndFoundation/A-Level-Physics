@@ -86,10 +86,10 @@ A graph of fluid pressure against depth is a straight line of gradient $\rho g$ 
 
 ```mermaid
 flowchart LR
-    p["Pressure p = F/A (Pa)\nforce per unit area"]
+    p["Pressure p = F/A (Pa)<br/>force per unit area"]
     F["Normal Force F (N)"]
     A["Contact Area A (m²)"]
-    hyd["Hydrostatic:\np = hρg"]
+    hyd["Hydrostatic:<br/>p = hρg"]
     h["Depth h (m)"]
     rho["Fluid density ρ (kg m⁻³)"]
 

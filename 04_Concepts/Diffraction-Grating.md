@@ -75,12 +75,12 @@ Gratings give far more accurate wavelength measurements than a double slit and a
 
 ```mermaid
 flowchart LR
-    A["Monochromatic light\nwavelength λ"] --> B["Diffraction grating\nslit spacing d = 1/N"]
-    B --> C["Constructive interference\nwhen path difference = nλ"]
-    C --> D["d sin θ = nλ\n(grating equation)"]
-    D --> E["n = 0: straight through\n(zero order)"]
-    D --> F["n = ±1: first-order maxima\nat angle θ₁"]
-    D --> G["n = ±2: second-order…\n(limited by sinθ ≤ 1)"]
+    A["Monochromatic light<br/>wavelength λ"] --> B["Diffraction grating<br/>slit spacing d = 1/N"]
+    B --> C["Constructive interference<br/>when path difference = nλ"]
+    C --> D["d sin θ = nλ<br/>(grating equation)"]
+    D --> E["n = 0: straight through<br/>(zero order)"]
+    D --> F["n = ±1: first-order maxima<br/>at angle θ₁"]
+    D --> G["n = ±2: second-order…<br/>(limited by sinθ ≤ 1)"]
 ```
 
 *Figure: Each order n occurs where the path difference between adjacent slits equals n wavelengths. Different wavelengths diffract to different angles, producing spectra. Maximum order limited by sin θ ≤ 1.*

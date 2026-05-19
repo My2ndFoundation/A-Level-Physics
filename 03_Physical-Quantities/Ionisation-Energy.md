@@ -96,8 +96,8 @@ flowchart TD
   n2["n = 2  level"]
   n1["n = 1 (ground state)"]
   zero -. "ionisation energy Eᵢ" .- n1
-  n1 -->|"absorbed photon\nhf = E₃ − E₁"| n3
-  n3 -->|"emitted photon\nhf = E₃ − E₁"| n1
+  n1 -->|"absorbed photon<br/>hf = E₃ − E₁"| n3
+  n3 -->|"emitted photon<br/>hf = E₃ − E₁"| n1
   n2 -->|"emitted photon"| n1
 ```
 
