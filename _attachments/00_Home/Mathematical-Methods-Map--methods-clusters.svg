@@ -1,0 +1,82 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1100 700" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,sans-serif">
+  <style>
+    :root{
+      --bg:#ffffff;--ink:#1f2933;--muted:#5a6675;--edge:#8895a5;
+      --c5:#059669;--c5b:#d6f3e7;--c1:#2563eb;--c1b:#dbeafe;
+      --c3:#7c3aed;--c3b:#ede9fe;--c6:#d97706;--c6b:#fef0d6;
+    }
+    @media (prefers-color-scheme:dark){
+      :root{
+        --bg:#1b1d22;--ink:#e8eaed;--muted:#9aa5b1;--edge:#566072;
+        --c5:#34d399;--c5b:#0f3d2e;--c1:#60a5fa;--c1b:#1d3354;
+        --c3:#a78bfa;--c3b:#332457;--c6:#fbbf24;--c6b:#3f2f0c;
+      }
+    }
+    .ink{fill:var(--ink)} .muted{fill:var(--muted)}
+    .title{font-size:21px;font-weight:700}
+    .tier{font-size:11px;font-weight:700;fill:var(--muted);letter-spacing:.1em}
+    .ct{font-size:14px;font-weight:700}
+    .li{font-size:11.5px;fill:var(--ink)}
+    .edge{stroke:var(--edge);stroke-width:1.6;fill:none}
+  </style>
+  <rect width="1100" height="700" fill="var(--bg)"/>
+  <text x="36" y="38" class="title ink">Mathematical Methods Map — maths tools for A-Level Physics</text>
+  <text x="36" y="60" class="tier">EACH CLUSTER = A MATHEMATICAL TOOLBOX FEEDING MANY PHYSICS PAGES</text>
+
+  <!-- connectors from hub -->
+  <path class="edge" d="M550 142 C 200 150 160 160 160 196"/>
+  <path class="edge" d="M550 142 C 420 150 430 160 430 196"/>
+  <path class="edge" d="M550 142 C 690 150 690 160 690 196"/>
+  <path class="edge" d="M550 142 C 940 150 950 160 950 196"/>
+  <path class="edge" d="M550 144 C 300 360 250 410 270 446"/>
+  <path class="edge" d="M550 144 C 540 360 545 410 545 446"/>
+  <path class="edge" d="M550 144 C 800 360 830 410 820 446"/>
+
+  <!-- hub -->
+  <rect x="400" y="80" width="300" height="62" rx="16" fill="var(--c5b)" stroke="var(--c5)" stroke-width="2.5"/>
+  <text x="550" y="108" class="ink" font-size="16" font-weight="700" text-anchor="middle">Maths for A-Level Physics</text>
+  <text x="550" y="128" class="muted" font-size="11" text-anchor="middle">required mathematical toolkit</text>
+
+  <!-- Row 1 -->
+  <rect x="35" y="196" width="250" height="220" rx="12" fill="var(--c1b)" stroke="var(--c1)" stroke-width="1.6"/>
+  <text x="55" y="222" class="ct ink">Algebra &amp; Rearranging</text>
+  <text x="55" y="250" class="li">• Rearranging Equations</text>
+
+  <rect x="305" y="196" width="250" height="220" rx="12" fill="var(--c1b)" stroke="var(--c1)" stroke-width="1.6"/>
+  <text x="325" y="222" class="ct ink">Units &amp; Dimensions</text>
+  <text x="325" y="250" class="li">• SI Units</text>
+  <text x="325" y="274" class="li">• Dimensional Analysis</text>
+
+  <rect x="575" y="196" width="250" height="220" rx="12" fill="var(--c3b)" stroke="var(--c3)" stroke-width="1.6"/>
+  <text x="595" y="222" class="ct ink">Graphs</text>
+  <text x="595" y="250" class="li">• Finding Gradient from a Graph</text>
+  <text x="595" y="274" class="li">• Finding Area Under a Graph</text>
+  <text x="595" y="298" class="li">• Linearising a Graph</text>
+
+  <rect x="845" y="196" width="250" height="220" rx="12" fill="var(--c6b)" stroke="var(--c6)" stroke-width="1.6"/>
+  <text x="865" y="222" class="ct ink">Vectors</text>
+  <text x="865" y="250" class="li">• Resolving Forces</text>
+  <text x="865" y="274" class="li">• Resolving Vectors</text>
+  <text x="865" y="298" class="li">• Vector Triangle</text>
+  <text x="865" y="322" class="li">• Vectors and Scalars</text>
+  <text x="865" y="346" class="li">• Vector Components</text>
+
+  <!-- Row 2 -->
+  <rect x="145" y="446" width="250" height="220" rx="12" fill="var(--c6b)" stroke="var(--c6)" stroke-width="1.6"/>
+  <text x="165" y="472" class="ct ink">Trigonometry</text>
+  <text x="165" y="500" class="li">• Resolving Forces</text>
+  <text x="165" y="524" class="li">• Projectile Motion Model</text>
+
+  <rect x="420" y="446" width="250" height="220" rx="12" fill="var(--c5b)" stroke="var(--c5)" stroke-width="1.6"/>
+  <text x="440" y="472" class="ct ink">Exponentials &amp; Logs</text>
+  <text x="440" y="500" class="li">• Capacitor Discharge Equation</text>
+  <text x="440" y="524" class="li">• Radioactive Decay</text>
+  <text x="440" y="548" class="li">• Radioactive Decay Law</text>
+
+  <rect x="695" y="446" width="250" height="220" rx="12" fill="var(--c3b)" stroke="var(--c3)" stroke-width="1.6"/>
+  <text x="715" y="472" class="ct ink">Calculus Links</text>
+  <text x="715" y="500" class="li">• Velocity–Time Graph</text>
+  <text x="715" y="524" class="li">• Acceleration–Time Graph</text>
+  <text x="715" y="548" class="li">• Simple Harmonic Oscillator</text>
+  <text x="715" y="572" class="li">• Simple Harmonic Motion Equation</text>
+</svg>

@@ -14,6 +14,12 @@ This page provides human-readable routes through the Physics knowledge graph.
 
 It is not a fixed study plan. It is a map of prerequisite relationships.
 
+## Map
+
+![[_attachments/00_Home/Learning-Path-Map--skill-tree.svg|671]]
+*Figure: a prerequisite skill tree — everyday intuition feeds the backbone, which fans into the A-Level domains and converges on the frontier; the practical-skills and problem-solving rails support every route. The lists below are the exhaustive routes.*
+*Source: Authored for this vault (CC0). No external copyright.*
+
 ## Everyday Intuition Route
 
 - [[Why-Objects-Keep-Moving-in-Space]]

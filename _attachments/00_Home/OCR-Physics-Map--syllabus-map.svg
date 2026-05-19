@@ -1,0 +1,111 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 760" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,sans-serif">
+  <style>
+    :root{
+      --bg:#ffffff;--panel:#f3f5f8;--ink:#1f2933;--muted:#5a6675;
+      --c1:#2563eb;--c1b:#dbeafe;--c3:#7c3aed;--c3b:#ede9fe;
+      --c4:#dc2626;--c4b:#fde8e8;--c6:#d97706;--c6b:#fef0d6;
+    }
+    @media (prefers-color-scheme:dark){
+      :root{
+        --bg:#1b1d22;--panel:#24272f;--ink:#e8eaed;--muted:#9aa5b1;
+        --c1:#60a5fa;--c1b:#1d3354;--c3:#a78bfa;--c3b:#332457;
+        --c4:#f87171;--c4b:#46201f;--c6:#fbbf24;--c6b:#3f2f0c;
+      }
+    }
+    .ink{fill:var(--ink)} .muted{fill:var(--muted)}
+    .title{font-size:21px;font-weight:700}
+    .tier{font-size:11px;font-weight:700;fill:var(--muted);letter-spacing:.1em}
+    .mt{font-size:15px;font-weight:700}
+    .st{font-size:11.5px;fill:var(--ink)}
+    .sm{font-size:11px;fill:var(--muted)}
+    .fr{font-size:10px;font-weight:700;fill:var(--c6)}
+  </style>
+  <rect width="1200" height="760" fill="var(--bg)"/>
+  <text x="36" y="38" class="title ink">OCR Physics A H556 — syllabus alignment map</text>
+  <text x="36" y="60" class="tier">SYLLABUS ANCHORS → WIKI MOCS · NOT A TEXTBOOK CHAPTER LIST</text>
+
+  <!-- AS / A-Level split bar -->
+  <rect x="30" y="78" width="755" height="26" rx="8" fill="var(--c1b)" stroke="var(--c1)" stroke-width="1.3"/>
+  <text x="48" y="96" class="st ink" font-weight="700">Standalone AS (H156) — Modules 1–4</text>
+  <rect x="800" y="78" width="370" height="26" rx="8" fill="var(--c3b)" stroke="var(--c3)" stroke-width="1.3"/>
+  <text x="818" y="96" class="st ink" font-weight="700">A-Level (H556) adds Modules 5–6</text>
+
+  <!-- Module 1 -->
+  <rect x="30" y="120" width="370" height="200" rx="13" fill="var(--c1b)" stroke="var(--c1)" stroke-width="1.6"/>
+  <text x="50" y="148" class="mt ink">M1 · Development of Practical Skills</text>
+  <text x="50" y="174" class="st">1.1 Skills assessed in written exam</text>
+  <text x="50" y="196" class="st">1.2 Skills in the Practical Endorsement</text>
+  <text x="50" y="296" class="sm">→ Practical Skills MOC</text>
+
+  <!-- Module 2 -->
+  <rect x="415" y="120" width="370" height="200" rx="13" fill="var(--c1b)" stroke="var(--c1)" stroke-width="1.6"/>
+  <text x="435" y="148" class="mt ink">M2 · Foundations of Physics</text>
+  <text x="435" y="174" class="st">2.1 Physical quantities &amp; S.I. units</text>
+  <text x="435" y="196" class="st">2.2 Measurements &amp; uncertainties</text>
+  <text x="435" y="218" class="st">2.3 Scalars &amp; vectors</text>
+  <text x="435" y="296" class="sm">→ Foundations · Physical Quantities MOCs</text>
+
+  <!-- Module 3 -->
+  <rect x="800" y="120" width="370" height="200" rx="13" fill="var(--c1b)" stroke="var(--c1)" stroke-width="1.6"/>
+  <text x="820" y="148" class="mt ink">M3 · Forces and Motion</text>
+  <text x="820" y="174" class="st">3.1 Motion · 3.2 Forces in action</text>
+  <text x="820" y="196" class="st">3.3 Work, energy &amp; power</text>
+  <text x="820" y="218" class="st">3.4 Materials</text>
+  <text x="820" y="240" class="st">3.5 Newton's laws &amp; momentum</text>
+  <text x="820" y="296" class="sm">→ Mechanics MOC</text>
+
+  <!-- Module 4 -->
+  <rect x="30" y="345" width="370" height="210" rx="13" fill="var(--c1b)" stroke="var(--c1)" stroke-width="1.6"/>
+  <text x="50" y="373" class="mt ink">M4 · Electrons, Waves &amp; Photons</text>
+  <text x="50" y="399" class="st">4.1 Charge &amp; current · 4.2 Energy/resistance</text>
+  <text x="50" y="421" class="st">4.3 Electrical circuits</text>
+  <text x="50" y="443" class="st">4.4 Waves · 4.5 Quantum physics</text>
+  <text x="50" y="478" class="fr">frontier → Quantum Mechanics Map</text>
+  <text x="50" y="531" class="sm">→ Electricity · Waves · Quantum Physics MOCs</text>
+
+  <!-- Module 5 -->
+  <rect x="415" y="345" width="370" height="210" rx="13" fill="var(--c3b)" stroke="var(--c3)" stroke-width="1.6"/>
+  <text x="435" y="373" class="mt ink">M5 · Newtonian World &amp; Astrophysics</text>
+  <text x="435" y="399" class="st">5.1 Thermal physics · 5.2 Circular motion</text>
+  <text x="435" y="421" class="st">5.3 Oscillations</text>
+  <text x="435" y="443" class="st">5.4 Gravitational fields · 5.5 Astrophysics</text>
+  <text x="435" y="478" class="fr">frontier → Cosmology Map</text>
+  <text x="435" y="531" class="sm">→ Astrophysics · Fields MOCs</text>
+
+  <!-- Module 6 -->
+  <rect x="800" y="345" width="370" height="210" rx="13" fill="var(--c3b)" stroke="var(--c3)" stroke-width="1.6"/>
+  <text x="820" y="373" class="mt ink">M6 · Particles &amp; Medical Physics</text>
+  <text x="820" y="399" class="st">6.1 Capacitors · 6.2 Electric fields</text>
+  <text x="820" y="421" class="st">6.3 Electromagnetism</text>
+  <text x="820" y="443" class="st">6.4 Nuclear &amp; particle · 6.5 Medical imaging</text>
+  <text x="820" y="478" class="fr">frontier → Particle Physics Map</text>
+  <text x="820" y="531" class="sm">→ Nuclear Physics · Medical Physics MOCs</text>
+
+  <!-- Assessment band -->
+  <rect x="30" y="585" width="1140" height="140" rx="14" fill="var(--panel)"/>
+  <text x="50" y="612" class="tier">ASSESSMENT STRUCTURE · ALL COMPONENTS INCLUDE SYNOPTIC ASSESSMENT</text>
+  <g>
+    <rect x="50" y="626" width="255" height="82" rx="10" fill="var(--c4b)" stroke="var(--c4)" stroke-width="1.4"/>
+    <text x="68" y="650" class="st ink" font-weight="700">01 · Modelling physics</text>
+    <text x="68" y="672" class="sm">100 marks · 2h15 · 37%</text>
+    <text x="68" y="692" class="sm">Modules 1, 2, 3, 5</text>
+  </g>
+  <g>
+    <rect x="320" y="626" width="255" height="82" rx="10" fill="var(--c4b)" stroke="var(--c4)" stroke-width="1.4"/>
+    <text x="338" y="650" class="st ink" font-weight="700">02 · Exploring physics</text>
+    <text x="338" y="672" class="sm">100 marks · 2h15 · 37%</text>
+    <text x="338" y="692" class="sm">Modules 1, 2, 4, 6</text>
+  </g>
+  <g>
+    <rect x="590" y="626" width="255" height="82" rx="10" fill="var(--c4b)" stroke="var(--c4)" stroke-width="1.4"/>
+    <text x="608" y="650" class="st ink" font-weight="700">03 · Unified physics</text>
+    <text x="608" y="672" class="sm">70 marks · 1h30 · 26%</text>
+    <text x="608" y="692" class="sm">All modules 1–6</text>
+  </g>
+  <g>
+    <rect x="860" y="626" width="290" height="82" rx="10" fill="var(--c6b)" stroke="var(--c6)" stroke-width="1.4"/>
+    <text x="878" y="650" class="st ink" font-weight="700">04 · Practical Endorsement</text>
+    <text x="878" y="672" class="sm">Non-exam · teacher assessed</text>
+    <text x="878" y="692" class="sm">≥12 activities · PAG1–PAG12</text>
+  </g>
+</svg>

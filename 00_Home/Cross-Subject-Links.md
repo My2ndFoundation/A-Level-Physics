@@ -12,6 +12,12 @@ status: draft
 
 This page tracks Physics ideas that connect to Mathematics and Computer Science.
 
+## Map
+
+![[_attachments/00_Home/Cross-Subject-Links--hub-graph.svg|697]]
+*Figure: Physics as a hub linking out to three clusters — Mathematics, Computer Science, and Frontier Science & Technology. The lists below are the full link sets.*
+*Source: Authored for this vault (CC0). No external copyright.*
+
 ## Physics ↔ Mathematics
 
 - [[Resolving-Forces]]

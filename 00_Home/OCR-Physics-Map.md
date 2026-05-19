@@ -23,6 +23,12 @@ linked in as content sources are ingested. Source:
 
 Modules 1–4 form the standalone AS (H156); the A-Level adds Modules 5–6.
 
+## Map
+
+![[_attachments/00_Home/OCR-Physics-Map--syllabus-map.svg|697]]
+*Figure: the six modules with their sub-topics and target MOCs, the AS/A-Level split, frontier hooks, and the four assessment components. The module breakdown below is authoritative.*
+*Source: Authored for this vault (CC0). No external copyright.*
+
 ## Module 1: Development of Practical Skills in Physics
 
 See: [[Practical-Skills-MOC]]

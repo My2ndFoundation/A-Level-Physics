@@ -1,0 +1,131 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1180 600" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,sans-serif">
+  <style>
+    :root{
+      --bg:#ffffff;--panel:#f3f5f8;--ink:#1f2933;--muted:#5a6675;
+      --edge:#8895a5;--c1:#2563eb;--c1b:#dbeafe;--c2:#0891b2;--c2b:#cffafe;
+      --c3:#7c3aed;--c3b:#ede9fe;--c4:#dc2626;--c4b:#fde8e8;--c6:#d97706;--c6b:#fef0d6;
+    }
+    @media (prefers-color-scheme:dark){
+      :root{
+        --bg:#1b1d22;--panel:#24272f;--ink:#e8eaed;--muted:#9aa5b1;
+        --edge:#566072;--c1:#60a5fa;--c1b:#1d3354;--c2:#22d3ee;--c2b:#0e3a44;
+        --c3:#a78bfa;--c3b:#332457;--c4:#f87171;--c4b:#46201f;--c6:#fbbf24;--c6b:#3f2f0c;
+      }
+    }
+    .ink{fill:var(--ink)} .muted{fill:var(--muted)}
+    .title{font-size:21px;font-weight:700}
+    .tier{font-size:11px;font-weight:700;fill:var(--muted);letter-spacing:.1em}
+    .nt{font-size:13px;font-weight:700;text-anchor:middle}
+    .ns{font-size:9.5px;text-anchor:middle;fill:var(--muted)}
+    .edge{stroke:var(--edge);stroke-width:1.6;fill:none}
+    .sup{stroke:var(--c4);stroke-width:1.4;fill:none;stroke-dasharray:4 4;opacity:.7}
+  </style>
+  <defs>
+    <marker id="ar" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
+      <path d="M0 0L10 5L0 10z" fill="var(--edge)"/>
+    </marker>
+  </defs>
+  <rect width="1180" height="600" fill="var(--bg)"/>
+  <text x="40" y="38" class="title ink">Learning Path Map — prerequisite skill tree</text>
+  <text x="40" y="60" class="tier">A MAP OF PREREQUISITE ROUTES, NOT A FIXED STUDY PLAN</text>
+
+  <!-- tier headers -->
+  <text x="110" y="96" class="tier" text-anchor="middle">EVERYDAY</text>
+  <text x="300" y="96" class="tier" text-anchor="middle">GCSE</text>
+  <text x="490" y="96" class="tier" text-anchor="middle">BRIDGE</text>
+  <text x="680" y="96" class="tier" text-anchor="middle">FOUNDATIONS</text>
+  <text x="900" y="96" class="tier" text-anchor="middle">A-LEVEL DOMAINS</text>
+  <text x="1095" y="96" class="tier" text-anchor="middle">FRONTIER</text>
+
+  <!-- backbone edges -->
+  <path class="edge" marker-end="url(#ar)" d="M188 250 H224"/>
+  <path class="edge" marker-end="url(#ar)" d="M378 250 H414"/>
+  <path class="edge" marker-end="url(#ar)" d="M568 250 H604"/>
+  <!-- fan to domains -->
+  <path class="edge" marker-end="url(#ar)" d="M758 250 C 792 250 792 150 822 150"/>
+  <path class="edge" marker-end="url(#ar)" d="M758 250 C 792 250 792 222 822 222"/>
+  <path class="edge" marker-end="url(#ar)" d="M758 250 C 792 250 792 294 822 294"/>
+  <path class="edge" marker-end="url(#ar)" d="M758 250 C 792 250 792 366 822 366"/>
+  <!-- domains to frontier -->
+  <path class="edge" marker-end="url(#ar)" d="M984 150 C 1010 150 1010 258 1030 258"/>
+  <path class="edge" marker-end="url(#ar)" d="M984 222 C 1010 222 1010 258 1030 258"/>
+  <path class="edge" marker-end="url(#ar)" d="M984 294 C 1010 294 1010 270 1030 270"/>
+  <path class="edge" marker-end="url(#ar)" d="M984 366 C 1010 366 1010 282 1030 282"/>
+
+  <!-- support rails -->
+  <path class="sup" d="M250 480 C 300 420 540 360 620 286"/>
+  <path class="sup" d="M470 480 C 620 420 740 360 822 200"/>
+  <path class="sup" d="M470 480 C 700 430 800 380 822 330"/>
+
+  <!-- backbone nodes -->
+  <g>
+    <rect x="32" y="215" width="156" height="70" rx="12" fill="var(--c6b)" stroke="var(--c6)" stroke-width="1.5"/>
+    <text x="110" y="244" class="nt ink">Everyday Intuition</text>
+    <text x="110" y="262" class="ns">Why objects keep moving,</text>
+    <text x="110" y="275" class="ns">seatbelts, ice floats…</text>
+  </g>
+  <g>
+    <rect x="222" y="215" width="156" height="70" rx="12" fill="var(--c1b)" stroke="var(--c1)" stroke-width="1.5"/>
+    <text x="300" y="244" class="nt ink">GCSE Foundation</text>
+    <text x="300" y="262" class="ns">Distance · Speed · Force</text>
+    <text x="300" y="275" class="ns">Mass · Weight · Energy</text>
+  </g>
+  <g>
+    <rect x="412" y="215" width="156" height="70" rx="12" fill="var(--c2b)" stroke="var(--c2)" stroke-width="1.5"/>
+    <text x="490" y="244" class="nt ink">Bridge to A-Level</text>
+    <text x="490" y="262" class="ns">Distance→Displacement,</text>
+    <text x="490" y="275" class="ns">Speed→Velocity…</text>
+  </g>
+  <g>
+    <rect x="602" y="215" width="156" height="70" rx="12" fill="var(--c1b)" stroke="var(--c1)" stroke-width="1.5"/>
+    <text x="680" y="244" class="nt ink">Core Foundations</text>
+    <text x="680" y="262" class="ns">Displacement · Velocity</text>
+    <text x="680" y="275" class="ns">Acceleration · Momentum</text>
+  </g>
+
+  <!-- domain nodes -->
+  <g>
+    <rect x="822" y="123" width="162" height="54" rx="11" fill="var(--c3b)" stroke="var(--c3)" stroke-width="1.5"/>
+    <text x="903" y="146" class="nt ink">Mechanics</text>
+    <text x="903" y="164" class="ns">SUVAT · Newton · momentum</text>
+  </g>
+  <g>
+    <rect x="822" y="195" width="162" height="54" rx="11" fill="var(--c3b)" stroke="var(--c3)" stroke-width="1.5"/>
+    <text x="903" y="218" class="nt ink">Electricity</text>
+    <text x="903" y="236" class="ns">Charge → Ohm → dividers</text>
+  </g>
+  <g>
+    <rect x="822" y="267" width="162" height="54" rx="11" fill="var(--c3b)" stroke="var(--c3)" stroke-width="1.5"/>
+    <text x="903" y="290" class="nt ink">Waves &amp; Quantum</text>
+    <text x="903" y="308" class="ns">Superposition → photoelectric</text>
+  </g>
+  <g>
+    <rect x="822" y="339" width="162" height="54" rx="11" fill="var(--c3b)" stroke="var(--c3)" stroke-width="1.5"/>
+    <text x="903" y="362" class="nt ink">Fields</text>
+    <text x="903" y="380" class="ns">Gravitational · electric · magnetic</text>
+  </g>
+
+  <!-- frontier -->
+  <g>
+    <rect x="1030" y="234" width="118" height="72" rx="12" fill="var(--c6b)" stroke="var(--c6)" stroke-width="1.5"/>
+    <text x="1089" y="262" class="nt ink">Frontier</text>
+    <text x="1089" y="280" class="ns">Quantum · particle</text>
+    <text x="1089" y="293" class="ns">cosmology (shallow)</text>
+  </g>
+
+  <!-- support band -->
+  <rect x="40" y="455" width="700" height="110" rx="14" fill="var(--panel)"/>
+  <text x="60" y="480" class="tier">SUPPORT RAILS — USED THROUGHOUT EVERY ROUTE</text>
+  <g>
+    <rect x="60" y="492" width="300" height="56" rx="11" fill="var(--c4b)" stroke="var(--c4)" stroke-width="1.5"/>
+    <text x="210" y="516" class="nt ink">Practical Skills</text>
+    <text x="210" y="534" class="ns">Uncertainty · errors · gradients · linearising</text>
+  </g>
+  <g>
+    <rect x="380" y="492" width="340" height="56" rx="11" fill="var(--c4b)" stroke="var(--c4)" stroke-width="1.5"/>
+    <text x="550" y="516" class="nt ink">Problem-Solving</text>
+    <text x="550" y="534" class="ns">Resolving forces · free-body diagrams · mistake patterns</text>
+  </g>
+  <text x="760" y="512" class="ns" text-anchor="start">Dashed lines = support skills feeding</text>
+  <text x="760" y="528" class="ns" text-anchor="start">every backbone &amp; domain route.</text>
+</svg>

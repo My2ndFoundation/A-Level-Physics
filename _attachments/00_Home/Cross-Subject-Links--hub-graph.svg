@@ -1,0 +1,79 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1100 660" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,sans-serif">
+  <style>
+    :root{
+      --bg:#ffffff;--panel:#f3f5f8;--ink:#1f2933;--muted:#5a6675;--edge:#8895a5;
+      --c3:#7c3aed;--c3b:#ede9fe;--c5:#059669;--c5b:#d6f3e7;
+      --c1:#2563eb;--c1b:#dbeafe;--c6:#d97706;--c6b:#fef0d6;
+    }
+    @media (prefers-color-scheme:dark){
+      :root{
+        --bg:#1b1d22;--panel:#24272f;--ink:#e8eaed;--muted:#9aa5b1;--edge:#566072;
+        --c3:#a78bfa;--c3b:#332457;--c5:#34d399;--c5b:#0f3d2e;
+        --c1:#60a5fa;--c1b:#1d3354;--c6:#fbbf24;--c6b:#3f2f0c;
+      }
+    }
+    .ink{fill:var(--ink)} .muted{fill:var(--muted)}
+    .title{font-size:21px;font-weight:700}
+    .tier{font-size:11px;font-weight:700;fill:var(--muted);letter-spacing:.1em}
+    .gt{font-size:14px;font-weight:700}
+    .chip{font-size:11px;fill:var(--ink);text-anchor:middle}
+    .edge{stroke:var(--edge);stroke-width:2;fill:none}
+  </style>
+  <rect width="1100" height="660" fill="var(--bg)"/>
+  <text x="36" y="38" class="title ink">Cross-Subject Links — Physics as a connected hub</text>
+  <text x="36" y="60" class="tier">PHYSICS IDEAS THAT REACH INTO MATHS, COMPUTER SCIENCE &amp; FRONTIER SCIENCE</text>
+
+  <!-- connectors -->
+  <path class="edge" d="M250 330 C 340 330 340 150 410 150"/>
+  <path class="edge" d="M250 350 C 340 350 340 390 410 390"/>
+  <path class="edge" d="M250 360 C 340 360 340 560 410 560"/>
+
+  <!-- hub -->
+  <circle cx="160" cy="345" r="78" fill="var(--c3b)" stroke="var(--c3)" stroke-width="2.5"/>
+  <text x="160" y="340" class="ink" font-size="22" font-weight="700" text-anchor="middle">Physics</text>
+  <text x="160" y="362" class="muted" font-size="11" text-anchor="middle">knowledge graph</text>
+
+  <!-- Maths cluster -->
+  <rect x="410" y="86" width="650" height="170" rx="13" fill="var(--c5b)" stroke="var(--c5)" stroke-width="1.6"/>
+  <text x="430" y="112" class="gt ink">Physics ↔ Mathematics</text>
+  <g>
+    <rect x="430" y="124" width="195" height="28" rx="7" fill="var(--bg)" stroke="var(--c5)" stroke-width="1"/><text x="527" y="142" class="chip">Resolving Forces</text>
+    <rect x="635" y="124" width="195" height="28" rx="7" fill="var(--bg)" stroke="var(--c5)" stroke-width="1"/><text x="732" y="142" class="chip">Finding Gradient from a Graph</text>
+    <rect x="840" y="124" width="200" height="28" rx="7" fill="var(--bg)" stroke="var(--c5)" stroke-width="1"/><text x="940" y="142" class="chip">Finding Area Under a Graph</text>
+    <rect x="430" y="158" width="195" height="28" rx="7" fill="var(--bg)" stroke="var(--c5)" stroke-width="1"/><text x="527" y="176" class="chip">Linearising a Graph</text>
+    <rect x="635" y="158" width="195" height="28" rx="7" fill="var(--bg)" stroke="var(--c5)" stroke-width="1"/><text x="732" y="176" class="chip">Differentiation</text>
+    <rect x="840" y="158" width="200" height="28" rx="7" fill="var(--bg)" stroke="var(--c5)" stroke-width="1"/><text x="940" y="176" class="chip">Integration</text>
+    <rect x="430" y="192" width="195" height="28" rx="7" fill="var(--bg)" stroke="var(--c5)" stroke-width="1"/><text x="527" y="210" class="chip">Trigonometry</text>
+    <rect x="635" y="192" width="195" height="28" rx="7" fill="var(--bg)" stroke="var(--c5)" stroke-width="1"/><text x="732" y="210" class="chip">Capacitor Discharge Equation</text>
+    <rect x="840" y="192" width="200" height="28" rx="7" fill="var(--bg)" stroke="var(--c5)" stroke-width="1"/><text x="940" y="210" class="chip">Radioactive Decay Law</text>
+    <rect x="430" y="226" width="195" height="28" rx="7" fill="var(--bg)" stroke="var(--c5)" stroke-width="1"/><text x="527" y="244" class="chip">Measurement Uncertainty</text>
+    <rect x="635" y="226" width="195" height="28" rx="7" fill="var(--bg)" stroke="var(--c5)" stroke-width="1"/><text x="732" y="244" class="chip">Combining Uncertainties</text>
+    <rect x="840" y="226" width="200" height="28" rx="7" fill="var(--bg)" stroke="var(--c5)" stroke-width="1"/><text x="940" y="244" class="chip">Differential Equations</text>
+  </g>
+
+  <!-- CS cluster -->
+  <rect x="410" y="300" width="650" height="120" rx="13" fill="var(--c1b)" stroke="var(--c1)" stroke-width="1.6"/>
+  <text x="430" y="326" class="gt ink">Physics ↔ Computer Science</text>
+  <g>
+    <rect x="430" y="338" width="195" height="28" rx="7" fill="var(--bg)" stroke="var(--c1)" stroke-width="1"/><text x="527" y="356" class="chip">Logic Gates</text>
+    <rect x="635" y="338" width="195" height="28" rx="7" fill="var(--bg)" stroke="var(--c1)" stroke-width="1"/><text x="732" y="356" class="chip">Sensors</text>
+    <rect x="840" y="338" width="200" height="28" rx="7" fill="var(--bg)" stroke="var(--c1)" stroke-width="1"/><text x="940" y="356" class="chip">Signal Processing</text>
+    <rect x="430" y="372" width="195" height="28" rx="7" fill="var(--bg)" stroke="var(--c1)" stroke-width="1"/><text x="527" y="390" class="chip">Data Logging</text>
+    <rect x="635" y="372" width="195" height="28" rx="7" fill="var(--bg)" stroke="var(--c1)" stroke-width="1"/><text x="732" y="390" class="chip">Simulation</text>
+    <rect x="840" y="372" width="200" height="28" rx="7" fill="var(--bg)" stroke="var(--c1)" stroke-width="1"/><text x="940" y="390" class="chip">Numerical Modelling</text>
+  </g>
+
+  <!-- Frontier cluster -->
+  <rect x="410" y="464" width="650" height="120" rx="13" fill="var(--c6b)" stroke="var(--c6)" stroke-width="1.6"/>
+  <text x="430" y="490" class="gt ink">Physics ↔ Frontier Science &amp; Technology</text>
+  <g>
+    <rect x="430" y="502" width="300" height="28" rx="7" fill="var(--bg)" stroke="var(--c6)" stroke-width="1"/><text x="580" y="520" class="chip">Quantum Mechanics Map</text>
+    <rect x="740" y="502" width="300" height="28" rx="7" fill="var(--bg)" stroke="var(--c6)" stroke-width="1"/><text x="890" y="520" class="chip">Semiconductor Physics Map</text>
+    <rect x="430" y="536" width="300" height="28" rx="7" fill="var(--bg)" stroke="var(--c6)" stroke-width="1"/><text x="580" y="554" class="chip">Particle Physics Map</text>
+    <rect x="740" y="536" width="300" height="28" rx="7" fill="var(--bg)" stroke="var(--c6)" stroke-width="1"/><text x="890" y="554" class="chip">Cosmology Map</text>
+  </g>
+
+  <text x="160" y="470" class="muted" font-size="10.5" text-anchor="middle">Clickable links</text>
+  <text x="160" y="486" class="muted" font-size="10.5" text-anchor="middle">are in the lists</text>
+  <text x="160" y="502" class="muted" font-size="10.5" text-anchor="middle">below this figure.</text>
+</svg>

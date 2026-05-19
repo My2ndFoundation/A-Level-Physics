@@ -13,6 +13,12 @@ status: active
 
 This vault is a Physics knowledge graph for A-Level Physics and its foundations.
 
+## Vault Map
+
+![[_attachments/00_Home/Home--vault-overview.svg|671]]
+*Figure: the five-layer continuum, the main maps and learning-layer MOCs, and the core knowledge flow every atomic page connects along.*
+*Source: Authored for this vault (CC0). No external copyright.*
+
 ## Four-Layer Physics Structure
 
 This vault treats Physics as a continuous learning system:

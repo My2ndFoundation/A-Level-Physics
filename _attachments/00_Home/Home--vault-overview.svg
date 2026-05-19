@@ -1,0 +1,103 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 760" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,sans-serif">
+  <style>
+    :root{
+      --bg:#ffffff;--panel:#f3f5f8;--ink:#1f2933;--muted:#5a6675;--edge:#8895a5;
+      --c1:#2563eb;--c1b:#dbeafe;--c2:#0891b2;--c2b:#cffafe;
+      --c3:#7c3aed;--c3b:#ede9fe;--c5:#059669;--c5b:#d6f3e7;--c6:#d97706;--c6b:#fef0d6;
+    }
+    @media (prefers-color-scheme:dark){
+      :root{
+        --bg:#1b1d22;--panel:#24272f;--ink:#e8eaed;--muted:#9aa5b1;--edge:#566072;
+        --c1:#60a5fa;--c1b:#1d3354;--c2:#22d3ee;--c2b:#0e3a44;
+        --c3:#a78bfa;--c3b:#332457;--c5:#34d399;--c5b:#0f3d2e;--c6:#fbbf24;--c6b:#3f2f0c;
+      }
+    }
+    .ink{fill:var(--ink)} .muted{fill:var(--muted)}
+    .title{font-size:22px;font-weight:700}
+    .tier{font-size:11px;font-weight:700;fill:var(--muted);letter-spacing:.1em}
+    .pill{font-size:12px;font-weight:600;text-anchor:middle;fill:var(--ink)}
+    .pt{font-size:14px;font-weight:700}
+    .li{font-size:12px;fill:var(--ink)}
+    .ls{font-size:10.5px;fill:var(--muted)}
+    .kn{font-size:10.5px;text-anchor:middle;fill:var(--ink)}
+    .edge{stroke:var(--edge);stroke-width:1.6;fill:none}
+  </style>
+  <defs>
+    <marker id="ah" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
+      <path d="M0 0L10 5L0 10z" fill="var(--edge)"/>
+    </marker>
+  </defs>
+  <rect width="1200" height="760" fill="var(--bg)"/>
+  <text x="36" y="38" class="title ink">Home — Physics knowledge-graph overview</text>
+  <text x="36" y="60" class="tier">A CONTINUOUS LEARNING SYSTEM FROM EVERYDAY INTUITION TO THE FRONTIER</text>
+
+  <!-- continuum -->
+  <text x="36" y="92" class="tier">THE FIVE-LAYER CONTINUUM</text>
+  <g>
+    <rect x="36" y="104" width="172" height="50" rx="12" fill="var(--c6b)" stroke="var(--c6)" stroke-width="1.5"/><text x="122" y="134" class="pill">everyday intuition</text>
+    <path class="edge" marker-end="url(#ah)" d="M210 129 H230"/>
+    <rect x="232" y="104" width="172" height="50" rx="12" fill="var(--c1b)" stroke="var(--c1)" stroke-width="1.5"/><text x="318" y="134" class="pill">pre-GCSE foundation</text>
+    <path class="edge" marker-end="url(#ah)" d="M406 129 H426"/>
+    <rect x="428" y="104" width="172" height="50" rx="12" fill="var(--c1b)" stroke="var(--c1)" stroke-width="1.5"/><text x="514" y="134" class="pill">GCSE foundation</text>
+    <path class="edge" marker-end="url(#ah)" d="M602 129 H622"/>
+    <rect x="624" y="104" width="172" height="50" rx="12" fill="var(--c2b)" stroke="var(--c2)" stroke-width="1.5"/><text x="710" y="134" class="pill">bridge to A-Level</text>
+    <path class="edge" marker-end="url(#ah)" d="M798 129 H818"/>
+    <rect x="820" y="104" width="172" height="50" rx="12" fill="var(--c3b)" stroke="var(--c3)" stroke-width="2.5"/><text x="906" y="134" class="pill">A-Level core ★</text>
+    <path class="edge" marker-end="url(#ah)" d="M994 129 H1014"/>
+    <rect x="1016" y="104" width="150" height="50" rx="12" fill="var(--c6b)" stroke="var(--c6)" stroke-width="1.5" stroke-dasharray="6 4"/><text x="1091" y="134" class="pill">frontier map</text>
+  </g>
+
+  <!-- main maps panel -->
+  <rect x="36" y="180" width="558" height="250" rx="14" fill="var(--panel)"/>
+  <text x="58" y="208" class="pt ink">Main Maps</text>
+  <text x="58" y="238" class="li">• Four-Layer Physics Map  — the layer structure</text>
+  <text x="58" y="266" class="li">• Physics MOC  — A-Level core knowledge graph</text>
+  <text x="58" y="294" class="li">• OCR Physics Map  — H556 syllabus alignment</text>
+  <text x="58" y="322" class="li">• Learning Path Map  — prerequisite routes</text>
+  <text x="58" y="350" class="li">• Mathematical Methods Map  — maths toolkit</text>
+  <text x="58" y="378" class="li">• Cross-Subject Links  — maths · CS · frontier</text>
+
+  <!-- learning-layer MOC panel -->
+  <rect x="618" y="180" width="548" height="250" rx="14" fill="var(--panel)"/>
+  <text x="640" y="208" class="pt ink">Learning-Layer MOCs</text>
+  <text x="640" y="236" class="li">• Everyday Physics MOC</text><text x="640" y="251" class="ls">physical common sense</text>
+  <text x="640" y="276" class="li">• Pre-GCSE &amp; GCSE Foundations MOCs</text><text x="640" y="291" class="ls">prerequisite ideas</text>
+  <text x="640" y="316" class="li">• Bridge to A-Level MOC</text><text x="640" y="331" class="ls">where GCSE becomes A-Level</text>
+  <text x="640" y="356" class="li">• Physics MOC</text><text x="640" y="371" class="ls">A-Level OCR H556 core</text>
+  <text x="640" y="396" class="li">• Frontier Physics MOC</text><text x="640" y="411" class="ls">shallow modern-physics map</text>
+
+  <!-- knowledge flow -->
+  <text x="36" y="468" class="tier">THE CORE KNOWLEDGE FLOW — HOW EVERY ATOMIC PAGE CONNECTS</text>
+  <g>
+    <!-- row 1 -->
+    <rect x="36" y="486" width="150" height="40" rx="9" fill="var(--c6b)" stroke="var(--c6)" stroke-width="1.3"/><text x="111" y="510" class="kn">everyday observation</text>
+    <path class="edge" marker-end="url(#ah)" d="M188 506 H206"/>
+    <rect x="208" y="486" width="150" height="40" rx="9" fill="var(--c1b)" stroke="var(--c1)" stroke-width="1.3"/><text x="283" y="510" class="kn">foundation idea</text>
+    <path class="edge" marker-end="url(#ah)" d="M360 506 H378"/>
+    <rect x="380" y="486" width="150" height="40" rx="9" fill="var(--c1b)" stroke="var(--c1)" stroke-width="1.3"/><text x="455" y="510" class="kn">physical quantity</text>
+    <path class="edge" marker-end="url(#ah)" d="M532 506 H550"/>
+    <rect x="552" y="486" width="150" height="40" rx="9" fill="var(--c3b)" stroke="var(--c3)" stroke-width="1.3"/><text x="627" y="510" class="kn">concept</text>
+    <path class="edge" marker-end="url(#ah)" d="M704 506 H722"/>
+    <rect x="724" y="486" width="150" height="40" rx="9" fill="var(--c3b)" stroke="var(--c3)" stroke-width="1.3"/><text x="799" y="510" class="kn">law / result</text>
+    <path class="edge" marker-end="url(#ah)" d="M876 506 H894"/>
+    <rect x="896" y="486" width="150" height="40" rx="9" fill="var(--c3b)" stroke="var(--c3)" stroke-width="1.3"/><text x="971" y="510" class="kn">model</text>
+    <path class="edge" marker-end="url(#ah)" d="M1048 506 H1066"/>
+    <rect x="1016" y="486" width="150" height="40" rx="9" fill="var(--c2b)" stroke="var(--c2)" stroke-width="1.3"/><text x="1091" y="510" class="kn">representation</text>
+    <!-- U-turn -->
+    <path class="edge" d="M1091 528 V552"/>
+    <path class="edge" marker-end="url(#ah)" d="M1091 552 H1068"/>
+    <!-- row 2 (right to left) -->
+    <rect x="1016" y="556" width="150" height="40" rx="9" fill="var(--c5b)" stroke="var(--c5)" stroke-width="1.3"/><text x="1091" y="580" class="kn">method</text>
+    <path class="edge" marker-end="url(#ah)" d="M1014 576 H996"/>
+    <rect x="844" y="556" width="150" height="40" rx="9" fill="var(--c5b)" stroke="var(--c5)" stroke-width="1.3"/><text x="919" y="580" class="kn">experiment</text>
+    <path class="edge" marker-end="url(#ah)" d="M842 576 H824"/>
+    <rect x="672" y="556" width="150" height="40" rx="9" fill="var(--c2b)" stroke="var(--c2)" stroke-width="1.3"/><text x="747" y="580" class="kn">application</text>
+    <path class="edge" marker-end="url(#ah)" d="M670 576 H652"/>
+    <rect x="500" y="556" width="150" height="40" rx="9" fill="var(--c1b)" stroke="var(--c1)" stroke-width="1.3"/><text x="575" y="580" class="kn">problem type</text>
+    <path class="edge" marker-end="url(#ah)" d="M498 576 H480"/>
+    <rect x="328" y="556" width="150" height="40" rx="9" fill="var(--c1b)" stroke="var(--c1)" stroke-width="1.3"/><text x="403" y="580" class="kn">mistake pattern</text>
+    <path class="edge" marker-end="url(#ah)" d="M326 576 H308"/>
+    <rect x="156" y="556" width="150" height="40" rx="9" fill="var(--panel)" stroke="var(--edge)" stroke-width="1.3"/><text x="231" y="580" class="kn">source (provenance)</text>
+  </g>
+  <text x="600" y="650" class="ls" text-anchor="middle">Every atomic page sits somewhere on this flow and links along it — that is what makes the vault a graph, not a folder of notes.</text>
+</svg>

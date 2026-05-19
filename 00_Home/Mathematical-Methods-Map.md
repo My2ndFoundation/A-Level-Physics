@@ -12,6 +12,12 @@ status: draft
 
 This page tracks the mathematical tools required for A-Level Physics.
 
+## Map
+
+![[_attachments/00_Home/Mathematical-Methods-Map--methods-clusters.svg|697]]
+*Figure: the maths toolkit as seven clusters around a central hub — algebra, units, graphs, vectors, trigonometry, exponentials/logs, and calculus links. The lists below are the full set.*
+*Source: Authored for this vault (CC0). No external copyright.*
+
 ## Algebra and Rearranging
 
 - [[Rearranging-Equations]]

@@ -1,0 +1,62 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 600" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,sans-serif">
+  <style>
+    :root{
+      --bg:#ffffff;--ink:#1f2933;--muted:#5a6675;--edge:#8895a5;
+      --c1:#2563eb;--c1b:#dbeafe;--c2:#0891b2;--c2b:#cffafe;
+      --c3:#7c3aed;--c3b:#ede9fe;--c6:#d97706;--c6b:#fef0d6;
+    }
+    @media (prefers-color-scheme:dark){
+      :root{
+        --bg:#1b1d22;--ink:#e8eaed;--muted:#9aa5b1;--edge:#566072;
+        --c1:#60a5fa;--c1b:#1d3354;--c2:#22d3ee;--c2b:#0e3a44;
+        --c3:#a78bfa;--c3b:#332457;--c6:#fbbf24;--c6b:#3f2f0c;
+      }
+    }
+    .ink{fill:var(--ink)} .muted{fill:var(--muted)}
+    .title{font-size:21px;font-weight:700}
+    .tier{font-size:11px;font-weight:700;fill:var(--muted);letter-spacing:.1em}
+    .lt{font-size:15px;font-weight:700}
+    .ls{font-size:11px;fill:var(--muted)}
+    .ax{font-size:12px;font-weight:700;fill:var(--muted);letter-spacing:.05em}
+  </style>
+  <defs>
+    <marker id="up" viewBox="0 0 10 10" refX="5" refY="2" markerWidth="9" markerHeight="9" orient="auto">
+      <path d="M0 8L5 0L10 8z" fill="var(--edge)"/>
+    </marker>
+  </defs>
+  <rect width="1000" height="600" fill="var(--bg)"/>
+  <text x="40" y="38" class="title ink">Four-Layer Physics Map — the learning-layer stack</text>
+  <text x="40" y="60" class="tier">PHYSICS AS ONE CONTINUOUS SYSTEM · A-LEVEL CORE IS THE MAIN DETAILED LAYER</text>
+
+  <!-- progression axis -->
+  <line x1="70" y1="500" x2="70" y2="150" stroke="var(--edge)" stroke-width="2" marker-end="url(#up)"/>
+  <text x="44" y="330" class="ax" transform="rotate(-90 44 330)" text-anchor="middle">intuition  →  mastery  →  orientation</text>
+
+  <!-- L1 Everyday -->
+  <rect x="190" y="440" width="640" height="58" rx="12" fill="var(--c6b)" stroke="var(--c6)" stroke-width="1.5"/>
+  <text x="214" y="466" class="lt ink">Layer 1 · Everyday Physics</text>
+  <text x="214" y="486" class="ls">Build physical common sense  ·  Everyday Physics MOC</text>
+
+  <!-- L2 Pre-GCSE & GCSE -->
+  <rect x="170" y="368" width="680" height="60" rx="12" fill="var(--c1b)" stroke="var(--c1)" stroke-width="1.5"/>
+  <text x="194" y="394" class="lt ink">Layer 2 · Pre-GCSE &amp; GCSE Foundations</text>
+  <text x="194" y="414" class="ls">Recover basics  ·  Pre-GCSE Foundations MOC  ·  GCSE Foundations MOC</text>
+
+  <!-- L3 Bridge -->
+  <rect x="200" y="306" width="620" height="50" rx="12" fill="var(--c2b)" stroke="var(--c2)" stroke-width="1.5"/>
+  <text x="224" y="329" class="lt ink">Layer 3 · Bridge to A-Level</text>
+  <text x="224" y="346" class="ls">GCSE ideas become precise  ·  Bridge to A-Level MOC</text>
+
+  <!-- L4 Core (emphasised) -->
+  <rect x="130" y="200" width="760" height="94" rx="14" fill="var(--c3b)" stroke="var(--c3)" stroke-width="2.5"/>
+  <text x="154" y="230" class="lt ink" font-size="17">Layer 4 · A-Level OCR H556 Core  ★ main examinable graph</text>
+  <text x="154" y="254" class="ls" font-size="12">The detailed knowledge graph — quantities, concepts, laws, models, methods, experiments.</text>
+  <text x="154" y="276" class="ls" font-size="12">Physics MOC   ·   OCR Physics Map</text>
+
+  <!-- L5 Frontier (narrow, shallow) -->
+  <rect x="300" y="138" width="400" height="50" rx="12" fill="var(--c6b)" stroke="var(--c6)" stroke-width="1.5" stroke-dasharray="6 4"/>
+  <text x="324" y="161" class="lt ink">Layer 5 · Frontier Edge Maps</text>
+  <text x="324" y="178" class="ls">Shallow orientation only  ·  Frontier Physics MOC</text>
+
+  <text x="500" y="540" class="ls" text-anchor="middle">Core pages may link outward to foundations and frontier. Frontier pages stay shallow (dashed = peripheral).</text>
+</svg>

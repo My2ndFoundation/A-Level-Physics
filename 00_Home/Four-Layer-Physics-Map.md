@@ -12,6 +12,12 @@ status: draft
 
 This page explains the learning-layer structure of the Physics vault.
 
+## Map
+
+![[_attachments/00_Home/Four-Layer-Physics-Map--learning-layers.svg|697]]
+*Figure: the layer stack from everyday intuition up to the shallow frontier edge maps; the A-Level OCR H556 core is the widest, emphasised band — the main detailed layer.*
+*Source: Authored for this vault (CC0). No external copyright.*
+
 ## Layer 1: Everyday Physics
 
 Purpose: build physical common sense.
