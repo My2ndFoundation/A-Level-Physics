@@ -44,7 +44,7 @@ Everything around you — air, water, your own body — is made of atoms far too
 
 ## Key Quantities
 
-- [[Energy]]
+- [[Energy-GCSE|Energy]]
 - [[Electric-Current]]
 
 ## Related Concepts

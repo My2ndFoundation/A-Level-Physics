@@ -2,7 +2,9 @@
 type: moc
 subject: physics
 tags:
-  - moc thermal-physics newtonian-world
+  - moc
+  - thermal-physics
+  - newtonian-world
 status: draft
 ---
 

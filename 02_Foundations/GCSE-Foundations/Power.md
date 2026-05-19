@@ -42,7 +42,7 @@ A powerful kettle boils water faster than a low-power one because it transfers e
 
 ## Key Quantities
 
-- [[Energy]]
+- [[Energy-GCSE|Energy]]
 - [[Work]]
 - [[Electric-Current]]
 - [[Voltage]]

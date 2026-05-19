@@ -45,7 +45,7 @@ Newton's-cradle balls rebound almost elastically; two railway trucks coupling to
 
 - [[Velocity]]
 - [[Mass]]
-- [[Energy]]
+- [[Energy-Quantity|Energy]]
 
 ## Why It Matters
 

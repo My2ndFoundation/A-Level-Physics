@@ -66,7 +66,7 @@ In a force–acceleration plot for a fixed body, the gradient equals the mass. I
 - [[Force]]
 - [[Density]]
 - [[Momentum]]
-- [[Energy]]
+- [[Energy-Quantity|Energy]]
 
 ## Related Laws or Results
 

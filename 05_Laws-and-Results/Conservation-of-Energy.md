@@ -71,7 +71,7 @@ For a constant force doing work `W = Fd`, the workâ€“energy theorem gives `W = Î
 
 ## Related Quantities
 
-- [[Energy]]
+- [[Energy-Quantity|Energy]]
 - [[Work]]
 - [[Force]]
 - [[Mass]]

@@ -17,7 +17,7 @@ status: draft
 - [[From-Speed-to-Velocity]]
 - [[From-Distance-to-Displacement]]
 - [[From-Weight-to-Gravitational-Field-Strength]]
-- [[Energy]]
+- [[Energy-Quantity|Energy]]
 - [[Power]]
 
 ## Common-Sense Links
@@ -38,7 +38,7 @@ status: draft
 - [[Weight]]
 - [[Momentum]]
 - [[Impulse]]
-- [[Energy]]
+- [[Energy-Quantity|Energy]]
 - [[Work]]
 - [[Power]]
 - [[Density]]

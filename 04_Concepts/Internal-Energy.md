@@ -44,7 +44,7 @@ Stretching a rubber band or repeatedly bending a paperclip warms it: work done o
 
 ## GCSE Foundation
 
-- [[Energy]]
+- [[Energy-Quantity|Energy]]
 - [[Conservation-of-Energy]]
 
 ## Why It Matters

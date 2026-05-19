@@ -53,7 +53,7 @@ Plot total energy supplied $E$ (y-axis) against temperature $\theta$ (x-axis) fo
 
 ## Foundation Links
 
-- [[Energy]]
+- [[Energy-Quantity|Energy]]
 - [[Conservation-of-Energy]]
 
 ## Related Concepts

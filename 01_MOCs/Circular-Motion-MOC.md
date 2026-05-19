@@ -2,7 +2,9 @@
 type: moc
 subject: physics
 tags:
-  - moc circular-motion newtonian-world
+  - moc
+  - circular-motion
+  - newtonian-world
 status: draft
 ---
 

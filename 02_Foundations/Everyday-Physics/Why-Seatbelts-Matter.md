@@ -40,7 +40,7 @@ The key idea is that your change in motion (your [[Momentum]] going from "moving
 
 ## What This Builds Toward
 
-This everyday idea leads directly to [[Force]], [[Acceleration]], [[Momentum]], the idea of impulse (force acting over time), and [[Newton-Second-Law]]. It also connects to [[Energy]] ideas, because your kinetic energy has to be transferred safely rather than into damaging your body.
+This everyday idea leads directly to [[Force]], [[Acceleration]], [[Momentum]], the idea of impulse (force acting over time), and [[Newton-Second-Law]]. It also connects to [[Energy-GCSE|Energy]] ideas, because your kinetic energy has to be transferred safely rather than into damaging your body.
 
 ## Related A-Level Ideas
 
@@ -48,7 +48,7 @@ This everyday idea leads directly to [[Force]], [[Acceleration]], [[Momentum]], 
 - [[Acceleration]]
 - [[Momentum]]
 - [[Conservation-of-Momentum]]
-- [[Energy]]
+- [[Energy-GCSE|Energy]]
 
 ## Common Wrong Intuition
 

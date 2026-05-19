@@ -37,7 +37,7 @@ A cup of tea "feels hot" because its particles vibrate vigorously and transfer e
 
 ## GCSE Foundation
 
-- [[Energy]]
+- [[Energy-Quantity|Energy]]
 - Builds on the GCSE idea that heating increases particle motion
 
 ## Why It Matters

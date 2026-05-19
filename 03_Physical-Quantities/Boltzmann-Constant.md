@@ -58,7 +58,7 @@ A graph of mean molecular kinetic energy against thermodynamic temperature is a 
 
 ## Foundation Links
 
-- [[Energy]]
+- [[Energy-Quantity|Energy]]
 - [[Temperature]]
 
 ## Related Concepts

@@ -65,10 +65,11 @@ A moving ball can knock something over, transferring its movement energy. A stre
 
 ## Bridge to A-Level
 
-At A-Level the qualitative store-and-transfer picture becomes quantitative: kinetic energy as ½mv², gravitational potential energy as mgh near Earth, work done as force × distance moved in the direction of the force, and [[Power]] as the rate of energy transfer. Energy methods are combined with [[Conservation-of-Energy]] and force analysis to solve problems that would be hard using forces alone. See the A-Level [[Energy]] physical-quantity page for the formal treatment.
+At A-Level the qualitative store-and-transfer picture becomes quantitative: kinetic energy as ½mv², gravitational potential energy as mgh near Earth, work done as force × distance moved in the direction of the force, and [[Power]] as the rate of energy transfer. Energy methods are combined with [[Conservation-of-Energy]] and force analysis to solve problems that would be hard using forces alone. See the A-Level [[Energy-Quantity|Energy]] physical-quantity page for the formal treatment.
 
 ## Source Trace
 
 - Source: BBC Bitesize GCSE Physics (energy stores and transfers); IOPSpark; The Physics Classroom (energy)
 - Section/Page: General GCSE physics material, paraphrased
 - OCR alignment: [[OCR-Physics-A-H556-Specification]]
+  - GCSE energy

@@ -2,7 +2,8 @@
 type: moc
 subject: physics
 tags:
-  - moc quantum-physics
+  - moc
+  - quantum-physics
 status: draft
 ---
 

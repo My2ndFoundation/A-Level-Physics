@@ -19,7 +19,7 @@ sources: []
 
 ## Purpose
 
-This method finds a physical quantity from the area between a plotted line and the x-axis. The area often represents an accumulated quantity — e.g. the area under a [[Velocity-Time-Graph]] is displacement, and the area under a force–extension graph is work done (elastic [[Energy]]).
+This method finds a physical quantity from the area between a plotted line and the x-axis. The area often represents an accumulated quantity — e.g. the area under a [[Velocity-Time-Graph]] is displacement, and the area under a force–extension graph is work done (elastic [[Energy-Quantity|Energy]]).
 
 ## When to Use
 
@@ -56,7 +56,7 @@ Multiplying the y-value by a small x-interval and summing is exactly integration
 ## Related Quantities
 
 - [[Velocity]]
-- [[Energy]]
+- [[Energy-Quantity|Energy]]
 
 ## Related Laws or Results
 

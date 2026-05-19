@@ -36,7 +36,7 @@ It is not a fixed study plan. It is a map of prerequisite relationships.
 - [[Force]]
 - [[Mass]]
 - [[Weight]]
-- [[Energy]]
+- [[Energy-Quantity|Energy]]
 
 ## Bridge to A-Level Route
 
@@ -75,7 +75,7 @@ It is not a fixed study plan. It is a map of prerequisite relationships.
 
 ## Waves and Quantum Route
 
-- [[Waves]]
+- [[Waves-GCSE|Waves]]
 - [[Wave-Speed-Equation]]
 - [[Superposition]]
 - [[Standing-Waves]]

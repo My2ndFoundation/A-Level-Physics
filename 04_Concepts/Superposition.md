@@ -37,7 +37,7 @@ Two people talking at once — your ear receives the summed pressure wave. Rippl
 
 ## GCSE Foundation
 
-- [[Waves]]
+- [[Waves-GCSE|Waves]]
 - [[Amplitude]]
 - [[Wavelength]]
 

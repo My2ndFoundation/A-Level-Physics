@@ -2,7 +2,9 @@
 type: moc
 subject: physics
 tags:
-  - moc fields year-2
+  - moc
+  - fields
+  - year-2
 status: draft
 ---
 

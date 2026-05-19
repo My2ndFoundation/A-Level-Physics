@@ -2,7 +2,9 @@
 type: moc
 subject: physics
 tags:
-  - moc pre-gcse foundation
+  - moc
+  - pre-gcse
+  - foundation
 status: draft
 ---
 

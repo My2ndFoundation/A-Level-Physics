@@ -2,7 +2,9 @@
 type: moc
 subject: physics
 tags:
-  - moc medical-physics medical-imaging
+  - moc
+  - medical-physics
+  - medical-imaging
 status: draft
 ---
 

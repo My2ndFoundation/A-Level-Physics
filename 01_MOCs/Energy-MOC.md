@@ -2,7 +2,8 @@
 type: moc
 subject: physics
 tags:
-  - moc energy
+  - moc
+  - energy
 status: draft
 ---
 
@@ -10,7 +11,7 @@ status: draft
 
 ## Foundations
 
-- [[Energy]]
+- [[Energy-Quantity|Energy]]
 - [[Power]]
 
 ## Common-Sense Links
@@ -19,7 +20,7 @@ status: draft
 
 ## Physical Quantities
 
-- [[Energy]]
+- [[Energy-Quantity|Energy]]
 - [[Work]]
 - [[Power]]
 

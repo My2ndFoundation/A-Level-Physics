@@ -60,7 +60,7 @@ Energy released is the rest-mass lost, converted through [[Mass-Energy-Equivalen
 ## Related Quantities
 
 - [[Mass]]
-- [[Energy]]
+- [[Energy-Quantity|Energy]]
 
 ## Related Laws or Results
 

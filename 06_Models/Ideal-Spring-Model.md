@@ -20,7 +20,7 @@ sources: []
 
 ## Core Idea
 
-The ideal spring model represents an elastic object as a massless component whose restoring force is exactly proportional to its extension or compression, always directed back toward the natural length. This is Hooke's law behaviour: *F = kx*, where *k* is the spring constant. The model removes complications of real springs (mass, internal friction, permanent stretching) so the spring acts purely as a linear store of [[Energy]].
+The ideal spring model represents an elastic object as a massless component whose restoring force is exactly proportional to its extension or compression, always directed back toward the natural length. This is Hooke's law behaviour: *F = kx*, where *k* is the spring constant. The model removes complications of real springs (mass, internal friction, permanent stretching) so the spring acts purely as a linear store of [[Energy-Quantity|Energy]].
 
 ## Assumptions
 
@@ -34,7 +34,7 @@ The ideal spring model represents an elastic object as a massless component whos
 - Extension *x* (m)
 - Spring constant *k* (N m⁻¹)
 - Restoring [[Force]] *F* (N, vector toward equilibrium)
-- Elastic potential [[Energy]] *E* (J)
+- Elastic potential [[Energy-Quantity|Energy]] *E* (J)
 
 ## Key Equations
 

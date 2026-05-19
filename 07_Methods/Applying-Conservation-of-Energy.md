@@ -27,7 +27,7 @@ Use it when a problem involves changes in speed, height, or stored energy and as
 
 ## Prerequisites
 
-- [[Energy]]
+- [[Energy-Quantity|Energy]]
 - [[Conservation-of-Energy]]
 
 ## Method
@@ -55,7 +55,7 @@ Energy cannot be created or destroyed, only transferred between stores. In an is
 
 ## Related Quantities
 
-- [[Energy]]
+- [[Energy-Quantity|Energy]]
 - [[Velocity]]
 
 ## Related Laws or Results

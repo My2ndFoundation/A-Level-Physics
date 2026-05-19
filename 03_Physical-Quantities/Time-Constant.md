@@ -61,7 +61,7 @@ On a ln V (or ln Q) versus t graph the gradient is −1/RC, so the time constant
 
 ## Foundation Links
 
-- [[Energy]]
+- [[Energy-Quantity|Energy]]
 - [[Charge]]
 
 ## Related Concepts

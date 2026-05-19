@@ -23,7 +23,7 @@ A capacitor is a component that stores energy by separating positive and negativ
 
 ## Meaning
 
-A capacitor in its simplest form is two conducting plates separated by an insulator (the dielectric). When connected to a source of [[Potential-Difference]], electrons are pushed onto one plate and pulled off the other. One plate gains charge +Q, the other −Q, while the net charge stays zero. The separated charge sets up an [[Electric-Field]] between the plates and stores [[Energy]].
+A capacitor in its simplest form is two conducting plates separated by an insulator (the dielectric). When connected to a source of [[Potential-Difference]], electrons are pushed onto one plate and pulled off the other. One plate gains charge +Q, the other −Q, while the net charge stays zero. The separated charge sets up an [[Electric-Field]] between the plates and stores [[Energy-Quantity|Energy]].
 
 The defining relationship is the [[Capacitance]] equation:
 
@@ -44,7 +44,7 @@ A capacitor behaves like a tiny rechargeable store: charge flows in quickly, bui
 
 - [[Charge]]
 - [[Potential-Difference]]
-- [[Energy]]
+- [[Energy-Quantity|Energy]]
 
 ## Why It Matters
 
@@ -56,7 +56,7 @@ Capacitors smooth rectified voltages, provide timing in [[Capacitor-Timing-Circu
 - [[Charge]]
 - [[Potential-Difference]]
 - [[Time-Constant]]
-- [[Energy]]
+- [[Energy-Quantity|Energy]]
 
 ## Related Laws or Results
 

@@ -50,7 +50,7 @@ Mass defect is the quantity you compute first when finding binding energy or the
 ## Related Quantities
 
 - [[Mass]]
-- [[Energy]]
+- [[Energy-Quantity|Energy]]
 
 ## Related Laws or Results
 

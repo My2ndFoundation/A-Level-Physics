@@ -38,7 +38,7 @@ Two stones dropped in a pond create overlapping ripples with calm and choppy reg
 
 ## GCSE Foundation
 
-- [[Waves]]
+- [[Waves-GCSE|Waves]]
 - [[Superposition]]
 - [[Wavelength]]
 

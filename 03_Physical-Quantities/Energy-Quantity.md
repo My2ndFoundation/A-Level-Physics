@@ -60,7 +60,7 @@ Area under a force–displacement graph = energy transferred (work). On a [[Forc
 
 ## Foundation Links
 
-- [[Energy]] (GCSE-Foundations layer — prerequisite idea)
+- [[Energy-GCSE|Energy]] (GCSE-Foundations layer — prerequisite idea)
 
 ## Related Concepts
 
@@ -111,3 +111,4 @@ flowchart TD
 
 - Source: OpenStax College Physics; The Physics Classroom; HyperPhysics (paraphrased, no copied text)
 - OCR alignment: [[OCR-Physics-A-H556-Specification]]
+  - Energy

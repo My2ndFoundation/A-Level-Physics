@@ -36,7 +36,7 @@ Sound bends around a doorway so you can hear someone in the next room without se
 
 ## GCSE Foundation
 
-- [[Waves]]
+- [[Waves-GCSE|Waves]]
 - [[Wavelength]]
 - [[Superposition]]
 

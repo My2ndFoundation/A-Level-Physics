@@ -57,7 +57,7 @@ A graph of resistance against length (constant cross-section) is a straight line
 
 ## Foundation Links
 
-- [[Energy]] (GCSE-Foundations layer — conductors vs insulators)
+- [[Energy-Quantity|Energy]] (GCSE-Foundations layer — conductors vs insulators)
 
 ## Related Concepts
 

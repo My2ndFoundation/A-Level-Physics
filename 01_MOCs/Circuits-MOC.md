@@ -2,7 +2,9 @@
 type: moc
 subject: physics
 tags:
-  - moc electricity electric-circuits
+  - moc
+  - electricity
+  - electric-circuits
 status: draft
 ---
 

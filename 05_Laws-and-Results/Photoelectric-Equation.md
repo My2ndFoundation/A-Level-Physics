@@ -66,7 +66,7 @@ Energy conservation for a single photon–electron interaction: input photon ene
 ## Related Quantities
 
 - [[Frequency]]
-- [[Energy]]
+- [[Energy-Quantity|Energy]]
 - [[Charge]]
 
 ## Related Models

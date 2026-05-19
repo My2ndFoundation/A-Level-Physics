@@ -49,7 +49,7 @@ Atomic structure underpins chemistry, ionisation, conduction, [[Radioactive-Deca
 ## Related Quantities
 
 - [[Mass]]
-- [[Energy]]
+- [[Energy-Quantity|Energy]]
 
 ## Related Laws or Results
 

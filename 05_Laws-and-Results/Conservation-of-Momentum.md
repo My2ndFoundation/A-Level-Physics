@@ -70,7 +70,7 @@ From [[Newton-Second-Law]] in momentum form, `F_ext = Δp_total/Δt`. If `F_ext 
 - [[Impulse]]
 - [[Force]]
 - [[Mass]]
-- [[Energy]]
+- [[Energy-Quantity|Energy]]
 
 ## Related Models
 

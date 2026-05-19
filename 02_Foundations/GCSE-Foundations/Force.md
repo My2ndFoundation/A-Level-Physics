@@ -46,7 +46,7 @@ Pushing a shopping trolley harder makes it speed up faster. A heavier trolley is
 
 - [[Acceleration]]
 - [[Mass]]
-- [[Energy]]
+- [[Energy-GCSE|Energy]]
 
 ## Related Concepts
 

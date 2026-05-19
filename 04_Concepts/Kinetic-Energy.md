@@ -39,7 +39,7 @@ A slow-rolling football is easy to stop with your foot; the same ball kicked har
 
 ## GCSE Foundation
 
-- [[Energy]]
+- [[Energy-Quantity|Energy]]
 - [[Velocity]]
 - [[Mass]]
 

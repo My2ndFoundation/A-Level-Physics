@@ -42,7 +42,7 @@ Pushing two like charges together is like compressing a spring — release them 
 
 ## GCSE Foundation
 
-- [[Energy]]
+- [[Energy-Quantity|Energy]]
 - [[Charge]]
 - [[Potential-Difference]]
 
@@ -54,7 +54,7 @@ It underlies energy transfer in circuits (W = QV), the energy of charged particl
 
 - [[Electric-Potential]]
 - [[Charge]]
-- [[Energy]]
+- [[Energy-Quantity|Energy]]
 
 ## Related Laws or Results
 

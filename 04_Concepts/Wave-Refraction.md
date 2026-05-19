@@ -36,7 +36,7 @@ A straw in a glass of water looks bent at the surface. A swimming pool looks sha
 
 ## GCSE Foundation
 
-- [[Waves]]
+- [[Waves-GCSE|Waves]]
 - [[Wave-Speed]]
 - [[Wave-Reflection]]
 

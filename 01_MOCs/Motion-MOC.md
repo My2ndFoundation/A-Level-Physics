@@ -2,7 +2,9 @@
 type: moc
 subject: physics
 tags:
-  - moc mechanics kinematics
+  - moc
+  - mechanics
+  - kinematics
 status: draft
 ---
 

@@ -74,7 +74,7 @@ Two stones dropped into a pond send out ripples that cross: where two crests mee
 
 ## Bridge to A-Level
 
-At A-Level, the single-wave GCSE description is extended with phase, phase difference, path difference and coherence, and the principle of [[Superposition]] is applied to interference, [[Diffraction]] and standing waves both qualitatively and quantitatively. See [[Waves]] and the A-Level waves pages for the formal treatment.
+At A-Level, the single-wave GCSE description is extended with phase, phase difference, path difference and coherence, and the principle of [[Superposition]] is applied to interference, [[Diffraction]] and standing waves both qualitatively and quantitatively. See [[Waves-GCSE|Waves]] and the A-Level waves pages for the formal treatment.
 
 ## Source Trace
 

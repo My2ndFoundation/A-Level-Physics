@@ -56,7 +56,7 @@ On an [[IV-Characteristic]] (I vs V), resistance is the **reciprocal of the grad
 
 ## Foundation Links
 
-- [[Energy]] (GCSE-Foundations layer — energy dissipated as heat)
+- [[Energy-Quantity|Energy]] (GCSE-Foundations layer — energy dissipated as heat)
 
 ## Related Concepts
 

@@ -37,7 +37,7 @@ Plucking a guitar string makes it vibrate in a fixed pattern at a definite pitch
 
 ## GCSE Foundation
 
-- [[Waves]]
+- [[Waves-GCSE|Waves]]
 - [[Wave-Reflection]]
 - [[Superposition]]
 

@@ -39,11 +39,11 @@ A thermometer placed against each object would read the same temperature, confir
 
 ## What This Builds Toward
 
-This builds toward [[Energy]] transfer by conduction, the idea of thermal conductivity, the distinction between temperature and thermal energy, and the role of free electrons in metals — which also connects to [[Electric-Current]] and electrical [[Resistance]].
+This builds toward [[Energy-GCSE|Energy]] transfer by conduction, the idea of thermal conductivity, the distinction between temperature and thermal energy, and the role of free electrons in metals — which also connects to [[Electric-Current]] and electrical [[Resistance]].
 
 ## Related A-Level Ideas
 
-- [[Energy]]
+- [[Energy-GCSE|Energy]]
 - [[Electric-Current]]
 - [[Atoms]]
 - [[Power]]

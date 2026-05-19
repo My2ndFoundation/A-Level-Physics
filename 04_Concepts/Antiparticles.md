@@ -49,7 +49,7 @@ Annihilation underlies PET (positron emission tomography) medical scanning, and 
 ## Related Quantities
 
 - [[Mass]]
-- [[Energy]]
+- [[Energy-Quantity|Energy]]
 
 ## Related Laws or Results
 

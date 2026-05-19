@@ -34,7 +34,7 @@ The simple harmonic oscillator model describes any system where the restoring fo
 - Displacement *x* (m), amplitude *A* (m)
 - Angular frequency *ω* (rad s⁻¹), period *T* (s), frequency *f* (Hz)
 - [[Acceleration]] *a* (m s⁻²)
-- [[Energy]]: interchange of kinetic and potential
+- [[Energy-Quantity|Energy]]: interchange of kinetic and potential
 
 ## Key Equations
 

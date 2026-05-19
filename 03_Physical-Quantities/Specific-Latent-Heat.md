@@ -54,7 +54,7 @@ On a graph of energy supplied against temperature for a fixed mass, the **flat p
 
 ## Foundation Links
 
-- [[Energy]]
+- [[Energy-Quantity|Energy]]
 - [[Conservation-of-Energy]]
 
 ## Related Concepts

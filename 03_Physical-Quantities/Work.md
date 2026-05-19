@@ -44,7 +44,7 @@ Work done by a force is the product of the force and the displacement moved in t
 
 - `W = Fs cosθ` — `W` = work (J), `F` = force (N), `s` = displacement (m), `θ` = angle between force and displacement.
 - `W = Fs` when force and displacement are parallel (`θ = 0`).
-- Work–energy principle: `W_net = ΔE_k`. See [[Energy]].
+- Work–energy principle: `W_net = ΔE_k`. See [[Energy-Quantity|Energy]].
 - Gravitational PE change: `W = mgΔh` — `m` = mass (kg), `g` = 9.81 N kg⁻¹, `Δh` = height change (m).
 
 ## How It Is Measured
@@ -57,11 +57,11 @@ On a **force–displacement graph**, work is the **area under the curve**. For a
 
 ## Foundation Links
 
-- [[Energy]] (GCSE-Foundations layer — prerequisite idea)
+- [[Energy-Quantity|Energy]] (GCSE-Foundations layer — prerequisite idea)
 
 ## Related Concepts
 
-- [[Energy]]
+- [[Energy-Quantity|Energy]]
 - [[Power]]
 - [[Force]]
 - [[Displacement]]

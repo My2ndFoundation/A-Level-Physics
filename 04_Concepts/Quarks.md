@@ -51,7 +51,7 @@ Quark composition explains the charge and identity of nucleons and predicts allo
 ## Related Quantities
 
 - [[Mass]]
-- [[Energy]]
+- [[Energy-Quantity|Energy]]
 
 ## Related Laws or Results
 

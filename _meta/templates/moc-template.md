@@ -3,6 +3,8 @@ type: moc
 subject: physics
 tags:
   - moc
+  - {{topic-tag}}
+  - {{learning-layer-tag}}
 status: draft
 ---
 

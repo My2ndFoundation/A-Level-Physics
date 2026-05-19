@@ -62,7 +62,7 @@ Treated as a stated relativistic result at A-Level; no derivation required.
 ## Related Quantities
 
 - [[Mass]]
-- [[Energy]]
+- [[Energy-Quantity|Energy]]
 
 ## Related Models
 

@@ -43,7 +43,7 @@ Filling the capacitor is like pumping water into a tank that gets harder to fill
 
 ## GCSE Foundation
 
-- [[Energy]]
+- [[Energy-Quantity|Energy]]
 - [[Potential-Difference]]
 - [[Charge]]
 
@@ -56,7 +56,7 @@ Energy storage explains why a camera flash or defibrillator uses a capacitor: en
 - [[Capacitance]]
 - [[Charge]]
 - [[Potential-Difference]]
-- [[Energy]]
+- [[Energy-Quantity|Energy]]
 
 ## Related Laws or Results
 

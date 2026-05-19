@@ -42,7 +42,7 @@ A drawn bow stores elastic strain energy that transfers to the arrow's [[Kinetic
 
 - [[Hookes-Law]]
 - [[Work]]
-- [[Energy]]
+- [[Energy-Quantity|Energy]]
 
 ## Why It Matters
 

@@ -2,7 +2,9 @@
 type: moc
 subject: physics
 tags:
-  - moc particles particles-and-medical-physics
+  - moc
+  - particles
+  - particles-and-medical-physics
 status: draft
 ---
 

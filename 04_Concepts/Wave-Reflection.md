@@ -34,7 +34,7 @@ Seeing yourself in a mirror, hearing an echo across a valley, and watching rippl
 
 ## GCSE Foundation
 
-- [[Waves]]
+- [[Waves-GCSE|Waves]]
 - [[Ray-Model-of-Light]]
 - [[Wave-Refraction]]
 

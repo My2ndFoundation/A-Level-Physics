@@ -36,11 +36,11 @@ This small quirk has huge consequences. When a pond freezes, the ice forms on to
 
 ## What This Builds Toward
 
-This builds toward the concept of density, the particle model of solids and liquids, [[Energy]] changes during changes of state, and the idea of upthrust and floating. It connects to the structure of matter and [[Atoms]], and to pressure and forces in fluids.
+This builds toward the concept of density, the particle model of solids and liquids, [[Energy-GCSE|Energy]] changes during changes of state, and the idea of upthrust and floating. It connects to the structure of matter and [[Atoms]], and to pressure and forces in fluids.
 
 ## Related A-Level Ideas
 
-- [[Energy]]
+- [[Energy-GCSE|Energy]]
 - [[Atoms]]
 - [[Force]]
 

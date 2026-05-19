@@ -59,7 +59,7 @@ On an [[IV-Characteristic]], p.d. is the x-axis (or y-axis depending on conventi
 
 ## Foundation Links
 
-- [[Energy]] (GCSE-Foundations layer — energy per charge)
+- [[Energy-Quantity|Energy]] (GCSE-Foundations layer — energy per charge)
 
 ## Related Concepts
 

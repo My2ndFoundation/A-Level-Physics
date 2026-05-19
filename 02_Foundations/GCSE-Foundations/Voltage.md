@@ -49,7 +49,7 @@ If current is like the rate of water flow, voltage is like the pressure differen
 
 - [[Electric-Current]]
 - [[Resistance]]
-- [[Energy]]
+- [[Energy-GCSE|Energy]]
 
 ## Related Concepts
 

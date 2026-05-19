@@ -57,7 +57,7 @@ On an [[IV-Characteristic]], current is plotted against p.d.; the gradient gives
 
 ## Foundation Links
 
-- [[Energy]] (GCSE-Foundations layer — energy transfer in circuits)
+- [[Energy-Quantity|Energy]] (GCSE-Foundations layer — energy transfer in circuits)
 
 ## Related Concepts
 

@@ -60,7 +60,7 @@ On a distance–time graph of a single wavefront, the gradient is the wave speed
 ## Foundation Links
 
 - [[Speed]]
-- [[Waves]]
+- [[Waves-GCSE|Waves]]
 
 ## Related Concepts
 

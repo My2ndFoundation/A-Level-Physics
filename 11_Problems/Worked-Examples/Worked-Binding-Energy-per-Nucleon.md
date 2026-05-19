@@ -26,7 +26,7 @@ A helium-4 nucleus contains 2 protons and 2 neutrons. The mass of a proton is $1
 
 - [[Mass]]
 - [[Binding-Energy]]
-- [[Energy]]
+- [[Energy-Quantity|Energy]]
 
 ## Required Concepts
 

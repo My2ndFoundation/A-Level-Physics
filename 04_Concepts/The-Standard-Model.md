@@ -52,7 +52,7 @@ It lets you predict whether a reaction is allowed using conservation of charge, 
 ## Related Quantities
 
 - [[Mass]]
-- [[Energy]]
+- [[Energy-Quantity|Energy]]
 
 ## Related Laws or Results
 

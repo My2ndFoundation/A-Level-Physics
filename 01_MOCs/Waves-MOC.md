@@ -2,7 +2,9 @@
 type: moc
 subject: physics
 tags:
-  - moc waves electrons-waves-and-photons
+  - moc
+  - waves
+  - electrons-waves-and-photons
 status: draft
 ---
 
@@ -11,7 +13,7 @@ status: draft
 ## Foundations
 
 - [[From-Waves-to-Superposition]]
-- [[Waves]]
+- [[Waves-GCSE|Waves]]
 
 ## Common-Sense Links
 

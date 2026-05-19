@@ -66,7 +66,7 @@ Newton inferred the inverse-square form from Kepler's third law: requiring the g
 - [[Force]]
 - [[Mass]]
 - [[Acceleration]]
-- [[Energy]]
+- [[Energy-Quantity|Energy]]
 
 ## Related Models
 

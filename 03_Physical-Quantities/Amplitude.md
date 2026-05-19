@@ -55,7 +55,7 @@ On a displacement–time (or displacement–position) graph, the amplitude is th
 
 ## Foundation Links
 
-- [[Energy]] (GCSE-Foundations layer — louder/brighter means more energy)
+- [[Energy-Quantity|Energy]] (GCSE-Foundations layer — louder/brighter means more energy)
 
 ## Related Concepts
 

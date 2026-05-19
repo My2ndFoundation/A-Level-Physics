@@ -77,3 +77,4 @@ At A-Level, the wave model is made precise: phase and phase difference, the prin
 - Source: BBC Bitesize GCSE Physics (waves, electromagnetic spectrum); IOPSpark; The Physics Classroom (waves)
 - Section/Page: General GCSE physics material, paraphrased
 - OCR alignment: [[OCR-Physics-A-H556-Specification]]
+  - Waves

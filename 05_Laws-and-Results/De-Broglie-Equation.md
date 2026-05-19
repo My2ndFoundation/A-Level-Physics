@@ -65,7 +65,7 @@ By analogy with the photon, for which `p = h/λ` (from `E = hf` and `E = pc`), d
 
 - [[Momentum]]
 - [[Wavelength]]
-- [[Energy]]
+- [[Energy-Quantity|Energy]]
 - [[Mass]]
 
 ## Related Models

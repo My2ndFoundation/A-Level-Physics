@@ -64,6 +64,7 @@ Insert links under the correct headings using canonical names. Keep existing ent
 | Situation | Handling |
 |---|---|
 | MOC does not exist yet | Create it from `moc-template.md` with correct frontmatter (`type: moc`) and topic/layer tags; populate from the graph. |
+| Writing the `tags:` block | Emit one `-` item per tag (`_meta/tags.md` frontmatter format rule). Never collapse multiple tags into one item or put spaces inside a tag — Obsidian rejects it as an invalid tag name. |
 | A page fits two MOCs (e.g. a page in both `Forces-MOC` and `Mechanics-MOC`) | Listing it in both is allowed when genuinely relevant. |
 | Broken entry: target was renamed | Repoint to the new canonical name (check `.state/aliases.tsv`); don't just delete. |
 | Member object referenced but no page exists | Add to `.state/unresolved-links.md`; do not put a dead bullet in the MOC. |

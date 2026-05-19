@@ -2,7 +2,9 @@
 type: moc
 subject: physics
 tags:
-  - moc astrophysics astrophysics-and-cosmology
+  - moc
+  - astrophysics
+  - astrophysics-and-cosmology
 status: draft
 ---
 

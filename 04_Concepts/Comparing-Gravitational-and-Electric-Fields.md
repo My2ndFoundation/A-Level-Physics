@@ -44,7 +44,7 @@ A mass "falling" towards Earth and a positive charge "falling" towards a negativ
 
 ## GCSE Foundation
 
-- [[Energy]]
+- [[Energy-Quantity|Energy]]
 - [[Charge]]
 
 ## Why It Matters

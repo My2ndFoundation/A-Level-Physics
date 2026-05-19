@@ -37,7 +37,7 @@ There is no everyday object that obviously behaves both as a wave and a particle
 
 ## GCSE Foundation
 
-- [[Waves]]
+- [[Waves-GCSE|Waves]]
 - [[Atomic-Structure]]
 - [[Electromagnetic-Spectrum]]
 

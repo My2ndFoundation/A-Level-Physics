@@ -2,7 +2,9 @@
 type: moc
 subject: physics
 tags:
-  - moc units dimensions
+  - moc
+  - units
+  - dimensions
 status: draft
 ---
 
@@ -29,7 +31,7 @@ _To be populated during ingestion._
 - [[Momentum]]
 - [[Impulse]]
 - [[Work]]
-- [[Energy]]
+- [[Energy-Quantity|Energy]]
 - [[Power]]
 - [[Density]]
 - [[Pressure]]

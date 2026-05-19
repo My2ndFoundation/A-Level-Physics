@@ -50,7 +50,7 @@ This classification organises hundreds of observed particles, predicts which rea
 ## Related Quantities
 
 - [[Mass]]
-- [[Energy]]
+- [[Energy-Quantity|Energy]]
 
 ## Related Laws or Results
 

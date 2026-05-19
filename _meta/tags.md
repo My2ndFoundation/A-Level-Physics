@@ -2,6 +2,28 @@
 
 Tags express syllabus area, topic, exam board, level, learning layer, and page function. They do not replace wikilinks (which form the actual knowledge graph) or MOCs (which form human-readable maps).
 
+## Frontmatter format rule (mandatory)
+
+Tags in frontmatter MUST be written as a YAML block sequence with **one tag per `-` item**. Obsidian treats spaces inside a tag as invalid, so a single item holding multiple space-separated tags becomes one invalid tag name.
+
+Correct:
+
+```yaml
+tags:
+  - moc
+  - astrophysics
+  - astrophysics-and-cosmology
+```
+
+Wrong (all values collapse into one invalid tag):
+
+```yaml
+tags:
+  - moc astrophysics astrophysics-and-cosmology
+```
+
+Never join multiple tags into one list item, and never put spaces inside a tag (use hyphens). Any skill that adds tags to a page must emit one `-` item per tag.
+
 ## Learning-layer tags
 
 ```text

@@ -65,7 +65,7 @@ The electric field in an electrostatic circuit is conservative, so the work done
 - [[Current]]
 - [[Resistance]]
 - [[Charge]]
-- [[Energy]]
+- [[Energy-Quantity|Energy]]
 
 ## Related Models
 

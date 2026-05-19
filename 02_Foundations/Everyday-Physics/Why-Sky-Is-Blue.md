@@ -36,11 +36,11 @@ At sunset the light reaches you after travelling a long, slanting path through t
 
 ## What This Builds Toward
 
-This builds toward the idea of light as a [[Waves]] with a wavelength, the visible spectrum, and the scattering and interaction of waves with matter. It connects to [[Wave-Refraction|Refraction of Waves]], [[Diffraction]], and later to wave–particle ideas in [[Atoms]] and quantum physics.
+This builds toward the idea of light as a [[Waves-GCSE|Waves]] with a wavelength, the visible spectrum, and the scattering and interaction of waves with matter. It connects to [[Wave-Refraction|Refraction of Waves]], [[Diffraction]], and later to wave–particle ideas in [[Atoms]] and quantum physics.
 
 ## Related A-Level Ideas
 
-- [[Waves]]
+- [[Waves-GCSE|Waves]]
 - [[Diffraction]]
 - [[Wave-Refraction|Refraction of Waves]]
 - [[Superposition]]

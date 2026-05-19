@@ -2,7 +2,10 @@
 type: moc
 subject: physics
 tags:
-  - moc physics a-level-physics ocr-h556
+  - moc
+  - physics
+  - a-level-physics
+  - ocr-h556
 status: draft
 ---
 

@@ -56,7 +56,7 @@ On a displacement–time graph of an oscillation, the frequency is the reciproca
 
 ## Foundation Links
 
-- [[Energy]] (GCSE-Foundations layer — photon energy link)
+- [[Energy-Quantity|Energy]] (GCSE-Foundations layer — photon energy link)
 
 ## Related Concepts
 

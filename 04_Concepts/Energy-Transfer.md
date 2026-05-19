@@ -31,7 +31,7 @@ A useful model treats energy as held in **stores** (kinetic, gravitational, elas
 - **by heating** — energy flowing because of a temperature difference,
 - **by radiation** — energy carried by waves (light, sound, EM).
 
-The amount transferred is measured in joules (J), the same unit as [[Energy]] itself, because a transfer is just energy changing location or form. The *rate* of transfer is [[Power]] (J s⁻¹ = W). Real transfers are rarely complete: some energy is always dissipated, usually to thermal energy in the surroundings, which is why efficiency is less than 100%.
+The amount transferred is measured in joules (J), the same unit as [[Energy-Quantity|Energy]] itself, because a transfer is just energy changing location or form. The *rate* of transfer is [[Power]] (J s⁻¹ = W). Real transfers are rarely complete: some energy is always dissipated, usually to thermal energy in the surroundings, which is why efficiency is less than 100%.
 
 ## Everyday Intuition
 
@@ -39,7 +39,7 @@ Pushing a trolley transfers chemical energy in your muscles to the trolley's kin
 
 ## GCSE Foundation
 
-- [[Energy]]
+- [[Energy-Quantity|Energy]]
 - [[Work]]
 - [[Force]]
 
@@ -49,7 +49,7 @@ Energy transfer is the backbone of nearly every quantitative argument in mechani
 
 ## Related Quantities
 
-- [[Energy]]
+- [[Energy-Quantity|Energy]]
 - [[Work]]
 - [[Power]]
 
@@ -96,5 +96,5 @@ _None yet — a Sankey-diagram figure would suit this page._
 
 ## Source Trace
 
-- Source: Vault baseline — synthesised from the existing Energy cluster ([[Energy]], [[Work]], [[Power]], [[Conservation-of-Energy]]). No external copyrighted text.
+- Source: Vault baseline — synthesised from the existing Energy cluster ([[Energy-Quantity|Energy]], [[Work]], [[Power]], [[Conservation-of-Energy]]). No external copyrighted text.
 - Section/Page: n/a

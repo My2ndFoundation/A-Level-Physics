@@ -2,7 +2,9 @@
 type: moc
 subject: physics
 tags:
-  - moc materials stress-strain
+  - moc
+  - materials
+  - stress-strain
 status: draft
 ---
 

@@ -47,7 +47,7 @@ Parallel capacitors are like several buckets side by side filled to the same dep
 
 - [[Charge]]
 - [[Potential-Difference]]
-- [[Energy]]
+- [[Energy-Quantity|Energy]]
 
 ## Why It Matters
 

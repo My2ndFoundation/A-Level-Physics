@@ -2,7 +2,9 @@
 type: moc
 subject: physics
 tags:
-  - moc electricity electrons-waves-and-photons
+  - moc
+  - electricity
+  - electrons-waves-and-photons
 status: draft
 ---
 

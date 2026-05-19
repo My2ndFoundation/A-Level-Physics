@@ -2,7 +2,9 @@
 type: moc
 subject: physics
 tags:
-  - moc simple-harmonic-motion newtonian-world
+  - moc
+  - simple-harmonic-motion
+  - newtonian-world
 status: draft
 ---
 

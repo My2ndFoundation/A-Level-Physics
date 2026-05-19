@@ -49,7 +49,7 @@ Lepton-number conservation is a core tool for checking whether a proposed nuclea
 ## Related Quantities
 
 - [[Mass]]
-- [[Energy]]
+- [[Energy-Quantity|Energy]]
 
 ## Related Laws or Results
 

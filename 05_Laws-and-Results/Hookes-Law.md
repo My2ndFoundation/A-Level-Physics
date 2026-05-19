@@ -64,7 +64,7 @@ For a uniform wire, `F = kx` follows from the material relation `stress = Young 
 - [[Force]]
 - [[Strain]]
 - [[Young-Modulus]]
-- [[Energy]]
+- [[Energy-Quantity|Energy]]
 - [[Work]]
 
 ## Related Models

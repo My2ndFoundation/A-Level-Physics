@@ -65,7 +65,7 @@ The gradient of an energy–time graph equals power. The area under a power–ti
 ## Related Concepts
 
 - [[Work]]
-- [[Energy]]
+- [[Energy-Quantity|Energy]]
 - [[Force]]
 - [[Current]]
 - [[Potential-Difference]]

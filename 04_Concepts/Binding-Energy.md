@@ -50,7 +50,7 @@ The binding-energy-per-nucleon curve explains why both fusion (light nuclei) and
 ## Related Quantities
 
 - [[Mass]]
-- [[Energy]]
+- [[Energy-Quantity|Energy]]
 
 ## Related Laws or Results
 

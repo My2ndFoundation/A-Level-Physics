@@ -56,12 +56,12 @@ _Baseline + Module 5–6 gap-fill + final cleanup 2026-05-18 — 341 atomic page
 - [[Balanced-and-Unbalanced-Forces]]
 - [[Contact-and-Non-Contact-Forces]]
 - [[Electric-Current]]
-- [[Energy]]
+- [[Energy-Quantity|Energy]]
 - [[Force]]
 - [[Power]]
 - [[Resistance]]
 - [[Voltage]]
-- [[Waves]]
+- [[Waves-GCSE|Waves]]
 
 ## Foundations — Bridge to A-Level
 - [[From-Circuits-to-Circuit-Models]]
@@ -90,7 +90,7 @@ _Baseline + Module 5–6 gap-fill + final cleanup 2026-05-18 — 341 atomic page
 - [[Electric-Field-Strength]]
 - [[Electric-Potential]]
 - [[Electromotive-Force]]
-- [[Energy]]
+- [[Energy-Quantity|Energy]]
 - [[Force]]
 - [[Frequency]]
 - [[Gravitational-Field-Strength]]

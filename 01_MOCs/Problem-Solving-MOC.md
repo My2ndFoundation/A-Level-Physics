@@ -2,7 +2,8 @@
 type: moc
 subject: physics
 tags:
-  - moc problem-solving
+  - moc
+  - problem-solving
 status: draft
 ---
 

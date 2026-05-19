@@ -64,7 +64,7 @@ On a graph of V against r for a point charge, the curve is a 1/r hyperbola. The 
 
 ## Foundation Links
 
-- [[Energy]]
+- [[Energy-Quantity|Energy]]
 - [[Potential-Difference]]
 - [[Charge]]
 

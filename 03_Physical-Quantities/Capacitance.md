@@ -56,14 +56,14 @@ A charge–p.d. graph for a capacitor is a straight line through the origin; the
 
 ## Foundation Links
 
-- [[Energy]] (GCSE-Foundations layer — energy storage)
+- [[Energy-Quantity|Energy]] (GCSE-Foundations layer — energy storage)
 
 ## Related Concepts
 
 - [[Charge]]
 - [[Potential-Difference]]
 - [[Electric-Field-Strength]]
-- [[Energy]]
+- [[Energy-Quantity|Energy]]
 
 ## Related Laws or Results
 

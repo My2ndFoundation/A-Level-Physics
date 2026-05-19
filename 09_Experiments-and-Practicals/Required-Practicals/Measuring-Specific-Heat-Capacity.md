@@ -71,7 +71,7 @@ Hot apparatus and heater — allow cooling before handling; do not exceed the he
 - [[Specific-Heat-Capacity]]
 - [[Specific-Latent-Heat]]
 - [[Temperature]]
-- [[Energy]]
+- [[Energy-Quantity|Energy]]
 
 ## Related Laws or Results
 

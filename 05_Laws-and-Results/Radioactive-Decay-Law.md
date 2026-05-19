@@ -66,7 +66,7 @@ The decay rate is proportional to the number present: `dN/dt = −λN`. Integrat
 
 ## Related Quantities
 
-- [[Energy]]
+- [[Energy-Quantity|Energy]]
 - [[Charge]]
 
 ## Related Models

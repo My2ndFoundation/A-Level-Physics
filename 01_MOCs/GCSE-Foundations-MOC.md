@@ -41,13 +41,13 @@ teaching content is ingested.
 ## Foundations
 
 - [[Force]]
-- [[Energy]]
+- [[Energy-GCSE|Energy]]
 - [[Power]]
 - [[Atoms]]
 - [[Electric-Current]]
 - [[Voltage]]
 - [[Resistance]]
-- [[Waves]]
+- [[Waves-GCSE|Waves]]
 - [[Balanced-and-Unbalanced-Forces]]
 - [[Contact-and-Non-Contact-Forces]]
 
@@ -67,7 +67,7 @@ teaching content is ingested.
 - [[Mass]]
 - [[Weight]]
 - [[Force]]
-- [[Energy]]
+- [[Energy-GCSE|Energy]]
 - [[Power]]
 - [[Density]]
 - [[Pressure]]

@@ -32,18 +32,18 @@ Notice what actually moves: the *disturbance* travels outward, but the air parti
 
 Because sound relies on particles to pass the vibration along, it must have a medium: a gas, liquid, or solid. It generally travels fastest in solids (particles are close together and tightly linked), slower in liquids, and slowest in gases.
 
-Space is very nearly a vacuum — almost no particles. With nothing to compress and pass the vibration on, sound simply cannot travel. Light is different: it is an electromagnetic [[Waves]] and does not need particles, which is why the flash of an event in space reaches us but the bang never does.
+Space is very nearly a vacuum — almost no particles. With nothing to compress and pass the vibration on, sound simply cannot travel. Light is different: it is an electromagnetic [[Waves-GCSE|Waves]] and does not need particles, which is why the flash of an event in space reaches us but the bang never does.
 
 ## What This Builds Toward
 
-This builds toward the idea of a longitudinal mechanical [[Waves]], the difference between mechanical and electromagnetic waves, wave speed in different media, and the general principle that waves transfer energy without transferring matter. It connects forward to [[Superposition]], [[Diffraction]], and [[Wave-Refraction|refraction of waves]].
+This builds toward the idea of a longitudinal mechanical [[Waves-GCSE|Waves]], the difference between mechanical and electromagnetic waves, wave speed in different media, and the general principle that waves transfer energy without transferring matter. It connects forward to [[Superposition]], [[Diffraction]], and [[Wave-Refraction|refraction of waves]].
 
 ## Related A-Level Ideas
 
-- [[Waves]]
+- [[Waves-GCSE|Waves]]
 - [[Superposition]]
 - [[Wave-Refraction|Refraction of Waves]]
-- [[Energy]]
+- [[Energy-GCSE|Energy]]
 
 ## Common Wrong Intuition
 

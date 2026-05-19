@@ -55,7 +55,7 @@ On a displacement–position ("snapshot") graph, wavelength is the distance for 
 
 ## Foundation Links
 
-- [[Energy]] (GCSE-Foundations layer — electromagnetic spectrum)
+- [[Energy-Quantity|Energy]] (GCSE-Foundations layer — electromagnetic spectrum)
 
 ## Related Concepts
 
