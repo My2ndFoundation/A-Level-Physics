@@ -12,6 +12,12 @@ status: draft
 
 This map is intentionally shallow. The goal is orientation, not mastery.
 
+## Map
+
+![[_attachments/01_MOCs/Modern-Physics-MOC--orientation-map.svg|680]]
+*Figure: the three A-Level entry clusters — quantum, nuclear & particle, astrophysics — link by dashed lines out to six peripheral frontier maps; the maps stay shallow.*
+*Source: Authored for this vault (CC0). No external copyright.*
+
 ## Frontier Maps
 
 - [[Quantum-Mechanics-Map]]

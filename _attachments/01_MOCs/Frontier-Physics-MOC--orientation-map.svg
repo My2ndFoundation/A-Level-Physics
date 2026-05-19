@@ -1,0 +1,75 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 540" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,sans-serif">
+  <style>
+    :root{
+      --bg:#ffffff;--panel:#f3f5f8;--ink:#1f2933;--muted:#5a6675;--edge:#8895a5;
+      --c1:#2563eb;--c1b:#dbeafe;--c2:#0891b2;--c2b:#cffafe;
+      --c3:#7c3aed;--c3b:#ede9fe;--c5:#059669;--c5b:#d6f3e7;--c6:#d97706;--c6b:#fef0d6;
+    }
+    @media (prefers-color-scheme:dark){
+      :root{
+        --bg:#1b1d22;--panel:#24272f;--ink:#e8eaed;--muted:#9aa5b1;--edge:#566072;
+        --c1:#60a5fa;--c1b:#1d3354;--c2:#22d3ee;--c2b:#0e3a44;
+        --c3:#a78bfa;--c3b:#332457;--c5:#34d399;--c5b:#0f3d2e;--c6:#fbbf24;--c6b:#3f2f0c;
+      }
+    }
+    .ink{fill:var(--ink)} .muted{fill:var(--muted)}
+    .title{font-size:22px;font-weight:700}
+    .tier{font-size:11px;font-weight:700;fill:var(--muted);letter-spacing:.08em}
+    .st{font-size:13px;font-weight:700;fill:var(--muted);letter-spacing:.04em}
+    .pt{font-size:14px;font-weight:700;fill:var(--ink)}
+    .li{font-size:12.5px;fill:var(--ink)}
+    .ls{font-size:11px;fill:var(--muted)}
+    .edge{stroke:var(--edge);stroke-width:1.6;fill:none}
+  </style>
+  <defs>
+    <marker id="ah" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
+      <path d="M0 0L10 5L0 10z" fill="var(--edge)"/>
+    </marker>
+  </defs>
+  <rect width="1000" height="540" fill="var(--bg)"/>
+  <!-- body -->
+  <text x="40" y="38" class="title ink">Frontier Physics MOC — orientation map</text>
+  <text x="40" y="60" class="tier">WHERE A-LEVEL IDEAS LEAD BEYOND THE SYLLABUS</text>
+
+  <text x="60" y="92" class="st">A-LEVEL ENTRY POINTS</text>
+  <text x="700" y="92" class="st">FRONTIER MAPS (PERIPHERAL)</text>
+
+  <!-- left: A-Level entry-point chips -->
+  <rect x="60" y="108" width="300" height="44" rx="12" fill="var(--c1b)" stroke="var(--c1)" stroke-width="1.6"/>
+  <text x="80" y="135" class="li">Photoelectric effect</text>
+  <rect x="60" y="160" width="300" height="44" rx="12" fill="var(--c1b)" stroke="var(--c1)" stroke-width="1.6"/>
+  <text x="80" y="187" class="li">Wave-particle duality · Photons</text>
+  <rect x="60" y="212" width="300" height="44" rx="12" fill="var(--c1b)" stroke="var(--c1)" stroke-width="1.6"/>
+  <text x="80" y="239" class="li">Nuclear atom · fundamental particles</text>
+  <rect x="60" y="264" width="300" height="44" rx="12" fill="var(--c1b)" stroke="var(--c1)" stroke-width="1.6"/>
+  <text x="80" y="291" class="li">Astrophysics · cosmology</text>
+  <rect x="60" y="316" width="300" height="44" rx="12" fill="var(--c1b)" stroke="var(--c1)" stroke-width="1.6"/>
+  <text x="80" y="343" class="li">Gravitational fields (5.4)</text>
+
+  <!-- dashed connectors left -> right -->
+  <path class="edge" stroke-dasharray="6 4" d="M360 130 C 520 130 520 132 638 132" marker-end="url(#ah)"/>
+  <path class="edge" stroke-dasharray="6 4" d="M360 182 C 520 182 520 184 638 184" marker-end="url(#ah)"/>
+  <path class="edge" stroke-dasharray="6 4" d="M360 234 C 520 234 520 236 638 236" marker-end="url(#ah)"/>
+  <path class="edge" stroke-dasharray="6 4" d="M360 286 C 520 286 520 288 638 288" marker-end="url(#ah)"/>
+  <path class="edge" stroke-dasharray="6 4" d="M360 338 C 520 338 520 340 638 340" marker-end="url(#ah)"/>
+  <path class="edge" stroke-dasharray="6 4" d="M360 286 C 520 286 520 392 638 392" marker-end="url(#ah)"/>
+  <path class="edge" stroke-dasharray="6 4" d="M360 130 C 520 130 520 444 638 444" marker-end="url(#ah)"/>
+
+  <!-- right: frontier map nodes (dashed peripheral) -->
+  <rect x="640" y="110" width="300" height="44" rx="12" fill="var(--panel)" stroke="var(--edge)" stroke-width="1.6" stroke-dasharray="6 4"/>
+  <text x="660" y="137" class="li muted">Quantum-Mechanics-Map</text>
+  <rect x="640" y="162" width="300" height="44" rx="12" fill="var(--panel)" stroke="var(--edge)" stroke-width="1.6" stroke-dasharray="6 4"/>
+  <text x="660" y="189" class="li muted">Particle-Physics-Map</text>
+  <rect x="640" y="214" width="300" height="44" rx="12" fill="var(--panel)" stroke="var(--edge)" stroke-width="1.6" stroke-dasharray="6 4"/>
+  <text x="660" y="241" class="li muted">Relativity-Map</text>
+  <rect x="640" y="266" width="300" height="44" rx="12" fill="var(--panel)" stroke="var(--edge)" stroke-width="1.6" stroke-dasharray="6 4"/>
+  <text x="660" y="293" class="li muted">Cosmology-Map</text>
+  <rect x="640" y="318" width="300" height="44" rx="12" fill="var(--panel)" stroke="var(--edge)" stroke-width="1.6" stroke-dasharray="6 4"/>
+  <text x="660" y="345" class="li muted">Semiconductor-Physics-Map</text>
+  <rect x="640" y="370" width="300" height="44" rx="12" fill="var(--panel)" stroke="var(--edge)" stroke-width="1.6" stroke-dasharray="6 4"/>
+  <text x="660" y="397" class="li muted">Chaos-and-Complexity-Map</text>
+  <rect x="640" y="422" width="300" height="44" rx="12" fill="var(--panel)" stroke="var(--edge)" stroke-width="1.6" stroke-dasharray="6 4"/>
+  <text x="660" y="449" class="li muted">Quantum-Computing-Map</text>
+
+  <text x="500" y="500" text-anchor="middle" class="ls">Orientation only — maps, not mastery. Frontier pages stay shallow (project rule §3).</text>
+</svg>

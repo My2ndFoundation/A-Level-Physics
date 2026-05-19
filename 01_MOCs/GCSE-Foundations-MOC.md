@@ -19,6 +19,12 @@ prerequisite feeding the bridge-to-A-Level pages and [[OCR-Physics-Map]].
 Sub-topics are syllabus anchors; atomic foundation pages link in as GCSE
 teaching content is ingested.
 
+## Map
+
+![[_attachments/01_MOCs/GCSE-Foundations-MOC--layer-position.svg|680]]
+*Figure: the GCSE-foundation layer highlighted in the five-layer continuum, with the OCR J249 P1–P9 syllabus chips feeding the bridge into A-Level.*
+*Source: Authored for this vault (CC0). No external copyright.*
+
 ## GCSE Syllabus Structure (OCR J249, P1–P9)
 
 - **P1 Matter** — P1.1 the particle model · P1.2 changes of state · P1.3 pressure

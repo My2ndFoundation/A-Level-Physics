@@ -10,6 +10,12 @@ status: draft
 
 # Fields MOC
 
+## Map
+
+![[_attachments/01_MOCs/Fields-MOC--knowledge-flow.svg|680]]
+*Figure: Gravitational, electric and magnetic fields share one flow from field-strength quantities through Coulomb/Newton/Faraday laws to transformers, motors and orbits.*
+*Source: Authored for this vault (CC0). No external copyright.*
+
 ## Foundations
 
 - [[From-Weight-to-Gravitational-Field-Strength]]

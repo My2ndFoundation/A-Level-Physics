@@ -10,6 +10,12 @@ status: draft
 
 # Waves MOC
 
+## Map
+
+![[_attachments/01_MOCs/Waves-MOC--knowledge-flow.svg|680]]
+*Figure: Waves pages flow from wave quantities through superposition, reflection, and refraction to standing waves and optical-fibre applications.*
+*Source: Authored for this vault (CC0). No external copyright.*
+
 ## Foundations
 
 - [[From-Waves-to-Superposition]]

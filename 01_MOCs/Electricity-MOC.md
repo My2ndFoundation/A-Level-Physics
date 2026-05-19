@@ -10,6 +10,12 @@ status: draft
 
 # Electricity MOC
 
+## Map
+
+![[_attachments/01_MOCs/Electricity-MOC--knowledge-flow.svg|680]]
+*Figure: Electricity pages flow from current and charge through Ohm's and Kirchhoff's laws to internal resistance, capacitors, and sensor applications.*
+*Source: Authored for this vault (CC0). No external copyright.*
+
 ## Foundations
 
 - [[From-Circuits-to-Circuit-Models]]

@@ -1,0 +1,58 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 336" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,sans-serif">
+  <style>
+    :root{
+      --bg:#ffffff;--panel:#f3f5f8;--ink:#1f2933;--muted:#5a6675;--edge:#8895a5;
+      --c1:#2563eb;--c1b:#dbeafe;--c2:#0891b2;--c2b:#cffafe;
+      --c3:#7c3aed;--c3b:#ede9fe;--c5:#059669;--c5b:#d6f3e7;--c6:#d97706;--c6b:#fef0d6;
+    }
+    @media (prefers-color-scheme:dark){
+      :root{
+        --bg:#1b1d22;--panel:#24272f;--ink:#e8eaed;--muted:#9aa5b1;--edge:#566072;
+        --c1:#60a5fa;--c1b:#1d3354;--c2:#22d3ee;--c2b:#0e3a44;
+        --c3:#a78bfa;--c3b:#332457;--c5:#34d399;--c5b:#0f3d2e;--c6:#fbbf24;--c6b:#3f2f0c;
+      }
+    }
+    .ink{fill:var(--ink)} .muted{fill:var(--muted)}
+    .title{font-size:22px;font-weight:700}
+    .tier{font-size:11px;font-weight:700;fill:var(--muted);letter-spacing:.08em}
+    .st{font-size:13px;font-weight:700;fill:var(--muted);letter-spacing:.04em}
+    .pt{font-size:14px;font-weight:700;fill:var(--ink)}
+    .li{font-size:12.5px;fill:var(--ink)}
+    .ls{font-size:11px;fill:var(--muted)}
+    .edge{stroke:var(--edge);stroke-width:1.6;fill:none}
+  </style>
+  <defs>
+    <marker id="ah" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
+      <path d="M0 0L10 5L0 10z" fill="var(--edge)"/>
+    </marker>
+  </defs>
+  <rect width="1000" height="336" fill="var(--bg)"/>
+  <!-- body -->
+  <text x="40" y="38" class="title ink">Medical Physics MOC — knowledge flow</text>
+  <text x="40" y="60" class="tier">EVERY PAGE SITS ON THIS FLOW AND LINKS ALONG IT</text>
+
+  <path class="edge" d="M190 92 L190 276" marker-end="url(#ah)"/>
+
+  <!-- band 1 physical quantity -->
+  <path class="edge" d="M190 119 L200 119"/>
+  <rect x="200" y="92" width="760" height="54" rx="12" fill="var(--c1b)" stroke="var(--c1)"/>
+  <text x="180" y="123" text-anchor="end" class="st">physical quantity</text>
+  <text x="216" y="116" class="pt">Physical Quantities</text>
+  <text x="216" y="136" class="li">Acoustic-Impedance</text>
+
+  <!-- band 2 concept -->
+  <path class="edge" d="M190 187 L200 187"/>
+  <rect x="200" y="160" width="760" height="54" rx="12" fill="var(--c2b)" stroke="var(--c2)"/>
+  <text x="180" y="191" text-anchor="end" class="st">concept</text>
+  <text x="216" y="184" class="pt">Concepts</text>
+  <text x="216" y="204" class="li">Ionisation, Radioactive-Decay</text>
+
+  <!-- band 3 application -->
+  <path class="edge" d="M190 255 L200 255"/>
+  <rect x="200" y="228" width="760" height="54" rx="12" fill="var(--c3b)" stroke="var(--c3)"/>
+  <text x="180" y="259" text-anchor="end" class="st">application</text>
+  <text x="216" y="252" class="pt">Applications</text>
+  <text x="216" y="272" class="li">Medical-Imaging, X-ray-Imaging, CT-Scanning, PET-Scanning, Ultrasound-Imaging</text>
+
+  <text x="500" y="314" text-anchor="middle" class="ls">Acoustic impedance and decay concepts feed every imaging modality.</text>
+</svg>

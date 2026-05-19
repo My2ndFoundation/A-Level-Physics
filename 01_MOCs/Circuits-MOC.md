@@ -10,6 +10,12 @@ status: draft
 
 # Circuits MOC
 
+## Map
+
+![[_attachments/01_MOCs/Circuits-MOC--knowledge-flow.svg|680]]
+*Figure: Circuits pages flow from current and charge through Kirchhoff's laws to potential dividers, capacitor analysis, and exam problem types.*
+*Source: Authored for this vault (CC0). No external copyright.*
+
 ## Foundations
 
 - [[From-Circuits-to-Circuit-Models]]

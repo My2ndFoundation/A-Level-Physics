@@ -9,6 +9,12 @@ status: draft
 
 # Foundations MOC
 
+## Map
+
+![[_attachments/01_MOCs/Foundations-MOC--layer-position.svg|680]]
+*Figure: the foundations layer spans everyday intuition through the bridge to A-Level, acting as the runway feeding the OCR H556 core above.*
+*Source: Authored for this vault (CC0). No external copyright.*
+
 ## Foundations
 
 - [[Force]]

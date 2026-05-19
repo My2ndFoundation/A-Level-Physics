@@ -9,6 +9,12 @@ status: draft
 
 # Mistake Patterns MOC
 
+## Map
+
+![[_attachments/01_MOCs/Mistake-Patterns-MOC--mistake-clusters.svg|680]]
+*Figure: recurring A-Level exam traps grouped into seven topic clusters, from the large mechanics cluster to graphs and data errors.*
+*Source: Authored for this vault (CC0). No external copyright.*
+
 ## Mechanics Mistakes
 
 - [[Confusing-Mass-and-Weight]]

@@ -1,0 +1,114 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 1024" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,sans-serif">
+  <style>
+    :root{
+      --bg:#ffffff;--panel:#f3f5f8;--ink:#1f2933;--muted:#5a6675;--edge:#8895a5;
+      --c1:#2563eb;--c1b:#dbeafe;--c2:#0891b2;--c2b:#cffafe;
+      --c3:#7c3aed;--c3b:#ede9fe;--c5:#059669;--c5b:#d6f3e7;--c6:#d97706;--c6b:#fef0d6;
+    }
+    @media (prefers-color-scheme:dark){
+      :root{
+        --bg:#1b1d22;--panel:#24272f;--ink:#e8eaed;--muted:#9aa5b1;--edge:#566072;
+        --c1:#60a5fa;--c1b:#1d3354;--c2:#22d3ee;--c2b:#0e3a44;
+        --c3:#a78bfa;--c3b:#332457;--c5:#34d399;--c5b:#0f3d2e;--c6:#fbbf24;--c6b:#3f2f0c;
+      }
+    }
+    .ink{fill:var(--ink)} .muted{fill:var(--muted)}
+    .title{font-size:22px;font-weight:700}
+    .tier{font-size:11px;font-weight:700;fill:var(--muted);letter-spacing:.08em}
+    .st{font-size:13px;font-weight:700;fill:var(--muted);letter-spacing:.04em}
+    .li{font-size:12.5px;fill:var(--ink)}
+    .ls{font-size:11px;fill:var(--muted)}
+    .edge{stroke:var(--edge);stroke-width:1.6;fill:none}
+  </style>
+  <defs>
+    <marker id="ah" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
+      <path d="M0 0L10 5L0 10z" fill="var(--edge)"/>
+    </marker>
+  </defs>
+  <rect width="1000" height="1024" fill="var(--bg)"/>
+  <!-- body -->
+  <text x="40" y="38" class="title ink">Mechanics MOC — knowledge flow</text>
+  <text x="40" y="60" class="tier">EVERY PAGE SITS ON THIS FLOW AND LINKS ALONG IT</text>
+
+  <line x1="190" y1="119" x2="190" y2="941" class="edge" marker-end="url(#ah)"/>
+
+  <!-- band 1 foundation -->
+  <line x1="190" y1="119" x2="200" y2="119" class="edge"/>
+  <rect x="200" y="92" width="760" height="54" rx="12" fill="var(--c1b)" stroke="var(--c1)"/>
+  <text x="180" y="123" text-anchor="end" class="st">foundation</text>
+  <text x="216" y="123" class="li">Force, From-Speed-to-Velocity, From-Distance-to-Displacement, Energy, Power …</text>
+
+  <!-- band 2 everyday intuition -->
+  <line x1="190" y1="187" x2="200" y2="187" class="edge"/>
+  <rect x="200" y="160" width="760" height="54" rx="12" fill="var(--c2b)" stroke="var(--c2)"/>
+  <text x="180" y="191" text-anchor="end" class="st">everyday intuition</text>
+  <text x="216" y="191" class="li">Why-Seatbelts-Matter, Why-Objects-Keep-Moving-in-Space, Why-Ice-Floats</text>
+
+  <!-- band 3 physical quantity -->
+  <line x1="190" y1="255" x2="200" y2="255" class="edge"/>
+  <rect x="200" y="228" width="760" height="54" rx="12" fill="var(--c3b)" stroke="var(--c3)"/>
+  <text x="180" y="259" text-anchor="end" class="st">physical quantity</text>
+  <text x="216" y="259" class="li">Acceleration, Velocity, Force, Mass, Momentum, Young-Modulus …</text>
+
+  <!-- band 4 concept -->
+  <line x1="190" y1="323" x2="200" y2="323" class="edge"/>
+  <rect x="200" y="296" width="760" height="54" rx="12" fill="var(--c5b)" stroke="var(--c5)"/>
+  <text x="180" y="327" text-anchor="end" class="st">concept</text>
+  <text x="216" y="327" class="li">Resultant-Force, Equilibrium, Friction, Free-Fall, Simple-Harmonic-Motion, Resonance …</text>
+
+  <!-- band 5 law / result -->
+  <line x1="190" y1="391" x2="200" y2="391" class="edge"/>
+  <rect x="200" y="364" width="760" height="54" rx="12" fill="var(--c6b)" stroke="var(--c6)"/>
+  <text x="180" y="395" text-anchor="end" class="st">law / result</text>
+  <text x="216" y="395" class="li">Newton-First-Law, Newton-Second-Law, Conservation-of-Momentum, Hookes-Law, Principle-of-Moments …</text>
+
+  <!-- band 6 model -->
+  <line x1="190" y1="459" x2="200" y2="459" class="edge"/>
+  <rect x="200" y="432" width="760" height="54" rx="12" fill="var(--c1b)" stroke="var(--c1)"/>
+  <text x="180" y="463" text-anchor="end" class="st">model</text>
+  <text x="216" y="463" class="li">Constant-Acceleration-Model, Projectile-Motion-Model, Point-Mass-Model, Free-Body-Model, Ideal-Spring-Model …</text>
+
+  <!-- band 7 method -->
+  <line x1="190" y1="527" x2="200" y2="527" class="edge"/>
+  <rect x="200" y="500" width="760" height="54" rx="12" fill="var(--c2b)" stroke="var(--c2)"/>
+  <text x="180" y="531" text-anchor="end" class="st">method</text>
+  <text x="216" y="531" class="li">Using-SUVAT-Equations, Resolving-Forces, Drawing-Free-Body-Diagrams, Applying-Newton-Second-Law …</text>
+
+  <!-- band 8 representation -->
+  <line x1="190" y1="595" x2="200" y2="595" class="edge"/>
+  <rect x="200" y="568" width="760" height="54" rx="12" fill="var(--c3b)" stroke="var(--c3)"/>
+  <text x="180" y="599" text-anchor="end" class="st">representation</text>
+  <text x="216" y="599" class="li">Velocity-Time-Graph, Displacement-Time-Graph, Free-Body-Diagram, Stress-Strain-Graph, Vector-Triangle …</text>
+
+  <!-- band 9 experiment -->
+  <line x1="190" y1="663" x2="200" y2="663" class="edge"/>
+  <rect x="200" y="636" width="760" height="54" rx="12" fill="var(--c5b)" stroke="var(--c5)"/>
+  <text x="180" y="667" text-anchor="end" class="st">experiment</text>
+  <text x="216" y="667" class="li">Measuring-Acceleration-Due-to-Gravity, Measuring-Young-Modulus, Investigating-Simple-Harmonic-Motion …</text>
+
+  <!-- band 10 application -->
+  <line x1="190" y1="731" x2="200" y2="731" class="edge"/>
+  <rect x="200" y="704" width="760" height="54" rx="12" fill="var(--c6b)" stroke="var(--c6)"/>
+  <text x="180" y="735" text-anchor="end" class="st">application</text>
+  <text x="216" y="735" class="li">Projectile-Motion, Car-Safety, Bridge-and-Beam-Loading, Satellites-and-Geostationary-Orbits, Levers …</text>
+
+  <!-- band 11 problem type -->
+  <line x1="190" y1="799" x2="200" y2="799" class="edge"/>
+  <rect x="200" y="772" width="760" height="54" rx="12" fill="var(--c1b)" stroke="var(--c1)"/>
+  <text x="180" y="803" text-anchor="end" class="st">problem type</text>
+  <text x="216" y="803" class="li">Calculate-Resultant-Force, SUVAT-Kinematics-Problem, Projectile-Motion-Problem, Energy-Conservation-Problem …</text>
+
+  <!-- band 12 mistake pattern -->
+  <line x1="190" y1="867" x2="200" y2="867" class="edge"/>
+  <rect x="200" y="840" width="760" height="54" rx="12" fill="var(--c2b)" stroke="var(--c2)"/>
+  <text x="180" y="871" text-anchor="end" class="st">mistake pattern</text>
+  <text x="216" y="871" class="li">Confusing-Mass-and-Weight, Mixing-Speed-and-Velocity, Forgetting-Resultant-Force, Ignoring-Units …</text>
+
+  <!-- band 13 frontier edge -->
+  <line x1="190" y1="935" x2="200" y2="935" class="edge"/>
+  <rect x="200" y="908" width="760" height="54" rx="12" fill="var(--c3b)" stroke="var(--c3)" stroke-dasharray="6 4"/>
+  <text x="180" y="939" text-anchor="end" class="st">frontier edge</text>
+  <text x="216" y="939" class="li">Relativity-Map, Chaos-and-Complexity-Map</text>
+
+  <text x="500" y="996" text-anchor="middle" class="ls">From everyday force intuition through quantities, Newton's laws and models to experiments, exam problems and the relativistic frontier.</text>
+</svg>

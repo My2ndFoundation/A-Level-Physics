@@ -1,0 +1,94 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 690" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,sans-serif">
+  <style>
+    :root{
+      --bg:#ffffff;--panel:#f3f5f8;--ink:#1f2933;--muted:#5a6675;--edge:#8895a5;
+      --c1:#2563eb;--c1b:#dbeafe;--c2:#0891b2;--c2b:#cffafe;
+      --c3:#7c3aed;--c3b:#ede9fe;--c5:#059669;--c5b:#d6f3e7;--c6:#d97706;--c6b:#fef0d6;
+    }
+    @media (prefers-color-scheme:dark){
+      :root{
+        --bg:#1b1d22;--panel:#24272f;--ink:#e8eaed;--muted:#9aa5b1;--edge:#566072;
+        --c1:#60a5fa;--c1b:#1d3354;--c2:#22d3ee;--c2b:#0e3a44;
+        --c3:#a78bfa;--c3b:#332457;--c5:#34d399;--c5b:#0f3d2e;--c6:#fbbf24;--c6b:#3f2f0c;
+      }
+    }
+    .ink{fill:var(--ink)} .muted{fill:var(--muted)}
+    .title{font-size:22px;font-weight:700}
+    .tier{font-size:11px;font-weight:700;fill:var(--muted);letter-spacing:.08em}
+    .st{font-size:13px;font-weight:700;fill:var(--muted);letter-spacing:.04em}
+    .pt{font-size:14px;font-weight:700;fill:var(--ink)}
+    .li{font-size:12.5px;fill:var(--ink)}
+    .ls{font-size:11px;fill:var(--muted)}
+    .edge{stroke:var(--edge);stroke-width:1.6;fill:none}
+  </style>
+  <defs>
+    <marker id="ah" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
+      <path d="M0 0L10 5L0 10z" fill="var(--edge)"/>
+    </marker>
+  </defs>
+  <rect width="1000" height="690" fill="var(--bg)"/>
+  <!-- body -->
+  <text x="40" y="38" class="title ink">Physical Quantities MOC — quantities by domain</text>
+  <text x="40" y="60" class="tier">EVERY MEASURABLE QUANTITY GROUPED BY PHYSICS AREA</text>
+
+  <!-- Mechanics & motion -->
+  <rect x="40" y="84" width="460" height="148" rx="12" fill="var(--c1b)" stroke="var(--c1)"/>
+  <text x="60" y="110" class="pt">Mechanics &amp; motion</text>
+  <text x="60" y="132" class="li">Distance, Displacement, Speed, Velocity, Acceleration</text>
+  <text x="60" y="154" class="li">Mass, Weight, Force, Momentum, Impulse</text>
+  <text x="60" y="176" class="li">Work, Energy, Power, Angular-Velocity</text>
+  <text x="60" y="198" class="li">Centripetal-Acceleration, Coefficient-of-Friction</text>
+
+  <!-- Materials -->
+  <rect x="520" y="84" width="440" height="148" rx="12" fill="var(--c2b)" stroke="var(--c2)"/>
+  <text x="540" y="110" class="pt">Materials</text>
+  <text x="540" y="132" class="li">Density, Pressure</text>
+  <text x="540" y="154" class="li">Stress, Strain</text>
+  <text x="540" y="176" class="li">Young-Modulus</text>
+
+  <!-- Electricity & circuits -->
+  <rect x="40" y="248" width="460" height="148" rx="12" fill="var(--c3b)" stroke="var(--c3)"/>
+  <text x="60" y="274" class="pt">Electricity &amp; circuits</text>
+  <text x="60" y="296" class="li">Charge, Current, Potential-Difference</text>
+  <text x="60" y="318" class="li">Resistance, Resistivity, Capacitance</text>
+  <text x="60" y="340" class="li">Electromotive-Force, Time-Constant</text>
+
+  <!-- Fields -->
+  <rect x="520" y="248" width="440" height="148" rx="12" fill="var(--c5b)" stroke="var(--c5)"/>
+  <text x="540" y="274" class="pt">Fields</text>
+  <text x="540" y="296" class="li">Electric-Field-Strength, Gravitational-Field-Strength</text>
+  <text x="540" y="318" class="li">Magnetic-Flux-Density, Electric-Potential</text>
+  <text x="540" y="340" class="li">Gravitational-Potential, Magnetic-Flux</text>
+  <text x="540" y="362" class="li">Magnetic-Flux-Linkage</text>
+
+  <!-- Waves -->
+  <rect x="40" y="412" width="460" height="126" rx="12" fill="var(--c6b)" stroke="var(--c6)"/>
+  <text x="60" y="438" class="pt">Waves</text>
+  <text x="60" y="460" class="li">Frequency, Period, Wavelength, Amplitude</text>
+  <text x="60" y="482" class="li">Intensity, Refractive-Index, Acoustic-Impedance</text>
+
+  <!-- Thermal -->
+  <rect x="520" y="412" width="440" height="126" rx="12" fill="var(--c1b)" stroke="var(--c1)"/>
+  <text x="540" y="438" class="pt">Thermal</text>
+  <text x="540" y="460" class="li">Specific-Heat-Capacity</text>
+  <text x="540" y="482" class="li">Specific-Latent-Heat, Boltzmann-Constant</text>
+
+  <!-- Nuclear & quantum -->
+  <rect x="40" y="554" width="290" height="108" rx="12" fill="var(--c2b)" stroke="var(--c2)"/>
+  <text x="60" y="580" class="pt">Nuclear &amp; quantum</text>
+  <text x="60" y="602" class="li">Decay-Constant</text>
+  <text x="60" y="624" class="li">Activity</text>
+
+  <!-- Astrophysics -->
+  <rect x="350" y="554" width="290" height="108" rx="12" fill="var(--c3b)" stroke="var(--c3)"/>
+  <text x="370" y="580" class="pt">Astrophysics</text>
+  <text x="370" y="602" class="li">Luminosity</text>
+
+  <!-- Maths -->
+  <rect x="660" y="554" width="300" height="108" rx="12" fill="var(--c5b)" stroke="var(--c5)"/>
+  <text x="680" y="580" class="pt">Maths (area / volume)</text>
+  <text x="680" y="602" class="li">Area</text>
+  <text x="680" y="624" class="li">Volume</text>
+
+  <text x="500" y="680" text-anchor="middle" class="ls">49 quantities organised by the physics area where they are first measured.</text>
+</svg>

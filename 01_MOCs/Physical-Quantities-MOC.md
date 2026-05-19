@@ -10,6 +10,12 @@ status: draft
 
 # Physical Quantities MOC
 
+## Map
+
+![[_attachments/01_MOCs/Physical-Quantities-MOC--quantity-clusters.svg|680]]
+*Figure: The vault's 49 measurable quantities clustered by the physics domain they belong to — mechanics, materials, electricity, fields, waves, thermal, nuclear, astrophysics and maths.*
+*Source: Authored for this vault (CC0). No external copyright.*
+
 ## Foundations
 
 _To be populated during ingestion._

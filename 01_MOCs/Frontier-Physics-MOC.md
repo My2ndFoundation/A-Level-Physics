@@ -17,6 +17,12 @@ It is intentionally shallow.
 
 The goal is orientation, not mastery.
 
+## Map
+
+![[_attachments/01_MOCs/Frontier-Physics-MOC--orientation-map.svg|680]]
+*Figure: dashed links connect A-Level entry points (photoelectric effect, wave-particle duality, the nuclear atom, astrophysics, gravitational fields) outward to the seven peripheral frontier maps — orientation only.*
+*Source: Authored for this vault (CC0). No external copyright.*
+
 ## Frontier Maps
 
 - [[Quantum-Mechanics-Map]]

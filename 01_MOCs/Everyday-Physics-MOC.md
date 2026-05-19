@@ -11,6 +11,12 @@ status: draft
 
 # Everyday Physics MOC
 
+## Map
+
+![[_attachments/01_MOCs/Everyday-Physics-MOC--layer-position.svg|680]]
+*Figure: everyday physics is the base band of the continuum — lived observations like why seatbelts matter or why ice floats that every higher layer up to the A-Level core is built upon.*
+*Source: Authored for this vault (CC0). No external copyright.*
+
 ## Foundations
 
 _To be populated during ingestion._

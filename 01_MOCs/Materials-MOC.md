@@ -10,6 +10,12 @@ status: draft
 
 # Materials MOC
 
+## Map
+
+![[_attachments/01_MOCs/Materials-MOC--knowledge-flow.svg|680]]
+*Figure: Materials pages flow from force through stress and strain to Hooke's law, elastic behaviour, and the measurement of Young modulus.*
+*Source: Authored for this vault (CC0). No external copyright.*
+
 ## Foundations
 
 - [[Force]]

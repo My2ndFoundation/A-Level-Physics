@@ -1,0 +1,85 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 560" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,sans-serif">
+  <style>
+    :root{
+      --bg:#ffffff;--panel:#f3f5f8;--ink:#1f2933;--muted:#5a6675;--edge:#8895a5;
+      --c1:#2563eb;--c1b:#dbeafe;--c2:#0891b2;--c2b:#cffafe;
+      --c3:#7c3aed;--c3b:#ede9fe;--c5:#059669;--c5b:#d6f3e7;--c6:#d97706;--c6b:#fef0d6;
+    }
+    @media (prefers-color-scheme:dark){
+      :root{
+        --bg:#1b1d22;--panel:#24272f;--ink:#e8eaed;--muted:#9aa5b1;--edge:#566072;
+        --c1:#60a5fa;--c1b:#1d3354;--c2:#22d3ee;--c2b:#0e3a44;
+        --c3:#a78bfa;--c3b:#332457;--c5:#34d399;--c5b:#0f3d2e;--c6:#fbbf24;--c6b:#3f2f0c;
+      }
+    }
+    .ink{fill:var(--ink)} .muted{fill:var(--muted)}
+    .title{font-size:22px;font-weight:700}
+    .tier{font-size:11px;font-weight:700;fill:var(--muted);letter-spacing:.08em}
+    .st{font-size:13px;font-weight:700;fill:var(--muted);letter-spacing:.04em}
+    .pt{font-size:14px;font-weight:700;fill:var(--ink)}
+    .li{font-size:12.5px;fill:var(--ink)}
+    .ls{font-size:11px;fill:var(--muted)}
+    .edge{stroke:var(--edge);stroke-width:1.6;fill:none}
+  </style>
+  <defs>
+    <marker id="ah" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
+      <path d="M0 0L10 5L0 10z" fill="var(--edge)"/>
+    </marker>
+  </defs>
+  <rect width="1000" height="560" fill="var(--bg)"/>
+  <!-- body -->
+  <text x="40" y="38" class="title ink">Pre-GCSE Foundations MOC — where this layer sits</text>
+  <text x="40" y="60" class="tier">PHYSICS AS ONE CONTINUOUS SYSTEM · A-LEVEL CORE IS THE MAIN DETAILED LAYER</text>
+
+  <!-- upward continuum arrow on the left -->
+  <path class="edge" d="M70 500 L70 110" marker-end="url(#ah)"/>
+  <text x="46" y="305" class="ls" transform="rotate(-90 46 305)">foundations feed the A-Level core</text>
+
+  <!-- stack: bottom = everyday, top = frontier -->
+  <!-- Frontier edge (top, dashed peripheral) -->
+  <rect x="100" y="92" width="500" height="50" rx="12" fill="var(--panel)" stroke="var(--edge)" stroke-width="1.6" stroke-dasharray="6 4"/>
+  <text x="120" y="122" class="pt muted">Frontier edge</text>
+  <text x="430" y="122" class="ls">peripheral · orientation only</text>
+
+  <!-- A-Level OCR H556 core -->
+  <rect x="100" y="150" width="500" height="56" rx="12" fill="var(--panel)" stroke="var(--edge)" stroke-width="1.6"/>
+  <text x="120" y="184" class="pt">A-Level OCR H556 core</text>
+  <text x="430" y="184" class="ls">main detailed layer</text>
+
+  <!-- Bridge to A-Level -->
+  <rect x="100" y="214" width="500" height="56" rx="12" fill="var(--panel)" stroke="var(--edge)" stroke-width="1.6"/>
+  <text x="120" y="248" class="pt">Bridge to A-Level</text>
+
+  <!-- GCSE foundation -->
+  <rect x="100" y="278" width="500" height="56" rx="12" fill="var(--panel)" stroke="var(--edge)" stroke-width="1.6"/>
+  <text x="120" y="312" class="pt">GCSE foundation</text>
+
+  <!-- Pre-GCSE foundation (THIS MOC — solid emphasis c3) -->
+  <rect x="100" y="342" width="500" height="62" rx="12" fill="var(--c3b)" stroke="var(--c3)" stroke-width="2.5"/>
+  <text x="120" y="370" class="pt">Pre-GCSE foundation  ◀ this MOC</text>
+  <text x="120" y="390" class="ls">recovers basic language, observation, physical ideas</text>
+
+  <!-- Everyday Physics (bottom) -->
+  <rect x="100" y="412" width="500" height="56" rx="12" fill="var(--panel)" stroke="var(--edge)" stroke-width="1.6"/>
+  <text x="120" y="446" class="pt">Everyday Physics</text>
+
+  <!-- right panel: representative pages -->
+  <rect x="640" y="150" width="320" height="318" rx="12" fill="var(--panel)" stroke="var(--edge)" stroke-width="1.6"/>
+  <text x="660" y="180" class="st">REPRESENTATIVE PAGES (THIS LAYER)</text>
+
+  <text x="660" y="214" class="pt">Common-sense links</text>
+  <text x="660" y="236" class="li">Why-Seatbelts-Matter, Why-Ice-Floats</text>
+  <text x="660" y="256" class="li">Why-Metal-Feels-Colder-Than-Wood</text>
+  <text x="660" y="276" class="li">Why-Objects-Keep-Moving-in-Space</text>
+  <text x="660" y="296" class="li">Why-Sky-Is-Blue, Why-Sound-Needs-a-Medium</text>
+
+  <text x="660" y="332" class="pt">Other sections</text>
+  <text x="660" y="354" class="ls">Foundations, Quantities, Concepts,</text>
+  <text x="660" y="372" class="ls">Laws, Models, Methods …</text>
+  <text x="660" y="394" class="ls">to be populated during ingestion</text>
+
+  <text x="660" y="430" class="ls">Purpose: rebuild physical common</text>
+  <text x="660" y="448" class="ls">sense before GCSE language.</text>
+
+  <text x="500" y="540" text-anchor="middle" class="ls">Pre-GCSE sits low in the continuum — it stabilises intuition that later becomes the A-Level core.</text>
+</svg>

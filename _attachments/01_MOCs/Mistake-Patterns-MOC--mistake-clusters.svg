@@ -1,0 +1,83 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 640" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,sans-serif">
+  <style>
+    :root{
+      --bg:#ffffff;--panel:#f3f5f8;--ink:#1f2933;--muted:#5a6675;--edge:#8895a5;
+      --c1:#2563eb;--c1b:#dbeafe;--c2:#0891b2;--c2b:#cffafe;
+      --c3:#7c3aed;--c3b:#ede9fe;--c5:#059669;--c5b:#d6f3e7;--c6:#d97706;--c6b:#fef0d6;
+    }
+    @media (prefers-color-scheme:dark){
+      :root{
+        --bg:#1b1d22;--panel:#24272f;--ink:#e8eaed;--muted:#9aa5b1;--edge:#566072;
+        --c1:#60a5fa;--c1b:#1d3354;--c2:#22d3ee;--c2b:#0e3a44;
+        --c3:#a78bfa;--c3b:#332457;--c5:#34d399;--c5b:#0f3d2e;--c6:#fbbf24;--c6b:#3f2f0c;
+      }
+    }
+    .ink{fill:var(--ink)} .muted{fill:var(--muted)}
+    .title{font-size:22px;font-weight:700}
+    .tier{font-size:11px;font-weight:700;fill:var(--muted);letter-spacing:.08em}
+    .st{font-size:13px;font-weight:700;fill:var(--muted);letter-spacing:.04em}
+    .pt{font-size:14px;font-weight:700;fill:var(--ink)}
+    .li{font-size:12.5px;fill:var(--ink)}
+    .ls{font-size:11px;fill:var(--muted)}
+    .edge{stroke:var(--edge);stroke-width:1.6;fill:none}
+  </style>
+  <defs>
+    <marker id="ah" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
+      <path d="M0 0L10 5L0 10z" fill="var(--edge)"/>
+    </marker>
+  </defs>
+  <rect width="1000" height="640" fill="var(--bg)"/>
+  <!-- body -->
+  <text class="title ink" x="40" y="38">Mistake Patterns MOC — common traps by topic</text>
+  <text class="tier" x="40" y="60">EXAM-TRAP CLUSTERS · ONE CANONICAL PAGE EACH</text>
+
+  <!-- Mechanics (large) -->
+  <rect x="40" y="84" width="460" height="232" rx="12" fill="var(--c1b)" stroke="var(--c1)" stroke-width="1.4"/>
+  <text class="pt" x="56" y="110">Mechanics</text>
+  <text class="li" x="56" y="134">Confusing Mass and Weight</text>
+  <text class="li" x="56" y="156">Forgetting Resultant Force, Forgetting Vector Direction</text>
+  <text class="li" x="56" y="178">Treating Scalars as Vectors, Adding Forces as Scalars</text>
+  <text class="li" x="56" y="200">Using Distance Instead of Displacement</text>
+  <text class="li" x="56" y="222">SUVAT When Acceleration Is Not Constant</text>
+  <text class="li" x="56" y="244">Mixing Speed and Velocity</text>
+  <text class="li" x="56" y="266">Confusing Angular and Linear Quantities</text>
+  <text class="li" x="56" y="288">Treating Centripetal Force as an Extra Force</text>
+
+  <!-- Energy & power -->
+  <rect x="516" y="84" width="444" height="74" rx="12" fill="var(--c5b)" stroke="var(--c5)" stroke-width="1.4"/>
+  <text class="pt" x="532" y="110">Energy &amp; power</text>
+  <text class="li" x="532" y="134">Confusing Energy and Power</text>
+
+  <!-- Thermal -->
+  <rect x="516" y="168" width="444" height="74" rx="12" fill="var(--c6b)" stroke="var(--c6)" stroke-width="1.4"/>
+  <text class="pt" x="532" y="194">Thermal</text>
+  <text class="li" x="532" y="218">Confusing Heat and Temperature</text>
+
+  <!-- Electricity -->
+  <rect x="516" y="252" width="444" height="64" rx="12" fill="var(--c2b)" stroke="var(--c2)" stroke-width="1.4"/>
+  <text class="pt" x="532" y="276">Electricity</text>
+  <text class="li" x="532" y="298">Mixing Up Series/Parallel Circuits, EMF vs Terminal PD</text>
+
+  <!-- Waves -->
+  <rect x="40" y="332" width="300" height="74" rx="12" fill="var(--c3b)" stroke="var(--c3)" stroke-width="1.4"/>
+  <text class="pt" x="56" y="358">Waves</text>
+  <text class="li" x="56" y="382">Confusing Wavelength/Amplitude</text>
+
+  <!-- Quantum -->
+  <rect x="356" y="332" width="300" height="74" rx="12" fill="var(--c3b)" stroke="var(--c3)" stroke-width="1.4"/>
+  <text class="pt" x="372" y="358">Quantum</text>
+  <text class="li" x="372" y="382">Photon Energy vs Intensity</text>
+
+  <!-- Graphs & data -->
+  <rect x="672" y="332" width="288" height="74" rx="12" fill="var(--panel)" stroke="var(--edge)"/>
+  <text class="pt" x="688" y="358">Graphs &amp; data</text>
+  <text class="li" x="688" y="382">Misreading Gradient, Ignoring Units …</text>
+
+  <rect x="40" y="422" width="920" height="118" rx="12" fill="var(--panel)" stroke="var(--edge)"/>
+  <text class="st" x="56" y="446">GRAPHS &amp; DATA — full list</text>
+  <text class="li" x="56" y="470">Misreading Graph Gradient, Ignoring Units, Incorrect Sign Convention</text>
+  <text class="ls" x="56" y="494">Every trap is one canonical mistake-pattern page; the same set is mirrored in Problem Solving MOC.</text>
+  <text class="ls" x="56" y="516">Spotting a trap is the fastest route to recovering lost marks.</text>
+
+  <text class="ls" x="500" y="588" text-anchor="middle">Seven topic clusters group the recurring traps that lose A-Level marks.</text>
+</svg>

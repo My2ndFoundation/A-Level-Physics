@@ -9,6 +9,12 @@ status: draft
 
 # Problem Solving MOC
 
+## Map
+
+![[_attachments/01_MOCs/Problem-Solving-MOC--solving-pipeline.svg|680]]
+*Figure: the Method → Problem type → Worked example → Avoiding mistakes pipeline crossed with domain swimlanes from mechanics to graphs and uncertainty.*
+*Source: Authored for this vault (CC0). No external copyright.*
+
 ## Methods
 
 ### Mechanics and Motion

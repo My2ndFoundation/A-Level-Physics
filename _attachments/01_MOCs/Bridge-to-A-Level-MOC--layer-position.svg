@@ -1,0 +1,87 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 600" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,sans-serif">
+  <style>
+    :root{
+      --bg:#ffffff;--panel:#f3f5f8;--ink:#1f2933;--muted:#5a6675;--edge:#8895a5;
+      --c1:#2563eb;--c1b:#dbeafe;--c2:#0891b2;--c2b:#cffafe;
+      --c3:#7c3aed;--c3b:#ede9fe;--c5:#059669;--c5b:#d6f3e7;--c6:#d97706;--c6b:#fef0d6;
+    }
+    @media (prefers-color-scheme:dark){
+      :root{
+        --bg:#1b1d22;--panel:#24272f;--ink:#e8eaed;--muted:#9aa5b1;--edge:#566072;
+        --c1:#60a5fa;--c1b:#1d3354;--c2:#22d3ee;--c2b:#0e3a44;
+        --c3:#a78bfa;--c3b:#332457;--c5:#34d399;--c5b:#0f3d2e;--c6:#fbbf24;--c6b:#3f2f0c;
+      }
+    }
+    .ink{fill:var(--ink)} .muted{fill:var(--muted)}
+    .title{font-size:22px;font-weight:700}
+    .tier{font-size:11px;font-weight:700;fill:var(--muted);letter-spacing:.08em}
+    .st{font-size:13px;font-weight:700;fill:var(--muted);letter-spacing:.04em}
+    .pt{font-size:14px;font-weight:700;fill:var(--ink)}
+    .li{font-size:12.5px;fill:var(--ink)}
+    .ls{font-size:11px;fill:var(--muted)}
+    .edge{stroke:var(--edge);stroke-width:1.6;fill:none}
+  </style>
+  <defs>
+    <marker id="ah" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
+      <path d="M0 0L10 5L0 10z" fill="var(--edge)"/>
+    </marker>
+  </defs>
+  <rect width="1000" height="600" fill="var(--bg)"/>
+  <!-- body -->
+  <text x="40" y="38" class="title ink">Bridge to A-Level MOC — where this layer sits</text>
+  <text x="40" y="60" class="tier">PHYSICS AS ONE CONTINUOUS SYSTEM · A-LEVEL CORE IS THE MAIN DETAILED LAYER</text>
+
+  <!-- upward continuum arrow on the left -->
+  <path class="edge" d="M70 540 L70 110" marker-end="url(#ah)"/>
+  <text x="46" y="325" class="ls" transform="rotate(-90 46 325)">foundations feed the A-Level core</text>
+
+  <!-- Frontier edge (top, dashed peripheral) -->
+  <rect x="100" y="92" width="480" height="46" rx="12" fill="var(--panel)" stroke="var(--edge)" stroke-width="1.6" stroke-dasharray="6 4"/>
+  <text x="120" y="120" class="pt muted">Frontier edge</text>
+  <text x="420" y="120" class="ls">peripheral · orientation only</text>
+
+  <!-- A-Level OCR H556 core -->
+  <rect x="100" y="146" width="480" height="56" rx="12" fill="var(--panel)" stroke="var(--edge)" stroke-width="1.6"/>
+  <text x="120" y="180" class="pt">A-Level OCR H556 core</text>
+  <text x="420" y="180" class="ls">main detailed layer</text>
+
+  <!-- Bridge to A-Level (THIS MOC — solid emphasis c3) -->
+  <rect x="100" y="210" width="480" height="66" rx="12" fill="var(--c3b)" stroke="var(--c3)" stroke-width="2.5"/>
+  <text x="120" y="240" class="pt">Bridge to A-Level  ◀ this MOC</text>
+  <text x="120" y="262" class="ls">GCSE ideas become more mathematical and precise</text>
+
+  <!-- GCSE foundation -->
+  <rect x="100" y="284" width="480" height="56" rx="12" fill="var(--panel)" stroke="var(--edge)" stroke-width="1.6"/>
+  <text x="120" y="318" class="pt">GCSE foundation</text>
+
+  <!-- Pre-GCSE foundation -->
+  <rect x="100" y="348" width="480" height="52" rx="12" fill="var(--panel)" stroke="var(--edge)" stroke-width="1.6"/>
+  <text x="120" y="380" class="pt">Pre-GCSE foundation</text>
+
+  <!-- Everyday Physics (bottom) -->
+  <rect x="100" y="408" width="480" height="52" rx="12" fill="var(--panel)" stroke="var(--edge)" stroke-width="1.6"/>
+  <text x="120" y="440" class="pt">Everyday Physics</text>
+
+  <!-- transition arrow-row: GCSE -> A-Level via bridge pages -->
+  <path class="edge" d="M340 312 C 600 312 600 184 562 184" stroke="var(--c3)" stroke-width="2.5" marker-end="url(#ah)"/>
+
+  <!-- right panel: the From-X-to-Y bridge pages emphasised -->
+  <rect x="630" y="146" width="330" height="314" rx="12" fill="var(--c3b)" stroke="var(--c3)" stroke-width="2.5"/>
+  <text x="650" y="176" class="st">THE TRANSITION · "FROM-X-TO-Y" BRIDGES</text>
+
+  <text x="650" y="206" class="li">From-Speed-to-Velocity</text>
+  <text x="650" y="228" class="li">From-Distance-to-Displacement</text>
+  <text x="650" y="250" class="li">From-Weight-to-Gravitational-Field…</text>
+  <text x="650" y="272" class="li">From-Circuits-to-Circuit-Models</text>
+  <text x="650" y="294" class="li">From-Waves-to-Superposition</text>
+
+  <text x="650" y="328" class="pt">Quantities crossing the bridge</text>
+  <text x="650" y="350" class="li">Speed, Velocity, Distance,</text>
+  <text x="650" y="370" class="li">Displacement, Weight, g</text>
+
+  <text x="650" y="404" class="pt">Concepts made precise</text>
+  <text x="650" y="426" class="li">Vectors-and-Scalars, Superposition,</text>
+  <text x="650" y="446" class="li">Gravitational-Field, Internal-Resistance</text>
+
+  <text x="500" y="580" text-anchor="middle" class="ls">The bridge layer carries GCSE intuition into A-Level precision — the "From-X-to-Y" pages are its core move.</text>
+</svg>

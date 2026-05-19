@@ -10,6 +10,12 @@ status: draft
 
 # Thermal Physics MOC
 
+## Map
+
+![[_attachments/01_MOCs/Thermal-Physics-MOC--knowledge-flow.svg|680]]
+*Figure: Everyday warmth intuitions become temperature and kinetic theory, then the ideal gas law, its model, and the specific-heat-capacity practical.*
+*Source: Authored for this vault (CC0). No external copyright.*
+
 ## Common-Sense Links
 
 - [[Why-Ice-Floats]]

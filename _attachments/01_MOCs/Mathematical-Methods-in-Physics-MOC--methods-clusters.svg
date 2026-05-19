@@ -1,0 +1,85 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 560" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,sans-serif">
+  <style>
+    :root{
+      --bg:#ffffff;--panel:#f3f5f8;--ink:#1f2933;--muted:#5a6675;--edge:#8895a5;
+      --c1:#2563eb;--c1b:#dbeafe;--c2:#0891b2;--c2b:#cffafe;
+      --c3:#7c3aed;--c3b:#ede9fe;--c5:#059669;--c5b:#d6f3e7;--c6:#d97706;--c6b:#fef0d6;
+    }
+    @media (prefers-color-scheme:dark){
+      :root{
+        --bg:#1b1d22;--panel:#24272f;--ink:#e8eaed;--muted:#9aa5b1;--edge:#566072;
+        --c1:#60a5fa;--c1b:#1d3354;--c2:#22d3ee;--c2b:#0e3a44;
+        --c3:#a78bfa;--c3b:#332457;--c5:#34d399;--c5b:#0f3d2e;--c6:#fbbf24;--c6b:#3f2f0c;
+      }
+    }
+    .ink{fill:var(--ink)} .muted{fill:var(--muted)}
+    .title{font-size:22px;font-weight:700}
+    .tier{font-size:11px;font-weight:700;fill:var(--muted);letter-spacing:.08em}
+    .st{font-size:13px;font-weight:700;fill:var(--muted);letter-spacing:.04em}
+    .pt{font-size:14px;font-weight:700;fill:var(--ink)}
+    .li{font-size:12.5px;fill:var(--ink)}
+    .ls{font-size:11px;fill:var(--muted)}
+    .edge{stroke:var(--edge);stroke-width:1.6;fill:none}
+  </style>
+  <defs>
+    <marker id="ah" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
+      <path d="M0 0L10 5L0 10z" fill="var(--edge)"/>
+    </marker>
+  </defs>
+  <rect width="1000" height="560" fill="var(--bg)"/>
+  <!-- body -->
+  <text x="40" y="38" class="title ink">Mathematical Methods in Physics MOC — OCR M0–M4 skills</text>
+  <text x="40" y="60" class="tier">MATHS TOOLBOX FOR PHYSICS (spec §5e)</text>
+
+  <!-- M0 -->
+  <rect x="40" y="84" width="295" height="172" rx="12" fill="var(--c1b)" stroke="var(--c1)"/>
+  <text x="58" y="110" class="pt">M0 — Arithmetic</text>
+  <text x="58" y="132" class="li">Units in calculations</text>
+  <text x="58" y="152" class="li">Decimal &amp; standard form</text>
+  <text x="58" y="172" class="li">Ratios, fractions, percentages</text>
+  <text x="58" y="192" class="li">Estimating results</text>
+  <text x="58" y="212" class="li">Calculator: exp / log / trig</text>
+
+  <!-- M1 -->
+  <rect x="352" y="84" width="296" height="172" rx="12" fill="var(--c2b)" stroke="var(--c2)"/>
+  <text x="370" y="110" class="pt">M1 — Handling data</text>
+  <text x="370" y="132" class="li">Significant figures</text>
+  <text x="370" y="152" class="li">Arithmetic means</text>
+  <text x="370" y="172" class="li">Simple probability</text>
+  <text x="370" y="192" class="li">Order-of-magnitude</text>
+  <text x="370" y="212" class="li">Uncertainties</text>
+
+  <!-- M2 -->
+  <rect x="665" y="84" width="295" height="172" rx="12" fill="var(--c3b)" stroke="var(--c3)"/>
+  <text x="683" y="110" class="pt">M2 — Algebra</text>
+  <text x="683" y="132" class="li">Symbols ∝ ≈ ≪ ≫ ∆</text>
+  <text x="683" y="152" class="li">Changing the subject</text>
+  <text x="683" y="172" class="li">Substituting with units</text>
+  <text x="683" y="192" class="li">Solving incl. quadratics</text>
+  <text x="683" y="212" class="li">Logarithms across scales</text>
+
+  <!-- M3 -->
+  <rect x="40" y="272" width="455" height="172" rx="12" fill="var(--c5b)" stroke="var(--c5)"/>
+  <text x="58" y="298" class="pt">M3 — Graphs</text>
+  <text x="58" y="320" class="li">Graphical ↔ numerical ↔ algebraic forms; plot two variables</text>
+  <text x="58" y="340" class="li">y = mx + c; slope and intercept; rate of change</text>
+  <text x="58" y="360" class="li">Tangent slope; instantaneous vs average rate</text>
+  <text x="58" y="380" class="li">Area between curve and x-axis; sketch relationships</text>
+  <text x="58" y="400" class="li">Interpret log plots for exponential / power laws</text>
+
+  <!-- M4 -->
+  <rect x="512" y="272" width="448" height="172" rx="12" fill="var(--c6b)" stroke="var(--c6)"/>
+  <text x="530" y="298" class="pt">M4 — Geometry &amp; trig</text>
+  <text x="530" y="320" class="li">Angles in 2D / 3D structures</text>
+  <text x="530" y="340" class="li">Areas and volumes of standard solids</text>
+  <text x="530" y="360" class="li">Pythagoras; angle sum of a triangle</text>
+  <text x="530" y="380" class="li">sin / cos / tan in physical problems</text>
+  <text x="530" y="400" class="li">Small-angle approximation; degrees ↔ radians</text>
+
+  <!-- linked pages band -->
+  <rect x="40" y="460" width="920" height="58" rx="12" fill="var(--panel)" stroke="var(--edge)"/>
+  <text x="58" y="484" class="st">LINKED METHOD / GRAPH PAGES</text>
+  <text x="58" y="506" class="li">Differentiation, Integration, Finding-Gradient-from-a-Graph, Linearising-a-Graph, Velocity-Time-Graph, Combining-Uncertainties …</text>
+
+  <text x="500" y="544" text-anchor="middle" class="ls">OCR M0–M4 skill clusters with the atomic method and graph pages that teach them.</text>
+</svg>

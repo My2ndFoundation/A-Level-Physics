@@ -10,6 +10,12 @@ status: draft
 
 # Astrophysics MOC
 
+## Map
+
+![[_attachments/01_MOCs/Astrophysics-MOC--knowledge-flow.svg|680]]
+*Figure: Astrophysics runs from luminosity as a quantity through stellar and cosmological concepts and the Wien/Stefan/Hubble/Kepler laws out to the cosmology frontier.*
+*Source: Authored for this vault (CC0). No external copyright.*
+
 ## Physical Quantities
 
 - [[Luminosity]]

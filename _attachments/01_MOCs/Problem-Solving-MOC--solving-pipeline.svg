@@ -1,0 +1,77 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 690" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,sans-serif">
+  <style>
+    :root{
+      --bg:#ffffff;--panel:#f3f5f8;--ink:#1f2933;--muted:#5a6675;--edge:#8895a5;
+      --c1:#2563eb;--c1b:#dbeafe;--c2:#0891b2;--c2b:#cffafe;
+      --c3:#7c3aed;--c3b:#ede9fe;--c5:#059669;--c5b:#d6f3e7;--c6:#d97706;--c6b:#fef0d6;
+    }
+    @media (prefers-color-scheme:dark){
+      :root{
+        --bg:#1b1d22;--panel:#24272f;--ink:#e8eaed;--muted:#9aa5b1;--edge:#566072;
+        --c1:#60a5fa;--c1b:#1d3354;--c2:#22d3ee;--c2b:#0e3a44;
+        --c3:#a78bfa;--c3b:#332457;--c5:#34d399;--c5b:#0f3d2e;--c6:#fbbf24;--c6b:#3f2f0c;
+      }
+    }
+    .ink{fill:var(--ink)} .muted{fill:var(--muted)}
+    .title{font-size:22px;font-weight:700}
+    .tier{font-size:11px;font-weight:700;fill:var(--muted);letter-spacing:.08em}
+    .st{font-size:13px;font-weight:700;fill:var(--muted);letter-spacing:.04em}
+    .pt{font-size:14px;font-weight:700;fill:var(--ink)}
+    .li{font-size:12.5px;fill:var(--ink)}
+    .ls{font-size:11px;fill:var(--muted)}
+    .edge{stroke:var(--edge);stroke-width:1.6;fill:none}
+  </style>
+  <defs>
+    <marker id="ah" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
+      <path d="M0 0L10 5L0 10z" fill="var(--edge)"/>
+    </marker>
+  </defs>
+  <rect width="1000" height="690" fill="var(--bg)"/>
+  <!-- body -->
+  <text class="title ink" x="40" y="38">Problem Solving MOC — method to answer</text>
+  <text class="tier" x="40" y="60">PIPELINE × DOMAIN SWIMLANES</text>
+
+  <!-- stage chain -->
+  <g>
+    <rect x="40" y="80" width="206" height="52" rx="12" fill="var(--c1b)" stroke="var(--c1)" stroke-width="1.4"/>
+    <text class="pt" x="143" y="112" text-anchor="middle">Method</text>
+    <rect x="266" y="80" width="206" height="52" rx="12" fill="var(--c2b)" stroke="var(--c2)" stroke-width="1.4"/>
+    <text class="pt" x="369" y="112" text-anchor="middle">Problem type</text>
+    <rect x="492" y="80" width="206" height="52" rx="12" fill="var(--c3b)" stroke="var(--c3)" stroke-width="1.4"/>
+    <text class="pt" x="595" y="112" text-anchor="middle">Worked example</text>
+    <rect x="718" y="80" width="242" height="52" rx="12" fill="var(--c5b)" stroke="var(--c5)" stroke-width="1.4"/>
+    <text class="pt" x="839" y="112" text-anchor="middle">Avoiding mistakes</text>
+    <line x1="246" y1="106" x2="266" y2="106" class="edge" marker-end="url(#ah)"/>
+    <line x1="472" y1="106" x2="492" y2="106" class="edge" marker-end="url(#ah)"/>
+    <line x1="698" y1="106" x2="718" y2="106" class="edge" marker-end="url(#ah)"/>
+  </g>
+
+  <!-- swimlanes -->
+  <g>
+    <rect x="40" y="152" width="920" height="86" rx="12" fill="var(--c1b)" stroke="var(--c1)" stroke-width="1.2"/>
+    <text class="pt" x="56" y="176">Mechanics &amp; motion</text>
+    <text class="li" x="56" y="198">Using SUVAT, Newton's 2nd Law, Resolving Forces/Vectors, Free-Body Diagrams</text>
+    <text class="li" x="56" y="220">Conservation of Momentum/Energy, Circular Motion, SHM · SUVAT &amp; Projectile problems …</text>
+
+    <rect x="40" y="248" width="920" height="68" rx="12" fill="var(--c2b)" stroke="var(--c2)" stroke-width="1.2"/>
+    <text class="pt" x="56" y="272">Electricity</text>
+    <text class="li" x="56" y="296">Analysing Circuits, Kirchhoff's Laws, Potential Dividers, Capacitor Charge/Discharge, Faraday's Law …</text>
+
+    <rect x="40" y="326" width="920" height="68" rx="12" fill="var(--c3b)" stroke="var(--c3)" stroke-width="1.2"/>
+    <text class="pt" x="56" y="350">Waves &amp; quantum</text>
+    <text class="li" x="56" y="374">Wave Superposition, Snell's Law, Photoelectric Equation · Standing Wave &amp; Photoelectric problems …</text>
+
+    <rect x="40" y="404" width="920" height="68" rx="12" fill="var(--c6b)" stroke="var(--c6)" stroke-width="1.2"/>
+    <text class="pt" x="56" y="428">Thermal &amp; nuclear</text>
+    <text class="li" x="56" y="452">Ideal Gas Equation, Binding Energy &amp; Energy Release · Radioactive Decay problem …</text>
+
+    <rect x="40" y="482" width="920" height="68" rx="12" fill="var(--c5b)" stroke="var(--c5)" stroke-width="1.2"/>
+    <text class="pt" x="56" y="506">Graphs &amp; uncertainty</text>
+    <text class="li" x="56" y="530">Gradient, Area, Linearising · % Uncertainty/Difference, Combining Uncertainties, Sig figs …</text>
+  </g>
+
+  <text class="ls" x="56" y="582">Worked examples: SUVAT Cliff Projectile, Momentum Collision, Conical Pendulum, SHM Mass-Spring …</text>
+  <text class="ls" x="56" y="604">Mistakes: Adding Forces as Scalars, Mass vs Weight, Energy vs Power, EMF vs Terminal PD …</text>
+
+  <text class="ls" x="500" y="660" text-anchor="middle">Pick a method, recognise the problem type, follow a worked example, sidestep the known trap.</text>
+</svg>

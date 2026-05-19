@@ -9,6 +9,12 @@ status: draft
 
 # Quantum Physics MOC
 
+## Map
+
+![[_attachments/01_MOCs/Quantum-Physics-MOC--knowledge-flow.svg|680]]
+*Figure: Quantum ideas flow from the photoelectric effect and wave-particle duality through the Planck-constant practicals out to quantum maps.*
+*Source: Authored for this vault (CC0). No external copyright.*
+
 ## Concepts
 
 - [[Photoelectric-Effect]]

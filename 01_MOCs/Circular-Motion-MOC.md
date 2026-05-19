@@ -10,6 +10,12 @@ status: draft
 
 # Circular Motion MOC
 
+## Map
+
+![[_attachments/01_MOCs/Circular-Motion-MOC--knowledge-flow.svg|680]]
+*Figure: circular motion flows from "why things keep moving" through angular quantities and centripetal force to orbits, accelerators and the cosmology/relativity edge.*
+*Source: Authored for this vault (CC0). No external copyright.*
+
 ## Foundations
 
 - [[From-Weight-to-Gravitational-Field-Strength]]

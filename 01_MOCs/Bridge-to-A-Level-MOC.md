@@ -10,6 +10,12 @@ status: draft
 
 # Bridge to A-Level MOC
 
+## Map
+
+![[_attachments/01_MOCs/Bridge-to-A-Level-MOC--layer-position.svg|680]]
+*Figure: the bridge band carries GCSE intuition into A-Level precision, with the "From-X-to-Y" pages (speed→velocity, distance→displacement, weight→g) spanning the GCSE→A-Level transition.*
+*Source: Authored for this vault (CC0). No external copyright.*
+
 ## Foundations
 
 - [[From-Speed-to-Velocity]]

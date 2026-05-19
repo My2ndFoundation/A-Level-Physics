@@ -60,6 +60,12 @@ sources teach each skill.
   - M4.6 small-angle approximations
   - M4.7 degrees ↔ radians
 
+## Map
+
+![[_attachments/01_MOCs/Mathematical-Methods-in-Physics-MOC--methods-clusters.svg|680]]
+*Figure: The OCR M0–M4 maths-skill clusters (arithmetic, data handling, algebra, graphs, geometry/trig) with the atomic method and graph pages that teach each skill.*
+*Source: Authored for this vault (CC0). No external copyright.*
+
 ## Foundations
 
 _To be populated during ingestion._

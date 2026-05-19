@@ -11,6 +11,12 @@ status: draft
 
 # Physics MOC
 
+## Map
+
+![[_attachments/01_MOCs/Physics-MOC--vault-hub.svg|680]]
+*Figure: The Physics MOC is the vault hub wiring the five learning-layer maps, seventeen topic MOCs, the skills and practice maps, and the frontier maps together.*
+*Source: Authored for this vault (CC0). No external copyright.*
+
 ## Learning Layers
 
 - [[Foundations-MOC]]

@@ -10,6 +10,12 @@ status: draft
 
 # Simple Harmonic Motion MOC
 
+## Map
+
+![[_attachments/01_MOCs/Simple-Harmonic-Motion-MOC--knowledge-flow.svg|680]]
+*Figure: SHM pages flow from restoring-force foundations through the SHM equation and energy to damping, resonance, and chaotic frontier edges.*
+*Source: Authored for this vault (CC0). No external copyright.*
+
 ## Foundations
 
 - [[From-Waves-to-Superposition]]

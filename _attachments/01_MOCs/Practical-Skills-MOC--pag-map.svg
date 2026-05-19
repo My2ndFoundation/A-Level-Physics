@@ -1,0 +1,99 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 720" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,sans-serif">
+  <style>
+    :root{
+      --bg:#ffffff;--panel:#f3f5f8;--ink:#1f2933;--muted:#5a6675;--edge:#8895a5;
+      --c1:#2563eb;--c1b:#dbeafe;--c2:#0891b2;--c2b:#cffafe;
+      --c3:#7c3aed;--c3b:#ede9fe;--c5:#059669;--c5b:#d6f3e7;--c6:#d97706;--c6b:#fef0d6;
+    }
+    @media (prefers-color-scheme:dark){
+      :root{
+        --bg:#1b1d22;--panel:#24272f;--ink:#e8eaed;--muted:#9aa5b1;--edge:#566072;
+        --c1:#60a5fa;--c1b:#1d3354;--c2:#22d3ee;--c2b:#0e3a44;
+        --c3:#a78bfa;--c3b:#332457;--c5:#34d399;--c5b:#0f3d2e;--c6:#fbbf24;--c6b:#3f2f0c;
+      }
+    }
+    .ink{fill:var(--ink)} .muted{fill:var(--muted)}
+    .title{font-size:22px;font-weight:700}
+    .tier{font-size:11px;font-weight:700;fill:var(--muted);letter-spacing:.08em}
+    .st{font-size:13px;font-weight:700;fill:var(--muted);letter-spacing:.04em}
+    .pt{font-size:14px;font-weight:700;fill:var(--ink)}
+    .li{font-size:12.5px;fill:var(--ink)}
+    .ls{font-size:11px;fill:var(--muted)}
+    .edge{stroke:var(--edge);stroke-width:1.6;fill:none}
+  </style>
+  <defs>
+    <marker id="ah" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
+      <path d="M0 0L10 5L0 10z" fill="var(--edge)"/>
+    </marker>
+  </defs>
+  <rect width="1000" height="720" fill="var(--bg)"/>
+  <!-- body -->
+  <text class="title ink" x="40" y="38">Practical Skills MOC — PAG endorsement &amp; paper skills</text>
+  <text class="tier" x="40" y="60">OCR PHYSICS A H556 · WRITTEN-PAPER SKILLS + PRACTICAL ENDORSEMENT</text>
+
+  <text class="st" x="40" y="90">WRITTEN-PAPER SKILLS (spec §1.1)</text>
+  <g>
+    <rect x="40" y="100" width="222" height="74" rx="12" fill="var(--c1b)" stroke="var(--c1)" stroke-width="1.4"/>
+    <text class="pt" x="56" y="126">Planning</text>
+    <text class="li" x="56" y="146">Design, variables,</text>
+    <text class="li" x="56" y="163">method evaluation</text>
+
+    <rect x="278" y="100" width="222" height="74" rx="12" fill="var(--c2b)" stroke="var(--c2)" stroke-width="1.4"/>
+    <text class="pt" x="294" y="126">Implementing</text>
+    <text class="li" x="294" y="146">Apparatus, units,</text>
+    <text class="li" x="294" y="163">recording data</text>
+
+    <rect x="516" y="100" width="222" height="74" rx="12" fill="var(--c3b)" stroke="var(--c3)" stroke-width="1.4"/>
+    <text class="pt" x="532" y="126">Analysis</text>
+    <text class="li" x="532" y="146">Processing, graphs,</text>
+    <text class="li" x="532" y="163">significant figures</text>
+
+    <rect x="754" y="100" width="206" height="74" rx="12" fill="var(--c5b)" stroke="var(--c5)" stroke-width="1.4"/>
+    <text class="pt" x="770" y="126">Evaluation</text>
+    <text class="li" x="770" y="146">Anomalies, limits,</text>
+    <text class="li" x="770" y="163">uncertainty</text>
+  </g>
+
+  <text class="st" x="40" y="206">PRACTICAL ENDORSEMENT — PAG1–PAG12 (spec §1.2)</text>
+  <g>
+    <!-- row 1 -->
+    <rect x="40" y="216" width="222" height="64" rx="12" fill="var(--panel)" stroke="var(--edge)"/>
+    <text class="pt" x="56" y="240">PAG1</text><text class="li" x="56" y="262">Investigating motion</text>
+    <rect x="278" y="216" width="222" height="64" rx="12" fill="var(--panel)" stroke="var(--edge)"/>
+    <text class="pt" x="294" y="240">PAG2</text><text class="li" x="294" y="262">Properties of materials</text>
+    <rect x="516" y="216" width="222" height="64" rx="12" fill="var(--panel)" stroke="var(--edge)"/>
+    <text class="pt" x="532" y="240">PAG3</text><text class="li" x="532" y="262">Electrical properties</text>
+    <rect x="754" y="216" width="206" height="64" rx="12" fill="var(--panel)" stroke="var(--edge)"/>
+    <text class="pt" x="770" y="240">PAG4</text><text class="li" x="770" y="262">Electrical circuits</text>
+    <!-- row 2 -->
+    <rect x="40" y="292" width="222" height="64" rx="12" fill="var(--panel)" stroke="var(--edge)"/>
+    <text class="pt" x="56" y="316">PAG5</text><text class="li" x="56" y="338">Investigating waves</text>
+    <rect x="278" y="292" width="222" height="64" rx="12" fill="var(--panel)" stroke="var(--edge)"/>
+    <text class="pt" x="294" y="316">PAG6</text><text class="li" x="294" y="338">Quantum effects</text>
+    <rect x="516" y="292" width="222" height="64" rx="12" fill="var(--panel)" stroke="var(--edge)"/>
+    <text class="pt" x="532" y="316">PAG7</text><text class="li" x="532" y="338">Ionising radiation</text>
+    <rect x="754" y="292" width="206" height="64" rx="12" fill="var(--panel)" stroke="var(--edge)"/>
+    <text class="pt" x="770" y="316">PAG8</text><text class="li" x="770" y="338">Investigating gases</text>
+    <!-- row 3 -->
+    <rect x="40" y="368" width="222" height="64" rx="12" fill="var(--panel)" stroke="var(--edge)"/>
+    <text class="pt" x="56" y="392">PAG9</text><text class="li" x="56" y="414">Investigating capacitors</text>
+    <rect x="278" y="368" width="222" height="64" rx="12" fill="var(--panel)" stroke="var(--edge)"/>
+    <text class="pt" x="294" y="392">PAG10</text><text class="li" x="294" y="414">Simple harmonic motion</text>
+    <rect x="516" y="368" width="222" height="64" rx="12" fill="var(--panel)" stroke="var(--edge)"/>
+    <text class="pt" x="532" y="392">PAG11</text><text class="li" x="532" y="414">Independent investigation</text>
+    <rect x="754" y="368" width="206" height="64" rx="12" fill="var(--panel)" stroke="var(--edge)"/>
+    <text class="pt" x="770" y="392">PAG12</text><text class="li" x="770" y="414">ICT / data analysis</text>
+  </g>
+
+  <text class="st" x="40" y="464">REPRESENTATIVE EXPERIMENT &amp; TECHNIQUE PAGES</text>
+  <rect x="40" y="474" width="920" height="190" rx="12" fill="var(--c6b)" stroke="var(--c6)" stroke-width="1.2"/>
+  <text class="li" x="56" y="500">Measuring g, Measuring Young Modulus, Determining Internal Resistance</text>
+  <text class="li" x="56" y="522">Investigating Stationary Waves, Investigating Photoelectric Effect</text>
+  <text class="li" x="56" y="544">Measuring Specific Heat Capacity, Investigating Simple Harmonic Motion</text>
+  <text class="li" x="56" y="566">Investigating Electromagnetic Induction, Modelling Radioactive Decay</text>
+  <text class="li" x="56" y="588">Measuring the Planck Constant, Investigating Diffraction with a Grating</text>
+  <text class="li" x="56" y="610">Using a Micrometer, Using Vernier Calipers, Using Light Gates …</text>
+  <text class="ls" x="56" y="640">Concepts: Measurement Uncertainty · Systematic and Random Errors · Resolution, Accuracy and Precision</text>
+
+  <text class="ls" x="500" y="700" text-anchor="middle">Four paper skills assess what 12 practical activities (PAG1–PAG12) build in the lab.</text>
+</svg>

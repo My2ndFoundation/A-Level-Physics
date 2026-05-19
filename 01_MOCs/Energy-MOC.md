@@ -9,6 +9,12 @@ status: draft
 
 # Energy MOC
 
+## Map
+
+![[_attachments/01_MOCs/Energy-MOC--knowledge-flow.svg|680]]
+*Figure: energy flows from everyday transfer intuition through work, conservation and the ideal-spring model to the Young-modulus experiment and the mass–energy frontier.*
+*Source: Authored for this vault (CC0). No external copyright.*
+
 ## Foundations
 
 - [[Energy-Quantity|Energy]]

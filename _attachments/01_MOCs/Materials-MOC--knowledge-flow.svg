@@ -1,0 +1,108 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 942" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,sans-serif">
+  <style>
+    :root{
+      --bg:#ffffff;--panel:#f3f5f8;--ink:#1f2933;--muted:#5a6675;--edge:#8895a5;
+      --c1:#2563eb;--c1b:#dbeafe;--c2:#0891b2;--c2b:#cffafe;
+      --c3:#7c3aed;--c3b:#ede9fe;--c5:#059669;--c5b:#d6f3e7;--c6:#d97706;--c6b:#fef0d6;
+    }
+    @media (prefers-color-scheme:dark){
+      :root{
+        --bg:#1b1d22;--panel:#24272f;--ink:#e8eaed;--muted:#9aa5b1;--edge:#566072;
+        --c1:#60a5fa;--c1b:#1d3354;--c2:#22d3ee;--c2b:#0e3a44;
+        --c3:#a78bfa;--c3b:#332457;--c5:#34d399;--c5b:#0f3d2e;--c6:#fbbf24;--c6b:#3f2f0c;
+      }
+    }
+    .ink{fill:var(--ink)} .muted{fill:var(--muted)}
+    .title{font-size:22px;font-weight:700}
+    .tier{font-size:11px;font-weight:700;fill:var(--muted);letter-spacing:.08em}
+    .st{font-size:13px;font-weight:700;fill:var(--muted);letter-spacing:.04em}
+    .li{font-size:12.5px;fill:var(--ink)}
+    .ls{font-size:11px;fill:var(--muted)}
+    .edge{stroke:var(--edge);stroke-width:1.6;fill:none}
+  </style>
+  <defs>
+    <marker id="ah" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
+      <path d="M0 0L10 5L0 10z" fill="var(--edge)"/>
+    </marker>
+  </defs>
+  <rect width="1000" height="942" fill="var(--bg)"/>
+  <!-- body -->
+  <text x="40" y="38" class="title ink">Materials MOC — knowledge flow</text>
+  <text x="40" y="60" class="tier">EVERY PAGE SITS ON THIS FLOW AND LINKS ALONG IT</text>
+
+  <line class="edge" x1="190" y1="119" x2="190" y2="867" marker-end="url(#ah)"/>
+
+  <!-- foundation -->
+  <text x="180" y="123" class="st" text-anchor="end">foundation</text>
+  <line class="edge" x1="190" y1="119" x2="200" y2="119"/>
+  <rect x="200" y="92" width="760" height="54" rx="12" fill="var(--c1b)" stroke="var(--c1)"/>
+  <text x="220" y="124" class="li">Force</text>
+
+  <!-- everyday intuition -->
+  <text x="180" y="191" class="st" text-anchor="end">everyday intuition</text>
+  <line class="edge" x1="190" y1="187" x2="200" y2="187"/>
+  <rect x="200" y="160" width="760" height="54" rx="12" fill="var(--c2b)" stroke="var(--c2)"/>
+  <text x="220" y="192" class="li">Why-Ice-Floats</text>
+
+  <!-- physical quantity -->
+  <text x="180" y="259" class="st" text-anchor="end">physical quantity</text>
+  <line class="edge" x1="190" y1="255" x2="200" y2="255"/>
+  <rect x="200" y="228" width="760" height="54" rx="12" fill="var(--c3b)" stroke="var(--c3)"/>
+  <text x="220" y="260" class="li">Stress, Strain, Young-Modulus, Density, Pressure, Force</text>
+
+  <!-- concept -->
+  <text x="180" y="327" class="st" text-anchor="end">concept</text>
+  <line class="edge" x1="190" y1="323" x2="200" y2="323"/>
+  <rect x="200" y="296" width="760" height="54" rx="12" fill="var(--c5b)" stroke="var(--c5)"/>
+  <text x="220" y="328" class="li">Elastic-and-Plastic-Behaviour, Breaking-Stress, Elastic-Strain-Energy, Equilibrium</text>
+
+  <!-- law / result -->
+  <text x="180" y="395" class="st" text-anchor="end">law / result</text>
+  <line class="edge" x1="190" y1="391" x2="200" y2="391"/>
+  <rect x="200" y="364" width="760" height="54" rx="12" fill="var(--c6b)" stroke="var(--c6)"/>
+  <text x="220" y="396" class="li">Hookes-Law</text>
+
+  <!-- model -->
+  <text x="180" y="463" class="st" text-anchor="end">model</text>
+  <line class="edge" x1="190" y1="459" x2="200" y2="459"/>
+  <rect x="200" y="432" width="760" height="54" rx="12" fill="var(--c1b)" stroke="var(--c1)"/>
+  <text x="220" y="464" class="li">Ideal-Spring-Model</text>
+
+  <!-- method -->
+  <text x="180" y="531" class="st" text-anchor="end">method</text>
+  <line class="edge" x1="190" y1="527" x2="200" y2="527"/>
+  <rect x="200" y="500" width="760" height="54" rx="12" fill="var(--c2b)" stroke="var(--c2)"/>
+  <text x="220" y="532" class="li">Finding-Gradient-from-a-Graph, Linearising-a-Graph</text>
+
+  <!-- representation -->
+  <text x="180" y="599" class="st" text-anchor="end">representation</text>
+  <line class="edge" x1="190" y1="595" x2="200" y2="595"/>
+  <rect x="200" y="568" width="760" height="54" rx="12" fill="var(--c3b)" stroke="var(--c3)"/>
+  <text x="220" y="600" class="li">Stress-Strain-Graph, Force-Extension-Graph</text>
+
+  <!-- experiment -->
+  <text x="180" y="667" class="st" text-anchor="end">experiment</text>
+  <line class="edge" x1="190" y1="663" x2="200" y2="663"/>
+  <rect x="200" y="636" width="760" height="54" rx="12" fill="var(--c5b)" stroke="var(--c5)"/>
+  <text x="220" y="668" class="li">Measuring-Young-Modulus, Using-a-Micrometer, Using-Vernier-Calipers</text>
+
+  <!-- application -->
+  <text x="180" y="735" class="st" text-anchor="end">application</text>
+  <line class="edge" x1="190" y1="731" x2="200" y2="731"/>
+  <rect x="200" y="704" width="760" height="54" rx="12" fill="var(--c6b)" stroke="var(--c6)"/>
+  <text x="220" y="736" class="li">Bridge-and-Beam-Loading</text>
+
+  <!-- mistake pattern -->
+  <text x="180" y="803" class="st" text-anchor="end">mistake pattern</text>
+  <line class="edge" x1="190" y1="799" x2="200" y2="799"/>
+  <rect x="200" y="772" width="760" height="54" rx="12" fill="var(--c1b)" stroke="var(--c1)"/>
+  <text x="220" y="804" class="li">Ignoring-Units, Misreading-Graph-Gradient</text>
+
+  <!-- frontier edge -->
+  <text x="180" y="871" class="st" text-anchor="end">frontier edge</text>
+  <line class="edge" x1="190" y1="867" x2="200" y2="867"/>
+  <rect x="200" y="840" width="760" height="54" rx="12" fill="var(--c2b)" stroke="var(--c2)" stroke-dasharray="6 4"/>
+  <text x="220" y="872" class="li">Semiconductor-Physics-Map</text>
+
+  <text x="500" y="924" class="ls" text-anchor="middle">Materials: from force through stress and strain to Hooke's law, elastic behaviour, and measurement of Young modulus.</text>
+</svg>

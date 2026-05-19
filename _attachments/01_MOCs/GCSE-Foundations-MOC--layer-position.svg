@@ -1,0 +1,93 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 700" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,sans-serif">
+  <style>
+    :root{
+      --bg:#ffffff;--panel:#f3f5f8;--ink:#1f2933;--muted:#5a6675;--edge:#8895a5;
+      --c1:#2563eb;--c1b:#dbeafe;--c2:#0891b2;--c2b:#cffafe;
+      --c3:#7c3aed;--c3b:#ede9fe;--c5:#059669;--c5b:#d6f3e7;--c6:#d97706;--c6b:#fef0d6;
+    }
+    @media (prefers-color-scheme:dark){
+      :root{
+        --bg:#1b1d22;--panel:#24272f;--ink:#e8eaed;--muted:#9aa5b1;--edge:#566072;
+        --c1:#60a5fa;--c1b:#1d3354;--c2:#22d3ee;--c2b:#0e3a44;
+        --c3:#a78bfa;--c3b:#332457;--c5:#34d399;--c5b:#0f3d2e;--c6:#fbbf24;--c6b:#3f2f0c;
+      }
+    }
+    .ink{fill:var(--ink)} .muted{fill:var(--muted)}
+    .title{font-size:22px;font-weight:700}
+    .tier{font-size:11px;font-weight:700;fill:var(--muted);letter-spacing:.08em}
+    .st{font-size:13px;font-weight:700;fill:var(--muted);letter-spacing:.04em}
+    .pt{font-size:14px;font-weight:700;fill:var(--ink)}
+    .li{font-size:12.5px;fill:var(--ink)}
+    .ls{font-size:11px;fill:var(--muted)}
+    .edge{stroke:var(--edge);stroke-width:1.6;fill:none}
+  </style>
+  <defs>
+    <marker id="ah" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
+      <path d="M0 0L10 5L0 10z" fill="var(--edge)"/>
+    </marker>
+  </defs>
+  <rect width="1000" height="700" fill="var(--bg)"/>
+  <!-- body -->
+  <text class="title ink" x="40" y="38">GCSE Foundations MOC — where this layer sits</text>
+  <text class="tier" x="40" y="60">PHYSICS AS ONE CONTINUOUS SYSTEM</text>
+
+  <!-- upward arrow through stack -->
+  <line x1="62" y1="486" x2="62" y2="92" class="edge" marker-end="url(#ah)"/>
+
+  <!-- stack bottom -> top -->
+  <rect x="90" y="86" width="520" height="48" rx="12" fill="var(--panel)" stroke="var(--edge)" stroke-dasharray="6 4"/>
+  <text class="pt muted" x="106" y="116">Frontier edge</text>
+  <rect x="90" y="146" width="520" height="48" rx="12" fill="var(--panel)" stroke="var(--edge)"/>
+  <text class="pt" x="106" y="176">A-Level OCR H556 core</text>
+  <rect x="90" y="206" width="520" height="48" rx="12" fill="var(--panel)" stroke="var(--edge)"/>
+  <text class="pt" x="106" y="236">Bridge to A-Level</text>
+  <rect x="90" y="266" width="520" height="48" rx="12" fill="var(--c3b)" stroke="var(--c3)" stroke-width="2.5"/>
+  <text class="pt" x="106" y="296">GCSE foundation  ◀ this MOC</text>
+  <rect x="90" y="326" width="520" height="48" rx="12" fill="var(--panel)" stroke="var(--edge)"/>
+  <text class="pt" x="106" y="356">Pre-GCSE</text>
+  <rect x="90" y="386" width="520" height="48" rx="12" fill="var(--panel)" stroke="var(--edge)"/>
+  <text class="pt" x="106" y="416">Everyday</text>
+
+  <!-- right panel -->
+  <rect x="640" y="86" width="320" height="348" rx="12" fill="var(--c3b)" stroke="var(--c3)" stroke-width="1.2"/>
+  <text class="st" x="658" y="112">FOUNDATIONS</text>
+  <text class="li" x="658" y="134">Force, Energy, Power, Atoms</text>
+  <text class="li" x="658" y="154">Electric Current, Voltage, Waves</text>
+  <text class="li" x="658" y="174">Balanced/Unbalanced Forces …</text>
+  <text class="st" x="658" y="206">QUANTITIES</text>
+  <text class="li" x="658" y="228">Speed, Distance, Mass, Weight</text>
+  <text class="li" x="658" y="248">Density, Pressure, Charge</text>
+  <text class="li" x="658" y="268">Current, PD, Resistance …</text>
+  <text class="st" x="658" y="300">CONCEPTS</text>
+  <text class="li" x="658" y="322">Atomic Structure, States of Matter</text>
+  <text class="li" x="658" y="342">EM Spectrum, Radioactive Decay</text>
+  <text class="st" x="658" y="374">LAWS</text>
+  <text class="li" x="658" y="396">Newton's 1st Law, Ohm's Law</text>
+  <text class="li" x="658" y="416">Wave Speed Equation</text>
+
+  <!-- P1-P9 chips -->
+  <text class="st" x="40" y="478">OCR J249 SYLLABUS — P1–P9</text>
+  <g>
+    <rect x="40" y="490" width="148" height="44" rx="10" fill="var(--c1b)" stroke="var(--c1)"/>
+    <text class="li" x="56" y="517">P1 Matter</text>
+    <rect x="200" y="490" width="148" height="44" rx="10" fill="var(--c1b)" stroke="var(--c1)"/>
+    <text class="li" x="216" y="517">P2 Forces</text>
+    <rect x="360" y="490" width="148" height="44" rx="10" fill="var(--c2b)" stroke="var(--c2)"/>
+    <text class="li" x="376" y="517">P3 Electricity</text>
+    <rect x="520" y="490" width="148" height="44" rx="10" fill="var(--c2b)" stroke="var(--c2)"/>
+    <text class="li" x="536" y="517">P4 Magnetism</text>
+    <rect x="680" y="490" width="148" height="44" rx="10" fill="var(--c3b)" stroke="var(--c3)"/>
+    <text class="li" x="696" y="517">P5 Waves</text>
+    <rect x="40" y="544" width="148" height="44" rx="10" fill="var(--c6b)" stroke="var(--c6)"/>
+    <text class="li" x="56" y="571">P6 Radioactivity</text>
+    <rect x="200" y="544" width="148" height="44" rx="10" fill="var(--c5b)" stroke="var(--c5)"/>
+    <text class="li" x="216" y="571">P7 Energy</text>
+    <rect x="360" y="544" width="200" height="44" rx="10" fill="var(--c5b)" stroke="var(--c5)"/>
+    <text class="li" x="376" y="571">P8 Global challenges</text>
+    <rect x="572" y="544" width="200" height="44" rx="10" fill="var(--panel)" stroke="var(--edge)"/>
+    <text class="li" x="588" y="571">P9 Practical skills</text>
+  </g>
+
+  <text class="ls" x="500" y="624" text-anchor="middle">Foundation/Higher tier: Papers 1/3 cover P1–P4+P9, Papers 2/4 cover P5–P8.</text>
+  <text class="ls" x="500" y="668" text-anchor="middle">GCSE Foundations MOC: the J249 prerequisite layer that feeds the bridge into A-Level.</text>
+</svg>

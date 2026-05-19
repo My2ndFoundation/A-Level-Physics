@@ -16,6 +16,12 @@ aliases:
 Navigation for the OCR Physics A H556 practical-skills layer. Framework from
 [[OCR-Physics-Practical-Skills-Handbook]]; spec anchor in [[OCR-Physics-Map]].
 
+## Map
+
+![[_attachments/01_MOCs/Practical-Skills-MOC--pag-map.svg|680]]
+*Figure: the four written-paper skills (Planning, Implementing, Analysis, Evaluation) over the twelve PAG1–PAG12 endorsement activities and their representative experiment pages.*
+*Source: Authored for this vault (CC0). No external copyright.*
+
 ## Written-Paper Skills Framework (spec §1.1)
 
 - Planning — experimental design, variables, method evaluation
