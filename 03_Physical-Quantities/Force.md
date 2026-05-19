@@ -98,7 +98,7 @@ On a [[Force-Extension-Graph]], gradient = spring constant and area = elastic st
 
 ### Free-Body Diagram: Forces on a Block on a Surface
 
-![[_attachments/03_Physical-Quantities/Force--free-body-diagram.svg]]
+![[_attachments/03_Physical-Quantities/Force--free-body-diagram.svg|599]]
 *Figure: A free-body diagram isolates the object (block of mass m) and shows all forces acting on it as arrows: weight W = mg downward (red), normal contact force N upward (blue), applied horizontal force F (orange), and friction f opposing motion (purple). The resultant of all four determines the acceleration via F = ma.*
 *Source: Authored for this vault (CC0). No external copyright.*
 
