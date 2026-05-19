@@ -84,6 +84,21 @@ The binding-energy-per-nucleon curve explains why both fusion (light nuclei) and
 - Thinking the highest binding-energy nucleus is the heaviest (it is near iron-56)
 - Forgetting to convert u to MeV (×931.5) or MeV to J
 
+## Visuals
+
+### Binding energy per nucleon vs nucleon number
+
+```mermaid
+xychart-beta
+  title "Binding energy per nucleon vs mass number A (schematic)"
+  x-axis "Nucleon number A" [1, 10, 20, 40, 56, 80, 120, 180, 238]
+  y-axis "E_b / A (MeV per nucleon)" 0 --> 10
+  line [0, 6.5, 7.5, 8.5, 8.8, 8.7, 8.5, 8.0, 7.6]
+```
+
+*Figure: Binding energy per nucleon rises steeply for light nuclei, peaks near iron-56 (≈ 8.8 MeV/nucleon — most stable), then falls slowly for heavy nuclei. Fusion moves light nuclei toward the peak (releases energy); fission moves heavy nuclei toward the peak (also releases energy).*
+*Source: Authored for this vault (CC0). No external copyright.*
+
 ## Source Trace
 
 - Source: OpenStax College Physics; HyperPhysics; CERN educational material — no copied text

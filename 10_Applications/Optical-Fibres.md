@@ -66,6 +66,13 @@ Optical fibres carry telephone, internet and television data as pulses of light 
 - [[Ignoring-Units]]
 - [[Treating-Scalars-as-Vectors]]
 
+## Visuals
+
+### Optical Fibre Cable Cross-Section
+![[_attachments/10_Applications/Optical-Fibres--optical-fiber-cable.jpg]]
+*Figure: Cut end of a multi-fibre optical cable showing many individual glass fibres bundled together. Each fibre consists of a high-refractive-index core surrounded by a lower-index cladding that keeps light trapped by total internal reflection.*
+*Source: Optical fiber cable-01ASD — Asurnipal — CC BY-SA 4.0 — https://commons.wikimedia.org/wiki/File:Optical_fiber_cable-01ASD.jpg. Retrieved 2026-05-19.*
+
 ## Source Trace
 
 - Source: OpenStax College Physics; IOPSpark; Isaac Physics; OCR examiner reports (general) — no copied text

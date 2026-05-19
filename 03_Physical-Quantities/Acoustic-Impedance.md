@@ -83,6 +83,21 @@ Plotting $I_r/I_0$ against the impedance ratio $Z_2/Z_1$ shows reflection is min
 - Forgetting to square the bracket in the reflection coefficient.
 - Assuming bone reflects little — its high $Z$ gives a large mismatch with soft tissue.
 
+## Visuals
+
+### Reflection at an Impedance Boundary
+
+```mermaid
+flowchart LR
+  A["Medium 1\nZ₁ = ρ₁c₁"] -->|"Incident wave I₀"| B["Boundary"]
+  B -->|"Reflected wave Iᵣ"| A
+  B -->|"Transmitted wave Iₜ"| C["Medium 2\nZ₂ = ρ₂c₂"]
+  B -. "Iᵣ/I₀ = ((Z₂−Z₁)/(Z₂+Z₁))²" .- B
+```
+
+*Figure: When a wave crosses from medium 1 to medium 2, the fraction of intensity reflected depends on the impedance mismatch. A large mismatch (e.g. tissue-to-air) reflects most energy; a small mismatch transmits most.*
+*Source: Authored for this vault (CC0). No external copyright.*
+
 ## Source Trace
 
 - Source: OpenStax College Physics; HyperPhysics; IOPSpark

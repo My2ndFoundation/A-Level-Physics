@@ -82,6 +82,27 @@ On a [[Stress-Strain-Graph]] strain is the x-axis. Within the linear region, str
 - Dividing by the extended length instead of the original length
 - Confusing strain with extension
 
+## Visuals
+
+```mermaid
+flowchart LR
+    eps["Strain ε = x/L\ndimensionless"]
+    x["Extension x (m)"]
+    L["Original length L (m)"]
+    sig["Stress σ = F/A (Pa)"]
+    E["Young Modulus E = σ/ε (Pa)\ngradient of linear region"]
+    SSG["Stress–Strain Graph\nx-axis = ε, y-axis = σ"]
+
+    x -->|"÷ L"| eps
+    L --> eps
+    eps -->|"E = σ/ε"| E
+    sig --> E
+    eps --> SSG
+    sig --> SSG
+```
+*Figure: Strain ε = x/L (dimensionless) is the x-axis of the stress–strain graph. In the linear (Hookean) region the gradient equals the Young modulus E.*
+*Source: Authored for this vault (CC0). No external copyright.*
+
 ## Source Trace
 
 - Source: OpenStax College Physics; The Physics Classroom; HyperPhysics (paraphrased, no copied text)

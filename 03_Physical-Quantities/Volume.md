@@ -82,6 +82,26 @@ states of the gas; volume itself is a measured three-dimensional quantity.
 - Forgetting to cube the unit (m³, not m or m²).
 - Mixing unit prefixes (1 cm³ = 1 × 10⁻⁶ m³, not 10⁻²).
 
+## Visuals
+
+```mermaid
+flowchart LR
+    V["Volume V (m³)\n3-D space occupied"]
+    cub["Cuboid: V = l × w × h"]
+    sph["Sphere: V = (4/3)πr³"]
+    cyl["Cylinder: V = πr²h"]
+    rho["Density: ρ = m/V"]
+    pV["Gas law: pV = nRT"]
+
+    V --> cub
+    V --> sph
+    V --> cyl
+    V -->|"with mass m"| rho
+    V -->|"with pressure p"| pV
+```
+*Figure: Volume V (m³) links to density via ρ = m/V and to gas behaviour via pV = nRT. Key formulae for common shapes avoid needing to measure 3-D space directly.*
+*Source: Authored for this vault (CC0). No external copyright.*
+
 ## Source Trace
 
 OpenStax College Physics; HyperPhysics; The Physics Classroom — no copied text.

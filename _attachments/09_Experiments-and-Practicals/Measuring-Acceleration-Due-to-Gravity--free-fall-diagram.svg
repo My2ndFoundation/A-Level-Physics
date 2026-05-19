@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.0//EN" 
+              "http://www.w3.org/TR/2001/REC-SVG-20010904/DTD/svg10.dtd">
+
+<svg xmlns="http://www.w3.org/2000/svg"  width="460" height="600"> 
+
+<title>Free fall (g=10 m/s2)</title>
+
+<g transform="translate(80,35)" font-size="16pt">
+
+<path id="x-axis" d="M0,0 h400 M100,0 v5 M200,0 v5 M300,0 v5 " stroke="black" stroke-width="2" fill="none" />
+<path id="y-axis" d="M0,0 v600 M0,100 h5 M0,200 h5 M0,300 h5 M0,400 h5 M0,500 h5 " stroke="black" stroke-width="2"  fill="none" />
+
+<g stroke="black" stroke-width="2" stroke-dasharray="9,5">
+<path d="M100,0 v50"/>
+<path d="M200,0 v200"/>
+<path d="M300,0 v450"/>
+<path d="M0,50 h100"/>
+<path d="M0,200 h200"/>
+<path d="M0,450 h300"/>
+</g>
+
+<g text-anchor="middle">
+<text x="100" y="-8">1</text>
+<text x="200" y="-8">2</text>
+<text x="300" y="-8">3</text>
+<text x="350" y="-8">t (s)</text>
+</g>
+
+<g text-anchor="end">
+<text x="-5" y="0">0</text>
+<text x="-5" y="105">-10</text>
+<text x="-5" y="205">-20</text>
+<text x="-5" y="305">-30</text>
+<text x="-5" y="405">-40</text>
+<text x="-5" y="505">-50</text>
+<text x="-5" y="540">y (m)</text>
+</g>
+
+<path id="tangent" d="M100,0 L250,300" stroke="red" stroke-width="2" />
+<path id="parabola"  d="M0,0 q200,0 400,800" stroke="blue" stroke-width="2" fill="none"/>
+
+</g>
+</svg>

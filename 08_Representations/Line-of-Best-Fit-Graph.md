@@ -64,6 +64,22 @@ The line represents the physical relationship; scatter about it reflects [[Syste
 - Forcing the line through the origin when the data do not support it.
 - Reading the gradient from a single point or a tiny triangle.
 
+## Visuals
+
+### Line of best fit through scattered data
+
+```mermaid
+xychart-beta
+    title "Line of best fit: scattered experimental data"
+    x-axis "independent variable x" [0, 1, 2, 3, 4, 5]
+    y-axis "dependent variable y" 0 --> 12
+    line [1, 3, 5, 7, 9, 11]
+    bar [1.4, 2.8, 5.2, 6.9, 9.3, 10.8]
+```
+
+*Figure: The straight line balances the scatter of the experimental points (bars), passing through the approximate centre of the spread. The gradient is read from a large triangle spanning most of the line: rise ÷ run gives the physical quantity encoded by the equation's y = mx + c form. A non-zero intercept may indicate a systematic offset in the apparatus.*
+*Source: Authored for this vault (CC0). No external copyright.*
+
 ## Source Trace
 
 - Source: [[OCR-Physics-Practical-Skills-Handbook]]

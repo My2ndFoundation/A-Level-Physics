@@ -88,6 +88,26 @@ In a force–acceleration plot for a fixed body, the gradient equals the mass. I
 - Stating mass in newtons
 - Believing mass changes with location
 
+## Visuals
+
+```mermaid
+flowchart LR
+    m["Mass m (kg)\n(inertia + gravitational strength)"]
+    F["Resultant Force F (N)"]
+    a["Acceleration a (m s⁻²)"]
+    W["Weight W = mg (N)"]
+    p["Momentum p = mv (kg m s⁻¹)"]
+    v["Velocity v"]
+
+    m -->|"F = ma"| F
+    F --> a
+    m -->|"W = mg"| W
+    m -->|"p = mv"| p
+    v --> p
+```
+*Figure: Mass m links force, acceleration, weight, and momentum through Newton's second law.*
+*Source: Authored for this vault (CC0). No external copyright.*
+
 ## Source Trace
 
 - Source: OpenStax College Physics; The Physics Classroom; HyperPhysics (paraphrased, no copied text)

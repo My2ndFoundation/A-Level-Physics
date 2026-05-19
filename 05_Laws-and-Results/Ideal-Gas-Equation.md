@@ -87,6 +87,26 @@ Combining $p \propto 1/V$ (Boyle, constant $T$), $V \propto T$ (Charles, constan
 - Mixing molar form ($nR$) with molecular form ($Nk$)
 - Forgetting to use absolute pressure
 
+## Visuals
+
+### pV–T state relationships
+
+```mermaid
+graph TD
+    state["Ideal gas state\npV = nRT"]
+    boyle["Boyle's Law\np ∝ 1/V (constant T)\npV = constant"]
+    charles["Charles's Law\nV ∝ T (constant p)"]
+    pressure["Pressure Law\np ∝ T (constant V)"]
+    state --> boyle
+    state --> charles
+    state --> pressure
+    boyle -->|"combined"| ratio["p₁V₁/T₁ = p₂V₂/T₂"]
+    charles -->|"combined"| ratio
+    pressure -->|"combined"| ratio
+```
+*Figure: The ideal gas equation unifies Boyle's, Charles's, and the pressure law. The combined ratio is constant for a fixed amount of gas.*
+*Source: Authored for this vault (CC0). No external copyright.*
+
 ## Source Trace
 
 - Source: OpenStax College Physics; HyperPhysics; The Physics Classroom — paraphrased, no copied text

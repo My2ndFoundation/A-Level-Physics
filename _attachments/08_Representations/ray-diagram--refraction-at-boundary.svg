@@ -1,0 +1,44 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 360 280" width="360" height="280" font-family="sans-serif" font-size="12">
+  <!-- Title -->
+  <text x="180" y="18" text-anchor="middle" font-size="14" font-weight="bold">Ray Diagram: Refraction at a Boundary</text>
+
+  <!-- Boundary (horizontal line) -->
+  <line x1="20" y1="140" x2="340" y2="140" stroke="#888" stroke-width="2"/>
+
+  <!-- Medium labels -->
+  <text x="30" y="115" fill="#555" font-size="12">medium 1 (less dense, n₁)</text>
+  <text x="30" y="165" fill="#555" font-size="12">medium 2 (more dense, n₂)</text>
+
+  <!-- Normal (dashed vertical line at incidence point) -->
+  <line x1="180" y1="60" x2="180" y2="220" stroke="#888" stroke-width="1.5" stroke-dasharray="5,4"/>
+  <text x="186" y="58" fill="#888" font-size="11">normal</text>
+
+  <!-- Incident ray -->
+  <defs>
+    <marker id="rArr" markerWidth="8" markerHeight="8" refX="6" refY="3" orient="auto">
+      <path d="M0,0 L0,6 L8,3 z" fill="#c60"/>
+    </marker>
+    <marker id="rArr2" markerWidth="8" markerHeight="8" refX="6" refY="3" orient="auto">
+      <path d="M0,0 L0,6 L8,3 z" fill="#06c"/>
+    </marker>
+  </defs>
+  <!-- Incident ray from upper-left to boundary point (180,140) -->
+  <line x1="60" y1="70" x2="180" y2="140" stroke="#c60" stroke-width="2.5" marker-end="url(#rArr)"/>
+  <text x="78" y="90" fill="#c60" font-size="12">incident ray</text>
+
+  <!-- Refracted ray from (180,140) bending toward normal in denser medium -->
+  <line x1="180" y1="140" x2="260" y2="210" stroke="#06c" stroke-width="2.5" marker-end="url(#rArr2)"/>
+  <text x="250" y="200" fill="#06c" font-size="12">refracted ray</text>
+
+  <!-- Angle of incidence arc -->
+  <path d="M 180 100 A 40 40 0 0 1 208 126" fill="none" stroke="#c60" stroke-width="1.2"/>
+  <text x="196" y="112" fill="#c60" font-size="11">θ₁</text>
+
+  <!-- Angle of refraction arc -->
+  <path d="M 180 180 A 40 40 0 0 0 212 162" fill="none" stroke="#06c" stroke-width="1.2"/>
+  <text x="198" y="178" fill="#06c" font-size="11">θ₂</text>
+
+  <!-- Snell's law annotation -->
+  <text x="180" y="252" text-anchor="middle" font-size="12" fill="#333">n₁ sin θ₁ = n₂ sin θ₂ (Snell's Law)</text>
+  <text x="180" y="268" text-anchor="middle" font-size="11" fill="#555">θ₂ &lt; θ₁ when n₂ &gt; n₁ (ray bends toward normal).</text>
+</svg>

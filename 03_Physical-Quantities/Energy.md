@@ -89,6 +89,24 @@ Area under a force–displacement graph = energy transferred (work). On a [[Forc
 - Forgetting the ½ in kinetic and elastic energy formulae
 - Confusing energy with power or with force
 
+## Visuals
+
+### Energy Store and Transfer Relationships
+
+```mermaid
+flowchart TD
+  KE["Kinetic Energy\nEk = ½mv²"] -->|"work done\nby friction"| Thermal["Thermal Energy"]
+  KE -->|"rises in height"| GPE["Gravitational PE\nEp = mgΔh"]
+  GPE -->|"falls"| KE
+  KE -->|"stretches spring"| Elastic["Elastic Strain Energy\nE = ½kx²"]
+  Elastic -->|"releases"| KE
+  Elec["Electrical Energy\nE = QV"] -->|"motor"| KE
+  KE -->|"generator"| Elec
+```
+
+*Figure: Energy cannot be created or destroyed — only transferred between stores. The arrows show typical conversion routes. At each transfer the total energy is conserved, though thermal dissipation is often unavoidable.*
+*Source: Authored for this vault (CC0). No external copyright.*
+
 ## Source Trace
 
 - Source: OpenStax College Physics; The Physics Classroom; HyperPhysics (paraphrased, no copied text)

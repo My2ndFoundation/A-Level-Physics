@@ -84,6 +84,13 @@ A graph of force against current for a fixed wire length in a uniform field is a
 - Confusing flux density `B` with magnetic flux `Φ`
 - Ignoring the vector direction (use of the left-hand rule)
 
+## Visuals
+
+### Force on a Current-Carrying Wire in Field B
+![[_attachments/03_Physical-Quantities/Magnetic-Flux-Density--force-on-wire.svg]]
+*Figure: A horizontal wire carrying current I (right) sits in an upward field B. The resulting force F = BIL acts perpendicular to both I and B (downward here), as given by the Left-Hand Rule.*
+*Source: Authored for this vault (CC0). No external copyright.*
+
 ## Source Trace
 
 - Source: OpenStax College Physics; The Physics Classroom; HyperPhysics (paraphrased, no copied text)

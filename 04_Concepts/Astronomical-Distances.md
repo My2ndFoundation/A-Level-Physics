@@ -103,6 +103,14 @@ cosmic distance scale all depend on knowing how far away objects are.
 - Forgetting parallax angle is half the total six-month shift
 - Confusing AU, ly and pc magnitudes
 
+## Visuals
+
+### Stellar parallax triangle
+
+![[_attachments/04_Concepts/Astronomical-Distances--parallax-triangle.svg]]
+*Figure: As Earth moves from one side of its orbit to the other (baseline = 2 AU), a nearby star appears to shift by angle 2p against distant background stars. Half the total shift is the parallax angle p; distance d (parsecs) = 1/p (arcseconds).*
+*Source: Authored for this vault (CC0). No external copyright.*
+
 ## Source Trace
 
 - Source: OpenStax College Physics; HyperPhysics; NASA educational material — no copied text

@@ -84,6 +84,27 @@ Not derived independently — it is the consequence of energy conservation appli
 - Thinking Lenz's law gives the size of the e.m.f. (it gives only direction).
 - Believing it violates energy conservation, when it is in fact a statement of it.
 
+## Visuals
+
+### Opposition principle
+
+```mermaid
+graph TD
+    change["Flux linkage NΦ increasing\n(magnet approaching)"]
+    induced["Induced current flows\nto create opposing field"]
+    oppose["Near face of coil\nbecomes N pole → repels magnet"]
+    energy["Work done against\nrepulsion = electrical energy\n(Conservation of Energy)"]
+    change --> induced
+    induced --> oppose
+    oppose --> energy
+    withdraw["Flux linkage NΦ decreasing\n(magnet withdrawing)"]
+    attract["Induced current reverses\n→ coil attracts magnet"]
+    withdraw --> attract
+    attract --> energy
+```
+*Figure: Lenz's Law in both cases — the induced effect always opposes the flux change, consistent with energy conservation.*
+*Source: Authored for this vault (CC0). No external copyright.*
+
 ## Source Trace
 
 OpenStax College Physics; HyperPhysics; Physics LibreTexts — no copied text.

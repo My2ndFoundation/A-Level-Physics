@@ -86,6 +86,13 @@ Potential dividers are the standard way to set reference voltages, build sensor 
 - Putting the wrong resistor on top in the ratio formula.
 - Confusing series potential dividing with parallel current sharing.
 
+## Visuals
+
+### Potential divider: output voltage tapped across R₂
+![[_attachments/04_Concepts/Potential-Divider--circuit.svg]]
+*Figure: Supply voltage Vₛ is shared between R₁ and R₂ in series. The output voltage V_out (dashed, across R₂) equals Vₛ × R₂/(R₁ + R₂). Increasing R₂ relative to R₁ raises V_out toward Vₛ; decreasing it lowers V_out toward 0.*
+*Source: Authored for this vault (CC0). No external copyright.*
+
 ## Source Trace
 
 - Source: OpenStax College Physics; The Physics Classroom; IOPSpark; Physics LibreTexts — paraphrased, no copied text.

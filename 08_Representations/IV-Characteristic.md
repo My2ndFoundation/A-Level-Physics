@@ -72,6 +72,22 @@ The curvature tells you how [[Resistance]] changes with conditions. A straight l
 - Taking a single resistance for a non-ohmic component whose resistance changes with V.
 - Plotting axes the wrong way and misreading the gradient.
 
+## Visuals
+
+### I-V characteristic: ohmic conductor vs filament lamp
+
+```mermaid
+xychart-beta
+    title "I-V graph: ohmic conductor (straight) vs filament lamp (curve)"
+    x-axis "potential difference V (V)" [0, 1, 2, 3, 4, 5, 6]
+    y-axis "current I (A)" 0 --> 3
+    line [0, 0.5, 1.0, 1.5, 2.0, 2.5, 3.0]
+    line [0, 0.4, 0.7, 0.9, 1.1, 1.2, 1.3]
+```
+
+*Figure: The straight line through the origin represents an ohmic conductor; its constant gradient = 1/R confirms constant [[Resistance]]. The curve (flattening at higher V) represents a filament lamp: as the filament heats up [[Resistance]] increases, so the gradient (= 1/R) decreases and the line curves away from the ohmic case.*
+*Source: Authored for this vault (CC0). No external copyright.*
+
 ## Source Trace
 
 - Source: OCR Practical Skills Handbook; The Physics Classroom; IOPSpark; OpenStax

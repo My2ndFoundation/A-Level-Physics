@@ -84,6 +84,13 @@ Uniform fields are used to accelerate and deflect charged particles (oscilloscop
 - Mixing units: d must be in metres, giving E in V m⁻¹.
 - Assuming the field depends on the charge of a test particle (E depends only on V and d).
 
+## Visuals
+
+### Uniform electric field between parallel plates
+![[_attachments/04_Concepts/Uniform-Electric-Field--parallel-plates.svg]]
+*Figure: Parallel plates with potential difference V and separation d produce a uniform field E = V/d pointing from positive to negative plate. Field lines are straight, parallel, and evenly spaced. A charge Q between the plates experiences a constant force F = EQ.*
+*Source: Authored for this vault (CC0). No external copyright.*
+
 ## Source Trace
 
 - Source: OpenStax College Physics; HyperPhysics; Physics LibreTexts — no copied text

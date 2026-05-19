@@ -63,6 +63,21 @@ A cell or battery is connected to a varying external load, and a set of terminal
 - Reading the intercept off the wrong axis.
 - Using only two scattered points rather than a best-fit line.
 
+## Visuals
+
+### V–I graph for emf and internal resistance
+
+```mermaid
+xychart-beta
+    title "Terminal pd vs current: V = ε − Ir"
+    x-axis "Current I (A)" [0, 0.5, 1.0, 1.5, 2.0]
+    y-axis "Terminal pd V (V)" 0 --> 7
+    line [6, 5.25, 4.5, 3.75, 3.0]
+```
+
+*Figure: Straight-line graph of terminal pd against current. The y-intercept (at I = 0) gives the emf ε; the magnitude of the (negative) gradient gives the internal resistance r.*
+*Source: Authored for this vault (CC0). No external copyright.*
+
 ## Example Sources
 
 - Source: Original problem-type pattern; aligned to OCR H556.

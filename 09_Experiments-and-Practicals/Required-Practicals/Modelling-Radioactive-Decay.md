@@ -84,6 +84,19 @@ Low risk; ensure objects are not a slip or choking hazard. This is an analogue �
 - Trusting late-stage data where N is too small
 - Confusing throws-as-time with real seconds
 
+## Visuals
+
+### ln N against Throw Number (Exponential Decay Linearised)
+```mermaid
+xychart-beta
+    title "ln N vs throw number  →  gradient = −λ"
+    x-axis "Throw number (time analogue)" [0, 2, 4, 6, 8, 10, 12]
+    y-axis "ln N (natural log of survivors)" 3 --> 6
+    line [5.9, 5.7, 5.5, 5.3, 5.1, 4.9, 4.7]
+```
+*Figure: Plotting ln N against throw number gives a straight line of gradient −λ (the effective decay constant per throw) and y-intercept ln N₀. The "half-life" in throws is t₁/₂ = ln 2 / λ. Data scatter grows as N becomes small (late throws) — a feature of real radioactive statistics.*
+*Source: Authored for this vault (CC0). No external copyright.*
+
 ## Source Trace
 
 - Source: OpenStax College Physics; HyperPhysics; CERN educational material — no copied text

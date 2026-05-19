@@ -82,6 +82,13 @@ Friction appears in nearly every real mechanics problem, in braking, in efficien
 - Assuming friction depends on contact area.
 - Treating friction as conservative and including it in mechanical-energy conservation.
 
+## Visuals
+
+### Free-body diagram: friction opposing motion
+![[_attachments/04_Concepts/Friction--free-body.svg]]
+*Figure: Four forces act on a sliding block. Weight W acts downward; the normal contact force N acts upward perpendicular to the surface; friction F acts backward opposing motion; the dashed arrow shows the direction of motion.*
+*Source: Authored for this vault (CC0). No external copyright.*
+
 ## Source Trace
 
 - Source: OpenStax College Physics; The Physics Classroom; IOPSpark; Physics LibreTexts — paraphrased, no copied text.

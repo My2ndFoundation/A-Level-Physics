@@ -66,6 +66,14 @@ There is no separate "centripetal force": the inward horizontal component of the
 - Using the string length instead of the circle radius $L\sin\theta$.
 - Forgetting that there is no vertical acceleration, so the vertical forces balance.
 
+## Visuals
+
+### Conical pendulum: force diagram
+
+![[_attachments/11_Problems/Worked-Circular-Motion-Conical-Pendulum--conical-pendulum-forces.svg]]
+*Figure: String tension T acts at 30° to the vertical. The vertical component T cos 30° balances weight mg; the horizontal component T sin 30° is the centripetal force. The ball moves in a horizontal circle of radius r = L sin 30°.*
+*Source: Authored for this vault (CC0). No external copyright.*
+
 ## Related Problem Types
 
 - [[Circular-Motion-Problem]]

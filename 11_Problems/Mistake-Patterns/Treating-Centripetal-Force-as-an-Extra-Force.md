@@ -66,6 +66,16 @@ same root as misreading [[Newton-First-Law]].
 
 - Circular motion with tension or friction providing the inward force
 
+## Visuals
+
+### Free-Body Diagram: Wrong vs Correct for Ball on a String
+
+![[_attachments/11_Problems/Treating-Centripetal-Force-as-an-Extra-Force--fbd-comparison.svg]]
+
+*Figure: Left (wrong) — the student adds a separate dashed "centripetal force" arrow F_c in addition to the real forces (weight and tension), incorrectly treating it as a third force. Right (correct) — only the two real forces are drawn; the net inward resultant of these real forces equals mv²/r. No extra arrow is ever needed.*
+
+*Source: Authored for this vault (CC0). No external copyright.*
+
 ## Source Trace
 
 OpenStax College Physics; HyperPhysics; The Physics Classroom — no copied text.

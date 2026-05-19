@@ -62,6 +62,14 @@ Not applicable — this is a geometric construction, not a plotted graph. The in
 - Reversing the resultant arrow's direction
 - Using a triangle when components ([[Resolving-Vectors]]) would be cleaner, or vice versa
 
+## Visuals
+
+### Vector triangle: tip-to-tail addition of two vectors
+
+![[_attachments/08_Representations/vector-triangle--tip-to-tail-resultant.svg]]
+*Figure: Vector A (red, horizontal) is drawn first. Vector B (green) is drawn starting from the tip of A. The resultant R (blue dashed) closes the triangle from the start of A to the tip of B. Arrow lengths are proportional to magnitudes; θ is the angle of R measured by protractor. For equilibrium, a third vector equal in magnitude to R but opposite in direction would close the triangle exactly.*
+*Source: Authored for this vault (CC0). No external copyright.*
+
 ## Source Trace
 
 - Source: OpenStax College Physics; The Physics Classroom; HyperPhysics — no copied text

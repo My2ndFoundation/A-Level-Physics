@@ -74,6 +74,25 @@ The spectrum organises how each region interacts with matter: visible light for 
 - Believing different EM waves travel at different speeds in vacuum (they do not).
 - Confusing higher frequency with longer wavelength.
 
+## Visuals
+
+### Electromagnetic spectrum ordered by frequency
+
+```mermaid
+flowchart LR
+    A["Radio\n(lowest f\nlongest λ)"] --> B["Microwave"] --> C["Infrared"] --> D["Visible\n(~400–700 nm)"] --> E["Ultraviolet"] --> F["X-rays"] --> G["Gamma rays\n(highest f\nshortest λ)"]
+    style A fill:#e8f4fd
+    style B fill:#d4eaf7
+    style C fill:#fdebd0
+    style D fill:#d5f5e3
+    style E fill:#f9ebea
+    style F fill:#f4ecf7
+    style G fill:#e8daef
+```
+
+*Figure: All electromagnetic waves travel at c ≈ 3×10⁸ m s⁻¹ in vacuum. Frequency increases left to right; wavelength decreases. Photon energy E = hf increases with frequency. Above UV, radiation is ionising.*
+*Source: Authored for this vault (CC0). No external copyright.*
+
 ## Source Trace
 
 - Source: OpenStax College Physics; HyperPhysics; IOPSpark

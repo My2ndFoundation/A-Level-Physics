@@ -64,6 +64,13 @@ Imaging soft tissue and monitoring blood flow safely (no ionising radiation) by 
 - Forgetting the factor of two in $d = ct/2$ (the pulse travels there and back).
 - Omitting the coupling gel rationale: air's huge impedance mismatch would reflect almost all the energy at the skin.
 
+## Visuals
+
+### Medical Ultrasound Transducer Probe
+![[_attachments/10_Applications/Ultrasound-Imaging--ultrasound-probe.jpg]]
+*Figure: A handheld piezoelectric ultrasound probe (transducer). The curved end is pressed against the patient's skin with coupling gel; it emits high-frequency sound pulses and detects returning echoes from tissue boundaries.*
+*Source: UltrasoundProbe2006a — Drickey — CC BY-SA 2.5 — https://commons.wikimedia.org/wiki/File:UltrasoundProbe2006a.jpg. Retrieved 2026-05-19.*
+
 ## Source Trace
 
 - Source: OpenStax College Physics; HyperPhysics; IOPSpark

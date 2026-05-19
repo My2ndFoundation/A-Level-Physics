@@ -74,6 +74,21 @@ This extends the everyday observation of repeating back-and-forth motion (swings
 - Thinking period depends on amplitude.
 - Ignoring damping in real systems.
 
+## Visuals
+
+### SHM: Displacement–Time Graph (sinusoidal motion)
+
+```mermaid
+xychart-beta
+    title "Simple Harmonic Oscillator: x–t  (x = A cos ωt)"
+    x-axis "Time t (fraction of period T)" ["0", "T/4", "T/2", "3T/4", "T"]
+    y-axis "Displacement x  (units of A)" -1 --> 1
+    line [1, 0, -1, 0, 1]
+```
+
+*Figure: Displacement varies sinusoidally with time; period T is independent of amplitude A (isochronous); velocity is greatest at x = 0, zero at x = ±A.*
+*Source: Authored for this vault (CC0). No external copyright.*
+
 ## Source Trace
 
 - Source: OpenStax College Physics; The Physics Classroom; Isaac Physics — paraphrased, no copied text.

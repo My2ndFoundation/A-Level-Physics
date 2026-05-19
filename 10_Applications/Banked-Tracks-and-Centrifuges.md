@@ -67,6 +67,13 @@ Two classic real-world contexts where a real force is engineered to supply the c
 
 - [[Confusing-Angular-and-Linear-Quantities]]
 
+## Visuals
+
+### Laboratory Centrifuge
+![[_attachments/10_Applications/Banked-Tracks-and-Centrifuges--laboratory-centrifuge.jpg]]
+*Figure: A medical-laboratory centrifuge with sample tubes loaded in the rotor. Spinning at high angular velocity provides a large centripetal acceleration (many multiples of g), driving denser components outward through the liquid faster than they would settle under gravity alone.*
+*Source: Laboratory Centrifuge — Frankincense Diala — CC0 — https://commons.wikimedia.org/wiki/File:Laboratory_Centrifuge.jpg. Retrieved 2026-05-19.*
+
 ## Source Trace
 
 - Source: OpenStax College Physics; HyperPhysics; The Physics Classroom — no copied text

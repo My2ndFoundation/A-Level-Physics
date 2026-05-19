@@ -69,6 +69,13 @@ Medical imaging lets clinicians see inside the body without surgery. X-rays reve
 - [[Ignoring-Units]]
 - [[Misreading-Graph-Gradient]]
 
+## Visuals
+
+### MRI Scanner
+![[_attachments/10_Applications/Medical-Imaging--mri-scan.jpg]]
+*Figure: A magnetic resonance imaging (MRI) scanner showing the large cylindrical bore into which the patient is positioned. MRI uses strong magnetic fields and radiofrequency pulses rather than ionising radiation, making it safe for soft-tissue imaging.*
+*Source: MRI Scan General Illustration — Ptrump16 — CC BY-SA 4.0 — https://commons.wikimedia.org/wiki/File:MRI_Scan_General_Illustration.jpg. Retrieved 2026-05-19.*
+
 ## Source Trace
 
 - Source: OpenStax College Physics; IOPSpark; Isaac Physics; OCR examiner reports (general) — no copied text

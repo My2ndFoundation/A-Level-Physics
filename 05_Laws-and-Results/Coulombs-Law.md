@@ -89,6 +89,14 @@ The law is empirical (from torsion-balance experiments). Combined with the defin
 - Dropping the factor `4πε₀` or misusing `k`
 - Ignoring charge signs when deciding attraction vs repulsion
 
+## Visuals
+
+### Two-charge force diagram
+
+![[_attachments/05_Laws-and-Results/coulombs-law--field-lines.svg]]
+*Figure: Two like charges separated by distance r repel each other with equal and opposite forces. The force follows an inverse-square law.*
+*Source: Authored for this vault (CC0). No external copyright.*
+
 ## Source Trace
 
 - Source: OpenStax College Physics; HyperPhysics; Physics LibreTexts — paraphrased, no copied text

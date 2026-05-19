@@ -1,0 +1,326 @@
+page	outcome	file	license	source_url	date	note
+03_Physical-Quantities/Acceleration.md	diagram	mermaid	CC0	-	2026-05-19	mermaid authored
+03_Physical-Quantities/Acoustic-Impedance.md	diagram	mermaid	CC0	-	2026-05-19	mermaid authored
+03_Physical-Quantities/Activity.md	diagram	mermaid	CC0	-	2026-05-19	mermaid authored
+03_Physical-Quantities/Amplitude.md	diagram	_attachments/03_Physical-Quantities/Amplitude--wave-amplitude.svg	CC0	-	2026-05-19	authored SVG
+03_Physical-Quantities/Angular-Velocity.md	diagram	_attachments/03_Physical-Quantities/Angular-Velocity--circular-motion.svg	CC0	-	2026-05-19	authored SVG
+03_Physical-Quantities/Area.md	none	-	-	-	2026-05-19	no visuals section / placeholder
+03_Physical-Quantities/Boltzmann-Constant.md	diagram	mermaid	CC0	-	2026-05-19	mermaid authored
+03_Physical-Quantities/Capacitance.md	diagram	mermaid	CC0	-	2026-05-19	mermaid authored
+03_Physical-Quantities/Centripetal-Acceleration.md	diagram	_attachments/03_Physical-Quantities/Centripetal-Acceleration--inward-vector.svg	CC0	-	2026-05-19	authored SVG
+03_Physical-Quantities/Charge.md	diagram	mermaid	CC0	-	2026-05-19	mermaid authored
+03_Physical-Quantities/Coefficient-of-Friction.md	diagram	mermaid	CC0	-	2026-05-19	mermaid authored
+03_Physical-Quantities/Current.md	diagram	mermaid	CC0	-	2026-05-19	mermaid authored
+03_Physical-Quantities/Decay-Constant.md	diagram	mermaid	CC0	-	2026-05-19	mermaid authored
+03_Physical-Quantities/Density.md	diagram	mermaid	CC0	-	2026-05-19	mermaid authored
+03_Physical-Quantities/Displacement.md	diagram	_attachments/03_Physical-Quantities/Displacement--vector-vs-distance.svg	CC0	-	2026-05-19	authored SVG
+03_Physical-Quantities/Distance.md	none	-	-	-	2026-05-19	no visuals section / placeholder
+03_Physical-Quantities/Electric-Field-Strength.md	diagram	_attachments/03_Physical-Quantities/Electric-Field-Strength--field-lines.svg	CC0	-	2026-05-19	authored SVG
+03_Physical-Quantities/Electric-Potential.md	diagram	mermaid	CC0	-	2026-05-19	mermaid authored
+03_Physical-Quantities/Electromotive-Force.md	diagram	mermaid	CC0	-	2026-05-19	mermaid authored
+03_Physical-Quantities/Energy.md	diagram	mermaid	CC0	-	2026-05-19	mermaid authored
+03_Physical-Quantities/Force.md	diagram	_attachments/03_Physical-Quantities/Force--free-body-diagram.svg	CC0	-	2026-05-19	authored SVG
+03_Physical-Quantities/Frequency.md	diagram	mermaid	CC0	-	2026-05-19	mermaid authored
+03_Physical-Quantities/Gravitational-Field-Strength.md	diagram	mermaid	CC0	-	2026-05-19	mermaid authored
+03_Physical-Quantities/Gravitational-Potential.md	diagram	mermaid	CC0	-	2026-05-19	mermaid authored
+03_Physical-Quantities/Impulse.md	diagram	mermaid	CC0	-	2026-05-19	mermaid authored
+03_Physical-Quantities/Intensity.md	diagram	mermaid	CC0	-	2026-05-19	mermaid authored
+03_Physical-Quantities/Ionisation-Energy.md	diagram	mermaid	CC0	-	2026-05-19	mermaid authored
+03_Physical-Quantities/Luminosity.md	diagram	mermaid	CC0	-	2026-05-19	mermaid authored
+03_Physical-Quantities/Magnetic-Flux-Density.md	diagram	_attachments/03_Physical-Quantities/Magnetic-Flux-Density--force-on-wire.svg	CC0	-	2026-05-19	authored SVG
+03_Physical-Quantities/Magnetic-Flux-Linkage.md	diagram	mermaid	CC0	-	2026-05-19	mermaid authored
+03_Physical-Quantities/Magnetic-Flux.md	diagram	_attachments/03_Physical-Quantities/Magnetic-Flux--area-angle-geometry.svg	CC0	-	2026-05-19	authored SVG
+03_Physical-Quantities/Mass.md	diagram	mermaid	CC0	-	2026-05-19	mermaid authored
+03_Physical-Quantities/Momentum.md	diagram	mermaid	CC0	-	2026-05-19	mermaid authored
+03_Physical-Quantities/Period.md	diagram	mermaid	CC0	-	2026-05-19	mermaid authored
+03_Physical-Quantities/Potential-Difference.md	diagram	mermaid	CC0	-	2026-05-19	mermaid authored
+03_Physical-Quantities/Power.md	diagram	mermaid	CC0	-	2026-05-19	mermaid authored
+03_Physical-Quantities/Pressure.md	diagram	mermaid	CC0	-	2026-05-19	mermaid authored
+03_Physical-Quantities/Refractive-Index.md	diagram	_attachments/03_Physical-Quantities/Refractive-Index--refraction-ray.svg	CC0	-	2026-05-19	authored SVG
+03_Physical-Quantities/Resistance.md	diagram	mermaid	CC0	-	2026-05-19	mermaid authored
+03_Physical-Quantities/Resistivity.md	diagram	mermaid	CC0	-	2026-05-19	mermaid authored
+03_Physical-Quantities/Specific-Heat-Capacity.md	diagram	mermaid	CC0	-	2026-05-19	mermaid authored
+03_Physical-Quantities/Specific-Latent-Heat.md	diagram	mermaid	CC0	-	2026-05-19	mermaid authored
+03_Physical-Quantities/Speed.md	diagram	mermaid	CC0	-	2026-05-19	mermaid authored
+03_Physical-Quantities/Strain.md	diagram	mermaid	CC0	-	2026-05-19	mermaid authored
+03_Physical-Quantities/Stress.md	diagram	mermaid	CC0	-	2026-05-19	mermaid authored
+03_Physical-Quantities/Time-Constant.md	diagram	mermaid	CC0	-	2026-05-19	mermaid authored
+03_Physical-Quantities/Velocity.md	diagram	mermaid	CC0	-	2026-05-19	mermaid authored
+03_Physical-Quantities/Volume.md	diagram	mermaid	CC0	-	2026-05-19	mermaid authored
+03_Physical-Quantities/Wave-Speed.md	diagram	mermaid	CC0	-	2026-05-19	mermaid authored
+03_Physical-Quantities/Wavelength.md	diagram	_attachments/03_Physical-Quantities/Wavelength--wave-snapshot.svg	CC0	-	2026-05-19	authored SVG
+03_Physical-Quantities/Weight.md	diagram	mermaid	CC0	-	2026-05-19	mermaid authored
+03_Physical-Quantities/Work.md	diagram	_attachments/03_Physical-Quantities/Work--force-displacement-angle.svg	CC0	-	2026-05-19	authored SVG
+03_Physical-Quantities/Young-Modulus.md	diagram	mermaid	CC0	-	2026-05-19	mermaid authored
+04_Concepts/Absolute-Zero.md	diagram	mermaid	CC0	-	2026-05-19	mermaid authored
+04_Concepts/Antiparticles.md	diagram	mermaid	CC0	-	2026-05-19	mermaid authored
+04_Concepts/Astronomical-Distances.md	diagram	_attachments/04_Concepts/Astronomical-Distances--parallax-triangle.svg	CC0	-	2026-05-19	authored SVG
+04_Concepts/Atomic-Structure.md	diagram	mermaid	CC0	-	2026-05-19	mermaid authored
+04_Concepts/Big-Bang-Theory.md	diagram	mermaid	CC0	-	2026-05-19	mermaid authored
+04_Concepts/Binding-Energy.md	diagram	mermaid	CC0	-	2026-05-19	mermaid authored
+04_Concepts/Breaking-Stress.md	diagram	mermaid	CC0	-	2026-05-19	mermaid authored
+04_Concepts/Capacitor.md	diagram	_attachments/04_Concepts/Capacitor--parallel-plates-field.svg	CC0	-	2026-05-19	authored SVG
+04_Concepts/Capacitors-in-Series-and-Parallel.md	diagram	mermaid	CC0	-	2026-05-19	mermaid authored
+04_Concepts/Centre-of-Mass.md	diagram	mermaid	CC0	-	2026-05-19	mermaid authored
+04_Concepts/Centripetal-Force.md	diagram	_attachments/04_Concepts/Centripetal-Force--circular-path.svg	CC0	-	2026-05-19	authored SVG
+04_Concepts/Circular-Motion.md	diagram	mermaid	CC0	-	2026-05-19	mermaid authored
+04_Concepts/Comparing-Gravitational-and-Electric-Fields.md	diagram	mermaid	CC0	-	2026-05-19	mermaid authored
+04_Concepts/Critical-Angle.md	diagram	_attachments/04_Concepts/Critical-Angle--ray-diagram.svg	CC0	-	2026-05-19	authored SVG
+04_Concepts/Damping.md	diagram	mermaid	CC0	-	2026-05-19	mermaid authored
+04_Concepts/Diffraction-Grating.md	diagram	mermaid	CC0	-	2026-05-19	mermaid authored
+04_Concepts/Diffraction.md	diagram	mermaid	CC0	-	2026-05-19	mermaid authored
+04_Concepts/Doppler-Effect.md	diagram	mermaid	CC0	-	2026-05-19	mermaid authored
+04_Concepts/Drag.md	diagram	_attachments/04_Concepts/Drag--free-body.svg	CC0	-	2026-05-19	authored SVG
+04_Concepts/Elastic-Strain-Energy.md	diagram	mermaid	CC0	-	2026-05-19	mermaid authored
+04_Concepts/Elastic-and-Inelastic-Collisions.md	diagram	mermaid	CC0	-	2026-05-19	mermaid authored
+04_Concepts/Elastic-and-Plastic-Behaviour.md	diagram	mermaid	CC0	-	2026-05-19	mermaid authored
+04_Concepts/Electric-Field.md	diagram	_attachments/04_Concepts/Electric-Field--point-charge-field-lines.svg	CC0	-	2026-05-19	authored SVG
+04_Concepts/Electric-Potential-Energy.md	diagram	mermaid	CC0	-	2026-05-19	mermaid authored
+04_Concepts/Electromagnetic-Induction.md	diagram	_attachments/04_Concepts/Electromagnetic-Induction--coil-magnet.svg	CC0	-	2026-05-19	authored SVG
+04_Concepts/Electromagnetic-Spectrum.md	diagram	mermaid	CC0	-	2026-05-19	mermaid authored
+04_Concepts/Energy-Levels.md	diagram	_attachments/04_Concepts/Energy-Levels--transition-diagram.svg	CC0	-	2026-05-19	authored SVG
+04_Concepts/Energy-Stored-in-a-Capacitor.md	diagram	mermaid	CC0	-	2026-05-19	mermaid authored
+04_Concepts/Energy-Transfer.md	none	-	-	-	2026-05-19	no visual
+04_Concepts/Energy-in-Simple-Harmonic-Motion.md	diagram	mermaid	CC0	-	2026-05-19	mermaid authored
+04_Concepts/Equilibrium.md	diagram	_attachments/04_Concepts/Equilibrium--force-triangle.svg	CC0	-	2026-05-19	authored SVG
+04_Concepts/Free-Fall.md	diagram	mermaid	CC0	-	2026-05-19	mermaid authored
+04_Concepts/Free-and-Forced-Oscillations.md	diagram	mermaid	CC0	-	2026-05-19	mermaid authored
+04_Concepts/Friction.md	diagram	_attachments/04_Concepts/Friction--free-body.svg	CC0	-	2026-05-19	authored SVG
+04_Concepts/Fundamental-Particles.md	diagram	mermaid	CC0	-	2026-05-19	mermaid authored
+04_Concepts/Gravitational-Field.md	diagram	_attachments/04_Concepts/Gravitational-Field--radial-field-lines.svg	CC0	-	2026-05-19	authored SVG
+04_Concepts/Gravitational-Potential-Energy.md	diagram	mermaid	CC0	-	2026-05-19	mermaid authored
+04_Concepts/Half-Life.md	diagram	mermaid	CC0	-	2026-05-19	mermaid authored
+04_Concepts/Interference.md	diagram	_attachments/04_Concepts/Interference--two-source-path-difference.svg	CC0	-	2026-05-19	authored SVG
+04_Concepts/Internal-Energy.md	diagram	mermaid	CC0	-	2026-05-19	mermaid authored
+04_Concepts/Internal-Resistance.md	diagram	_attachments/04_Concepts/Internal-Resistance--circuit-diagram.svg	CC0	-	2026-05-19	authored SVG
+04_Concepts/Ionisation.md	diagram	mermaid	CC0	-	2026-05-19	mermaid authored
+04_Concepts/Isotopes.md	diagram	mermaid	CC0	-	2026-05-19	mermaid authored
+04_Concepts/Kinetic-Energy.md	diagram	mermaid	CC0	-	2026-05-19	mermaid authored
+04_Concepts/Kinetic-Theory-of-Gases.md	diagram	mermaid	CC0	-	2026-05-19	mermaid authored
+04_Concepts/Leptons.md	diagram	mermaid	CC0	-	2026-05-19	mermaid authored
+04_Concepts/Magnetic-Field.md	diagram	_attachments/04_Concepts/Magnetic-Field--bar-magnet-field-lines.svg	CC0	-	2026-05-19	authored SVG
+04_Concepts/Mass-Defect.md	diagram	mermaid	CC0	-	2026-05-19	mermaid authored
+04_Concepts/Mean-Drift-Velocity.md	diagram	_attachments/04_Concepts/Mean-Drift-Velocity--wire-cross-section.svg	CC0	-	2026-05-19	authored SVG
+04_Concepts/Measurement-Uncertainty.md	diagram	mermaid	CC0	-	2026-05-19	mermaid authored
+04_Concepts/Moment.md	diagram	_attachments/04_Concepts/Moment--perpendicular-distance.svg	CC0	-	2026-05-19	authored SVG
+04_Concepts/Normal-Contact-Force.md	diagram	_attachments/04_Concepts/Normal-Contact-Force--incline-free-body.svg	CC0	-	2026-05-19	authored SVG
+04_Concepts/Nuclear-Fission.md	diagram	mermaid	CC0	-	2026-05-19	mermaid authored
+04_Concepts/Nuclear-Fusion.md	diagram	mermaid	CC0	-	2026-05-19	mermaid authored
+04_Concepts/Orbital-Motion.md	diagram	mermaid	CC0	-	2026-05-19	mermaid authored
+04_Concepts/Path-Difference.md	diagram	_attachments/04_Concepts/Path-Difference--geometry.svg	CC0	-	2026-05-19	authored SVG
+04_Concepts/Phase-Difference.md	diagram	mermaid	CC0	-	2026-05-19	mermaid authored
+04_Concepts/Photoelectric-Effect.md	diagram	_attachments/04_Concepts/Photoelectric-Effect--ke-vs-frequency.svg	CC0	-	2026-05-19	authored SVG
+04_Concepts/Photon-Energy.md	diagram	mermaid	CC0	-	2026-05-19	mermaid authored
+04_Concepts/Polarisation.md	diagram	_attachments/04_Concepts/Polarisation--polariser-analyser.svg	CC0	-	2026-05-19	authored SVG
+04_Concepts/Potential-Divider.md	diagram	_attachments/04_Concepts/Potential-Divider--circuit.svg	CC0	-	2026-05-19	authored SVG
+04_Concepts/Quarks.md	diagram	mermaid	CC0	-	2026-05-19	mermaid authored
+04_Concepts/Radian.md	diagram	_attachments/04_Concepts/Radian--arc-radius-geometry.svg	CC0	-	2026-05-19	authored SVG
+04_Concepts/Radioactive-Decay.md	diagram	mermaid	CC0	-	2026-05-19	mermaid authored
+04_Concepts/Radioactivity.md	diagram	mermaid	CC0	-	2026-05-19	mermaid authored
+04_Concepts/Redshift.md	diagram	mermaid	CC0	-	2026-05-19	mermaid authored
+04_Concepts/Resolution-Accuracy-and-Precision.md	diagram	mermaid	CC0	-	2026-05-19	mermaid authored
+04_Concepts/Resonance.md	diagram	mermaid	CC0	-	2026-05-19	mermaid authored
+04_Concepts/Resultant-Force.md	diagram	_attachments/04_Concepts/Resultant-Force--vector-addition.svg	CC0	-	2026-05-19	authored SVG
+04_Concepts/SI-Units.md	diagram	mermaid	CC0	-	2026-05-19	mermaid authored
+04_Concepts/Simple-Harmonic-Motion.md	diagram	mermaid	CC0	-	2026-05-19	mermaid authored
+04_Concepts/Standing-Waves.md	diagram	_attachments/04_Concepts/Standing-Waves--node-antinode-pattern.svg	CC0	-	2026-05-19	authored SVG
+04_Concepts/States-of-Matter.md	diagram	mermaid	CC0	-	2026-05-19	mermaid authored
+04_Concepts/Static-Electricity.md	diagram	mermaid	CC0	-	2026-05-19	mermaid authored
+04_Concepts/Stellar-Evolution.md	diagram	mermaid	CC0	-	2026-05-19	mermaid authored
+04_Concepts/Superposition.md	diagram	_attachments/04_Concepts/Superposition--constructive-destructive.svg	CC0	-	2026-05-19	authored SVG
+04_Concepts/Systematic-and-Random-Errors.md	diagram	mermaid	CC0	-	2026-05-19	mermaid authored
+04_Concepts/Temperature.md	diagram	mermaid	CC0	-	2026-05-19	mermaid authored
+04_Concepts/Terminal-Velocity.md	diagram	mermaid	CC0	-	2026-05-19	mermaid authored
+04_Concepts/The-Electronvolt.md	diagram	mermaid	CC0	-	2026-05-19	mermaid authored
+04_Concepts/The-Nuclear-Atom.md	diagram	_attachments/04_Concepts/The-Nuclear-Atom--nuclear-model-scale.svg	CC0	-	2026-05-19	authored SVG
+04_Concepts/The-Standard-Model.md	diagram	mermaid	CC0	-	2026-05-19	mermaid authored
+04_Concepts/Threshold-Frequency.md	diagram	mermaid	CC0	-	2026-05-19	mermaid authored
+04_Concepts/Total-Internal-Reflection.md	diagram	_attachments/04_Concepts/Total-Internal-Reflection--ray-diagram.svg	CC0	-	2026-05-19	authored SVG
+04_Concepts/Uniform-Electric-Field.md	diagram	_attachments/04_Concepts/Uniform-Electric-Field--parallel-plates.svg	CC0	-	2026-05-19	authored SVG
+04_Concepts/Vectors-and-Scalars.md	diagram	_attachments/04_Concepts/Vectors-and-Scalars--vector-triangle.svg	CC0	-	2026-05-19	authored SVG
+04_Concepts/Wave-Particle-Duality.md	diagram	mermaid	CC0	-	2026-05-19	mermaid authored
+04_Concepts/Wave-Reflection.md	diagram	_attachments/04_Concepts/Wave-Reflection--law-of-reflection.svg	CC0	-	2026-05-19	authored SVG
+04_Concepts/Wave-Refraction.md	diagram	_attachments/04_Concepts/Wave-Refraction--snells-law-ray.svg	CC0	-	2026-05-19	authored SVG
+04_Concepts/Work-Function.md	diagram	mermaid	CC0	-	2026-05-19	mermaid authored
+05_Laws-and-Results/Capacitor-Discharge-Equation.md	diagram	mermaid	CC0	-	2026-05-19	mermaid authored
+05_Laws-and-Results/Conservation-of-Energy.md	diagram	mermaid	CC0	-	2026-05-19	mermaid authored
+05_Laws-and-Results/Conservation-of-Momentum.md	diagram	mermaid	CC0	-	2026-05-19	mermaid authored
+05_Laws-and-Results/Coulombs-Law.md	diagram	_attachments/05_Laws-and-Results/coulombs-law--field-lines.svg	CC0	-	2026-05-19	authored SVG
+05_Laws-and-Results/De-Broglie-Equation.md	diagram	mermaid	CC0	-	2026-05-19	mermaid authored
+05_Laws-and-Results/Diffraction-Grating-Equation.md	diagram	mermaid	CC0	-	2026-05-19	mermaid authored
+05_Laws-and-Results/Faradays-Law.md	diagram	mermaid	CC0	-	2026-05-19	mermaid authored
+05_Laws-and-Results/Force-on-a-Current-Carrying-Conductor.md	diagram	_attachments/05_Laws-and-Results/force-on-a-current-carrying-conductor--fleming-lhr.svg	CC0	-	2026-05-19	authored SVG
+05_Laws-and-Results/Force-on-a-Moving-Charge.md	diagram	mermaid	CC0	-	2026-05-19	mermaid authored
+05_Laws-and-Results/Hookes-Law.md	diagram	mermaid	CC0	-	2026-05-19	mermaid authored
+05_Laws-and-Results/Hubbles-Law.md	diagram	mermaid	CC0	-	2026-05-19	mermaid authored
+05_Laws-and-Results/Ideal-Gas-Equation.md	diagram	mermaid	CC0	-	2026-05-19	mermaid authored
+05_Laws-and-Results/Keplers-Third-Law.md	diagram	mermaid	CC0	-	2026-05-19	mermaid authored
+05_Laws-and-Results/Kirchhoffs-First-Law.md	diagram	mermaid	CC0	-	2026-05-19	mermaid authored
+05_Laws-and-Results/Kirchhoffs-Second-Law.md	diagram	mermaid	CC0	-	2026-05-19	mermaid authored
+05_Laws-and-Results/Law-of-Reflection.md	diagram	_attachments/05_Laws-and-Results/law-of-reflection--ray-diagram.svg	CC0	-	2026-05-19	authored SVG
+05_Laws-and-Results/Lenzs-Law.md	diagram	mermaid	CC0	-	2026-05-19	mermaid authored
+05_Laws-and-Results/Mass-Energy-Equivalence.md	diagram	mermaid	CC0	-	2026-05-19	mermaid authored
+05_Laws-and-Results/Newton-First-Law.md	diagram	mermaid	CC0	-	2026-05-19	mermaid authored
+05_Laws-and-Results/Newton-Second-Law.md	diagram	mermaid	CC0	-	2026-05-19	mermaid authored
+05_Laws-and-Results/Newton-Third-Law.md	diagram	mermaid	CC0	-	2026-05-19	mermaid authored
+05_Laws-and-Results/Newtons-Law-of-Gravitation.md	diagram	mermaid	CC0	-	2026-05-19	mermaid authored
+05_Laws-and-Results/Ohms-Law.md	diagram	_attachments/05_Laws-and-Results/ohms-law--iv-graph.svg	CC0	-	2026-05-19	authored SVG
+05_Laws-and-Results/Photoelectric-Equation.md	diagram	mermaid	CC0	-	2026-05-19	mermaid authored
+05_Laws-and-Results/Principle-of-Moments.md	diagram	mermaid	CC0	-	2026-05-19	mermaid authored
+05_Laws-and-Results/Radioactive-Decay-Law.md	diagram	mermaid	CC0	-	2026-05-19	mermaid authored
+05_Laws-and-Results/Simple-Harmonic-Motion-Equation.md	diagram	mermaid	CC0	-	2026-05-19	mermaid authored
+05_Laws-and-Results/Snell-Law.md	diagram	_attachments/05_Laws-and-Results/snell-law--refraction-diagram.svg	CC0	-	2026-05-19	authored SVG
+05_Laws-and-Results/Stefans-Law.md	diagram	mermaid	CC0	-	2026-05-19	mermaid authored
+05_Laws-and-Results/Wave-Speed-Equation.md	diagram	mermaid	CC0	-	2026-05-19	mermaid authored
+05_Laws-and-Results/Wiens-Displacement-Law.md	diagram	mermaid	CC0	-	2026-05-19	mermaid authored
+06_Models/Bohr-Model.md	diagram	mermaid	CC0	-	2026-05-19	mermaid authored
+06_Models/Constant-Acceleration-Model.md	diagram	mermaid	CC0	-	2026-05-19	mermaid authored
+06_Models/Free-Body-Model.md	diagram	_attachments/06_Models/Free-Body-Model--box-on-slope.svg	CC0	-	2026-05-19	authored SVG
+06_Models/Ideal-Gas-Model.md	diagram	mermaid	CC0	-	2026-05-19	mermaid authored
+06_Models/Ideal-Spring-Model.md	diagram	mermaid	CC0	-	2026-05-19	mermaid authored
+06_Models/Internal-Resistance-Model.md	diagram	_attachments/06_Models/Internal-Resistance-Model--circuit.svg	CC0	-	2026-05-19	authored SVG
+06_Models/Nuclear-Model.md	diagram	mermaid	CC0	-	2026-05-19	mermaid authored
+06_Models/Ohmic-Conductor-Model.md	diagram	mermaid	CC0	-	2026-05-19	mermaid authored
+06_Models/Photon-Model.md	diagram	mermaid	CC0	-	2026-05-19	mermaid authored
+06_Models/Point-Mass-Model.md	diagram	mermaid	CC0	-	2026-05-19	mermaid authored
+06_Models/Potential-Divider-Model.md	diagram	_attachments/06_Models/Potential-Divider-Model--circuit.svg	CC0	-	2026-05-19	authored SVG
+06_Models/Projectile-Motion-Model.md	diagram	_attachments/06_Models/Projectile-Motion-Model--trajectory.svg	CC0	-	2026-05-19	authored SVG
+06_Models/Ray-Model-of-Light.md	diagram	_attachments/06_Models/Ray-Model-of-Light--refraction.svg	CC0	-	2026-05-19	authored SVG
+06_Models/Rigid-Body-Model.md	diagram	_attachments/06_Models/Rigid-Body-Model--moment.svg	CC0	-	2026-05-19	authored SVG
+06_Models/Simple-Harmonic-Oscillator.md	diagram	mermaid	CC0	-	2026-05-19	mermaid authored
+06_Models/Wavefront-Model.md	diagram	_attachments/06_Models/Wavefront-Model--diffraction.svg	CC0	-	2026-05-19	authored SVG
+07_Methods/Analysing-Capacitor-Charge-and-Discharge.md	diagram	mermaid	CC0	-	2026-05-19	mermaid authored
+07_Methods/Analysing-Circuit-Diagrams.md	none	-	-	-	2026-05-19	no visuals section / placeholder
+07_Methods/Analysing-Wave-Superposition.md	none	-	-	-	2026-05-19	no visuals section / placeholder
+07_Methods/Applying-Conservation-of-Energy.md	none	-	-	-	2026-05-19	no visuals section / placeholder
+07_Methods/Applying-Conservation-of-Momentum.md	none	-	-	-	2026-05-19	no visuals section / placeholder
+07_Methods/Applying-Faradays-Law.md	none	-	-	-	2026-05-19	no visuals section / placeholder
+07_Methods/Applying-Newton-Second-Law.md	none	-	-	-	2026-05-19	no visuals section / placeholder
+07_Methods/Applying-Snell-Law.md	diagram	_attachments/07_Methods/applying-snell-law--refraction-ray.svg	CC0	-	2026-05-19	authored SVG
+07_Methods/Applying-the-Ideal-Gas-Equation.md	none	-	-	-	2026-05-19	no visuals section / placeholder
+07_Methods/Calculating-Binding-Energy-and-Energy-Release.md	none	-	-	-	2026-05-19	no visuals section / placeholder
+07_Methods/Calculating-Percentage-Difference.md	none	-	-	-	2026-05-19	no visuals section / placeholder
+07_Methods/Calculating-Percentage-Uncertainty.md	none	-	-	-	2026-05-19	no visuals section / placeholder
+07_Methods/Combining-Uncertainties.md	diagram	mermaid	CC0	-	2026-05-19	mermaid authored
+07_Methods/Drawing-Free-Body-Diagrams.md	diagram	_attachments/07_Methods/drawing-free-body-diagrams--book-on-table.svg	CC0	-	2026-05-19	authored SVG
+07_Methods/Estimating-Uncertainty-from-Apparatus.md	diagram	mermaid	CC0	-	2026-05-19	mermaid authored
+07_Methods/Finding-Area-Under-a-Graph.md	diagram	_attachments/07_Methods/finding-area-under-a-graph--triangle-displacement.svg	CC0	-	2026-05-19	authored SVG
+07_Methods/Finding-Gradient-from-a-Graph.md	diagram	_attachments/07_Methods/finding-gradient-from-a-graph--best-fit-triangle.svg	CC0	-	2026-05-19	authored SVG
+07_Methods/Linearising-a-Graph.md	diagram	mermaid	CC0	-	2026-05-19	mermaid authored
+07_Methods/Resolving-Forces.md	diagram	_attachments/07_Methods/resolving-forces--vector-components.svg	CC0	-	2026-05-19	authored SVG
+07_Methods/Resolving-Vectors.md	diagram	_attachments/07_Methods/resolving-vectors--component-diagram.svg	CC0	-	2026-05-19	authored SVG
+07_Methods/Significant-Figures-in-Measurements.md	none	-	-	-	2026-05-19	no visuals section / placeholder
+07_Methods/Solving-Circular-Motion-Problems.md	diagram	_attachments/07_Methods/solving-circular-motion-problems--radial-force.svg	CC0	-	2026-05-19	authored SVG
+07_Methods/Solving-SHM-Problems.md	diagram	mermaid	CC0	-	2026-05-19	mermaid authored
+07_Methods/Using-Keplers-Third-Law.md	none	-	-	-	2026-05-19	no visuals section / placeholder
+07_Methods/Using-Kirchhoffs-Laws.md	none	-	-	-	2026-05-19	no visuals section / placeholder
+07_Methods/Using-Potential-Dividers.md	diagram	_attachments/07_Methods/using-potential-dividers--circuit.svg	CC0	-	2026-05-19	authored SVG
+07_Methods/Using-SUVAT-Equations.md	diagram	mermaid	CC0	-	2026-05-19	mermaid authored
+07_Methods/Using-Uncertainty-Propagation.md	none	-	-	-	2026-05-19	no visuals section / placeholder
+07_Methods/Using-the-Photoelectric-Equation.md	none	-	-	-	2026-05-19	no visuals section / placeholder
+08_Representations/Acceleration-Time-Graph.md	diagram	mermaid	CC0	-	2026-05-19	mermaid authored
+08_Representations/Capacitor-Discharge-Graph.md	diagram	mermaid	CC0	-	2026-05-19	mermaid authored
+08_Representations/Circuit-Diagram.md	diagram	_attachments/08_Representations/circuit-diagram--series-ammeter-voltmeter.svg	CC0	-	2026-05-19	authored SVG
+08_Representations/Displacement-Time-Graph.md	diagram	mermaid	CC0	-	2026-05-19	mermaid authored
+08_Representations/Electric-Field-Line-Diagram.md	diagram	_attachments/08_Representations/electric-field-line-diagram--point-charge-and-uniform.svg	CC0	-	2026-05-19	authored SVG
+08_Representations/Force-Extension-Graph.md	diagram	mermaid	CC0	-	2026-05-19	mermaid authored
+08_Representations/Free-Body-Diagram.md	diagram	_attachments/08_Representations/free-body-diagram--block-on-slope.svg	CC0	-	2026-05-19	authored SVG
+08_Representations/Gravitational-Field-Line-Diagram.md	diagram	_attachments/08_Representations/gravitational-field-line-diagram--planet-radial.svg	CC0	-	2026-05-19	authored SVG
+08_Representations/Hertzsprung-Russell-Diagram.md	diagram	_attachments/08_Representations/hertzsprung-russell-diagram--schematic.svg	CC0	-	2026-05-19	authored SVG
+08_Representations/IV-Characteristic.md	diagram	mermaid	CC0	-	2026-05-19	mermaid authored
+08_Representations/Line-of-Best-Fit-Graph.md	diagram	mermaid	CC0	-	2026-05-19	mermaid authored
+08_Representations/Magnetic-Field-Line-Diagram.md	diagram	_attachments/08_Representations/magnetic-field-line-diagram--bar-magnet.svg	CC0	-	2026-05-19	authored SVG
+08_Representations/Nuclear-Decay-Graph.md	diagram	mermaid	CC0	-	2026-05-19	mermaid authored
+08_Representations/Ray-Diagram.md	diagram	_attachments/08_Representations/ray-diagram--refraction-at-boundary.svg	CC0	-	2026-05-19	authored SVG
+08_Representations/Results-Table.md	none	-	-	-	2026-05-19	no visuals section / placeholder
+08_Representations/Standing-Wave-Diagram.md	diagram	_attachments/08_Representations/standing-wave-diagram--fundamental-and-harmonics.svg	CC0	-	2026-05-19	authored SVG
+08_Representations/Stress-Strain-Graph.md	diagram	mermaid	CC0	-	2026-05-19	mermaid authored
+08_Representations/Vector-Triangle.md	diagram	_attachments/08_Representations/vector-triangle--tip-to-tail-resultant.svg	CC0	-	2026-05-19	authored SVG
+08_Representations/Velocity-Time-Graph.md	diagram	mermaid	CC0	-	2026-05-19	mermaid authored
+08_Representations/Wavefront-Diagram.md	diagram	_attachments/08_Representations/wavefront-diagram--plane-and-circular.svg	CC0	-	2026-05-19	authored SVG
+09_Experiments-and-Practicals/Apparatus-and-Techniques/Using-Light-Gates.md	diagram	mermaid	CC0	-	2026-05-19	mermaid authored
+09_Experiments-and-Practicals/Apparatus-and-Techniques/Using-Vernier-Calipers.md	photo	_attachments/09_Experiments-and-Practicals/Using-Vernier-Calipers--vernier-caliper-diagram.svg	CC BY 2.5	https://commons.wikimedia.org/wiki/File:Vernier_caliper.svg	2026-05-19	-
+09_Experiments-and-Practicals/Apparatus-and-Techniques/Using-a-Micrometer.md	photo	_attachments/09_Experiments-and-Practicals/Using-a-Micrometer--micrometer-screw-gauge.jpg	CC BY-SA 4.0	https://commons.wikimedia.org/wiki/File:Micrometer_(screw_gauge).jpg	2026-05-19	-
+09_Experiments-and-Practicals/Graph-Analysis/Using-Gradient.md	diagram	mermaid	CC0	-	2026-05-19	mermaid authored
+09_Experiments-and-Practicals/Graph-Analysis/Using-Intercept.md	diagram	mermaid	CC0	-	2026-05-19	mermaid authored
+09_Experiments-and-Practicals/Required-Practicals/Determining-Internal-Resistance.md	diagram	mermaid	CC0	-	2026-05-19	mermaid authored
+09_Experiments-and-Practicals/Required-Practicals/Investigating-Diffraction-with-a-Grating.md	photo	_attachments/09_Experiments-and-Practicals/Investigating-Diffraction-with-a-Grating--diffraction-grating-photo.jpg	Public domain	https://commons.wikimedia.org/wiki/File:Diffraction_grating.jpg	2026-05-19	-
+09_Experiments-and-Practicals/Required-Practicals/Investigating-Electromagnetic-Induction.md	photo	_attachments/09_Experiments-and-Practicals/Investigating-Electromagnetic-Induction--induction-experiment-photo.png	Public domain	https://commons.wikimedia.org/wiki/File:Induction_experiment.png	2026-05-19	-
+09_Experiments-and-Practicals/Required-Practicals/Investigating-Photoelectric-Effect.md	photo	_attachments/09_Experiments-and-Practicals/Investigating-Photoelectric-Effect--photoelectric-effect-diagram.svg	CC BY-SA 3.0	https://commons.wikimedia.org/wiki/File:Photoelectric_effect.svg	2026-05-19	-
+09_Experiments-and-Practicals/Required-Practicals/Investigating-Simple-Harmonic-Motion.md	photo	_attachments/09_Experiments-and-Practicals/Investigating-Simple-Harmonic-Motion--pendulum-height-diagram.svg	CC0	https://commons.wikimedia.org/wiki/File:Simple_pendulum_height.svg	2026-05-19	-
+09_Experiments-and-Practicals/Required-Practicals/Investigating-Stationary-Waves.md	photo	_attachments/09_Experiments-and-Practicals/Investigating-Stationary-Waves--standing-waves-on-string.gif	CC BY-SA 3.0	https://commons.wikimedia.org/wiki/File:Standing_waves_on_a_string.gif	2026-05-19	-
+09_Experiments-and-Practicals/Required-Practicals/Measuring-Acceleration-Due-to-Gravity.md	photo	_attachments/09_Experiments-and-Practicals/Measuring-Acceleration-Due-to-Gravity--free-fall-diagram.svg	Public domain	https://commons.wikimedia.org/wiki/File:Free_fall.svg	2026-05-19	-
+09_Experiments-and-Practicals/Required-Practicals/Measuring-Specific-Heat-Capacity.md	diagram	mermaid	CC0	-	2026-05-19	mermaid authored
+09_Experiments-and-Practicals/Required-Practicals/Measuring-Young-Modulus.md	diagram	mermaid	CC0	-	2026-05-19	mermaid authored
+09_Experiments-and-Practicals/Required-Practicals/Measuring-the-Planck-Constant.md	photo	_attachments/09_Experiments-and-Practicals/Measuring-the-Planck-Constant--assorted-LEDs-photo.jpg	CC BY-SA 2.0	https://commons.wikimedia.org/wiki/File:Verschiedene_LEDs.jpg	2026-05-19	-
+09_Experiments-and-Practicals/Required-Practicals/Modelling-Radioactive-Decay.md	diagram	mermaid	CC0	-	2026-05-19	mermaid authored
+10_Applications/Banked-Tracks-and-Centrifuges.md	photo	_attachments/10_Applications/Banked-Tracks-and-Centrifuges--laboratory-centrifuge.jpg	CC0	https://commons.wikimedia.org/wiki/File:Laboratory_Centrifuge.jpg	2026-05-19	-
+10_Applications/Bridge-and-Beam-Loading.md	photo	_attachments/10_Applications/Bridge-and-Beam-Loading--golden-gate-bridge.jpg	CC BY-SA 4.0	https://commons.wikimedia.org/wiki/File:Golden_Gate_Bridge_as_seen_from_Marshall%E2%80%99s_Beach,_March_2018.jpg	2026-05-19	-
+10_Applications/CT-Scanning.md	photo	_attachments/10_Applications/CT-Scanning--ct-scanner.jpg	CC BY-SA 4.0	https://commons.wikimedia.org/wiki/File:Lachine_Hospital_CT_Scanner.jpg	2026-05-19	-
+10_Applications/Capacitor-Timing-Circuits.md	photo	_attachments/10_Applications/Capacitor-Timing-Circuits--capacitor-timer-circuit.png	CC BY-SA 4.0	https://commons.wikimedia.org/wiki/File:Capacitor_based_timer.png	2026-05-19	-
+10_Applications/Car-Safety.md	photo	_attachments/10_Applications/Car-Safety--crash-test-airbag.jpg	CC BY-SA 4.0	https://commons.wikimedia.org/wiki/File:Crash-test-with-airbag-and-safty-belt.jpg	2026-05-19	-
+10_Applications/Carbon-Dating.md	photo	_attachments/10_Applications/Carbon-Dating--carbon14-decay.png	CC BY-SA 3.0	https://commons.wikimedia.org/wiki/File:Radioactive_decay_of_Carbon-14.png	2026-05-19	-
+10_Applications/Levers.md	photo	_attachments/10_Applications/Levers--lever-mechanical-advantage.svg	CC BY-SA 3.0	https://commons.wikimedia.org/wiki/File:Lever_mechanical_advantage.svg	2026-05-19	-
+10_Applications/Medical-Imaging.md	photo	_attachments/10_Applications/Medical-Imaging--mri-scan.jpg	CC BY-SA 4.0	https://commons.wikimedia.org/wiki/File:MRI_Scan_General_Illustration.jpg	2026-05-19	-
+10_Applications/Optical-Fibres.md	photo	_attachments/10_Applications/Optical-Fibres--optical-fiber-cable.jpg	CC BY-SA 4.0	https://commons.wikimedia.org/wiki/File:Optical_fiber_cable-01ASD.jpg	2026-05-19	-
+10_Applications/PET-Scanning.md	photo	_attachments/10_Applications/PET-Scanning--pet-scan.jpg	CC BY 2.0	https://commons.wikimedia.org/wiki/File:PET_scan.jpg	2026-05-19	-
+10_Applications/Particle-Accelerators.md	photo	_attachments/10_Applications/Particle-Accelerators--lhc-tunnel.jpg	CC BY-SA 3.0	https://commons.wikimedia.org/wiki/File:CERN_LHC_Tunnel.JPG	2026-05-19	-
+10_Applications/Potential-Divider-Sensors.md	diagram	mermaid	CC0	-	2026-05-19	mermaid authored
+10_Applications/Projectile-Motion.md	photo	_attachments/10_Applications/Projectile-Motion--trajectory-diagram.png	CC BY 4.0	https://commons.wikimedia.org/wiki/File:Projectile-Motion.png	2026-05-19	-
+10_Applications/Satellites-and-Geostationary-Orbits.md	photo	_attachments/10_Applications/Satellites-and-Geostationary-Orbits--geostationary-imagery.png	Public Domain	https://commons.wikimedia.org/wiki/File:Geostationary_Satellite_imagery.png	2026-05-19	-
+10_Applications/Stars-and-Cosmology.md	photo	_attachments/10_Applications/Stars-and-Cosmology--stellar-spectrum.jpg	CC BY 4.0	https://commons.wikimedia.org/wiki/File:High_resolution_spectrum_of_Procyon_(noao-procyon).jpg	2026-05-19	-
+10_Applications/Terminal-Velocity-in-Skydiving.md	photo	_attachments/10_Applications/Terminal-Velocity-in-Skydiving--skydiver.jpg	CC BY-SA 2.0	https://commons.wikimedia.org/wiki/File:Monica_Skydiving_(35841193251).jpg	2026-05-19	-
+10_Applications/The-DC-Motor.md	photo	_attachments/10_Applications/The-DC-Motor--motor-diagram.png	CC BY-SA 4.0	https://commons.wikimedia.org/wiki/File:Basic_principle_of_an_Electric_motor.png	2026-05-19	-
+10_Applications/Transformers.md	photo	_attachments/10_Applications/Transformers--substation-transformer.jpg	CC BY-SA 3.0	https://commons.wikimedia.org/wiki/File:Electrical_substation_transformer,_Love_Lane,_Liverpool.JPG	2026-05-19	-
+10_Applications/Ultrasound-Imaging.md	photo	_attachments/10_Applications/Ultrasound-Imaging--ultrasound-probe.jpg	CC BY-SA 2.5	https://commons.wikimedia.org/wiki/File:UltrasoundProbe2006a.jpg	2026-05-19	-
+10_Applications/X-ray-Imaging.md	photo	_attachments/10_Applications/X-ray-Imaging--hand-radiograph.jpg	Public Domain	https://commons.wikimedia.org/wiki/File:X-ray_of_the_bones_of_a_hand_with_a_ring_on_one_finger_Wellcome_V0029523.jpg	2026-05-19	-
+11_Problems/Mistake-Patterns/Adding-Forces-as-Scalars.md	diagram	_attachments/11_Problems/Adding-Forces-as-Scalars--vector-addition.svg	CC0	-	2026-05-19	authored SVG
+11_Problems/Mistake-Patterns/Confusing-Angular-and-Linear-Quantities.md	none	-	-	-	2026-05-19	no visuals section / placeholder
+11_Problems/Mistake-Patterns/Confusing-Energy-and-Power.md	none	-	-	-	2026-05-19	no visuals section / placeholder
+11_Problems/Mistake-Patterns/Confusing-Heat-and-Temperature.md	none	-	-	-	2026-05-19	no visuals section / placeholder
+11_Problems/Mistake-Patterns/Confusing-Mass-and-Weight.md	none	-	-	-	2026-05-19	no visuals section / placeholder
+11_Problems/Mistake-Patterns/Confusing-Photon-Energy-and-Intensity.md	none	-	-	-	2026-05-19	no visuals section / placeholder
+11_Problems/Mistake-Patterns/Confusing-Wavelength-and-Amplitude.md	diagram	mermaid	CC0	-	2026-05-19	mermaid authored
+11_Problems/Mistake-Patterns/Forgetting-Resultant-Force.md	none	-	-	-	2026-05-19	no visuals section / placeholder
+11_Problems/Mistake-Patterns/Forgetting-Vector-Direction.md	none	-	-	-	2026-05-19	no visuals section / placeholder
+11_Problems/Mistake-Patterns/Ignoring-Units.md	none	-	-	-	2026-05-19	no visuals section / placeholder
+11_Problems/Mistake-Patterns/Incorrect-Sign-Convention.md	none	-	-	-	2026-05-19	no visuals section / placeholder
+11_Problems/Mistake-Patterns/Misreading-Graph-Gradient.md	diagram	mermaid	CC0	-	2026-05-19	mermaid authored
+11_Problems/Mistake-Patterns/Mixing-Speed-and-Velocity.md	none	-	-	-	2026-05-19	no visuals section / placeholder
+11_Problems/Mistake-Patterns/Mixing-Up-EMF-and-Terminal-PD.md	none	-	-	-	2026-05-19	no visuals section / placeholder
+11_Problems/Mistake-Patterns/Mixing-Up-Series-and-Parallel-Circuits.md	diagram	_attachments/11_Problems/Mixing-Up-Series-and-Parallel-Circuits--series-vs-parallel.svg	CC0	-	2026-05-19	authored SVG
+11_Problems/Mistake-Patterns/Treating-Centripetal-Force-as-an-Extra-Force.md	diagram	_attachments/11_Problems/Treating-Centripetal-Force-as-an-Extra-Force--fbd-comparison.svg	CC0	-	2026-05-19	authored SVG
+11_Problems/Mistake-Patterns/Treating-Scalars-as-Vectors.md	none	-	-	-	2026-05-19	no visuals section / placeholder
+11_Problems/Mistake-Patterns/Using-Distance-Instead-of-Displacement.md	none	-	-	-	2026-05-19	no visuals section / placeholder
+11_Problems/Mistake-Patterns/Using-SUVAT-When-Acceleration-Is-Not-Constant.md	none	-	-	-	2026-05-19	no visuals section / placeholder
+11_Problems/Problem-Types/Calculate-Resultant-Force.md	none	-	-	-	2026-05-19	no visuals section / placeholder
+11_Problems/Problem-Types/Capacitor-Discharge-Problem.md	none	-	-	-	2026-05-19	no visuals section / placeholder
+11_Problems/Problem-Types/Circular-Motion-Problem.md	diagram	_attachments/11_Problems/Circular-Motion-Problem--conical-pendulum-setup.svg	CC0	-	2026-05-19	authored SVG
+11_Problems/Problem-Types/Conservation-of-Momentum-Collision.md	none	-	-	-	2026-05-19	no visuals section / placeholder
+11_Problems/Problem-Types/Energy-Conservation-Problem.md	none	-	-	-	2026-05-19	no visuals section / placeholder
+11_Problems/Problem-Types/Find-Internal-Resistance-from-a-Graph.md	diagram	mermaid	CC0	-	2026-05-19	mermaid authored
+11_Problems/Problem-Types/Gravitational-Field-Problem.md	none	-	-	-	2026-05-19	no visuals section / placeholder
+11_Problems/Problem-Types/Interpret-a-Velocity-Time-Graph.md	diagram	mermaid	CC0	-	2026-05-19	mermaid authored
+11_Problems/Problem-Types/Photoelectric-Effect-Calculation.md	none	-	-	-	2026-05-19	no visuals section / placeholder
+11_Problems/Problem-Types/Potential-Divider-Calculation.md	none	-	-	-	2026-05-19	no visuals section / placeholder
+11_Problems/Problem-Types/Projectile-Motion-Problem.md	diagram	_attachments/11_Problems/Projectile-Motion-Problem--projectile-geometry.svg	CC0	-	2026-05-19	authored SVG
+11_Problems/Problem-Types/Radioactive-Decay-Problem.md	none	-	-	-	2026-05-19	no visuals section / placeholder
+11_Problems/Problem-Types/SUVAT-Kinematics-Problem.md	none	-	-	-	2026-05-19	no visuals section / placeholder
+11_Problems/Problem-Types/Series-Parallel-Circuit-Analysis.md	none	-	-	-	2026-05-19	no visuals section / placeholder
+11_Problems/Problem-Types/Simple-Harmonic-Motion-Problem.md	none	-	-	-	2026-05-19	no visuals section / placeholder
+11_Problems/Problem-Types/Standing-Wave-Problem.md	diagram	_attachments/11_Problems/Standing-Wave-Problem--standing-wave-harmonics.svg	CC0	-	2026-05-19	authored SVG
+11_Problems/Worked-Examples/Worked-Binding-Energy-per-Nucleon.md	none	-	-	-	2026-05-19	no visuals section / placeholder
+11_Problems/Worked-Examples/Worked-Capacitor-Discharge-RC.md	none	-	-	-	2026-05-19	no visuals section / placeholder
+11_Problems/Worked-Examples/Worked-Circular-Motion-Conical-Pendulum.md	diagram	_attachments/11_Problems/Worked-Circular-Motion-Conical-Pendulum--conical-pendulum-forces.svg	CC0	-	2026-05-19	authored SVG
+11_Problems/Worked-Examples/Worked-Momentum-Collision.md	none	-	-	-	2026-05-19	no visuals section / placeholder
+11_Problems/Worked-Examples/Worked-Photoelectric-Stopping-Potential.md	none	-	-	-	2026-05-19	no visuals section / placeholder
+11_Problems/Worked-Examples/Worked-Potential-Divider-Thermistor.md	none	-	-	-	2026-05-19	no visuals section / placeholder
+11_Problems/Worked-Examples/Worked-SHM-Mass-Spring.md	none	-	-	-	2026-05-19	no visuals section / placeholder
+11_Problems/Worked-Examples/Worked-SUVAT-Cliff-Projectile.md	diagram	_attachments/11_Problems/Worked-SUVAT-Cliff-Projectile--cliff-projectile-geometry.svg	CC0	-	2026-05-19	authored SVG
+12_Frontier-Maps/Chaos-and-Complexity-Map.md	diagram	mermaid	CC0	-	2026-05-19	mermaid authored
+12_Frontier-Maps/Cosmology-Map.md	photo	_attachments/12_Frontier-Maps/Cosmology-Map--hubble-xdf.jpg	Public Domain	https://images.nasa.gov/details/GSFC_20171208_Archive_e001651	2026-05-19	-
+12_Frontier-Maps/Particle-Physics-Map.md	photo	_attachments/12_Frontier-Maps/Particle-Physics-Map--atlas-detector.jpg	CC BY-SA 4.0	https://commons.wikimedia.org/wiki/File:CERN_LHC_ATLAS_Detector.jpg	2026-05-19	-
+12_Frontier-Maps/Quantum-Computing-Map.md	photo	_attachments/12_Frontier-Maps/Quantum-Computing-Map--ibm-quantum.jpg	CC BY 4.0	https://commons.wikimedia.org/wiki/File:IBM_Quantum_System_One.jpg	2026-05-19	-
+12_Frontier-Maps/Quantum-Mechanics-Map.md	photo	_attachments/12_Frontier-Maps/Quantum-Mechanics-Map--double-slit.jpg	CC BY-SA 4.0	https://commons.wikimedia.org/wiki/File:Double-slit_away_from_slits.jpg	2026-05-19	-
+12_Frontier-Maps/Relativity-Map.md	photo	_attachments/12_Frontier-Maps/Relativity-Map--gravitational-waves.jpg	Public Domain	https://images.nasa.gov/details/GSFC_20171208_Archive_e000415	2026-05-19	-
+12_Frontier-Maps/Semiconductor-Physics-Map.md	photo	_attachments/12_Frontier-Maps/Semiconductor-Physics-Map--silicon-wafer.jpg	CC BY-SA 2.0	https://commons.wikimedia.org/wiki/File:Wafer_20110212.jpg	2026-05-19	-

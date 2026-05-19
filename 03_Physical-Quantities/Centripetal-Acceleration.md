@@ -83,6 +83,14 @@ Plotting the required inward force F against ω² for fixed m and r gives a stra
 
 - [[Confusing-Angular-and-Linear-Quantities]]
 
+## Visuals
+
+### Direction of Centripetal Acceleration
+
+![[_attachments/03_Physical-Quantities/Centripetal-Acceleration--inward-vector.svg]]
+*Figure: The velocity v is always tangential (blue arrow). The centripetal acceleration a = v²/r always points radially inward toward the centre O (red arrow). These two vectors are perpendicular — the object's speed is unchanged but its direction changes continuously.*
+*Source: Authored for this vault (CC0). No external copyright.*
+
 ## Source Trace
 
 - Source: OpenStax College Physics; HyperPhysics; The Physics Classroom — no copied text

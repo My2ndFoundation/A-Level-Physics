@@ -78,6 +78,20 @@ Atomic [[Energy-Levels]], [[Work-Function]] values, [[Photon-Energy]] in spectra
 - Treating the electronvolt as a unit of charge or voltage rather than energy.
 - Forgetting to convert eV to J before substituting into SI equations.
 
+## Visuals
+
+### Electronvolt: energy conversion and scale
+```mermaid
+flowchart LR
+    PD["Potential difference\nV = 1 V"] --> W["Energy transferred\nW = QV = eV\n= 1.60 × 10⁻¹⁹ J"]
+    W --> EV["1 eV = 1.60 × 10⁻¹⁹ J"]
+    EV -- "multiply by 1.60×10⁻¹⁹" --> J["Joules (SI)"]
+    J -- "divide by 1.60×10⁻¹⁹" --> EV
+    EV --> SCALE["Scale:\n~eV — atomic energy levels, work functions\n~MeV — nuclear reactions, particle masses\n~GeV/TeV — collider energies (orientation only)"]
+```
+*Figure: The electronvolt is the energy gained by one electron charge e accelerated through 1 V. Always convert to joules (multiply by 1.60 × 10⁻¹⁹) before substituting into SI equations.*
+*Source: Authored for this vault (CC0). No external copyright.*
+
 ## Source Trace
 
 - Source: OpenStax College Physics; HyperPhysics; IOPSpark

@@ -83,6 +83,21 @@ Radioactive decay underpins radiometric dating, nuclear medicine, radiotherapy, 
 - Treating decay as predictable for a single nucleus.
 - Forgetting to subtract background count rate in experiments.
 
+## Visuals
+
+### Radioactive decay: emission types and nuclear changes
+```mermaid
+flowchart LR
+    N["Unstable nucleus"] --> A["α decay\nemits ⁴He nucleus\nA−4, Z−2"]
+    N --> B["β⁻ decay\nemits e⁻ + antineutrino\nneutron → proton\nA same, Z+1"]
+    N --> G["γ emission\nhigh-energy photon\nA same, Z same\n(excess energy released)"]
+    A --> S1["More stable nucleus"]
+    B --> S2["More stable nucleus"]
+    G --> S3["Lower energy nucleus"]
+```
+*Figure: Three main decay modes. In each, nucleon number A and charge number Z are conserved. α has highest ionising power; γ has greatest penetration.*
+*Source: Authored for this vault (CC0). No external copyright.*
+
 ## Source Trace
 
 - Source: OpenStax College Physics; The Physics Classroom; IOPSpark; Physics LibreTexts — paraphrased, no copied text.

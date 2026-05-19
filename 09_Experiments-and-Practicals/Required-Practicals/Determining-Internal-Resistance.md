@@ -81,6 +81,19 @@ Low risk. Avoid short-circuiting the cell (large currents heat components and dr
 - Forgetting the gradient is `−r`, not `+r`.
 - Using a low-resistance voltmeter that draws significant current.
 
+## Visuals
+
+### V against I Graph for Internal Resistance
+```mermaid
+xychart-beta
+    title "V = ε − Ir  →  V (y) vs I (x)"
+    x-axis "Current I / A" [0, 0.2, 0.4, 0.6, 0.8, 1.0]
+    y-axis "Terminal pd V / V" 0 --> 2.0
+    line [1.8, 1.6, 1.4, 1.2, 1.0, 0.8]
+```
+*Figure: Terminal pd V plotted against current I gives a straight line with negative gradient −r (the internal resistance) and y-intercept ε (the emf). Here ε = 1.8 V and r = (1.8 − 0.8)/1.0 = 1.0 Ω. The line must not be forced through the origin.*
+*Source: Authored for this vault (CC0). No external copyright.*
+
 ## Source Trace
 
 - Source: OCR Practical Skills Handbook; The Physics Classroom; IOPSpark; OpenStax

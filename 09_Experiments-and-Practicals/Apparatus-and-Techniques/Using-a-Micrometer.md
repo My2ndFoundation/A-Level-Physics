@@ -82,6 +82,14 @@ Low risk. Do not over-tighten — it damages both gauge and sample and biases th
 - Taking only one reading on a non-uniform wire.
 - Misreading the half-millimetre mark on the main scale.
 
+## Visuals
+
+### Micrometer screw gauge
+
+![[_attachments/09_Experiments-and-Practicals/Using-a-Micrometer--micrometer-screw-gauge.jpg]]
+*Figure: A micrometer screw gauge — note the anvil and spindle (where the sample sits), the main scale on the sleeve, the rotating thimble scale, and the ratchet knob at the end used to apply a consistent closing force.*
+*Source: Micrometer (screw gauge).jpg — Riaz — CC BY-SA 4.0 — https://commons.wikimedia.org/wiki/File:Micrometer_(screw_gauge).jpg. Retrieved 2026-05-19.*
+
 ## Source Trace
 
 - Source: OCR Practical Skills Handbook; The Physics Classroom; IOPSpark; OpenStax

@@ -6,7 +6,106 @@
   "hideUnresolved": false,
   "showOrphans": true,
   "collapse-color-groups": true,
-  "colorGroups": [],
+  "colorGroups": [
+    {
+      "query": "path:01_MOCs  ",
+      "color": {
+        "a": 1,
+        "rgb": 14048348
+      }
+    },
+    {
+      "query": "path:02_Foundations  ",
+      "color": {
+        "a": 1,
+        "rgb": 14069084
+      }
+    },
+    {
+      "query": "path:03_Physical-Quantities  ",
+      "color": {
+        "a": 1,
+        "rgb": 11392604
+      }
+    },
+    {
+      "query": "path:04_Concepts  ",
+      "color": {
+        "a": 1,
+        "rgb": 6084188
+      }
+    },
+    {
+      "query": "path:05_Laws-and-Results  ",
+      "color": {
+        "a": 1,
+        "rgb": 6084269
+      }
+    },
+    {
+      "query": "path:06_Models  ",
+      "color": {
+        "a": 1,
+        "rgb": 6073814
+      }
+    },
+    {
+      "query": "path:07_Methods  ",
+      "color": {
+        "a": 1,
+        "rgb": 6053078
+      }
+    },
+    {
+      "query": "path:08_Representations  ",
+      "color": {
+        "a": 1,
+        "rgb": 11361494
+      }
+    },
+    {
+      "query": "path:09_Experiments-and-Practicals  ",
+      "color": {
+        "a": 1,
+        "rgb": 14048429
+      }
+    },
+    {
+      "query": "path:10_Applications  ",
+      "color": {
+        "a": 1,
+        "rgb": 14048348
+      }
+    },
+    {
+      "query": "path:11_Problems  ",
+      "color": {
+        "a": 1,
+        "rgb": 14069084
+      }
+    },
+    {
+      "query": "path:12_Frontier-Maps  ",
+      "color": {
+        "a": 1,
+        "rgb": 1114362
+      }
+    },
+    {
+      "query": "path:13_Sources  ",
+      "color": {
+        "a": 1,
+        "rgb": 16759552
+      }
+    },
+    {
+      "query": "path:00_Home  ",
+      "color": {
+        "a": 1,
+        "rgb": 16384050
+      }
+    }
+  ],
   "collapse-display": true,
   "showArrow": false,
   "textFadeMultiplier": 0,
@@ -17,6 +116,6 @@
   "repelStrength": 10,
   "linkStrength": 1,
   "linkDistance": 250,
-  "scale": 1.7641185337870222,
+  "scale": 4.559054609275592,
   "close": false
 }

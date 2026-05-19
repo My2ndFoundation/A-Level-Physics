@@ -70,6 +70,13 @@ Stars are natural laboratories: their light tells us their temperature, composit
 - [[Ignoring-Units]]
 - [[Misreading-Graph-Gradient]]
 
+## Visuals
+
+### High-Resolution Stellar Spectrum (Procyon)
+![[_attachments/10_Applications/Stars-and-Cosmology--stellar-spectrum.jpg]]
+*Figure: High-resolution absorption spectrum of Procyon (F5 IV–V star). Dark absorption lines correspond to wavelengths absorbed by specific elements in the star's atmosphere; their positions reveal composition and, via Doppler shift, recession or approach speed.*
+*Source: High resolution spectrum of Procyon (noao-procyon) — N.A. Sharp / NOIRLab / NSF / AURA — CC BY 4.0 — https://commons.wikimedia.org/wiki/File:High_resolution_spectrum_of_Procyon_(noao-procyon).jpg. Retrieved 2026-05-19.*
+
 ## Source Trace
 
 - Source: OpenStax College Physics; IOPSpark; Isaac Physics; OCR examiner reports (general) — no copied text

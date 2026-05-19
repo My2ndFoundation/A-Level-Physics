@@ -62,6 +62,14 @@ Not applicable to the diagram. The associated relationship is `g = F/m` (force p
 - Treating the near-surface field as radial when the uniform approximation is intended (and vice versa).
 - Letting lines cross.
 
+## Visuals
+
+### Gravitational field lines: radial pattern around a planet
+
+![[_attachments/08_Representations/gravitational-field-line-diagram--planet-radial.svg]]
+*Figure: All lines point inward toward the planet (mass M) — gravity is always attractive with no repulsive counterpart. Eight radial arrows plus additional shorter arrows nearer the surface show that lines are more densely packed close in, consistent with the inverse-square law g = GM/r². Over a small region near the surface the lines are nearly parallel, giving the locally uniform field approximation g ≈ 9.81 N kg⁻¹.*
+*Source: Authored for this vault (CC0). No external copyright.*
+
 ## Source Trace
 
 - Source: OCR Practical Skills Handbook; The Physics Classroom; IOPSpark; OpenStax

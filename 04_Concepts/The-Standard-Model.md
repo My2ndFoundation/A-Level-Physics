@@ -86,6 +86,26 @@ It lets you predict whether a reaction is allowed using conservation of charge, 
 - Confusing baryons (3 quarks) with mesons (quark–antiquark)
 - Forgetting gravity is not part of the Standard Model
 
+## Visuals
+
+### Standard Model: particle classification chart
+```mermaid
+flowchart TD
+    SM["Standard Model\nfundamental particles"] --> MAT["Matter particles\n(fermions)"]
+    SM --> EXC["Exchange particles\n(bosons)"]
+    MAT --> QU["Quarks (6 flavours)\nfeel strong interaction\nu d c s t b"]
+    MAT --> LEP["Leptons (6)\ndo NOT feel strong\ne⁻ μ τ + 3 neutrinos"]
+    QU --> BAR["Baryons\n(3 quarks)\nproton · neutron"]
+    QU --> MES["Mesons\n(quark + antiquark)\nπ kaon …"]
+    BAR --> HAD["Hadrons\n(feel strong)"]
+    MES --> HAD
+    EXC --> PH["Photon γ\n(electromagnetism)"]
+    EXC --> WZ["W⁺ W⁻ Z\n(weak interaction\ne.g. beta decay)"]
+    EXC --> GL["Gluon g\n(strong interaction)"]
+```
+*Figure: Every particle also has a corresponding antiparticle. Gravity is NOT part of the Standard Model. QFT mathematics is out of scope at A-Level.*
+*Source: Authored for this vault (CC0). No external copyright.*
+
 ## Source Trace
 
 - Source: OpenStax College Physics; HyperPhysics; CERN educational material — no copied text

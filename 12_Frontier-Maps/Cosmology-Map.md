@@ -80,6 +80,13 @@ every other dot moving away, with no single centre.
 - [[OCR-Physics-Map]] (Module 5.5 astrophysics and cosmology; Module 5.4 gravitational fields)
 - [[Astrophysics-MOC]]
 
+## Visuals
+
+### Hubble eXtreme Deep Field — thousands of galaxies across cosmic time
+![[_attachments/12_Frontier-Maps/Cosmology-Map--hubble-xdf.jpg]]
+*Figure: Each smudge of light in this image is an entire galaxy; the faintest are among the most distant objects ever observed, showing the universe as it was billions of years ago.*
+*Source: Hubble Goes to the eXtreme to Assemble Farthest-Ever View of the Universe — NASA/ESA Hubble Space Telescope, NASA GSFC — Public Domain — https://images.nasa.gov/details/GSFC_20171208_Archive_e001651. Retrieved 2026-05-19.*
+
 ## Source Trace
 
 - Source: [[NASA-Astrophysics]]

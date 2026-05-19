@@ -68,6 +68,13 @@ For a linear relationship *y = mx + c*, the gradient *m* is exactly the constant
 - [[Linearising-a-Graph]]
 - Graph-analysis questions
 
+## Visuals
+
+### Reading gradient from a best-fit line
+![[_attachments/07_Methods/finding-gradient-from-a-graph--best-fit-triangle.svg]]
+*Figure: Velocity–time graph with best-fit line. Two points on the line (not data points) define the triangle: Δx = 4 s, Δy = 12 m s⁻¹, giving gradient = 3.0 m s⁻² (the acceleration). Use widely separated points for accuracy.*
+*Source: Authored for this vault (CC0). No external copyright.*
+
 ## Source Trace
 
 - Source: OpenStax College Physics; The Physics Classroom; Isaac Physics — paraphrased, no copied text.

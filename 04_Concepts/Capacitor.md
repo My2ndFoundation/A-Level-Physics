@@ -89,6 +89,14 @@ Capacitors smooth rectified voltages, provide timing in [[Capacitor-Timing-Circu
 - Confusing the charge Q on one plate with total charge (net charge is zero).
 - Treating C as variable with voltage (C is fixed by geometry; Q changes, not C).
 
+## Visuals
+
+### Parallel-plate capacitor: charge separation and electric field
+
+![[_attachments/04_Concepts/Capacitor--parallel-plates-field.svg]]
+*Figure: Two conducting plates carry equal and opposite charges (+Q and −Q). Uniform electric field lines run from + to − plate. Capacitance C = εA/d; charge Q = CV with Q proportional to V.*
+*Source: Authored for this vault (CC0). No external copyright.*
+
 ## Source Trace
 
 - Source: OpenStax College Physics; HyperPhysics; Physics LibreTexts — no copied text

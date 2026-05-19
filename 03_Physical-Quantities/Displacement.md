@@ -85,6 +85,14 @@ Measured with rulers, tape measures, motion sensors, or by tracking position fro
 - Forgetting the direction (sign) of displacement
 - Assuming displacement equals path length
 
+## Visuals
+
+### Displacement vs Distance: Vector vs Scalar
+
+![[_attachments/03_Physical-Quantities/Displacement--vector-vs-distance.svg]]
+*Figure: The curved dashed path shows the distance (total path length), which is always ≥ the displacement. The red straight arrow shows displacement — the vector from start to end. On a return trip, displacement can be zero even when distance is large.*
+*Source: Authored for this vault (CC0). No external copyright.*
+
 ## Source Trace
 
 - Source: OpenStax College Physics; The Physics Classroom; HyperPhysics (paraphrased, no copied text)

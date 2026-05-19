@@ -65,6 +65,13 @@ Refraction occurs because the wave changes speed at the boundary; the wavefronts
 
 - Refraction, prism, and optical-fibre problems
 
+## Visuals
+
+### Refraction ray diagram at an interface
+![[_attachments/07_Methods/applying-snell-law--refraction-ray.svg]]
+*Figure: Incident ray in medium 1 (n₁) hits the interface and refracts into medium 2 (n₂ > n₁). All angles (θ₁, θ₂) are measured from the normal. The refracted ray bends toward the normal when entering the denser medium.*
+*Source: Authored for this vault (CC0). No external copyright.*
+
 ## Source Trace
 
 - Source: OpenStax College Physics; The Physics Classroom; Isaac Physics — paraphrased, no copied text.

@@ -1,0 +1,38 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 380 300" width="380" height="300" font-family="sans-serif">
+  <rect width="380" height="300" fill="#f9f9f9" rx="8"/>
+  <text x="190" y="22" text-anchor="middle" font-size="14" font-weight="bold" fill="#333">Superposition of Two Waves</text>
+  <!-- CONSTRUCTIVE section -->
+  <text x="190" y="44" text-anchor="middle" font-size="12" fill="#2266cc" font-weight="bold">Constructive (in phase)</text>
+  <!-- Wave 1 -->
+  <path d="M20,80 C45,55 65,105 90,80 S135,55 160,80" fill="none" stroke="#cc4400" stroke-width="1.5"/>
+  <!-- Wave 2 (same phase) -->
+  <path d="M20,80 C45,55 65,105 90,80 S135,55 160,80" fill="none" stroke="#009922" stroke-width="1.5" stroke-dasharray="5,3"/>
+  <!-- Resultant (double amplitude) -->
+  <path d="M20,80 C45,30 65,130 90,80 S135,30 160,80" fill="none" stroke="#6600cc" stroke-width="2.5"/>
+  <!-- Labels -->
+  <text x="165" y="65" fill="#cc4400" font-size="10">A</text>
+  <text x="165" y="78" fill="#009922" font-size="10">A</text>
+  <text x="165" y="96" fill="#6600cc" font-size="10" font-weight="bold">2A</text>
+  <!-- DESTRUCTIVE section -->
+  <text x="190" y="144" text-anchor="middle" font-size="12" fill="#2266cc" font-weight="bold">Destructive (antiphase)</text>
+  <!-- Wave 1 -->
+  <path d="M20,185 C45,160 65,210 90,185 S135,160 160,185" fill="none" stroke="#cc4400" stroke-width="1.5"/>
+  <!-- Wave 2 (antiphase: inverted) -->
+  <path d="M20,185 C45,210 65,160 90,185 S135,210 160,185" fill="none" stroke="#009922" stroke-width="1.5" stroke-dasharray="5,3"/>
+  <!-- Resultant (zero) -->
+  <line x1="20" y1="185" x2="160" y2="185" stroke="#6600cc" stroke-width="2.5"/>
+  <!-- Labels -->
+  <text x="165" y="170" fill="#cc4400" font-size="10">A</text>
+  <text x="165" y="188" fill="#009922" font-size="10">−A</text>
+  <text x="165" y="202" fill="#6600cc" font-size="10" font-weight="bold">0</text>
+  <!-- Key principle text -->
+  <text x="190" y="248" text-anchor="middle" fill="#555" font-size="11">Resultant displacement = sum of individual displacements</text>
+  <text x="190" y="264" text-anchor="middle" fill="#555" font-size="11">(vector addition at each point)</text>
+  <!-- Legend -->
+  <rect x="40" y="278" width="10" height="8" fill="#cc4400"/>
+  <text x="54" y="287" fill="#333" font-size="11">Wave 1</text>
+  <rect x="130" y="278" width="10" height="8" fill="#009922"/>
+  <text x="144" y="287" fill="#333" font-size="11">Wave 2</text>
+  <rect x="220" y="278" width="10" height="8" fill="#6600cc"/>
+  <text x="234" y="287" fill="#333" font-size="11">Resultant</text>
+</svg>

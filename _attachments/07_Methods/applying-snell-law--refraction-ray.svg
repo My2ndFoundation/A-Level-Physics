@@ -1,0 +1,46 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 280 260" width="280" height="260" font-family="sans-serif" font-size="13">
+  <rect width="280" height="260" fill="#ffffff"/>
+
+  <!-- Two media -->
+  <rect x="0" y="0" width="280" height="130" fill="#dce8ff" opacity="0.5"/>
+  <rect x="0" y="130" width="280" height="130" fill="#c3e6cb" opacity="0.5"/>
+
+  <!-- Media labels -->
+  <text x="10" y="20" fill="#444" font-size="12">Medium 1 (n₁)</text>
+  <text x="10" y="250" fill="#444" font-size="12">Medium 2 (n₂ &gt; n₁)</text>
+
+  <!-- Interface -->
+  <line x1="0" y1="130" x2="280" y2="130" stroke="#888" stroke-width="1.5"/>
+
+  <!-- Normal line (dashed) -->
+  <line x1="140" y1="10" x2="140" y2="250" stroke="#aaa" stroke-width="1" stroke-dasharray="5,4"/>
+  <text x="144" y="22" fill="#aaa" font-size="11">normal</text>
+
+  <!-- Incident ray: from (60, 10) to (140, 130) -->
+  <line x1="60" y1="15" x2="140" y2="130" stroke="#1a73e8" stroke-width="2.5" marker-end="url(#arrowBlueR)"/>
+  <text x="55" y="65" fill="#1a73e8" font-size="12">incident</text>
+
+  <!-- Refracted ray: from (140, 130) to (200, 245) (less steep — bends toward normal) -->
+  <line x1="140" y1="130" x2="200" y2="245" stroke="#2ca02c" stroke-width="2.5" marker-end="url(#arrowGreenR)"/>
+  <text x="195" y="198" fill="#2ca02c" font-size="12">refracted</text>
+
+  <!-- Angle θ₁ arc in medium 1 -->
+  <path d="M 140,130 m -24,0 A 24,24 0 0,0 123,107" fill="none" stroke="#1a73e8" stroke-width="1.2"/>
+  <text x="100" y="120" fill="#1a73e8" font-size="12">θ₁</text>
+
+  <!-- Angle θ₂ arc in medium 2 -->
+  <path d="M 140,130 m 0,30 A 30,30 0 0,0 155,155" fill="none" stroke="#2ca02c" stroke-width="1.2"/>
+  <text x="156" y="165" fill="#2ca02c" font-size="12">θ₂</text>
+
+  <!-- Equation -->
+  <text x="20" y="115" fill="#444" font-size="12">n₁ sinθ₁ = n₂ sinθ₂</text>
+
+  <defs>
+    <marker id="arrowBlueR" markerWidth="8" markerHeight="8" refX="6" refY="3" orient="auto">
+      <path d="M0,0 L0,6 L8,3 z" fill="#1a73e8"/>
+    </marker>
+    <marker id="arrowGreenR" markerWidth="8" markerHeight="8" refX="6" refY="3" orient="auto">
+      <path d="M0,0 L0,6 L8,3 z" fill="#2ca02c"/>
+    </marker>
+  </defs>
+</svg>

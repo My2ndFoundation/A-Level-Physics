@@ -88,6 +88,19 @@ During a **change of state** (melting, boiling) the temperature stays constant w
 
 - [[Confusing-Heat-and-Temperature]]
 
+## Visuals
+
+### Two contributions to internal energy
+```mermaid
+flowchart LR
+    U["Internal Energy U"] --> KE["Random kinetic energy\nof particles\n(depends on Temperature)"]
+    U --> PE["Intermolecular\npotential energy\n(depends on state / separation)"]
+    KE --> T["↑T → ↑KE → ↑U"]
+    PE --> S["Change of state:\nT constant, PE rises\n(latent heat)"]
+```
+*Figure: Internal energy has two parts. During heating of a single phase both rise; during a change of state only PE changes (temperature stays constant — this is the physical meaning of specific latent heat).*
+*Source: Authored for this vault (CC0). No external copyright.*
+
 ## Source Trace
 
 - Source: OpenStax College Physics; HyperPhysics; The Physics Classroom — paraphrased, no copied text

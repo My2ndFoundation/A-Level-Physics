@@ -83,6 +83,24 @@ Annihilation underlies PET (positron emission tomography) medical scanning, and 
 - Forgetting two photons are needed in annihilation (momentum conservation)
 - Using only one rest energy instead of 2mc² for the photon-energy threshold in pair production
 
+## Visuals
+
+### Annihilation and pair-production chain
+
+```mermaid
+flowchart LR
+    A["electron (e⁻)"] -->|meets| B["positron (e⁺)"]
+    B --> C["Annihilation\nE ≥ 2m_e c²"]
+    C --> D["γ photon 1\n(≥ 0.51 MeV)"]
+    C --> E["γ photon 2\n(≥ 0.51 MeV)"]
+    F["high-energy photon\nhf ≥ 2m_e c²"] -->|near nucleus| G["Pair Production"]
+    G --> H["e⁻"]
+    G --> I["e⁺"]
+```
+
+*Figure: Annihilation converts an electron–positron pair into two gamma photons (momentum conservation requires two); pair production is the reverse, requiring a photon of energy at least 2m_e c².*
+*Source: Authored for this vault (CC0). No external copyright.*
+
 ## Source Trace
 
 - Source: OpenStax College Physics; HyperPhysics; CERN educational material — no copied text

@@ -93,6 +93,21 @@ On a graph of V against r for a point charge, the curve is a 1/r hyperbola. The 
 - Forgetting the sign of V for negative charges.
 - Using 1/r² for potential (that is the field/force law; potential goes as 1/r).
 
+## Visuals
+
+### Electric Potential vs Distance for a Point Charge
+
+```mermaid
+xychart-beta
+  title "Electric potential V vs distance r from +Q"
+  x-axis "Distance r / arbitrary units" [1, 2, 3, 4, 5, 6]
+  y-axis "Potential V / arbitrary units" 0 --> 12
+  line [12, 6, 4, 3, 2.4, 2]
+```
+
+*Figure: V ∝ 1/r for a point charge (hyperbola that approaches zero at infinity). Compare with field strength E ∝ 1/r² which falls off faster. The gradient of this V–r curve at any point gives −E (field strength is the negative potential gradient).*
+*Source: Authored for this vault (CC0). No external copyright.*
+
 ## Source Trace
 
 - Source: OpenStax College Physics; HyperPhysics; Physics LibreTexts — no copied text

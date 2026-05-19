@@ -75,6 +75,29 @@ Isotopes enable radioactive dating (e.g. ¹⁴C in [[Carbon-Dating]]), medical t
 - Assuming all isotopes of an element are radioactive
 - Confusing isotope (same Z) with ion (different electron count)
 
+## Visuals
+
+### Hydrogen isotopes: same proton number, different neutron number
+```mermaid
+flowchart LR
+    subgraph H1["¹H  Protium"]
+        direction TB
+        p1["1 proton\n0 neutrons"]
+    end
+    subgraph H2["²H  Deuterium"]
+        direction TB
+        p2["1 proton\n1 neutron"]
+    end
+    subgraph H3["³H  Tritium (radioactive)"]
+        direction TB
+        p3["1 proton\n2 neutrons"]
+    end
+    H1 --- H2 --- H3
+    note["All three: Z = 1, identical chemistry\nOnly A (mass number) differs"]
+```
+*Figure: The three hydrogen isotopes share one proton (same element, same chemistry) but carry 0, 1, or 2 neutrons. Tritium is unstable (radioactive) because its neutron-to-proton ratio is too high.*
+*Source: Authored for this vault (CC0). No external copyright.*
+
 ## Source Trace
 
 - Source: OpenStax College Physics; HyperPhysics; CERN educational material — no copied text

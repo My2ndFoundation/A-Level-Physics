@@ -65,6 +65,21 @@ The shape encodes the material's mechanical behaviour. The straight portion show
 - Confusing the limit of proportionality with the elastic limit (they are close but distinct).
 - Forgetting that the area gives energy only while loading is reversible.
 
+## Visuals
+
+### Force-extension graph: Hookean region then plastic deformation
+
+```mermaid
+xychart-beta
+    title "F-x graph: elastic then plastic region"
+    x-axis "extension x (m)" [0, 0.1, 0.2, 0.3, 0.4, 0.5, 0.6]
+    y-axis "force F (N)" 0 --> 60
+    line [0, 10, 20, 30, 35, 38, 38]
+```
+
+*Figure: The straight section from the origin (x = 0 to 0.3 m) obeys [[Hookes-Law]]; its gradient is the spring constant k = F/x. Beyond the limit of proportionality the line curves and then flattens — the sample yields and extends with little extra force. The triangular area under the straight section equals the elastic strain energy stored (½Fx = ½kx²).*
+*Source: Authored for this vault (CC0). No external copyright.*
+
 ## Source Trace
 
 - Source: OCR Practical Skills Handbook; The Physics Classroom; IOPSpark; OpenStax

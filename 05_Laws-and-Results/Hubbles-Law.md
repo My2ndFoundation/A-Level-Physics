@@ -87,6 +87,20 @@ straight line through the origin whose gradient is H₀.
 - Inconsistent units for H₀ (km s⁻¹ Mpc⁻¹ vs s⁻¹) when finding age
 - Treating 1/H₀ as the exact, not approximate, age
 
+## Visuals
+
+### Recession speed vs distance (Hubble plot)
+
+```mermaid
+xychart-beta
+    title "Hubble's Law: v = H₀ d"
+    x-axis "Distance d (Mpc)" [0, 100, 200, 300, 400, 500]
+    y-axis "Recession speed v (km/s)" 0 --> 35000
+    line [0, 7000, 14000, 21000, 28000, 35000]
+```
+*Figure: Recession speed increases linearly with distance. The gradient of the best-fit line equals the Hubble constant H₀.*
+*Source: Authored for this vault (CC0). No external copyright.*
+
 ## Source Trace
 
 - Source: OpenStax College Physics; HyperPhysics; NASA educational material — no copied text

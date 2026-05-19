@@ -85,6 +85,14 @@ once turning effects and [[Moment]] enter the analysis.
 - Forgetting that moment depends on the perpendicular distance, not the raw
   distance to the force.
 
+## Visuals
+
+### Rigid Body: Moment Diagram
+
+![[_attachments/06_Models/Rigid-Body-Model--moment.svg]]
+*Figure: A beam balanced on a pivot; moment M = F × d where d is the perpendicular distance from the pivot to the line of action; equilibrium requires clockwise moments = anticlockwise moments.*
+*Source: Authored for this vault (CC0). No external copyright.*
+
 ## Source Trace
 
 OpenStax College Physics; HyperPhysics; The Physics Classroom — no copied text.

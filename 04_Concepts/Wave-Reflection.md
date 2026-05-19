@@ -80,6 +80,13 @@ Reflection explains mirrors, echoes, ultrasound and radar, and is the boundary c
 - Thinking reflection changes the wave's frequency or speed.
 - Ignoring the phase inversion at a fixed/dense boundary.
 
+## Visuals
+
+### Law of reflection: incident and reflected ray diagram
+![[_attachments/04_Concepts/Wave-Reflection--law-of-reflection.svg]]
+*Figure: Both angles θᵢ (incidence) and θᵣ (reflection) are measured from the normal to the boundary surface. The law of reflection states θᵢ = θᵣ. Speed, wavelength and frequency are unchanged; only direction reverses.*
+*Source: Authored for this vault (CC0). No external copyright.*
+
 ## Source Trace
 
 - Source: OpenStax College Physics; The Physics Classroom; IOPSpark; Physics LibreTexts — paraphrased, no copied text.

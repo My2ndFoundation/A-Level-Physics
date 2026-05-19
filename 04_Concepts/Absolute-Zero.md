@@ -77,6 +77,21 @@ Defining 0 K at absolute zero makes the [[Ideal-Gas-Equation]] $pV = nRT$ linear
 - [[Confusing-Heat-and-Temperature]]
 - Stating absolute zero as exactly −273 °C rather than −273.15 °C
 
+## Visuals
+
+### Pressure–temperature extrapolation to absolute zero
+
+```mermaid
+xychart-beta
+  title "Gas pressure vs temperature (constant volume)"
+  x-axis "Temperature (°C)" [-300, -273, -200, -100, 0, 100]
+  y-axis "Pressure p (relative)" 0 --> 5
+  line [0, 0.02, 0.9, 2.0, 3.1, 4.2]
+```
+
+*Figure: Pressure of a fixed gas mass at constant volume plotted against Celsius temperature. The straight line, when extrapolated, reaches zero pressure at −273 °C — this intercept defines absolute zero (0 K).*
+*Source: Authored for this vault (CC0). No external copyright.*
+
 ## Source Trace
 
 - Source: OpenStax College Physics; HyperPhysics; The Physics Classroom — paraphrased, no copied text

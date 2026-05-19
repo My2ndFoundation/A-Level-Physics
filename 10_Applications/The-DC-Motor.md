@@ -70,6 +70,13 @@ A direct-current motor converts electrical energy into rotational mechanical ene
 - Ignoring back-e.m.f. when explaining why current falls as speed rises.
 - Using Fleming's right-hand rule (that is for generators) instead of the left-hand rule.
 
+## Visuals
+
+### Basic Principle of a DC Electric Motor
+![[_attachments/10_Applications/The-DC-Motor--motor-diagram.png]]
+*Figure: Schematic of a simple DC motor showing a rectangular coil between magnetic poles. The forces on the two sides carrying current in opposite directions produce a couple (torque), turning the coil. The split-ring commutator (not shown) reverses the current each half-turn to maintain continuous rotation.*
+*Source: Basic principle of an Electric motor — K.Venkataramana — CC BY-SA 4.0 — https://commons.wikimedia.org/wiki/File:Basic_principle_of_an_Electric_motor.png. Retrieved 2026-05-19.*
+
 ## Source Trace
 
 OpenStax College Physics; HyperPhysics; Physics LibreTexts — no copied text.

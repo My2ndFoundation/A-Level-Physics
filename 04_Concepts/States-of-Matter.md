@@ -79,6 +79,18 @@ During a **change of state**, energy is supplied but [[Temperature]] does not ch
 
 - [[Confusing-Heat-and-Temperature]]
 
+## Visuals
+
+### States of matter: particle arrangement and energy transitions
+```mermaid
+flowchart LR
+    S["Solid\nFixed lattice\nStrong bonds\nVibration only"] -- "melt (add energy,\nT stays flat)" --> L["Liquid\nClose, mobile\nWeaker bonds\nFlow"] -- "boil (add energy,\nT stays flat)" --> G["Gas\nFar apart\nNegligible forces\nRandom fast motion"]
+    G -- "condense\n(remove energy)" --> L
+    L -- "freeze\n(remove energy)" --> S
+```
+*Figure: Moving right (solid → gas) adds potential energy (breaking bonds) — T does not rise during a change of state. Kinetic energy (and hence T) rises only within a single state.*
+*Source: Authored for this vault (CC0). No external copyright.*
+
 ## Source Trace
 
 - Source: OpenStax College Physics; HyperPhysics; The Physics Classroom — paraphrased, no copied text

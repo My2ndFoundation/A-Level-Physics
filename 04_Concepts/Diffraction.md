@@ -83,6 +83,22 @@ Diffraction limits the resolution of telescopes and microscopes, enables spectro
 - Expecting strong diffraction when the gap is far larger than the wavelength.
 - Confusing single-slit and grating patterns (fringe sharpness and spacing differ).
 
+## Visuals
+
+### Diffraction: effect of gap width relative to wavelength
+
+```mermaid
+flowchart LR
+    A["Incoming wavefront\n(wavelength λ)"] --> B{"Gap width vs λ"}
+    B -->|"gap >> λ"| C["Little spreading\n(straight rays, shadows)"]
+    B -->|"gap ≈ λ"| D["Strong spreading\n(wide diffraction pattern)"]
+    B -->|"gap << λ"| E["Very strong spreading\n(acts like a point source)"]
+    D --> F["Central bright fringe\n(double width)\nflanked by dimmer fringes"]
+```
+
+*Figure: The degree of spreading depends on λ/gap. Maximum diffraction when gap ≈ λ. Single-slit: central fringe is twice as wide as secondary fringes.*
+*Source: Authored for this vault (CC0). No external copyright.*
+
 ## Source Trace
 
 - Source: OpenStax College Physics; The Physics Classroom; IOPSpark; Physics LibreTexts — paraphrased, no copied text.

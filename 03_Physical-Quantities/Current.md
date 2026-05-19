@@ -84,6 +84,22 @@ On an [[IV-Characteristic]], current is plotted against p.d.; the gradient gives
 - Confusing conventional current direction with electron flow
 - Thinking current "gets used up" around a circuit
 
+## Visuals
+
+### How Current Relates to Charge Flow
+
+```mermaid
+flowchart LR
+  A["Charge Q\n(coulombs)"] -->|"÷ time t"| B["Current I = ΔQ/Δt\n(amperes)"]
+  B -->|"× time t"| A
+  B -->|"V = IR"| C["Potential Difference V\n(volts)"]
+  C -->|"I = V/R"| B
+  B -->|"I = nAvq"| D["Drift model:\nn, A, v, q"]
+```
+
+*Figure: Current I is the rate of charge flow. It links upward to charge (Q = It) and laterally to p.d. via Ohm's law. The drift model I = nAvq shows how carrier density, cross-section, drift speed and charge determine macroscopic current.*
+*Source: Authored for this vault (CC0). No external copyright.*
+
 ## Source Trace
 
 - Source: OpenStax College Physics; The Physics Classroom; HyperPhysics (paraphrased, no copied text)

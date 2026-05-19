@@ -65,6 +65,14 @@ Horizontal and vertical motions are independent and share only the time. The ver
 - Applying gravity to the horizontal motion.
 - Reporting the vertical component as the final speed instead of combining components.
 
+## Visuals
+
+### Cliff projectile: horizontal launch geometry
+
+![[_attachments/11_Problems/Worked-SUVAT-Cliff-Projectile--cliff-projectile-geometry.svg]]
+*Figure: Stone thrown horizontally (u_x = 14 m s⁻¹, u_y = 0) from height h = 32 m. Vertical fall sets the time of flight; horizontal range follows from x = u_x · t. Parabolic path results from combining constant horizontal velocity and downward gravitational acceleration.*
+*Source: Authored for this vault (CC0). No external copyright.*
+
 ## Related Problem Types
 
 - [[Projectile-Motion-Problem]]

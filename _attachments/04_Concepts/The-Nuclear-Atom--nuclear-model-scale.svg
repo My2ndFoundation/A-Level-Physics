@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 360 280" width="360" height="280" font-family="sans-serif">
+  <rect width="360" height="280" fill="#f9f9f9" rx="8"/>
+  <text x="180" y="24" text-anchor="middle" font-size="14" font-weight="bold" fill="#333">The Nuclear Atom (not to scale)</text>
+  <!-- Atom boundary circle -->
+  <circle cx="180" cy="148" r="110" fill="none" stroke="#aaa" stroke-width="1.5" stroke-dasharray="6,4"/>
+  <text x="295" y="76" fill="#888" font-size="11">atom ~10⁻¹⁰ m</text>
+  <!-- Electron cloud indication (light shading) -->
+  <circle cx="180" cy="148" r="110" fill="#e8f0ff" fill-opacity="0.4"/>
+  <!-- Nucleus (tiny) -->
+  <circle cx="180" cy="148" r="6" fill="#cc2200"/>
+  <text x="180" y="168" text-anchor="middle" fill="#cc2200" font-size="11">nucleus ~10⁻¹⁵ m</text>
+  <!-- Electron dots -->
+  <circle cx="290" cy="148" r="4" fill="#2266cc"/>
+  <text x="290" y="138" text-anchor="middle" fill="#2266cc" font-size="11">e⁻</text>
+  <circle cx="110" cy="90" r="4" fill="#2266cc"/>
+  <text x="96" y="84" fill="#2266cc" font-size="11">e⁻</text>
+  <circle cx="220" cy="60" r="4" fill="#2266cc"/>
+  <text x="232" y="57" fill="#2266cc" font-size="11">e⁻</text>
+  <!-- Annotation: mostly empty space -->
+  <text x="180" y="238" text-anchor="middle" fill="#555" font-size="11">Most of the atom is empty space.</text>
+  <text x="180" y="254" text-anchor="middle" fill="#555" font-size="11">Nucleus contains all +charge and almost all mass.</text>
+  <!-- Size ratio note -->
+  <text x="180" y="272" text-anchor="middle" fill="#888" font-size="10">Actual diameter ratio nucleus : atom ≈ 1 : 10 000 to 100 000</text>
+</svg>

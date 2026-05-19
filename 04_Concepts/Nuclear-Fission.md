@@ -82,6 +82,23 @@ Fission provides nuclear electricity, raises questions of waste and safety, and 
 - Forgetting energy comes from increased binding energy, not "destroying" matter arbitrarily.
 - Thinking any neutron speed works equally well to induce fission.
 
+## Visuals
+
+### Nuclear fission chain reaction
+```mermaid
+flowchart LR
+    N0["Slow neutron"] --> U235["²³⁵U absorbs\nneutron"]
+    U235 --> Split["Nucleus splits into\n2 daughter nuclei\n+ 2–3 fast neutrons\n+ energy (KE + γ)"]
+    Split --> N1["Neutron 1"]
+    Split --> N2["Neutron 2"]
+    Split --> N3["Neutron 3 (absorbed\nby control rod)"]
+    N1 --> U235b["²³⁵U → splits again"]
+    N2 --> U235c["²³⁵U → splits again"]
+    note["One neutron per fission\ncauses the next →\ncritical (controlled) chain"]
+```
+*Figure: Each fission releases 2–3 neutrons. In a controlled reactor, on average one neutron from each fission triggers the next, maintaining a critical chain reaction. Control rods absorb surplus neutrons.*
+*Source: Authored for this vault (CC0). No external copyright.*
+
 ## Source Trace
 
 - Source: OpenStax College Physics; The Physics Classroom; IOPSpark; Physics LibreTexts — paraphrased, no copied text.

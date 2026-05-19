@@ -79,6 +79,20 @@ Temperature is the single quantity that decides which way thermal energy flows. 
 
 - [[Confusing-Heat-and-Temperature]]
 
+## Visuals
+
+### Kelvin ↔ Celsius and thermal energy flow
+```mermaid
+flowchart LR
+    CEL["Celsius θ (°C)"] -- "T = θ + 273.15" --> KEL["Kelvin T (K)\nabsolute scale\nstarts at 0 K = absolute zero"]
+    KEL -- "θ = T − 273.15" --> CEL
+    HOT["Hot object\nhigh T"] -- "net energy transfer" --> COLD["Cold object\nlow T"]
+    COLD -- "no transfer when T equal" --> EQ["Thermal equilibrium\n(same T)"]
+    HOT --> EQ
+```
+*Figure: The Kelvin scale is the SI thermodynamic temperature. A change of 1 K equals a change of 1 °C. Energy flows from higher T to lower T until equilibrium.*
+*Source: Authored for this vault (CC0). No external copyright.*
+
 ## Source Trace
 
 - Source: OpenStax College Physics; HyperPhysics; The Physics Classroom — paraphrased, no copied text

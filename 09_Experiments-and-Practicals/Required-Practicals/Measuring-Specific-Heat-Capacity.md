@@ -83,6 +83,19 @@ Hot apparatus and heater — allow cooling before handling; do not exceed the he
 - Using mass in grams
 - Ignoring heat losses (no lagging)
 
+## Visuals
+
+### Temperature against Energy Supplied Graph
+```mermaid
+xychart-beta
+    title "θ vs E = VIt  →  gradient = 1/(mc)"
+    x-axis "Energy supplied E / J" [0, 500, 1000, 1500, 2000, 2500]
+    y-axis "Temperature θ / °C" 15 --> 40
+    line [18, 21, 24, 27, 30, 33]
+```
+*Figure: Temperature θ rises linearly with energy supplied E = VIt for a well-insulated block. The gradient equals 1/(mc), so the specific heat capacity c = 1/(m × gradient). The slight curve at the start reflects warm-up of the heater; using the gradient of the best-fit line averages this out.*
+*Source: Authored for this vault (CC0). No external copyright.*
+
 ## Source Trace
 
 - Source: OpenStax College Physics; HyperPhysics; The Physics Classroom — paraphrased, no copied text

@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 200" width="400" height="200" font-family="sans-serif" font-size="13">
+  <!-- Left charge: positive -->
+  <circle cx="110" cy="100" r="28" fill="#e8d0f0" stroke="#7700aa" stroke-width="2"/>
+  <text x="96" y="106" fill="#7700aa" font-size="18" font-weight="bold">+Q₁</text>
+  <!-- Right charge: positive (repulsion) -->
+  <circle cx="290" cy="100" r="28" fill="#e8d0f0" stroke="#7700aa" stroke-width="2"/>
+  <text x="276" y="106" fill="#7700aa" font-size="18" font-weight="bold">+Q₂</text>
+  <!-- Repulsion arrows -->
+  <line x1="82" y1="100" x2="30" y2="100" stroke="#cc2222" stroke-width="2.5" marker-end="url(#arrowRep)"/>
+  <line x1="138" y1="100" x2="162" y2="100" stroke="#cc4444" stroke-width="1.5" stroke-dasharray="3,3"/>
+  <line x1="238" y1="100" x2="214" y2="100" stroke="#cc4444" stroke-width="1.5" stroke-dasharray="3,3"/>
+  <line x1="318" y1="100" x2="370" y2="100" stroke="#cc2222" stroke-width="2.5" marker-end="url(#arrowRep2)"/>
+  <!-- Distance label -->
+  <line x1="110" y1="140" x2="290" y2="140" stroke="#555" stroke-width="1" stroke-dasharray="4,3"/>
+  <text x="185" y="155" fill="#555" text-anchor="middle">r</text>
+  <line x1="110" y1="135" x2="110" y2="145" stroke="#555" stroke-width="1"/>
+  <line x1="290" y1="135" x2="290" y2="145" stroke="#555" stroke-width="1"/>
+  <!-- Force labels -->
+  <text x="18" y="92" fill="#cc2222" font-size="11">F away</text>
+  <text x="335" y="92" fill="#cc2222" font-size="11">F away</text>
+  <!-- Equation -->
+  <text x="90" y="190" fill="#333" font-size="13" font-weight="bold">F = Q₁Q₂ / (4πε₀r²)</text>
+  <!-- Arrow markers -->
+  <defs>
+    <marker id="arrowRep" markerWidth="8" markerHeight="8" refX="6" refY="3" orient="auto">
+      <path d="M0,0 L0,6 L8,3 z" fill="#cc2222"/>
+    </marker>
+    <marker id="arrowRep2" markerWidth="8" markerHeight="8" refX="6" refY="3" orient="auto">
+      <path d="M0,0 L0,6 L8,3 z" fill="#cc2222"/>
+    </marker>
+  </defs>
+</svg>

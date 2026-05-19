@@ -87,6 +87,20 @@ For a uniform wire, `F = kx` follows from the material relation `stress = Young 
 - Confusing extension `x` with total length
 - Forgetting the ½ in elastic energy `½kx²`
 
+## Visuals
+
+### Force–extension graph
+
+```mermaid
+xychart-beta
+    title "Force vs Extension (Hooke's Law region)"
+    x-axis "Extension x (m)" [0, 0.1, 0.2, 0.3, 0.4, 0.5]
+    y-axis "Force F (N)" 0 --> 50
+    line [0, 10, 20, 30, 40, 50]
+```
+*Figure: Linear region of a force–extension graph. The gradient equals the spring constant k. Beyond the limit of proportionality the line curves.*
+*Source: Authored for this vault (CC0). No external copyright.*
+
 ## Source Trace
 
 - Source: OpenStax College Physics; HyperPhysics; Physics LibreTexts — paraphrased, no copied text

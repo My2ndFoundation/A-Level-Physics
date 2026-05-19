@@ -75,6 +75,22 @@ This extends the GCSE particle model of gases (tiny particles bouncing around, p
 - Forgetting collisions must be perfectly elastic in the model.
 - Applying it to gases near liquefaction.
 
+## Visuals
+
+### Ideal Gas Model: Concept Map
+
+```mermaid
+graph LR
+    A["Random molecular motion"] -->|"collisions with walls"| B["Pressure p"]
+    A -->|"mean KE per molecule"| C["Temperature T  (kelvin)"]
+    B & C & D["Volume V"] -->|"pV = nRT"| E["Equation of state"]
+    C -->|"½m⟨c²⟩ = 3/2 kT"| F["Mean KE of molecule"]
+    E --> G["Gas-law calculations"]
+```
+
+*Figure: How molecular motion links to macroscopic quantities p, V, T through the ideal gas model and kinetic theory.*
+*Source: Authored for this vault (CC0). No external copyright.*
+
 ## Source Trace
 
 - Source: OpenStax College Physics; The Physics Classroom; Isaac Physics — paraphrased, no copied text.

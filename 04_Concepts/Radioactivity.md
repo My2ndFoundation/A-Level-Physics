@@ -87,6 +87,21 @@ Radioactivity underlies radiometric dating, medical imaging and radiotherapy, nu
 - Treating decay as predictable for a single nucleus (only the bulk is predictable).
 - Forgetting to subtract background radiation from a measured count rate.
 
+## Visuals
+
+### Alpha, beta, gamma: ionising power vs penetration
+```mermaid
+flowchart LR
+    SRC["Radioactive source"] --> A["α particle\nHe-4 nucleus\n+2e charge"]
+    SRC --> B["β⁻ particle\nFast electron\n−e charge"]
+    SRC --> G["γ photon\nHigh-energy EM\nno charge"]
+    A --> PA["Stopped by paper / skin\nHighly ionising"]
+    B --> PB["Stopped by few mm Al\nModerately ionising"]
+    G --> PG["Reduced by thick Pb/concrete\nWeakly ionising"]
+```
+*Figure: Three emission types compared by charge, ionising power, and penetrating ability. Ionising power and penetration are inversely related across α, β, γ.*
+*Source: Authored for this vault (CC0). No external copyright.*
+
 ## Source Trace
 
 - Source: OpenStax College Physics; The Physics Classroom; IOPSpark; Physics LibreTexts — paraphrased, no copied text.

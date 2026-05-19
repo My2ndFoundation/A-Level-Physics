@@ -65,6 +65,13 @@ Imaging metabolic activity inside the body by detecting the pair of gamma photon
 - Forgetting that PET shows function/metabolism, not just anatomy.
 - Mis-stating annihilation photon energy (it is 0.511 MeV each, from $m_e c^2$).
 
+## Visuals
+
+### PET Scanner in Use
+![[_attachments/10_Applications/PET-Scanning--pet-scan.jpg]]
+*Figure: A patient positioned in a ring-shaped PET scanner. The detector ring registers pairs of 0.511 MeV gamma photons arriving simultaneously from positron annihilation events, enabling reconstruction of tracer uptake.*
+*Source: PET scan — liz west — CC BY 2.0 — https://commons.wikimedia.org/wiki/File:PET_scan.jpg. Retrieved 2026-05-19.*
+
 ## Source Trace
 
 - Source: OpenStax College Physics; HyperPhysics; IOPSpark

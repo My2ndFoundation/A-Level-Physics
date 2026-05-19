@@ -85,6 +85,13 @@ Secure clamp stand with a counterweight so falling masses cannot topple it; keep
 
 - [[Confusing-Angular-and-Linear-Quantities]]
 
+## Visuals
+
+### Simple Pendulum Diagram
+![[_attachments/09_Experiments-and-Practicals/Investigating-Simple-Harmonic-Motion--pendulum-height-diagram.svg]]
+*Figure: A simple pendulum of length L displaced by angle θ from the vertical, showing the equilibrium position and the height gained h = L(1 − cos θ). The restoring force acts toward the equilibrium; for small angles (< ~10°) the motion is simple harmonic.*
+*Source: Simple pendulum height — Krishnavedala — CC0 — https://commons.wikimedia.org/wiki/File:Simple_pendulum_height.svg. Retrieved 2026-05-19.*
+
 ## Source Trace
 
 - Source: OCR practical skills handbook approach; The Physics Classroom; HyperPhysics — no copied text

@@ -88,6 +88,20 @@ is required.
 - Forgetting the surface area depends on r²
 - Confusing total power (Stefan) with peak wavelength ([[Wiens-Displacement-Law]])
 
+## Visuals
+
+### Luminosity vs temperature (T⁴ dependence)
+
+```mermaid
+xychart-beta
+    title "Stefan's Law: L ∝ T⁴ (fixed area)"
+    x-axis "T (kK)" [3, 4, 5, 6, 7, 8]
+    y-axis "L / L₀" 0 --> 20
+    line [1, 3.16, 7.72, 16, 0, 0]
+```
+*Figure: Luminosity rises steeply with temperature due to the T⁴ factor. A star twice as hot emits 16 times more power per unit area.*
+*Source: Authored for this vault (CC0). No external copyright.*
+
 ## Source Trace
 
 - Source: OpenStax College Physics; HyperPhysics; NASA educational material — no copied text

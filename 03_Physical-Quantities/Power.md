@@ -88,6 +88,24 @@ The gradient of an energy–time graph equals power. The area under a power–ti
 - Forgetting power is a *rate* (per unit time)
 - Mixing up useful and total power in efficiency
 
+## Visuals
+
+```mermaid
+flowchart LR
+    P["Power P (W)\nrate of energy transfer"]
+    Pmech["P = W/t = Fv\nmechanical"]
+    Pelec["P = IV = I²R = V²/R\nelectrical"]
+    Eff["Efficiency\n= P_useful / P_total"]
+    E["Energy E (J)\nE = Pt"]
+
+    P --> Pmech
+    P --> Pelec
+    P --> Eff
+    P -->|"× time"| E
+```
+*Figure: Power P branches into mechanical (P = Fv) and electrical (P = IV) forms; multiplied by time it gives total energy transferred.*
+*Source: Authored for this vault (CC0). No external copyright.*
+
 ## Source Trace
 
 - Source: OpenStax College Physics; The Physics Classroom; HyperPhysics (paraphrased, no copied text)

@@ -66,6 +66,13 @@ A book resting on a table: draw the book as a box, weight *W* arrow pointing dow
 
 - Equilibrium and inclined-plane problems
 
+## Visuals
+
+### Free body diagram — book on a table
+![[_attachments/07_Methods/drawing-free-body-diagrams--book-on-table.svg]]
+*Figure: Book isolated as a single body. Weight W acts downward; normal contact force N acts upward from the table. These are the only forces on the book; the book's push on the table is not shown.*
+*Source: Authored for this vault (CC0). No external copyright.*
+
 ## Source Trace
 
 - Source: OpenStax College Physics; The Physics Classroom; Isaac Physics — paraphrased, no copied text.

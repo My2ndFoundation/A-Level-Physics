@@ -73,6 +73,19 @@ Resonance is exploited (musical instruments, MRI, radio tuning, microwave heatin
 
 - [[Confusing-Angular-and-Linear-Quantities]]
 
+## Visuals
+
+### Resonance: amplitude response vs driving frequency
+```mermaid
+xychart-beta
+    title "Amplitude vs Driving Frequency (schematic)"
+    x-axis "Driving frequency f" [0.4f0, 0.6f0, 0.8f0, f0, 1.2f0, 1.4f0, 1.6f0]
+    y-axis "Amplitude A" 0 --> 10
+    line [0.5, 1.0, 2.5, 9.5, 2.5, 1.0, 0.5]
+```
+*Figure: Schematic resonance curve — amplitude peaks sharply when driving frequency equals the natural frequency f₀. Heavier damping lowers and broadens the peak.*
+*Source: Authored for this vault (CC0). No external copyright.*
+
 ## Source Trace
 
 - Source: OpenStax College Physics; HyperPhysics; The Physics Classroom — no copied text

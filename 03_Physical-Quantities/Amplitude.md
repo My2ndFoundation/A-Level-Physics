@@ -82,6 +82,14 @@ On a displacement–time (or displacement–position) graph, the amplitude is th
 - Confusing amplitude with wavelength
 - Assuming amplitude affects frequency or period (it does not, for SHM)
 
+## Visuals
+
+### Amplitude on a Displacement–Time Graph
+
+![[_attachments/03_Physical-Quantities/Amplitude--wave-amplitude.svg]]
+*Figure: The amplitude A is the distance from the equilibrium line (x = 0) to a peak. The full peak-to-trough height is 2A, not A — a common error. The period T is the time for one complete cycle.*
+*Source: Authored for this vault (CC0). No external copyright.*
+
 ## Source Trace
 
 - Source: OpenStax College Physics; The Physics Classroom; HyperPhysics (paraphrased, no copied text)

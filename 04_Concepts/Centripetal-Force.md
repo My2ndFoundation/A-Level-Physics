@@ -76,6 +76,14 @@ Identifying *which* real force provides the centripetal requirement is the key s
 
 - [[Confusing-Angular-and-Linear-Quantities]]
 
+## Visuals
+
+### Centripetal force direction on a circular path
+
+![[_attachments/04_Concepts/Centripetal-Force--circular-path.svg]]
+*Figure: An object moving in a circle has velocity v tangent to the path. The centripetal force F = mv²/r (and centripetal acceleration) always points radially inward toward the centre. The force is perpendicular to v, so it does no work and speed is unchanged.*
+*Source: Authored for this vault (CC0). No external copyright.*
+
 ## Source Trace
 
 - Source: OpenStax College Physics; HyperPhysics; The Physics Classroom — no copied text

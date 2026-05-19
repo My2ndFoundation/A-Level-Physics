@@ -67,6 +67,13 @@ In a series circuit the same current flows through both resistors, so by [[Ohms-
 - [[Potential-Divider]]
 - Sensor circuit design
 
+## Visuals
+
+### Potential divider circuit
+![[_attachments/07_Methods/using-potential-dividers--circuit.svg]]
+*Figure: R₁ (red) and R₂ (green) in series across V_in. Output V_out is taken across R₂. The supply voltage divides in the resistance ratio: V_out = V_in × R₂/(R₁+R₂).*
+*Source: Authored for this vault (CC0). No external copyright.*
+
 ## Source Trace
 
 - Source: OpenStax College Physics; The Physics Classroom; Isaac Physics — paraphrased, no copied text.

@@ -1,0 +1,71 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 380 230" width="380" height="230" font-family="sans-serif" font-size="13">
+  <!-- Background -->
+  <rect width="380" height="230" fill="#fafafa" rx="8"/>
+
+  <!-- Title -->
+  <text x="190" y="20" text-anchor="middle" font-size="14" font-weight="bold" fill="#222">Projectile Motion: Parabolic Trajectory</text>
+
+  <!-- Ground line -->
+  <line x1="30" y1="185" x2="360" y2="185" stroke="#888" stroke-width="1.5"/>
+
+  <!-- Axes -->
+  <line x1="30" y1="30" x2="30" y2="190" stroke="#555" stroke-width="1.5" marker-end="url(#axArrow)"/>
+  <line x1="25" y1="185" x2="365" y2="185" stroke="#555" stroke-width="1.5" marker-end="url(#axArrow)"/>
+  <text x="18" y="35" font-size="11" fill="#555">y</text>
+  <text x="368" y="189" font-size="11" fill="#555">x</text>
+
+  <!-- Parabolic path (quadratic arc from x=30 to x=330, peak at x=180) -->
+  <path d="M 30,185 Q 180,40 330,185" fill="none" stroke="#4a90d9" stroke-width="2.5" stroke-dasharray="6,3"/>
+
+  <!-- Launch point dot -->
+  <circle cx="30" cy="185" r="4" fill="#2060a0"/>
+
+  <!-- Launch velocity vector -->
+  <line x1="30" y1="185" x2="76" y2="148" stroke="#e04040" stroke-width="2" marker-end="url(#arrowRed)"/>
+  <text x="42" y="145" fill="#e04040" font-size="11">u</text>
+
+  <!-- Angle arc and label -->
+  <path d="M 50,185 A 22,22 0 0 0 65,168" fill="none" stroke="#555" stroke-width="1.2"/>
+  <text x="56" y="178" fill="#555" font-size="11">θ</text>
+
+  <!-- Horizontal component at launch -->
+  <line x1="30" y1="185" x2="70" y2="185" stroke="#e08020" stroke-width="1.8" marker-end="url(#arrowOrange)"/>
+  <text x="45" y="198" fill="#e08020" font-size="11">u cosθ</text>
+
+  <!-- Vertical component at launch -->
+  <line x1="30" y1="185" x2="30" y2="148" stroke="#2aa844" stroke-width="1.8" marker-end="url(#arrowGreen)"/>
+  <text x="1" y="162" fill="#2aa844" font-size="11" text-anchor="middle">u sinθ</text>
+
+  <!-- At peak: only horizontal velocity arrow -->
+  <line x1="180" y1="40" x2="215" y2="40" stroke="#e08020" stroke-width="1.8" marker-end="url(#arrowOrange)"/>
+  <text x="195" y="34" fill="#e08020" font-size="11">u cosθ</text>
+
+  <!-- Gravity arrow at peak -->
+  <line x1="180" y1="40" x2="180" y2="68" stroke="#c04040" stroke-width="1.8" marker-end="url(#arrowRed2)"/>
+  <text x="185" y="60" fill="#c04040" font-size="11">g</text>
+
+  <!-- Landing point -->
+  <circle cx="330" cy="185" r="4" fill="#2060a0"/>
+
+  <!-- Range label -->
+  <line x1="30" y1="200" x2="330" y2="200" stroke="#999" stroke-width="1" stroke-dasharray="3,3"/>
+  <text x="180" y="212" text-anchor="middle" fill="#555" font-size="11">Range R</text>
+
+  <defs>
+    <marker id="axArrow" markerWidth="7" markerHeight="7" refX="6" refY="3" orient="auto">
+      <path d="M0,0 L0,6 L7,3 z" fill="#555"/>
+    </marker>
+    <marker id="arrowRed" markerWidth="8" markerHeight="8" refX="6" refY="3" orient="auto">
+      <path d="M0,0 L0,6 L8,3 z" fill="#e04040"/>
+    </marker>
+    <marker id="arrowRed2" markerWidth="8" markerHeight="8" refX="6" refY="3" orient="auto">
+      <path d="M0,0 L0,6 L8,3 z" fill="#c04040"/>
+    </marker>
+    <marker id="arrowOrange" markerWidth="8" markerHeight="8" refX="6" refY="3" orient="auto">
+      <path d="M0,0 L0,6 L8,3 z" fill="#e08020"/>
+    </marker>
+    <marker id="arrowGreen" markerWidth="8" markerHeight="8" refX="6" refY="3" orient="auto">
+      <path d="M0,0 L0,6 L8,3 z" fill="#2aa844"/>
+    </marker>
+  </defs>
+</svg>

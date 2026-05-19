@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 320 260" width="320" height="260" font-family="sans-serif" font-size="14">
+  <!-- Ground surface -->
+  <rect x="40" y="160" width="240" height="8" fill="#888"/>
+  <!-- Hatching for ground -->
+  <line x1="40" y1="168" x2="60" y2="188" stroke="#888" stroke-width="1.5"/>
+  <line x1="70" y1="168" x2="90" y2="188" stroke="#888" stroke-width="1.5"/>
+  <line x1="100" y1="168" x2="120" y2="188" stroke="#888" stroke-width="1.5"/>
+  <line x1="130" y1="168" x2="150" y2="188" stroke="#888" stroke-width="1.5"/>
+  <line x1="160" y1="168" x2="180" y2="188" stroke="#888" stroke-width="1.5"/>
+  <line x1="190" y1="168" x2="210" y2="188" stroke="#888" stroke-width="1.5"/>
+  <line x1="220" y1="168" x2="240" y2="188" stroke="#888" stroke-width="1.5"/>
+  <line x1="250" y1="168" x2="270" y2="188" stroke="#888" stroke-width="1.5"/>
+  <!-- Block -->
+  <rect x="110" y="100" width="100" height="60" fill="#cde" stroke="#333" stroke-width="2"/>
+  <!-- Weight arrow (downward) -->
+  <line x1="160" y1="160" x2="160" y2="220" stroke="#e44" stroke-width="2.5"/>
+  <polygon points="160,226 155,212 165,212" fill="#e44"/>
+  <text x="167" y="218" fill="#e44" font-size="13">W = mg</text>
+  <!-- Normal force arrow (upward) -->
+  <line x1="160" y1="100" x2="160" y2="44" stroke="#44e" stroke-width="2.5"/>
+  <polygon points="160,38 155,52 165,52" fill="#44e"/>
+  <text x="167" y="56" fill="#44e" font-size="13">N</text>
+  <!-- Friction arrow (leftward, opposing motion) -->
+  <line x1="110" y1="130" x2="50" y2="130" stroke="#e80" stroke-width="2.5"/>
+  <polygon points="44,130 58,125 58,135" fill="#e80"/>
+  <text x="14" y="118" fill="#e80" font-size="13">F</text>
+  <text x="8" y="132" fill="#e80" font-size="11">(friction)</text>
+  <!-- Motion arrow (rightward) -->
+  <line x1="210" y1="130" x2="268" y2="130" stroke="#555" stroke-width="2" stroke-dasharray="5,3"/>
+  <polygon points="274,130 260,125 260,135" fill="#555"/>
+  <text x="249" y="118" fill="#555" font-size="12">motion</text>
+  <!-- Labels -->
+  <text x="120" y="135" fill="#333" font-size="13">block</text>
+  <text x="10" y="20" fill="#333" font-size="12" font-weight="bold">Friction — free-body diagram</text>
+</svg>

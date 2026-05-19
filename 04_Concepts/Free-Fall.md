@@ -83,6 +83,19 @@ Free fall is the cleanest test of the constant-acceleration model and the founda
 - Claiming acceleration is zero at the top of the flight (velocity is zero, acceleration is still g).
 - Forgetting that real falls include drag, so are not strictly free fall.
 
+## Visuals
+
+### Velocity–time graph for free fall
+```mermaid
+xychart-beta
+  title "Free fall: velocity increases linearly with time (a = g)"
+  x-axis "Time / s" [0, 1, 2, 3, 4]
+  y-axis "Velocity / m s⁻¹" 0 --> 40
+  line [0, 9.81, 19.62, 29.43, 39.24]
+```
+*Figure: Velocity increases at a constant rate equal to g ≈ 9.81 m s⁻². The straight line confirms constant acceleration regardless of the object's mass.*
+*Source: Authored for this vault (CC0). No external copyright.*
+
 ## Source Trace
 
 - Source: OpenStax College Physics; The Physics Classroom; IOPSpark; Physics LibreTexts — paraphrased, no copied text.

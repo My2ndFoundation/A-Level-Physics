@@ -85,6 +85,21 @@ A graph of weight against mass at one location is a straight line through the or
 - Treating `g` as a universal constant (it varies with location)
 - Forgetting `g` is a vector
 
+## Visuals
+
+### Weight vs Mass: Gradient = g
+
+```mermaid
+xychart-beta
+  title "Weight W vs mass m (near Earth's surface)"
+  x-axis "Mass m / kg" [0, 1, 2, 3, 4, 5]
+  y-axis "Weight W / N" 0 --> 50
+  line [0, 9.81, 19.62, 29.43, 39.24, 49.05]
+```
+
+*Figure: W = mg gives a straight line through the origin; the gradient is g ≈ 9.81 N kg⁻¹. This same gradient can be measured in a free-fall experiment. On the Moon or another planet the gradient changes because g is different there.*
+*Source: Authored for this vault (CC0). No external copyright.*
+
 ## Source Trace
 
 - Source: OpenStax College Physics; The Physics Classroom; HyperPhysics (paraphrased, no copied text)

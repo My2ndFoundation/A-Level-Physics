@@ -84,6 +84,25 @@ From [[Charge]] conservation: the net charge in a tiny volume around a node is c
 - Inconsistent sign convention for in vs out
 - Treating capacitor plates as a normal junction
 
+## Visuals
+
+### Current conservation at a junction
+
+```mermaid
+graph LR
+    I_in["I₁ = 3 A →"]
+    node(("Junction"))
+    I2["→ I₂ = 2 A"]
+    I3["→ I₃ = 1 A"]
+    I_in --> node
+    node --> I2
+    node --> I3
+    note["ΣI_in = ΣI_out\n3 A = 2 A + 1 A\n(charge conservation)"]
+    node -.-> note
+```
+*Figure: At any junction the current splits so that total current in equals total current out — conservation of charge.*
+*Source: Authored for this vault (CC0). No external copyright.*
+
 ## Source Trace
 
 - Source: OpenStax College Physics; HyperPhysics; Physics LibreTexts — paraphrased, no copied text

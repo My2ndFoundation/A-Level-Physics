@@ -85,6 +85,14 @@ From the wave model, frequency is constant across the boundary while speed chang
 - Forgetting refractive index has no unit
 - Applying the law beyond the critical angle
 
+## Visuals
+
+### Refraction at a boundary (n₁ sin θ₁ = n₂ sin θ₂)
+
+![[_attachments/05_Laws-and-Results/snell-law--refraction-diagram.svg]]
+*Figure: Light bends toward the normal when entering a denser medium (n₂ > n₁), so θ₂ < θ₁. Frequency is unchanged; wavelength and speed scale together.*
+*Source: Authored for this vault (CC0). No external copyright.*
+
 ## Source Trace
 
 - Source: OpenStax College Physics; HyperPhysics; Physics LibreTexts — paraphrased, no copied text

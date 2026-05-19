@@ -85,6 +85,13 @@ Standing waves explain musical instruments, resonance in structures, microwave o
 - Confusing the node-to-node distance with a full wavelength (it is half).
 - Believing all points oscillate with the same amplitude.
 
+## Visuals
+
+### Standing wave: fundamental mode — nodes and antinodes
+![[_attachments/04_Concepts/Standing-Waves--node-antinode-pattern.svg]]
+*Figure: Fundamental (1st harmonic) of a string fixed at both ends. The string length L equals half a wavelength (L = λ/2). N = node (zero amplitude), AN = antinode (maximum amplitude). Adjacent nodes are separated by λ/2.*
+*Source: Authored for this vault (CC0). No external copyright.*
+
 ## Source Trace
 
 - Source: OpenStax College Physics; The Physics Classroom; IOPSpark; Physics LibreTexts — paraphrased, no copied text.

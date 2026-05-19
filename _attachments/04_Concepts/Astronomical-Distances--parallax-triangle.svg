@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 260" width="400" height="260" font-family="sans-serif">
+  <!-- Background -->
+  <rect width="400" height="260" fill="#f9f9f9" rx="6"/>
+  <!-- Sun -->
+  <circle cx="200" cy="220" r="16" fill="#FFD700" stroke="#c8a000" stroke-width="1.5"/>
+  <text x="200" y="248" text-anchor="middle" font-size="12" fill="#555">Sun</text>
+  <!-- Earth position 1 (left) -->
+  <circle cx="80" cy="220" r="8" fill="#4a90d9" stroke="#1a5a99" stroke-width="1.5"/>
+  <text x="80" y="246" text-anchor="middle" font-size="11" fill="#555">Earth (Jan)</text>
+  <!-- Earth position 2 (right) -->
+  <circle cx="320" cy="220" r="8" fill="#4a90d9" stroke="#1a5a99" stroke-width="1.5"/>
+  <text x="320" y="246" text-anchor="middle" font-size="11" fill="#555">Earth (Jul)</text>
+  <!-- Baseline label -->
+  <line x1="80" y1="210" x2="320" y2="210" stroke="#888" stroke-width="1" stroke-dasharray="4,3"/>
+  <text x="200" y="208" text-anchor="middle" font-size="10" fill="#888">baseline = 2 AU</text>
+  <!-- Nearby star -->
+  <polygon points="200,30 204,20 208,30 218,30 210,37 213,47 200,40 187,47 190,37 182,30" fill="#FFB300" stroke="#c87000" stroke-width="1"/>
+  <text x="200" y="15" text-anchor="middle" font-size="12" fill="#555">Nearby star</text>
+  <!-- Lines from Earth positions to star -->
+  <line x1="80" y1="220" x2="200" y2="32" stroke="#d04040" stroke-width="1.5"/>
+  <line x1="320" y1="220" x2="200" y2="32" stroke="#3070c0" stroke-width="1.5"/>
+  <!-- Parallax angle arcs -->
+  <path d="M195,32 Q200,50 205,32" fill="none" stroke="#888" stroke-width="1"/>
+  <text x="200" y="68" text-anchor="middle" font-size="11" fill="#333">parallax angle p</text>
+  <!-- Distance label -->
+  <line x1="210" y1="32" x2="210" y2="220" stroke="#999" stroke-width="1" stroke-dasharray="3,3"/>
+  <text x="230" y="128" font-size="11" fill="#333">d = 1/p</text>
+  <text x="230" y="142" font-size="10" fill="#888">(p in arcsec → d in pc)</text>
+</svg>

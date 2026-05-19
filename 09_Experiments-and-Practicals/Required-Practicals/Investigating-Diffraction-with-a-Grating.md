@@ -79,6 +79,13 @@ Never look directly into the laser or its specular reflections; keep the beam be
 - Approximating $\sin\theta \approx \tan\theta$ at large diffraction angles, which is invalid for gratings.
 - Measuring only one side of the pattern, keeping any misalignment error.
 
+## Visuals
+
+### Diffraction Grating Photo
+![[_attachments/09_Experiments-and-Practicals/Investigating-Diffraction-with-a-Grating--diffraction-grating-photo.jpg]]
+*Figure: A reflective diffraction grating showing the ruled grooves that split incident light into its component wavelengths at different angles — the same geometry applies to transmission gratings used in the A-Level practical.*
+*Source: Diffraction grating — original uploader Deglr6328 at English Wikipedia — Public domain — https://commons.wikimedia.org/wiki/File:Diffraction_grating.jpg. Retrieved 2026-05-19.*
+
 ## Source Trace
 
 - Source: OpenStax College Physics; HyperPhysics; IOPSpark

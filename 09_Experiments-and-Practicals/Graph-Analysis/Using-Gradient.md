@@ -83,6 +83,19 @@ Not applicable (analysis step). Only valid when the relationship is genuinely li
 - Choosing a tiny triangle, inflating the reading uncertainty.
 - Forgetting to carry units, or not rearranging the equation into `y = mx + c` first.
 
+## Visuals
+
+### Gradient Extraction from a Best-Fit Line
+```mermaid
+xychart-beta
+    title "y = mx + c  →  gradient = Δy/Δx"
+    x-axis "x (independent variable)" [0, 1, 2, 3, 4, 5, 6]
+    y-axis "y (dependent variable)" 0 --> 14
+    line [1, 3, 5, 7, 9, 11, 13]
+```
+*Figure: A straight-line best-fit graph. The gradient is found by choosing two well-separated points on the line (not on raw data points), drawing a large triangle, and computing m = Δy/Δx. The units of the gradient equal the units of the y-axis divided by the units of the x-axis, and the physical quantity is identified from the rearranged equation.*
+*Source: Authored for this vault (CC0). No external copyright.*
+
 ## Source Trace
 
 - Source: OCR Practical Skills Handbook; The Physics Classroom; IOPSpark; OpenStax

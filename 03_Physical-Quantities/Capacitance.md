@@ -83,6 +83,21 @@ A charge–p.d. graph for a capacitor is a straight line through the origin; the
 - Confusing the time constant `RC` with a half-life
 - Adding capacitors with the wrong (resistor-like) series/parallel rule
 
+## Visuals
+
+### Charge–Voltage Graph: Gradient = Capacitance, Area = Energy
+
+```mermaid
+xychart-beta
+  title "Charge Q vs potential difference V (capacitor)"
+  x-axis "Potential difference V / V" [0, 1, 2, 3, 4, 5]
+  y-axis "Charge Q / mC" 0 --> 10
+  line [0, 2, 4, 6, 8, 10]
+```
+
+*Figure: The gradient of the Q–V graph is the capacitance C = Q/V (here, gradient = 2 mC/V = 2 mF). The triangular area under the line is the energy stored E = ½QV = ½CV². Steeper gradient means larger capacitance.*
+*Source: Authored for this vault (CC0). No external copyright.*
+
 ## Source Trace
 
 - Source: OpenStax College Physics; The Physics Classroom; HyperPhysics (paraphrased, no copied text)

@@ -85,6 +85,26 @@ By definition, in one period the wave moves one wavelength: `v = distance/time =
 - Assuming frequency changes when a wave enters a new medium (it does not)
 - Mixing units (frequency in kHz, wavelength in cm)
 
+## Visuals
+
+### Wave speed, frequency, wavelength relationship
+
+```mermaid
+graph TD
+    v["Wave speed v (m s⁻¹)\nset by the medium"]
+    f["Frequency f (Hz)\nset by the source\nunchanged across boundaries"]
+    lambda["Wavelength λ (m)\nλ = v / f"]
+    T["Period T = 1/f (s)"]
+    v --> lambda
+    f --> lambda
+    f --> T
+    T --> lambda
+    note["When entering a new medium:\nf fixed, v changes → λ changes"]
+    lambda --- note
+```
+*Figure: Wave speed equation — v = fλ. Frequency is fixed by the source; wavelength adjusts when the wave enters a new medium.*
+*Source: Authored for this vault (CC0). No external copyright.*
+
 ## Source Trace
 
 - Source: OpenStax College Physics; HyperPhysics; Physics LibreTexts — paraphrased, no copied text

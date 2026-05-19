@@ -83,6 +83,21 @@ A against t is an exponential decay curve. ln A against t is a straight line of 
 - Confusing measured count rate with true activity
 - Mixing time units between A, λ, and t
 
+## Visuals
+
+### Exponential Decay of Activity
+
+```mermaid
+xychart-beta
+  title "Activity vs time — exponential decay"
+  x-axis "Time / half-lives" [0, 1, 2, 3, 4]
+  y-axis "Activity A / Bq (relative)" 0 --> 1
+  line [1, 0.5, 0.25, 0.125, 0.0625]
+```
+
+*Figure: Activity halves every half-life (t½ = ln 2 / λ). The curve is A = A₀ e^(−λt). On a ln A vs t graph this becomes a straight line of gradient −λ.*
+*Source: Authored for this vault (CC0). No external copyright.*
+
 ## Source Trace
 
 - Source: OpenStax College Physics; HyperPhysics; CERN educational material — no copied text

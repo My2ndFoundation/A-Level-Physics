@@ -86,6 +86,20 @@ The first law is a special case of [[Newton-Second-Law]] with zero resultant for
 - Thinking a moving object must have a forward force acting on it
 - Treating constant speed in a circle as "no acceleration"
 
+## Visuals
+
+### Inertia and equilibrium
+
+```mermaid
+graph TD
+    ΣF{"Resultant force ΣF"}
+    ΣF -->|"ΣF = 0"| eq["Constant velocity\n(or rest)"]
+    ΣF -->|"ΣF ≠ 0"| acc["Acceleration\na = ΣF / m"]
+    eq --> inertia["Inertia — no cause needed\nfor uniform motion"]
+```
+*Figure: Newton's First Law decision tree: zero resultant force gives constant velocity; non-zero resultant force gives acceleration.*
+*Source: Authored for this vault (CC0). No external copyright.*
+
 ## Source Trace
 
 - Source: OpenStax College Physics; HyperPhysics; Physics LibreTexts — paraphrased, no copied text

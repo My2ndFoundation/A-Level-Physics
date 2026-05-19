@@ -72,6 +72,13 @@ Bridges, beams and supporting cables must carry loads without breaking or deflec
 - [[Forgetting-Resultant-Force]]
 - [[Misreading-Graph-Gradient]]
 
+## Visuals
+
+### Suspension Bridge (Golden Gate)
+![[_attachments/10_Applications/Bridge-and-Beam-Loading--golden-gate-bridge.jpg]]
+*Figure: Golden Gate Bridge from Marshall's Beach. The main cables carry tension; the deck hangers transfer the load to the cables; the towers carry compression into the foundations. Stress in every member must remain within the material's elastic limit under all design loads.*
+*Source: Golden Gate Bridge as seen from Marshall's Beach, March 2018 — Dietmar Rabich — CC BY-SA 4.0 — https://commons.wikimedia.org/wiki/File:Golden_Gate_Bridge_as_seen_from_Marshall%E2%80%99s_Beach,_March_2018.jpg. Retrieved 2026-05-19.*
+
 ## Source Trace
 
 - Source: OpenStax College Physics; IOPSpark; Isaac Physics; OCR examiner reports (general) — no copied text

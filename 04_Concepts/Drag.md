@@ -80,6 +80,14 @@ Drag governs the design of cars, aircraft, projectiles and parachutes, the exist
 - Confusing drag with surface friction between solids.
 - Forgetting that drag means real falls are not free fall.
 
+## Visuals
+
+### Free-body diagram: falling object reaching terminal velocity
+
+![[_attachments/04_Concepts/Drag--free-body.svg]]
+*Figure: Weight W = mg acts downward; drag F_drag acts upward, opposing motion. As speed increases, drag grows until it equals weight — at this point resultant force is zero and the object reaches terminal velocity.*
+*Source: Authored for this vault (CC0). No external copyright.*
+
 ## Source Trace
 
 - Source: OpenStax College Physics; The Physics Classroom; IOPSpark; Physics LibreTexts — paraphrased, no copied text.

@@ -84,6 +84,21 @@ On a graph of friction force (y) against normal force (x), the data form a strai
 - Giving $\mu$ a unit (it is dimensionless)
 - Using $N = mg$ on an incline instead of $N = mg\cos\theta$ — see [[Resolving-Vectors]]
 
+## Visuals
+
+### Friction Force vs Normal Force: Gradient = μ
+
+```mermaid
+xychart-beta
+  title "Friction force vs normal force"
+  x-axis "Normal force N / N" [0, 2, 4, 6, 8, 10]
+  y-axis "Friction force Ff / N" 0 --> 5
+  line [0, 0.7, 1.4, 2.1, 2.8, 3.5]
+```
+
+*Figure: The gradient of the friction force vs normal force graph is the coefficient of kinetic friction μₖ (here μₖ = 0.35). The line passes through the origin, confirming Ff = μN. The maximum static friction would sit on a steeper line (μₛ > μₖ).*
+*Source: Authored for this vault (CC0). No external copyright.*
+
 ## Source Trace
 
 - Source: OpenStax College Physics; The Physics Classroom; HyperPhysics — no copied text

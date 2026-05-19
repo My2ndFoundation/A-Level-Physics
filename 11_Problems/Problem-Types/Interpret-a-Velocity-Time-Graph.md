@@ -64,6 +64,21 @@ The question provides a velocity–time graph (or a description of motion to ske
 - Reporting distance when displacement is required (or vice versa) when motion reverses.
 - Forgetting that area below the time axis represents negative displacement.
 
+## Visuals
+
+### Multi-stage velocity–time graph
+
+```mermaid
+xychart-beta
+    title "Example v–t graph: three stages of motion"
+    x-axis "Time t (s)" [0, 2, 4, 6, 8, 10]
+    y-axis "Velocity v (m/s)" 0 --> 12
+    line [0, 8, 8, 8, 4, 0]
+```
+
+*Figure: Stage 1 (0–2 s): uniform acceleration — gradient gives a. Stage 2 (2–6 s): constant velocity — zero gradient. Stage 3 (6–10 s): uniform deceleration back to rest. Area under each section equals displacement in that stage.*
+*Source: Authored for this vault (CC0). No external copyright.*
+
 ## Example Sources
 
 - Source: Original problem-type pattern; aligned to OCR H556.

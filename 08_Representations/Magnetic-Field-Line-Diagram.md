@@ -61,6 +61,14 @@ Not applicable in the graph sense. The analogous readable feature is **line spac
 - Ignoring spacing, so treating a non-uniform field as uniform.
 - Confusing "×" (into page) and "•" (out of page).
 
+## Visuals
+
+### Magnetic field lines: bar magnet
+
+![[_attachments/08_Representations/magnetic-field-line-diagram--bar-magnet.svg]]
+*Figure: Closed loop field lines emerge from the N pole and enter the S pole outside the magnet (shown as curved arcs). Arrows indicate the direction of **B** (the direction a compass north would point). Lines are more tightly packed near the poles where [[Magnetic-Flux-Density]] is greatest; they fan out and space apart further away. Lines never cross.*
+*Source: Authored for this vault (CC0). No external copyright.*
+
 ## Source Trace
 
 OpenStax College Physics; HyperPhysics; Physics LibreTexts — no copied text.

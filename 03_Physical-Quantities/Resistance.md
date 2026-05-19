@@ -83,6 +83,26 @@ On an [[IV-Characteristic]] (I vs V), resistance is the **reciprocal of the grad
 - Reading the gradient (not its reciprocal) of an I–V graph as resistance
 - Forgetting resistance depends on temperature
 
+## Visuals
+
+```mermaid
+flowchart LR
+    R["Resistance R = V/I (Ω)"]
+    V["Potential Difference V (V)"]
+    I["Current I (A)"]
+    ohmic["Ohmic: R constant\nI–V straight line"]
+    nonohmic["Non-ohmic: R varies\n(filament lamp, thermistor, diode)"]
+    rho["Resistivity ρ: R = ρL/A"]
+
+    V -->|"÷ I"| R
+    I --> R
+    R --> ohmic
+    R --> nonohmic
+    R -->|"material property"| rho
+```
+*Figure: Resistance R = V/I; for ohmic conductors R is constant (straight I–V line); for non-ohmic components R changes with current or temperature. Resistivity ρ describes the material independently of sample size.*
+*Source: Authored for this vault (CC0). No external copyright.*
+
 ## Source Trace
 
 - Source: OpenStax College Physics; The Physics Classroom; HyperPhysics (paraphrased, no copied text)

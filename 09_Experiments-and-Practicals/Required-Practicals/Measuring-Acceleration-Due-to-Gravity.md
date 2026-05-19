@@ -80,6 +80,13 @@ Low risk. Keep feet clear of the falling ball and trapdoor. The free-fall (no ai
 - Measuring height inconsistently (top vs bottom of the ball).
 - Ignoring the electromagnet release delay when using single-shot timing.
 
+## Visuals
+
+### Free-Fall Diagram
+![[_attachments/09_Experiments-and-Practicals/Measuring-Acceleration-Due-to-Gravity--free-fall-diagram.svg]]
+*Figure: Diagram of an object in free fall showing the distance h fallen from rest under gravitational acceleration g with no air resistance — the ball accelerates uniformly downward, illustrating the h = ½gt² relationship used to determine g from the gradient of an h against t² graph.*
+*Source: Free fall — Pieter Kuiper — Public domain — https://commons.wikimedia.org/wiki/File:Free_fall.svg. Retrieved 2026-05-19.*
+
 ## Source Trace
 
 - Source: OCR Practical Skills Handbook; The Physics Classroom; IOPSpark; OpenStax

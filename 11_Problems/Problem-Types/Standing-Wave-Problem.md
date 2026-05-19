@@ -65,6 +65,14 @@ A wave is confined on a string, in a pipe, or in a microwave/melde-type apparatu
 - Confusing the distance between adjacent nodes ($\lambda/2$) with a full wavelength.
 - [[Confusing-Wavelength-and-Amplitude]]
 
+## Visuals
+
+### Standing-wave node and antinode patterns
+
+![[_attachments/11_Problems/Standing-Wave-Problem--standing-wave-harmonics.svg]]
+*Figure: Fundamental (n = 1, L = λ/2) and second harmonic (n = 2, L = λ) on a string fixed at both ends. N = node (zero displacement); A = antinode (maximum displacement). Boundary condition: nodes at both fixed ends.*
+*Source: Authored for this vault (CC0). No external copyright.*
+
 ## Example Sources
 
 - Source: Original problem-type pattern; aligned to OCR H556.

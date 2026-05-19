@@ -83,6 +83,26 @@ On a [[Stress-Strain-Graph]] (stress on the y-axis, strain on the x-axis), the i
 - Confusing stress with pressure (similar units, different context)
 - Using the original area after large deformation
 
+## Visuals
+
+```mermaid
+flowchart LR
+    sig["Stress σ = F/A (Pa)\ny-axis of stress–strain graph"]
+    F["Applied Force F (N)"]
+    A["Cross-section A = πd²/4 (m²)"]
+    E["Young Modulus E = σ/ε\ngradient of linear region"]
+    UTS["Ultimate Tensile Stress\nmaximum before fracture"]
+    SSG["Stress–Strain Graph\nelastic → yield → plastic → fracture"]
+
+    F -->|"÷ A"| sig
+    A --> sig
+    sig -->|"÷ strain ε"| E
+    sig --> UTS
+    sig --> SSG
+```
+*Figure: Stress σ = F/A (Pa) is the y-axis of the stress–strain graph. The initial gradient is the Young modulus; the stress at fracture is the ultimate tensile stress.*
+*Source: Authored for this vault (CC0). No external copyright.*
+
 ## Source Trace
 
 - Source: OpenStax College Physics; The Physics Classroom; HyperPhysics (paraphrased, no copied text)

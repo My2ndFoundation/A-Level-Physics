@@ -89,6 +89,13 @@ Internal resistance explains why terminal voltage depends on load, limits the ma
 - Forgetting the lost volts term Ir when applying conservation of energy.
 - Misreading the V–I graph gradient as +r instead of −r.
 
+## Visuals
+
+### Circuit model of a real cell with internal resistance
+![[_attachments/04_Concepts/Internal-Resistance--circuit-diagram.svg]]
+*Figure: The dashed box represents a real cell modelled as an ideal EMF source ε in series with the internal resistance r. The terminal p.d. V = IR across the external load R is less than ε by the lost volts Ir. The full equation is ε = I(R + r).*
+*Source: Authored for this vault (CC0). No external copyright.*
+
 ## Source Trace
 
 - Source: OpenStax College Physics; The Physics Classroom; IOPSpark; Physics LibreTexts — paraphrased, no copied text.

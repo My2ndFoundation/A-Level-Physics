@@ -88,6 +88,13 @@ Strong neodymium magnets can pinch fingers and damage equipment — handle caref
 - Inconsistent magnet alignment between runs, adding scatter.
 - Ignoring the sign reversal that demonstrates [[Lenzs-Law]].
 
+## Visuals
+
+### Induction Experiment Apparatus
+![[_attachments/09_Experiments-and-Practicals/Investigating-Electromagnetic-Induction--induction-experiment-photo.png]]
+*Figure: A historical induction experiment illustrating a bar magnet being moved relative to a coil connected to a galvanometer — the deflection shows the induced e.m.f. produced by the changing magnetic flux linkage, demonstrating Faraday's Law qualitatively.*
+*Source: Induction experiment — J. Lambert — Public domain — https://commons.wikimedia.org/wiki/File:Induction_experiment.png. Retrieved 2026-05-19.*
+
 ## Source Trace
 
 OpenStax College Physics; HyperPhysics; Physics LibreTexts — no copied text.

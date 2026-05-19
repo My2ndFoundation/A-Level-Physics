@@ -83,6 +83,19 @@ Mass defect is the quantity you compute first when finding binding energy or the
 - Using atomic instead of nuclear masses without accounting for electrons consistently
 - Forgetting the u → MeV (931.5) conversion
 
+## Visuals
+
+### Mass defect → binding energy chain
+```mermaid
+flowchart LR
+    A["Separate nucleons\ntotal mass = Z·m_p + N·m_n"] --> B["Bound nucleus\nmass M_nucleus < sum of parts"]
+    B --> C["Mass defect\nΔm = sum − M_nucleus"]
+    C --> D["Binding energy\nE_b = Δm × c²\n(in MeV: Δm in u × 931.5)"]
+    D --> E["Energy released if\nproducts have greater\nbinding energy per nucleon"]
+```
+*Figure: When nucleons bind, the system loses mass (Δm > 0). This mass defect directly gives the binding energy via E = mc². Nuclear reactions release energy when the products have higher total binding energy than the reactants.*
+*Source: Authored for this vault (CC0). No external copyright.*
+
 ## Source Trace
 
 - Source: OpenStax College Physics; HyperPhysics; CERN educational material — no copied text

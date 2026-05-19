@@ -110,6 +110,13 @@ helping transfer reasoning between gravitation and electrostatics.
 - Confusing field strength (N kg⁻¹) with [[Gravitational-Potential]] (J kg⁻¹)
 - Forgetting that fields are always attractive, never repulsive
 
+## Visuals
+
+### Radial gravitational field around a point mass
+![[_attachments/04_Concepts/Gravitational-Field--radial-field-lines.svg]]
+*Figure: All field lines point inward toward the central mass M. Closer spacing near M indicates a stronger field. The radial symmetry reflects the inverse-square law g = GM/r².*
+*Source: Authored for this vault (CC0). No external copyright.*
+
 ## Source Trace
 
 - Source: OpenStax College Physics; HyperPhysics; NASA educational material — no copied text

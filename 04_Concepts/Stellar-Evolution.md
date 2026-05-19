@@ -104,6 +104,23 @@ of stars, and the meaning of the main sequence on the H–R diagram.
 - Confusing planetary nebula with a planet
 - Thinking the main sequence is a time stage rather than a stable phase
 
+## Visuals
+
+### Stellar evolution: mass-dependent life cycle
+```mermaid
+flowchart TD
+    NEB["Nebula (gas + dust cloud)"] --> MS["Protostar → Main Sequence\n(H fusion: gravity balanced\nby radiation pressure)"]
+    MS -- "H exhausted in core" --> RG["Red Giant\n(outer layers expand + cool)"]
+    RG -- "low/medium mass\n(up to ~few solar masses)" --> PN["Planetary Nebula\n(outer layers shed)"]
+    PN --> WD["White Dwarf\n(supported by electron\ndegeneracy pressure)"]
+    RG -- "high mass" --> SG["Red Supergiant"]
+    SG --> SN["Supernova\n(core collapses)"]
+    SN -- "remnant < ~3 solar masses" --> NS["Neutron Star"]
+    SN -- "remnant > ~3 solar masses" --> BH["Black Hole"]
+```
+*Figure: A star's final state depends on its initial mass. The main sequence is a stable phase, not a time-ordered stage. Supernovae disperse heavy elements seeding future stars.*
+*Source: Authored for this vault (CC0). No external copyright.*
+
 ## Source Trace
 
 - Source: OpenStax College Physics; HyperPhysics; NASA educational material — no copied text

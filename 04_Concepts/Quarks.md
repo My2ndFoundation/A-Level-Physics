@@ -84,6 +84,23 @@ Quark composition explains the charge and identity of nucleons and predicts allo
 - Thinking a single quark can exist freely
 - Forgetting beta decay involves a quark flavour change (d → u)
 
+## Visuals
+
+### Quark classification: flavour → hadron
+```mermaid
+flowchart TD
+    Q["Quarks (feel strong interaction)"] --> UP["Up-type: u · c · t\ncharge +2/3 e"]
+    Q --> DOWN["Down-type: d · s · b\ncharge −1/3 e"]
+    UP --> BAR["Baryons (3 quarks)\nproton = uud · neutron = udd"]
+    DOWN --> BAR
+    UP --> MES["Mesons (quark + antiquark)\nπ⁺ = u d̄"]
+    DOWN --> MES
+    BAR --> HAD["Hadrons"]
+    MES --> HAD
+```
+*Figure: At A-Level, u, d, and s quarks are priority. Baryons are three-quark composites; mesons are quark–antiquark pairs. Quarks never appear in isolation (confinement).*
+*Source: Authored for this vault (CC0). No external copyright.*
+
 ## Source Trace
 
 - Source: OpenStax College Physics; HyperPhysics; CERN educational material — no copied text

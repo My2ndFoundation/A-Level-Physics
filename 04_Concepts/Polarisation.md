@@ -70,6 +70,13 @@ Polarisation distinguishes transverse from longitudinal waves (sound, being long
 - Claiming sound can be polarised (it cannot — it is longitudinal).
 - Forgetting that an ideal single polariser transmits about half of unpolarised intensity.
 
+## Visuals
+
+### Polariser and analyser: maximum and zero transmission
+![[_attachments/04_Concepts/Polarisation--polariser-analyser.svg]]
+*Figure: Unpolarised light (all oscillation planes) passes through a polariser and emerges with oscillations in one plane only (approximately half the intensity). A second polaroid (analyser) aligned at 0° transmits maximum intensity; rotated to 90° (crossed) it transmits zero intensity.*
+*Source: Authored for this vault (CC0). No external copyright.*
+
 ## Source Trace
 
 - Source: OpenStax College Physics; HyperPhysics; IOPSpark

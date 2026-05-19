@@ -85,6 +85,13 @@ On a graph of flux linkage NΦ against time, the gradient gives the negative of 
 - Confusing flux Φ with flux linkage NΦ.
 - Using the wrong area (e.g. coil cross-section vs the area the field actually threads).
 
+## Visuals
+
+### Flux Through a Tilted Coil: Φ = BA cosθ
+![[_attachments/03_Physical-Quantities/Magnetic-Flux--area-angle-geometry.svg]]
+*Figure: Parallel field lines (B, green) pass through a coil of area A. Flux Φ = BA cosθ is greatest when B is perpendicular to the coil plane (θ = 0) and zero when B is parallel to it (θ = 90°).*
+*Source: Authored for this vault (CC0). No external copyright.*
+
 ## Source Trace
 
 OpenStax College Physics; HyperPhysics; Physics LibreTexts — no copied text.

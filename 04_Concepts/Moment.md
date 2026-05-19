@@ -81,6 +81,13 @@ Moments underpin levers, balances, beams, bridges, gears and the whole analysis 
 - Forgetting moments can be taken about any point, not just the stated pivot.
 - Confusing a couple (pure turning, no resultant force) with a single offset force.
 
+## Visuals
+
+### Principle of moments: perpendicular distances from the pivot
+![[_attachments/04_Concepts/Moment--perpendicular-distance.svg]]
+*Figure: Two downward forces act on a horizontal beam pivoted at the centre. Moment = force × perpendicular distance from pivot. In rotational equilibrium the anticlockwise moment F₁d₁ equals the clockwise moment F₂d₂.*
+*Source: Authored for this vault (CC0). No external copyright.*
+
 ## Source Trace
 
 - Source: OpenStax College Physics; The Physics Classroom; IOPSpark; Physics LibreTexts — paraphrased, no copied text.

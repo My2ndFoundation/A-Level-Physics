@@ -88,6 +88,23 @@ By analogy with the photon, for which `p = h/λ` (from `E = hf` and `E = pc`), d
 - Forgetting to convert kinetic energy to momentum via `p = √(2mE_k)`
 - Expecting macroscopic objects to show measurable wave behaviour
 
+## Visuals
+
+### Momentum–wavelength relationship
+
+```mermaid
+graph LR
+    p["Momentum p = mv\n(kg m s⁻¹)"]
+    h["Planck constant h\n≈ 6.63 × 10⁻³⁴ J s"]
+    lambda["de Broglie wavelength\nλ = h / p (m)"]
+    p -->|"larger p →"| shorter["Shorter λ\n(less wave-like\nbehaviour)"]
+    p -->|"smaller p →"| longer["Longer λ\n(diffraction observable\nif λ ≈ obstacle size)"]
+    h --> lambda
+    p --> lambda
+```
+*Figure: de Broglie equation: wavelength shortens as momentum increases. Diffraction is only observable when λ is comparable to the gap or crystal spacing.*
+*Source: Authored for this vault (CC0). No external copyright.*
+
 ## Source Trace
 
 - Source: OpenStax College Physics; HyperPhysics; Physics LibreTexts — paraphrased, no copied text

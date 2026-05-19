@@ -65,6 +65,21 @@ The curve summarises how the material responds to loading: how stiff it is, how 
 - Confusing ultimate tensile stress (the peak) with the fracture stress.
 - Forgetting that strain is dimensionless, so Young modulus has the same units as stress.
 
+## Visuals
+
+### Stress-strain graph: ductile metal
+
+```mermaid
+xychart-beta
+    title "Stress-strain graph: ductile metal"
+    x-axis "strain epsilon (dimensionless)" [0, 0.001, 0.002, 0.003, 0.01, 0.02, 0.03]
+    y-axis "stress sigma (MPa)" 0 --> 450
+    line [0, 200, 400, 420, 430, 440, 400]
+```
+
+*Figure: The steep straight region from the origin to ~0.002 represents the elastic region; its gradient is the [[Young-Modulus]] E = σ/ε. Beyond the limit of proportionality the curve rounds off at the yield region; the peak is the ultimate tensile stress (UTS); beyond this the material necks and fractures. The area under the curve up to any point equals the strain energy stored per unit volume.*
+*Source: Authored for this vault (CC0). No external copyright.*
+
 ## Source Trace
 
 - Source: OCR Practical Skills Handbook; The Physics Classroom; IOPSpark; OpenStax

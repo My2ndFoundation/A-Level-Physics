@@ -64,6 +64,21 @@ The line's height is *where* the object is, not how fast it moves. Returning to 
 - Reading off the height as speed instead of taking the gradient.
 - Trying to find area under the line as if it meant distance.
 
+## Visuals
+
+### Displacement-time graph: three phases of motion
+
+```mermaid
+xychart-beta
+    title "s-t graph: constant velocity, rest, return"
+    x-axis "time t (s)" [0, 1, 2, 3, 4, 5, 6]
+    y-axis "displacement s (m)" -4 --> 8
+    line [0, 4, 4, 4, 2, 0, -2]
+```
+
+*Figure: The straight rising section (t = 0 to 1) has a positive gradient equal to the constant [[Velocity]]; the flat section (t = 1 to 3) has zero gradient — the object is stationary; the falling section (t = 3 onwards) has a negative gradient — the object moves back toward (and past) the origin. The y-intercept (0 m) is the starting position.*
+*Source: Authored for this vault (CC0). No external copyright.*
+
 ## Source Trace
 
 - Source: OCR Practical Skills Handbook; The Physics Classroom; IOPSpark; OpenStax

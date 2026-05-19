@@ -93,6 +93,21 @@ From [[Newton-Second-Law]] in momentum form, `F_ext = Δp_total/Δt`. If `F_ext 
 - Assuming kinetic energy is always conserved (only elastic collisions)
 - Forgetting an external force such as friction over the interaction time
 
+## Visuals
+
+### Collision momentum balance
+
+```mermaid
+graph LR
+    before["Before collision\np_total = m₁u₁ + m₂u₂"]
+    after["After collision\np_total = m₁v₁ + m₂v₂"]
+    before -->|"No external force\n→ total p conserved"| after
+    Newton3["Newton's Third Law\nF_AB = −F_BA\n→ impulses cancel"]
+    Newton3 --> before
+```
+*Figure: Conservation of momentum follows from Newton's Third Law — internal forces cancel, leaving total momentum unchanged.*
+*Source: Authored for this vault (CC0). No external copyright.*
+
 ## Source Trace
 
 - Source: OpenStax College Physics; HyperPhysics; Physics LibreTexts — paraphrased, no copied text

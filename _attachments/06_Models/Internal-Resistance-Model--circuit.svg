@@ -1,0 +1,74 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 360 220" width="360" height="220" font-family="sans-serif" font-size="13">
+  <!-- Background -->
+  <rect width="360" height="220" fill="#fafafa" rx="8"/>
+
+  <!-- Title -->
+  <text x="180" y="20" text-anchor="middle" font-size="14" font-weight="bold" fill="#222">Internal Resistance Model Circuit</text>
+
+  <!-- Outer circuit rectangle -->
+  <!-- Top wire -->
+  <line x1="40" y1="60" x2="320" y2="60" stroke="#333" stroke-width="2"/>
+  <!-- Bottom wire -->
+  <line x1="40" y1="160" x2="320" y2="160" stroke="#333" stroke-width="2"/>
+  <!-- Left wire (inside battery boundary) -->
+  <line x1="40" y1="60" x2="40" y2="160" stroke="#333" stroke-width="2"/>
+  <!-- Right wire -->
+  <line x1="320" y1="60" x2="320" y2="160" stroke="#333" stroke-width="2"/>
+
+  <!-- Battery dashed box -->
+  <rect x="28" y="48" width="160" height="124" fill="none" stroke="#888" stroke-width="1" stroke-dasharray="5,4" rx="4"/>
+  <text x="108" y="188" text-anchor="middle" fill="#888" font-size="11">cell (battery)</text>
+
+  <!-- EMF source (circle with ε) at left -->
+  <circle cx="60" cy="110" r="18" fill="white" stroke="#2060a0" stroke-width="2"/>
+  <text x="60" y="114" text-anchor="middle" fill="#2060a0" font-weight="bold">ε</text>
+
+  <!-- Internal resistance r (zigzag) from ~85 to ~160 along top wire -->
+  <!-- Zigzag resistor on top wire between x=90 and x=170 at y=60 -->
+  <polyline points="90,60 98,46 110,74 122,46 134,74 146,46 158,74 168,60"
+            fill="none" stroke="#c04000" stroke-width="2"/>
+  <text x="129" y="42" text-anchor="middle" fill="#c04000" font-size="12">r</text>
+
+  <!-- Connect EMF to left top wire -->
+  <line x1="40" y1="60" x2="42" y2="92" stroke="#333" stroke-width="2"/>
+  <line x1="42" y1="128" x2="40" y2="160" stroke="#333" stroke-width="2"/>
+  <line x1="42" y1="92" x2="42" y2="128" stroke="none"/>
+  <!-- EMF circle top/bottom connections -->
+  <line x1="42" y1="92" x2="42" y2="92" stroke="#333" stroke-width="2"/>
+  <path d="M42,92 L42,92" stroke="#333" stroke-width="2"/>
+  <!-- Vertical wire connecting emf circle -->
+  <line x1="40" y1="60" x2="40" y2="92" stroke="#333" stroke-width="2"/>
+  <line x1="40" y1="128" x2="40" y2="160" stroke="#333" stroke-width="2"/>
+  <line x1="40" y1="92" x2="42" y2="92" stroke="#333" stroke-width="2"/>
+  <line x1="42" y1="92" x2="42" y2="92" stroke="#333" stroke-width="2"/>
+
+  <!-- Properly connect EMF symbol inline on left vertical wire -->
+  <line x1="40" y1="60" x2="40" y2="92" stroke="#333" stroke-width="2"/>
+  <line x1="40" y1="128" x2="40" y2="160" stroke="#333" stroke-width="2"/>
+  <line x1="40" y1="92" x2="78" y2="92" stroke="#333" stroke-width="2"/>
+  <line x1="40" y1="128" x2="78" y2="128" stroke="#333" stroke-width="2"/>
+
+  <!-- External resistance R (right side) -->
+  <polyline points="320,80 308,80 300,68 288,92 276,68 264,92 252,68 244,80 240,80"
+            fill="none" stroke="#2060a0" stroke-width="2"/>
+  <text x="284" y="65" text-anchor="middle" fill="#2060a0" font-size="12">R</text>
+
+  <!-- Current arrow on top wire -->
+  <line x1="180" y1="55" x2="210" y2="55" stroke="#555" stroke-width="1.5" marker-end="url(#arrowI)"/>
+  <text x="193" y="50" text-anchor="middle" fill="#555" font-size="11">I</text>
+
+  <!-- Voltage labels -->
+  <!-- Terminal PD V across right section -->
+  <text x="250" y="186" text-anchor="middle" fill="#2060a0" font-size="12">V (terminal p.d.)</text>
+  <!-- Ir drop label -->
+  <text x="129" y="86" text-anchor="middle" fill="#c04000" font-size="11">Ir (lost volts)</text>
+
+  <!-- Key equation -->
+  <text x="180" y="208" text-anchor="middle" fill="#444" font-size="12">ε = V + Ir  →  V = ε − Ir</text>
+
+  <defs>
+    <marker id="arrowI" markerWidth="7" markerHeight="7" refX="6" refY="3" orient="auto">
+      <path d="M0,0 L0,6 L7,3 z" fill="#555"/>
+    </marker>
+  </defs>
+</svg>

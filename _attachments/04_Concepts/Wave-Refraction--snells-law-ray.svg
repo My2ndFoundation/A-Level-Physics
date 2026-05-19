@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 340 280" width="340" height="280" font-family="sans-serif">
+  <rect width="340" height="280" fill="#f9f9f9" rx="8"/>
+  <text x="170" y="22" text-anchor="middle" font-size="14" font-weight="bold" fill="#333">Wave Refraction — Snell's Law</text>
+  <!-- Medium boundary -->
+  <line x1="20" y1="140" x2="320" y2="140" stroke="#555" stroke-width="2"/>
+  <!-- Medium labels -->
+  <text x="30" y="120" fill="#555" font-size="12">Medium 1 (n₁, faster)</text>
+  <text x="30" y="165" fill="#2266cc" font-size="12">Medium 2 (n₂, slower, n₂&gt;n₁)</text>
+  <!-- Normal at incidence point x=170 -->
+  <line x1="170" y1="60" x2="170" y2="240" stroke="#bbb" stroke-width="1.2" stroke-dasharray="5,4"/>
+  <text x="175" y="72" fill="#888" font-size="11">normal</text>
+  <!-- Incident ray -->
+  <defs>
+    <marker id="rfArr1" markerWidth="8" markerHeight="8" refX="6" refY="3" orient="auto">
+      <path d="M0,0 L0,6 L8,3 z" fill="#888"/>
+    </marker>
+    <marker id="rfArr2" markerWidth="8" markerHeight="8" refX="6" refY="3" orient="auto">
+      <path d="M0,0 L0,6 L8,3 z" fill="#2266cc"/>
+    </marker>
+  </defs>
+  <line x1="60" y1="60" x2="170" y2="140" stroke="#888" stroke-width="2.5" marker-end="url(#rfArr1)"/>
+  <text x="68" y="64" fill="#555" font-size="12">incident</text>
+  <!-- Refracted ray (bends toward normal — larger angle above, smaller below) -->
+  <line x1="170" y1="140" x2="220" y2="240" stroke="#2266cc" stroke-width="2.5" marker-end="url(#rfArr2)"/>
+  <text x="232" y="232" fill="#2266cc" font-size="12">refracted</text>
+  <!-- Angle θ1 -->
+  <path d="M 170,105 A 36,36 0 0,0 140,106" fill="none" stroke="#888" stroke-width="1.5" stroke-dasharray="3,2"/>
+  <text x="120" y="103" fill="#555" font-size="12" font-weight="bold">θ₁</text>
+  <!-- Angle θ2 -->
+  <path d="M 170,175 A 36,36 0 0,1 193,174" fill="none" stroke="#2266cc" stroke-width="1.5" stroke-dasharray="3,2"/>
+  <text x="197" y="172" fill="#2266cc" font-size="12" font-weight="bold">θ₂</text>
+  <!-- Snell's law -->
+  <text x="170" y="260" text-anchor="middle" fill="#333" font-size="13" font-weight="bold">n₁ sin θ₁ = n₂ sin θ₂</text>
+  <text x="170" y="276" text-anchor="middle" fill="#555" font-size="11">Entering slower medium: θ₂ &lt; θ₁ (bends toward normal)</text>
+</svg>

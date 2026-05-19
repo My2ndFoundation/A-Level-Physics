@@ -72,6 +72,14 @@ This extends the everyday observation of ripples spreading on water into a gener
 - Forgetting wavefronts bend on refraction because speed (not frequency) changes.
 - Treating wavefronts and rays as the same thing rather than perpendicular.
 
+## Visuals
+
+### Wavefront Model: Plane Waves Diffracted Through a Slit
+
+![[_attachments/06_Models/Wavefront-Model--diffraction.svg]]
+*Figure: Straight (plane) wavefronts on the left become circular (diffracted) wavefronts after passing through a narrow slit; rays (shown perpendicular to wavefronts) spread into the geometric shadow, demonstrating Huygens' principle.*
+*Source: Authored for this vault (CC0). No external copyright.*
+
 ## Source Trace
 
 - Source: OpenStax College Physics; The Physics Classroom; Isaac Physics — paraphrased, no copied text.

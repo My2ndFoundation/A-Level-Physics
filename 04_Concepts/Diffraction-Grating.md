@@ -69,6 +69,23 @@ Gratings give far more accurate wavelength measurements than a double slit and a
 - Confusing the slit spacing $d$ with the number of lines per metre $N$ (they are reciprocals: $d = 1/N$).
 - Forgetting that the maximum observable order is limited by $\sin\theta \le 1$.
 
+## Visuals
+
+### Grating equation and order geometry
+
+```mermaid
+flowchart LR
+    A["Monochromatic light\nwavelength λ"] --> B["Diffraction grating\nslit spacing d = 1/N"]
+    B --> C["Constructive interference\nwhen path difference = nλ"]
+    C --> D["d sin θ = nλ\n(grating equation)"]
+    D --> E["n = 0: straight through\n(zero order)"]
+    D --> F["n = ±1: first-order maxima\nat angle θ₁"]
+    D --> G["n = ±2: second-order…\n(limited by sinθ ≤ 1)"]
+```
+
+*Figure: Each order n occurs where the path difference between adjacent slits equals n wavelengths. Different wavelengths diffract to different angles, producing spectra. Maximum order limited by sin θ ≤ 1.*
+*Source: Authored for this vault (CC0). No external copyright.*
+
 ## Source Trace
 
 - Source: OpenStax College Physics; HyperPhysics; IOPSpark

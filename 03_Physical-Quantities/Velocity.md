@@ -86,6 +86,24 @@ Speed measured by light gates / motion sensors combined with an observed or reco
 - Assuming zero velocity means zero acceleration
 - Adding velocities arithmetically instead of as vectors
 
+## Visuals
+
+```mermaid
+flowchart LR
+    v["Velocity v = Δs/Δt\n(m s⁻¹, vector)"]
+    DT["Displacement–time graph\ngradient = velocity\n(sign gives direction)"]
+    VT["Velocity–time graph\ngradient = acceleration\narea = displacement"]
+    comp["Components:\nvₓ = v cosθ\nvy = v sinθ"]
+    SUVAT["SUVAT equations\nv = u + at\nv² = u² + 2as"]
+
+    v --> DT
+    v --> VT
+    v --> comp
+    v --> SUVAT
+```
+*Figure: Velocity v is displacement per unit time (vector). The displacement–time gradient gives v; the velocity–time graph gradient gives acceleration; its area gives displacement.*
+*Source: Authored for this vault (CC0). No external copyright.*
+
 ## Source Trace
 
 - Source: OpenStax College Physics; The Physics Classroom; HyperPhysics (paraphrased, no copied text)

@@ -85,6 +85,26 @@ A plot of weight against mass for objects at one location is a straight line thr
 - Quoting weight in kilograms
 - Assuming weight is constant everywhere
 
+## Visuals
+
+```mermaid
+flowchart LR
+    W["Weight W = mg (N)\ngravitational force, vector downward"]
+    m["Mass m (kg)\nconstant everywhere"]
+    g["Gravitational field strength g (N kg⁻¹)\nvaries with location"]
+    Earth["Near Earth: g ≈ 9.81 N kg⁻¹"]
+    Moon["On Moon: g ≈ 1.6 N kg⁻¹"]
+    Space["Deep space: g ≈ 0"]
+
+    m -->|"× g"| W
+    g --> W
+    g --> Earth
+    g --> Moon
+    g --> Space
+```
+*Figure: Weight W = mg depends on the local gravitational field strength g, which varies with location. Mass m is constant; weight is not. Same mass, different weights on Earth, Moon, and in space.*
+*Source: Authored for this vault (CC0). No external copyright.*
+
 ## Source Trace
 
 - Source: OpenStax College Physics; The Physics Classroom; HyperPhysics (paraphrased, no copied text)

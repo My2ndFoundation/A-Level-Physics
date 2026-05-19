@@ -83,6 +83,21 @@ On a displacement–time graph of an oscillation, the frequency is the reciproca
 - Mixing up frequency and angular frequency (`ω = 2πf`)
 - Timing only one cycle (large percentage uncertainty)
 
+## Visuals
+
+### Period and Frequency on a Displacement–Time Graph
+
+```mermaid
+xychart-beta
+  title "Displacement vs time — reading period T"
+  x-axis "Time t / ms" [0, 5, 10, 15, 20, 25, 30, 35, 40]
+  y-axis "Displacement x / mm" -3 --> 3
+  line [0, 2.83, 0, -2.83, 0, 2.83, 0, -2.83, 0]
+```
+
+*Figure: One complete cycle takes T = 20 ms (from 0 to 20 ms). Frequency f = 1/T = 1/0.020 = 50 Hz. Timing multiple cycles and averaging reduces timing uncertainty: f = N cycles / total time.*
+*Source: Authored for this vault (CC0). No external copyright.*
+
 ## Source Trace
 
 - Source: OpenStax College Physics; The Physics Classroom; HyperPhysics (paraphrased, no copied text)

@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 340 260" width="340" height="260" font-family="sans-serif">
+  <rect width="340" height="260" fill="#f9f9f9" rx="6"/>
+  <!-- Object (hanging sign scenario) -->
+  <rect x="130" y="100" width="80" height="50" fill="#ddd" stroke="#888" stroke-width="1.5" rx="3"/>
+  <text x="170" y="130" text-anchor="middle" font-size="11" fill="#555">object</text>
+  <!-- Weight arrow down -->
+  <defs>
+    <marker id="aW" markerWidth="8" markerHeight="8" refX="6" refY="3" orient="auto">
+      <path d="M0,0 L0,6 L8,3 z" fill="#c0392b"/>
+    </marker>
+    <marker id="aT1" markerWidth="8" markerHeight="8" refX="6" refY="3" orient="auto">
+      <path d="M0,0 L0,6 L8,3 z" fill="#2980b9"/>
+    </marker>
+    <marker id="aT2" markerWidth="8" markerHeight="8" refX="6" refY="3" orient="auto">
+      <path d="M0,0 L0,6 L8,3 z" fill="#27ae60"/>
+    </marker>
+  </defs>
+  <line x1="170" y1="150" x2="170" y2="200" stroke="#c0392b" stroke-width="2" marker-end="url(#aW)"/>
+  <text x="178" y="182" font-size="11" fill="#c0392b">W (weight)</text>
+  <!-- T1 tension upper-left -->
+  <line x1="170" y1="100" x2="100" y2="55" stroke="#2980b9" stroke-width="2" marker-end="url(#aT1)"/>
+  <text x="88" y="52" font-size="11" fill="#2980b9">T₁</text>
+  <!-- T2 tension upper-right -->
+  <line x1="170" y1="100" x2="240" y2="55" stroke="#27ae60" stroke-width="2" marker-end="url(#aT2)"/>
+  <text x="242" y="52" font-size="11" fill="#27ae60">T₂</text>
+  <!-- Force triangle (closed) at lower right -->
+  <text x="10" y="230" font-size="11" fill="#333">Closed vector triangle:</text>
+  <!-- Triangle vertices: W down, T1 and T2 close it -->
+  <polygon points="240,190 240,230 280,190" fill="none" stroke="#555" stroke-width="1.5"/>
+  <text x="255" y="188" font-size="9" fill="#c0392b">W</text>
+  <text x="225" y="215" font-size="9" fill="#2980b9">T₁</text>
+  <text x="264" y="215" font-size="9" fill="#27ae60">T₂</text>
+  <!-- Caption -->
+  <text x="170" y="250" text-anchor="middle" font-size="10" fill="#888">ΣF = 0 and Στ = 0 for equilibrium</text>
+</svg>

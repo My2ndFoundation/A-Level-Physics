@@ -84,6 +84,26 @@ On a force–time graph the **area under the curve** equals the change in moment
 - Forgetting momentum is conserved only for a closed system
 - Confusing momentum with kinetic energy (energy is not always conserved in collisions; momentum is)
 
+## Visuals
+
+```mermaid
+flowchart LR
+    p["Momentum p = mv\n(kg m s⁻¹, vector)"]
+    F["Force F (N)"]
+    J["Impulse FΔt = Δp\n(N s)"]
+    cons["Conservation:\nΣp_before = Σp_after\n(closed system)"]
+    FT["Force–time graph\nArea = Δp"]
+
+    p -->|"rate of change"| F
+    F -->|"× Δt"| J
+    J --> p
+    p --> cons
+    F --> FT
+    FT -->|"area"| J
+```
+*Figure: Momentum p links to force via Newton's second law; impulse FΔt equals the change in momentum; total momentum is conserved in a closed system.*
+*Source: Authored for this vault (CC0). No external copyright.*
+
 ## Source Trace
 
 - Source: OpenStax College Physics; The Physics Classroom; HyperPhysics (paraphrased, no copied text)

@@ -66,6 +66,14 @@ Not applicable. The analytic operations are identifying series/parallel grouping
 - Drawing junction dots ambiguously so series and parallel cannot be told apart.
 - Treating connecting wires as having resistance when the standard model assumes ideal wires.
 
+## Visuals
+
+### Circuit diagram: cell, resistor, ammeter, voltmeter
+
+![[_attachments/08_Representations/circuit-diagram--series-ammeter-voltmeter.svg]]
+*Figure: A basic measuring circuit. The cell (EMF symbol) drives current clockwise. The resistor R is in the main loop. The ammeter A is placed in series to measure [[Current]]; the voltmeter V is connected in parallel across R (dashed branch) to measure [[Potential-Difference]]. Junction dots mark where wires connect; the dashed voltmeter branch shows the high-resistance parallel path.*
+*Source: Authored for this vault (CC0). No external copyright.*
+
 ## Source Trace
 
 - Source: OCR Practical Skills Handbook; The Physics Classroom; IOPSpark; OpenStax

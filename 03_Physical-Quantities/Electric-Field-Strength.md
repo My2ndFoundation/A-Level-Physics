@@ -83,6 +83,14 @@ For a point charge, an `E` against `r` graph falls off as an inverse-square curv
 - Confusing field strength `E` with potential `V`
 - Using `E = V/d` for non-uniform fields
 
+## Visuals
+
+### Radial and Uniform Electric Field Lines
+
+![[_attachments/03_Physical-Quantities/Electric-Field-Strength--field-lines.svg]]
+*Figure: Left — radial field of a positive point charge +Q; field lines point outward (field strength falls as 1/r²). Right — uniform field between parallel plates; equally spaced vertical lines show constant E = V/d between the plates. Field lines always run from higher to lower potential.*
+*Source: Authored for this vault (CC0). No external copyright.*
+
 ## Source Trace
 
 - Source: OpenStax College Physics; The Physics Classroom; HyperPhysics (paraphrased, no copied text)

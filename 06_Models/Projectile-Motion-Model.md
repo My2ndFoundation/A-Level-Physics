@@ -74,6 +74,14 @@ This extends the [[Constant-Acceleration-Model]] from one dimension to two, usin
 - Using launch speed instead of resolved components.
 - Sign errors in the vertical direction.
 
+## Visuals
+
+### Projectile Trajectory with Velocity Components
+
+![[_attachments/06_Models/Projectile-Motion-Model--trajectory.svg]]
+*Figure: Parabolic path resolved into independent horizontal (constant u cosθ) and vertical (accelerating at g) components; the two share only time t.*
+*Source: Authored for this vault (CC0). No external copyright.*
+
 ## Source Trace
 
 - Source: OpenStax College Physics; The Physics Classroom; Isaac Physics — paraphrased, no copied text.

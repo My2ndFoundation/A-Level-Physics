@@ -74,6 +74,21 @@ This sharpens the GCSE "stretchier springs stretch more" observation into the ex
 - Using *E = ½kx²* with the wrong (non-equilibrium) extension.
 - Confusing spring constant *k* with stiffness of the material itself.
 
+## Visuals
+
+### Force–Extension Graph: Ideal Spring (Hooke's Law)
+
+```mermaid
+xychart-beta
+    title "Ideal Spring: F–x Graph  (F = kx)"
+    x-axis "Extension x (m)" [0, 0.1, 0.2, 0.3, 0.4, 0.5]
+    y-axis "Force F (N)" 0 --> 50
+    line [0, 10, 20, 30, 40, 50]
+```
+
+*Figure: A straight line through the origin confirms F = kx; the gradient is the spring constant k, and the area under the line equals the elastic potential energy stored (½kx²).*
+*Source: Authored for this vault (CC0). No external copyright.*
+
 ## Source Trace
 
 - Source: OpenStax College Physics; The Physics Classroom; Isaac Physics — paraphrased, no copied text.

@@ -84,6 +84,13 @@ The photoelectric effect was decisive evidence for quantisation and the photon, 
 - Believing low-frequency light works if intense enough.
 - Confusing the work function with the photon energy.
 
+## Visuals
+
+### KE_max against frequency: gradient = h, x-intercept = f₀
+![[_attachments/04_Concepts/Photoelectric-Effect--ke-vs-frequency.svg]]
+*Figure: Below the threshold frequency f₀ no electrons are emitted (dashed region). Above f₀, KE_max increases linearly with frequency. Gradient = h (Planck constant). The y-intercept (if line extended) is −φ (work function). Equation: hf = φ + KE_max.*
+*Source: Authored for this vault (CC0). No external copyright.*
+
 ## Source Trace
 
 - Source: OpenStax College Physics; The Physics Classroom; IOPSpark; Physics LibreTexts — paraphrased, no copied text.

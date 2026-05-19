@@ -85,6 +85,21 @@ A graph of mean molecular kinetic energy against thermodynamic temperature is a 
 - Confusing the Boltzmann constant $k$ with the molar gas constant $R$
 - Using molar quantities with $k$ instead of $R$
 
+## Visuals
+
+### Mean Molecular Kinetic Energy vs Temperature
+
+```mermaid
+xychart-beta
+  title "Mean KE per molecule vs absolute temperature"
+  x-axis "Temperature T / K" [0, 100, 200, 300, 400, 500]
+  y-axis "Mean KE = (3/2)kT / 10⁻²¹ J" 0 --> 12
+  line [0, 2.07, 4.14, 6.21, 8.28, 10.35]
+```
+
+*Figure: Mean translational KE = (3/2)kT is directly proportional to absolute temperature. The gradient of this straight line through the origin equals (3/2)k ≈ 2.07 × 10⁻²³ J K⁻¹. The line passes through the origin — at 0 K, mean KE is zero (absolute zero).*
+*Source: Authored for this vault (CC0). No external copyright.*
+
 ## Source Trace
 
 - Source: OpenStax College Physics; HyperPhysics; The Physics Classroom — paraphrased, no copied text

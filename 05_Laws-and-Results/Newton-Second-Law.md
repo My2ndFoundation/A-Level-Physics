@@ -96,6 +96,24 @@ Starting from momentum `p = mv`, the rate of change is `Δp/Δt`. If mass is con
 - Using a single force instead of the resultant force
 - Forgetting that force and acceleration are vectors
 
+## Visuals
+
+### Force–mass–acceleration relationship
+
+```mermaid
+graph LR
+    F["Resultant Force F (N)"]
+    m["Mass m (kg)"]
+    a["Acceleration a (m s⁻²)"]
+    p["Momentum p = mv"]
+    F -->|"F = ma (constant mass)"| a
+    F -->|"F = Δp/Δt (general)"| p
+    m -->|larger m → smaller a| a
+    p --> a
+```
+*Figure: How resultant force, mass, and acceleration relate in Newton's Second Law.*
+*Source: Authored for this vault (CC0). No external copyright.*
+
 ## Source Trace
 
 - Source: OpenStax College Physics; HyperPhysics; Physics LibreTexts — paraphrased, no copied text

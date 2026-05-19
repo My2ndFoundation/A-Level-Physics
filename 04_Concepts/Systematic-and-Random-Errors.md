@@ -74,6 +74,21 @@ Systematic error damages **accuracy**; random error damages **precision**. Knowi
 - Believing that averaging removes systematic error (it does not).
 - Calling a one-off mistake/slip an "error" — that is a *blunder*, not a systematic or random error.
 
+## Visuals
+
+### Systematic vs random errors: cause and remedy
+```mermaid
+flowchart TD
+    ERR["Measurement error\n(measured ≠ true value)"] --> SYS["Systematic error\nAll readings shifted same way\n(zero error, calibration drift,\nincorrect technique)"]
+    ERR --> RAN["Random error\nReadings scatter either side\n(reaction time, parallax,\nfluctuating conditions)"]
+    SYS --> FIX1["Fix: redesign method,\nzero the instrument,\napply correction"]
+    RAN --> FIX2["Reduce: repeat and average,\nmore repeats → smaller\nrandom uncertainty"]
+    SYS --> EFF1["Damages accuracy\n(result biased from true value)"]
+    RAN --> EFF2["Damages precision\n(wide scatter in repeats)"]
+```
+*Figure: Systematic error cannot be averaged away; random error can. Knowing which type is present tells you whether to average more or fix the procedure.*
+*Source: Authored for this vault (CC0). No external copyright.*
+
 ## Source Trace
 
 - Source: [[OCR-Physics-Practical-Skills-Handbook]]

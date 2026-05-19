@@ -83,6 +83,25 @@ A graph of resistance against length (constant cross-section) is a straight line
 - Forgetting to convert diameter to cross-sectional area
 - Ignoring the temperature dependence of resistivity
 
+## Visuals
+
+```mermaid
+flowchart LR
+    rho["Resistivity ρ (Ω m)\nmaterial property"]
+    R["Resistance R = ρL/A (Ω)\nsample property"]
+    L["Length L (m)"]
+    A["Cross-section A = πd²/4 (m²)"]
+    graph["R vs L graph\ngradient = ρ/A"]
+
+    rho -->|"× L/A"| R
+    L --> R
+    A --> R
+    R -->|"plot R vs L"| graph
+    graph -->|"gradient × A"| rho
+```
+*Figure: Resistivity ρ is extracted by measuring R for several wire lengths L (constant cross-section A). The gradient of the R–L graph equals ρ/A, so ρ = gradient × A.*
+*Source: Authored for this vault (CC0). No external copyright.*
+
 ## Source Trace
 
 - Source: OpenStax College Physics; The Physics Classroom; HyperPhysics (paraphrased, no copied text)

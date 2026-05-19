@@ -74,6 +74,13 @@ Projectile motion describes any object moving under gravity alone after release:
 - [[Mixing-Speed-and-Velocity]]
 - [[Treating-Scalars-as-Vectors]]
 
+## Visuals
+
+### Projectile Trajectory Diagram
+![[_attachments/10_Applications/Projectile-Motion--trajectory-diagram.png]]
+*Figure: Parabolic trajectory of a projectile launched at an angle. Horizontal velocity remains constant (no air resistance); vertical velocity increases downward under gravity. The two components combine to give the curved path. Maximum height occurs where vertical velocity = 0.*
+*Source: Projectile-Motion — CS Odessa — CC BY 4.0 — https://commons.wikimedia.org/wiki/File:Projectile-Motion.png. Retrieved 2026-05-19.*
+
 ## Source Trace
 
 - Source: OpenStax College Physics; IOPSpark; Isaac Physics; OCR examiner reports (general) — no copied text

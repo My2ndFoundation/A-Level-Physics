@@ -83,6 +83,13 @@ Superposition is the single principle from which interference, standing waves an
 - Believing the waves are permanently changed after overlapping.
 - Forgetting displacement is a vector, so antiphase waves subtract.
 
+## Visuals
+
+### Constructive and destructive superposition
+![[_attachments/04_Concepts/Superposition--constructive-destructive.svg]]
+*Figure: Top — two in-phase waves (A and A) superpose to give amplitude 2A (constructive). Bottom — two antiphase waves (+A and −A) cancel to give zero resultant (destructive). At each point the resultant is the algebraic sum.*
+*Source: Authored for this vault (CC0). No external copyright.*
+
 ## Source Trace
 
 - Source: OpenStax College Physics; The Physics Classroom; IOPSpark; Physics LibreTexts — paraphrased, no copied text.

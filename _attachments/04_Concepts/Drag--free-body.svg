@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 240 260" width="240" height="260" font-family="sans-serif">
+  <rect width="240" height="260" fill="#f9f9f9" rx="6"/>
+  <!-- Falling object -->
+  <rect x="90" y="100" width="60" height="50" fill="#ddd" stroke="#888" stroke-width="1.5" rx="4"/>
+  <text x="120" y="130" text-anchor="middle" font-size="12" fill="#555">object</text>
+  <text x="120" y="143" text-anchor="middle" font-size="10" fill="#888">v ↓</text>
+  <defs>
+    <marker id="aWt" markerWidth="8" markerHeight="8" refX="6" refY="3" orient="auto">
+      <path d="M0,0 L0,6 L8,3 z" fill="#c0392b"/>
+    </marker>
+    <marker id="aDr" markerWidth="8" markerHeight="8" refX="6" refY="3" orient="auto">
+      <path d="M0,0 L0,6 L8,3 z" fill="#2980b9"/>
+    </marker>
+  </defs>
+  <!-- Weight down -->
+  <line x1="120" y1="150" x2="120" y2="220" stroke="#c0392b" stroke-width="2.5" marker-end="url(#aWt)"/>
+  <text x="130" y="195" font-size="12" fill="#c0392b">W = mg</text>
+  <!-- Drag up -->
+  <line x1="120" y1="100" x2="120" y2="40" stroke="#2980b9" stroke-width="2.5" marker-end="url(#aDr)"/>
+  <text x="130" y="70" font-size="12" fill="#2980b9">F_drag</text>
+  <!-- Label: at terminal velocity -->
+  <text x="120" y="245" text-anchor="middle" font-size="10" fill="#27ae60">At terminal velocity: W = F_drag</text>
+  <text x="120" y="258" text-anchor="middle" font-size="10" fill="#888">F_net = 0 → zero acceleration</text>
+</svg>

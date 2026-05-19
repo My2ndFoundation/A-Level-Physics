@@ -64,6 +64,14 @@ Not applicable to the diagram itself. The associated relationships are `E = F/Q`
 - Reversing the convention — lines point in the direction of force on a *positive* charge.
 - Forgetting that uniform field lines stay parallel and equally spaced.
 
+## Visuals
+
+### Electric field lines: point charge and parallel plates
+
+![[_attachments/08_Representations/electric-field-line-diagram--point-charge-and-uniform.svg]]
+*Figure: Left — radial lines spreading outward from a positive point charge; line density decreases with distance, consistent with the inverse-square field (E ∝ 1/r²). Right — uniform field between oppositely charged parallel plates; parallel, equally spaced vertical lines with arrows pointing from + plate to − plate represent the constant [[Electric-Field-Strength]] E = V/d. Lines never cross.*
+*Source: Authored for this vault (CC0). No external copyright.*
+
 ## Source Trace
 
 - Source: OCR Practical Skills Handbook; The Physics Classroom; IOPSpark; OpenStax

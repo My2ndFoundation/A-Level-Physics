@@ -68,6 +68,13 @@ A 0.20 kg ball on a 0.50 m string is whirled in a horizontal circle at 3.0 rev s
 
 - [[Banked-Tracks-and-Centrifuges]]
 
+## Visuals
+
+### Centripetal force on an object in circular motion
+![[_attachments/07_Methods/solving-circular-motion-problems--radial-force.svg]]
+*Figure: Object m moves on a circular orbit (dashed). Velocity v is tangential (green). The net inward force F = mv²/r (red) always points toward the centre — this is supplied by tension, gravity, normal force, or any real force, never a separate "centrifugal" force.*
+*Source: Authored for this vault (CC0). No external copyright.*
+
 ## Source Trace
 
 - Source: OpenStax College Physics; HyperPhysics; The Physics Classroom — no copied text

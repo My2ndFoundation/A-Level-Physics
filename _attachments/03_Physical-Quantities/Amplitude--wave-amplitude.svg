@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="240" viewBox="0 0 480 240">
+  <rect width="480" height="240" fill="#ffffff"/>
+  <!-- Axes -->
+  <line x1="40" y1="120" x2="460" y2="120" stroke="#333" stroke-width="1.5"/>
+  <line x1="40" y1="20" x2="40" y2="220" stroke="#333" stroke-width="1.5"/>
+  <!-- Axis labels -->
+  <text x="465" y="124" font-family="sans-serif" font-size="13" fill="#333">t</text>
+  <text x="28" y="18" font-family="sans-serif" font-size="13" fill="#333">x</text>
+  <!-- Equilibrium label -->
+  <text x="44" y="136" font-family="sans-serif" font-size="11" fill="#666">0</text>
+  <!-- Sine wave: two full cycles, amplitude 70px -->
+  <path d="M40,120 C80,50 120,50 160,120 C200,190 240,190 280,120 C320,50 360,50 400,120 C440,190 460,190 460,120"
+        fill="none" stroke="#1a73e8" stroke-width="2"/>
+  <!-- Amplitude arrow: from equilibrium to peak -->
+  <line x1="160" y1="120" x2="160" y2="52" stroke="#e53935" stroke-width="1.5" stroke-dasharray="4,3"/>
+  <polygon points="160,50 156,60 164,60" fill="#e53935"/>
+  <!-- A label -->
+  <text x="165" y="90" font-family="sans-serif" font-size="14" font-weight="bold" fill="#e53935">A</text>
+  <!-- Peak-to-trough arrow -->
+  <line x1="280" y1="52" x2="280" y2="188" stroke="#777" stroke-width="1" stroke-dasharray="3,3"/>
+  <text x="285" y="125" font-family="sans-serif" font-size="11" fill="#777">2A</text>
+  <!-- Period label -->
+  <line x1="40" y1="210" x2="280" y2="210" stroke="#555" stroke-width="1"/>
+  <polygon points="40,210 50,206 50,214" fill="#555"/>
+  <polygon points="280,210 270,206 270,214" fill="#555"/>
+  <text x="145" y="225" font-family="sans-serif" font-size="12" fill="#555">T (one period)</text>
+</svg>

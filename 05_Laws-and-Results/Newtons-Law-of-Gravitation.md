@@ -88,6 +88,20 @@ Newton inferred the inverse-square form from Kepler's third law: requiring the g
 - Forgetting the inverse-square (using `1/r` instead of `1/r²`)
 - [[Confusing-Mass-and-Weight]]
 
+## Visuals
+
+### Inverse-square force vs distance
+
+```mermaid
+xychart-beta
+    title "Gravitational force F vs separation r"
+    x-axis "r (multiples of r₀)" [1, 2, 3, 4, 5]
+    y-axis "F (multiples of F₀)" 0 --> 10
+    line [10, 2.5, 1.1, 0.625, 0.4]
+```
+*Figure: As separation doubles, the gravitational force falls to one-quarter — the inverse-square law. Values are illustrative ratios, not absolute.*
+*Source: Authored for this vault (CC0). No external copyright.*
+
 ## Source Trace
 
 - Source: OpenStax College Physics; HyperPhysics; Physics LibreTexts — paraphrased, no copied text

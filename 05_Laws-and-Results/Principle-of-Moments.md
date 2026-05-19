@@ -96,6 +96,23 @@ setting the two totals equal is an equivalent statement of "net moment = 0".
   distance.
 - Forgetting that the weight of a uniform beam acts at its [[Centre-of-Mass]].
 
+## Visuals
+
+### Moment balance on a beam
+
+```mermaid
+graph TD
+    pivot(("Pivot"))
+    F1["Force F₁\ndistance d₁ left\nMoment = F₁ × d₁ (anticlockwise)"]
+    F2["Force F₂\ndistance d₂ right\nMoment = F₂ × d₂ (clockwise)"]
+    balance["Rotational equilibrium\nF₁ × d₁ = F₂ × d₂"]
+    F1 --> pivot
+    F2 --> pivot
+    pivot --> balance
+```
+*Figure: Principle of moments — for rotational equilibrium, total clockwise moment equals total anticlockwise moment about any pivot.*
+*Source: Authored for this vault (CC0). No external copyright.*
+
 ## Source Trace
 
 OpenStax College Physics; HyperPhysics; The Physics Classroom — no copied text.

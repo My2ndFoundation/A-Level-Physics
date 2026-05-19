@@ -1,0 +1,48 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 340 260" width="340" height="260" font-family="sans-serif">
+  <rect width="340" height="260" fill="#f9f9f9" rx="8"/>
+  <!-- Title -->
+  <text x="170" y="24" text-anchor="middle" font-size="14" font-weight="bold" fill="#333">Resultant Force: Vector Addition</text>
+  <!-- Object (box) -->
+  <rect x="140" y="108" width="60" height="40" fill="#ddeeff" stroke="#2266cc" stroke-width="1.5" rx="4"/>
+  <text x="170" y="132" text-anchor="middle" font-size="12" fill="#333">object</text>
+  <!-- Force F1 arrow (right, horizontal) -->
+  <line x1="200" y1="128" x2="280" y2="128" stroke="#cc2200" stroke-width="2.5" marker-end="url(#arrowR)"/>
+  <text x="240" y="118" text-anchor="middle" fill="#cc2200" font-size="12">F₁</text>
+  <!-- Force F2 arrow (upward) -->
+  <line x1="170" y1="108" x2="170" y2="40" stroke="#009922" stroke-width="2.5" marker-end="url(#arrowG)"/>
+  <text x="182" y="74" fill="#009922" font-size="12">F₂</text>
+  <!-- Resultant arrow (diagonal, tip-to-tail: starts at tail of F1, ends at head of F2 head) -->
+  <!-- Tip-to-tail: put F1 first (right), then F2 (up) — resultant closes triangle -->
+  <!-- Triangle: start (170,128) → right to (250,128) → up to (250,40) → resultant back to (170,128) -->
+  <g transform="translate(0,0)">
+    <!-- F1 component (for tip-to-tail illustration) -->
+    <line x1="50" y1="200" x2="140" y2="200" stroke="#cc2200" stroke-width="2" stroke-dasharray="6,3" marker-end="url(#arrowR2)"/>
+    <text x="95" y="194" text-anchor="middle" fill="#cc2200" font-size="11">F₁</text>
+    <!-- F2 component from end of F1 -->
+    <line x1="140" y1="200" x2="140" y2="130" stroke="#009922" stroke-width="2" stroke-dasharray="6,3" marker-end="url(#arrowG2)"/>
+    <text x="155" y="168" fill="#009922" font-size="11">F₂</text>
+    <!-- Resultant -->
+    <line x1="50" y1="200" x2="140" y2="130" stroke="#6600cc" stroke-width="2.5" marker-end="url(#arrowP)"/>
+    <text x="78" y="158" fill="#6600cc" font-size="12" font-weight="bold">F_R</text>
+    <!-- Label for tip-to-tail -->
+    <text x="95" y="240" text-anchor="middle" fill="#555" font-size="11">tip-to-tail construction</text>
+  </g>
+  <!-- Arrow markers -->
+  <defs>
+    <marker id="arrowR" markerWidth="8" markerHeight="8" refX="6" refY="3" orient="auto">
+      <path d="M0,0 L0,6 L8,3 z" fill="#cc2200"/>
+    </marker>
+    <marker id="arrowG" markerWidth="8" markerHeight="8" refX="6" refY="3" orient="auto">
+      <path d="M0,0 L0,6 L8,3 z" fill="#009922"/>
+    </marker>
+    <marker id="arrowR2" markerWidth="8" markerHeight="8" refX="6" refY="3" orient="auto">
+      <path d="M0,0 L0,6 L8,3 z" fill="#cc2200"/>
+    </marker>
+    <marker id="arrowG2" markerWidth="8" markerHeight="8" refX="6" refY="3" orient="auto">
+      <path d="M0,0 L0,6 L8,3 z" fill="#009922"/>
+    </marker>
+    <marker id="arrowP" markerWidth="8" markerHeight="8" refX="6" refY="3" orient="auto">
+      <path d="M0,0 L0,6 L8,3 z" fill="#6600cc"/>
+    </marker>
+  </defs>
+</svg>

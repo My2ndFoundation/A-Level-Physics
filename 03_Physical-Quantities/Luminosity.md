@@ -91,6 +91,23 @@ L ∝ r² T⁴.
 - Forgetting the 4πd² inverse-square spreading factor
 - Using temperature in °C instead of kelvin in L = 4πr²σT⁴
 
+## Visuals
+
+```mermaid
+flowchart LR
+    T["Surface\nTemperature T (K)"]
+    r["Stellar\nRadius r (m)"]
+    L["Luminosity\nL = 4π r² σ T⁴ (W)"]
+    d["Distance\nd (m)"]
+    F["Radiant Flux\nF = L / 4πd² (W m⁻²)"]
+
+    T -->|"σT⁴ (Stefan)"| L
+    r -->|"4πr²"| L
+    L -->|"inverse-square"| F
+    d -->|"4πd²"| F
+```
+*Source: Authored for this vault (CC0). No external copyright.*
+
 ## Source Trace
 
 - Source: OpenStax College Physics; HyperPhysics; NASA educational material — no copied text

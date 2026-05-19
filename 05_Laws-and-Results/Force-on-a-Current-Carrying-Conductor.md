@@ -83,6 +83,14 @@ A single charge q drifting at speed v feels force F = Bqv sin θ. In length L th
 - Using Fleming's *right*-hand rule (that is for induced current/generators).
 - Confusing this law with [[Force-on-a-Moving-Charge]] (use F = BIL for wires, F = Bqv for single charges).
 
+## Visuals
+
+### Motor-effect force diagram (F = BIL)
+
+![[_attachments/05_Laws-and-Results/force-on-a-current-carrying-conductor--fleming-lhr.svg]]
+*Figure: A horizontal wire carrying current I in a field B directed into the page experiences an upward force F = BIL. Fleming's left-hand rule gives the force direction.*
+*Source: Authored for this vault (CC0). No external copyright.*
+
 ## Source Trace
 
 OpenStax College Physics; HyperPhysics; Physics LibreTexts — no copied text.

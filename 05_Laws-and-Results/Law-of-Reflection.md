@@ -83,6 +83,14 @@ Using Huygens' wavefront construction: every point on the wavefront reaching the
 - Thinking reflection changes the wave's frequency or speed.
 - Confusing specular and diffuse reflection (the law still holds locally for diffuse).
 
+## Visuals
+
+### Reflection ray diagram (θᵢ = θᵣ)
+
+![[_attachments/05_Laws-and-Results/law-of-reflection--ray-diagram.svg]]
+*Figure: Incident ray (blue) and reflected ray (red) make equal angles θᵢ and θᵣ with the normal. Angles are always measured from the normal, not the surface.*
+*Source: Authored for this vault (CC0). No external copyright.*
+
 ## Source Trace
 
 - Source: OpenStax College Physics; HyperPhysics; Physics LibreTexts — paraphrased, no copied text.

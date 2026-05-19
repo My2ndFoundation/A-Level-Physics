@@ -64,6 +64,14 @@ Not applicable. The key measurable is the node-to-node spacing = half a waveleng
 - Taking node-to-node distance as a full wavelength rather than half.
 - Forgetting that an open pipe end is an antinode while a closed/fixed end is a node.
 
+## Visuals
+
+### Standing-wave diagrams: fundamental and harmonics on a fixed string
+
+![[_attachments/08_Representations/standing-wave-diagram--fundamental-and-harmonics.svg]]
+*Figure: Three harmonics for a string fixed at both ends (both ends are nodes N). n = 1 (fundamental): one loop, L = λ/2. n = 2 (2nd harmonic): two loops, L = λ, with a node at the midpoint. n = 3 (3rd harmonic): three loops, L = 3λ/2. Dashed lines show the two extreme waveform positions of the oscillation envelope. Node-to-node spacing = λ/2 in each case.*
+*Source: Authored for this vault (CC0). No external copyright.*
+
 ## Source Trace
 
 - Source: OCR Practical Skills Handbook; The Physics Classroom; IOPSpark; OpenStax

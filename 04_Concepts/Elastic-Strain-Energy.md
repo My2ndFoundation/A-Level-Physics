@@ -85,6 +85,21 @@ Strain energy storage explains springs, bungee cords, vehicle suspension, vaulti
 - Assuming all strain energy is recovered after plastic deformation
 - Forgetting to use the area under a non-linear curve
 
+## Visuals
+
+### Force–extension graph: elastic strain energy as triangle area
+
+```mermaid
+xychart-beta
+  title "Force vs extension (Hooke's Law spring, schematic)"
+  x-axis "Extension x (m)" [0, 0.01, 0.02, 0.03, 0.04, 0.05]
+  y-axis "Force F (N)" 0 --> 50
+  line [0, 10, 20, 30, 40, 50]
+```
+
+*Figure: For a spring obeying Hooke's Law, F is proportional to x (straight line through origin, gradient = k). The elastic strain energy E = ½kx² equals the triangular area under the line — not the full rectangle F×x.*
+*Source: Authored for this vault (CC0). No external copyright.*
+
 ## Source Trace
 
 - Source: OpenStax College Physics; The Physics Classroom; HyperPhysics — no copied text

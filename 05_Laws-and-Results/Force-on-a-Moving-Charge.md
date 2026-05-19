@@ -84,6 +84,24 @@ This is the magnetic part of the Lorentz force. Summing this single-charge force
 - Forgetting that a *stationary* charge feels no magnetic force.
 - For negative charges, forgetting to reverse the conventional-current direction in Fleming's rule.
 
+## Visuals
+
+### Circular motion of a charge in a magnetic field
+
+```mermaid
+graph TD
+    charge["Charge q at speed v\nenters field B (perpendicular)"]
+    force["Magnetic force F = Bqv\n(perpendicular to v and B)"]
+    circle["Circular path\nradius r = mv / (Bq)"]
+    nowork["Force ⊥ velocity\n→ no work done\n→ speed unchanged"]
+    charge --> force
+    force --> circle
+    force --> nowork
+    circle -->|"equate F = Bqv to centripetal Bqv = mv²/r"| circle
+```
+*Figure: A charge moving perpendicular to a uniform magnetic field follows a circle. The magnetic force provides centripetal acceleration without changing the speed.*
+*Source: Authored for this vault (CC0). No external copyright.*
+
 ## Source Trace
 
 OpenStax College Physics; HyperPhysics; Physics LibreTexts — no copied text.

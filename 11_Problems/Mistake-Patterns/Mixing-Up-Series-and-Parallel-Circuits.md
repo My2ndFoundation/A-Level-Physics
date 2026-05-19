@@ -53,6 +53,16 @@ Builds on the GCSE rules for current and potential difference in series and para
 
 - [[Ignoring-Units]]
 
+## Visuals
+
+### Series vs Parallel Circuit Topology
+
+![[_attachments/11_Problems/Mixing-Up-Series-and-Parallel-Circuits--series-vs-parallel.svg]]
+
+*Figure: Left — two resistors R1 and R2 in series share the same current; total resistance R = R1 + R2 (applying the series rule to two 6 Ω resistors gives 12 Ω). Right — the same two resistors in parallel share the same potential difference; total resistance is found from 1/R = 1/R1 + 1/R2 (giving 3 Ω). Applying the series addition rule to the parallel arrangement is the mistake described on this page.*
+
+*Source: Authored for this vault (CC0). No external copyright.*
+
 ## Source Trace
 
 - Source: OpenStax College Physics; IOPSpark; Isaac Physics; OCR examiner reports (general) — no copied text

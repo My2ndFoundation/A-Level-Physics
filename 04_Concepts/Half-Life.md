@@ -82,6 +82,19 @@ Half-life determines the choice of isotopes for medicine, dating and power, the 
 - Believing half-life depends on the starting quantity.
 - Confusing half-life with the decay constant (they are inversely related via ln 2).
 
+## Visuals
+
+### Exponential decay: activity halves every half-life T½
+```mermaid
+xychart-beta
+  title "Radioactive decay: activity falls by half each T½"
+  x-axis "Time / T½" [0, 1, 2, 3, 4, 5]
+  y-axis "Activity (relative to A₀)" 0 --> 1.1
+  line [1.0, 0.5, 0.25, 0.125, 0.0625, 0.03125]
+```
+*Figure: Each step along the x-axis represents one half-life T½. Activity (and undecayed nuclei) halves with each T½. The curve never reaches zero — the sample decays asymptotically.*
+*Source: Authored for this vault (CC0). No external copyright.*
+
 ## Source Trace
 
 - Source: OpenStax College Physics; The Physics Classroom; IOPSpark; Physics LibreTexts — paraphrased, no copied text.

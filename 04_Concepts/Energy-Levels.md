@@ -85,6 +85,14 @@ Energy levels explain emission and absorption spectra, how lasers and fluorescen
 - Forgetting energy-level values are negative for bound electrons.
 - Confusing emission (electron falls) with absorption (electron rises).
 
+## Visuals
+
+### Atomic energy-level diagram with photon emission
+
+![[_attachments/04_Concepts/Energy-Levels--transition-diagram.svg]]
+*Figure: Electrons occupy discrete energy levels (horizontal lines). A downward transition from n = 3 to n = 1 releases a photon with energy ΔE = hf — exactly the level difference. Only certain frequencies are emitted, producing a line spectrum unique to each element.*
+*Source: Authored for this vault (CC0). No external copyright.*
+
 ## Source Trace
 
 - Source: OpenStax College Physics; The Physics Classroom; IOPSpark; Physics LibreTexts — paraphrased, no copied text.

@@ -70,6 +70,21 @@ This formalises the GCSE result that "for a fixed resistor, current is proportio
 - Forgetting the constant-temperature condition.
 - Reading resistance as the gradient of an *I–V* graph instead of *V/I* at a point.
 
+## Visuals
+
+### I–V Graph: Ohmic Conductor (Linear Characteristic)
+
+```mermaid
+xychart-beta
+    title "Ohmic Conductor: I–V graph  (straight line through origin)"
+    x-axis "Voltage V (V)" [0, 1, 2, 3, 4, 5]
+    y-axis "Current I (mA)" 0 --> 500
+    line [0, 100, 200, 300, 400, 500]
+```
+
+*Figure: A straight line through the origin confirms ohmic behaviour; resistance R = V/I = constant (not the gradient ΔI/ΔV, which equals 1/R).*
+*Source: Authored for this vault (CC0). No external copyright.*
+
 ## Source Trace
 
 - Source: OpenStax College Physics; The Physics Classroom; Isaac Physics — paraphrased, no copied text.

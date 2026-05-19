@@ -82,6 +82,20 @@ Terminal velocity is a standard exam scenario linking forces, energy and graph i
 - Believing the object stops at terminal velocity (it moves at constant speed).
 - Forgetting drag is zero at the instant of release.
 
+## Visuals
+
+### Terminal velocity: force balance and velocity–time behaviour
+```mermaid
+flowchart TD
+    REL["Object released from rest\nv = 0, drag = 0"] --> ACC["Accelerates at g\n(W > drag, resultant ≠ 0)"]
+    ACC --> DRAG["Speed increases\n→ drag increases"]
+    DRAG --> DEC["Resultant force decreases\n→ acceleration decreases"]
+    DEC --> TERM["Eventually drag = W\nResultant = 0\nAcceleration = 0"]
+    TERM --> TV["Terminal velocity:\nconstant speed,\nnot at rest"]
+```
+*Figure: The velocity–time graph rises steeply then curves to a horizontal line at terminal velocity. The gradient (acceleration) starts at g and falls smoothly to zero.*
+*Source: Authored for this vault (CC0). No external copyright.*
+
 ## Source Trace
 
 - Source: OpenStax College Physics; The Physics Classroom; IOPSpark; Physics LibreTexts — paraphrased, no copied text.

@@ -101,6 +101,20 @@ observational evidence for [[Hubbles-Law]] and the [[Big-Bang-Theory]].
 - Using z ≈ v/c at very large z where it breaks down
 - Confusing cosmological redshift with ordinary motion through space
 
+## Visuals
+
+### Redshift: spectral line displacement and cosmological chain
+```mermaid
+flowchart LR
+    A["Galaxy receding\nwith speed v"] --> B["Light wavelength stretched\nλ_obs > λ_emitted"]
+    B --> C["Redshift z = Δλ/λ\nFor v≪c: z ≈ v/c"]
+    C --> D["Greater z → greater recession speed"]
+    D --> E["Hubble's Law:\nv = H₀ d\ndistance ∝ recession speed"]
+    E --> F["Evidence for expanding Universe\n→ Big Bang Theory"]
+```
+*Figure: Chain from a receding source through the redshift definition to the cosmological evidence. Blueshift (z < 0) indicates approach and is seen in nearby galaxies.*
+*Source: Authored for this vault (CC0). No external copyright.*
+
 ## Source Trace
 
 - Source: OpenStax College Physics; HyperPhysics; NASA educational material — no copied text

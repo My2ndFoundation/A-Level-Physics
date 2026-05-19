@@ -82,6 +82,13 @@ Low risk. Do not force the jaws — distorting a soft object biases the reading.
 - Parallax error when judging which vernier line coincides.
 - Using vernier calipers where a micrometer's finer resolution is needed.
 
+## Visuals
+
+### Vernier Caliper Diagram
+![[_attachments/09_Experiments-and-Practicals/Using-Vernier-Calipers--vernier-caliper-diagram.svg]]
+*Figure: Labelled diagram of a vernier caliper showing outside jaws (1), inside jaws (2), depth probe (3), main scale in cm (4), main scale in inches (5), vernier scale in cm (6), vernier scale in inches (7), and retainer (8). The reading shown is 2.475 cm ± 0.005 cm.*
+*Source: Vernier caliper — Joaquim Alves Gaspar (modified by Ed g2s) — CC BY 2.5 — https://commons.wikimedia.org/wiki/File:Vernier_caliper.svg. Retrieved 2026-05-19.*
+
 ## Source Trace
 
 - Source: OCR Practical Skills Handbook; The Physics Classroom; IOPSpark; OpenStax

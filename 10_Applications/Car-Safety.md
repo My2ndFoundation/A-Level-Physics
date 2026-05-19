@@ -72,6 +72,13 @@ Car safety features — seatbelts, airbags, crumple zones — are an exam favour
 - [[Forgetting-Vector-Direction]]
 - [[Incorrect-Sign-Convention]]
 
+## Visuals
+
+### Crash Test with Airbag and Seatbelt
+![[_attachments/10_Applications/Car-Safety--crash-test-airbag.jpg]]
+*Figure: Crash-test dummy restrained by a seatbelt with a fully deployed airbag during a controlled collision. The airbag extends the time over which the dummy's momentum changes, reducing the average force on the chest and head.*
+*Source: Crash-test-with-airbag-and-safty-belt — Transport For NSW — CC BY-SA 4.0 — https://commons.wikimedia.org/wiki/File:Crash-test-with-airbag-and-safty-belt.jpg. Retrieved 2026-05-19.*
+
 ## Source Trace
 
 - Source: OpenStax College Physics; IOPSpark; Isaac Physics; OCR examiner reports (general) — no copied text

@@ -66,6 +66,21 @@ The vertical position is how fast and in which direction the object moves at tha
 - Treating area as distance when velocity goes negative.
 - Confusing a velocity-time graph with a [[Displacement-Time-Graph]] (a horizontal line means *constant velocity* here, but *stationary* there).
 
+## Visuals
+
+### Velocity-time graph of a ball thrown straight up
+
+```mermaid
+xychart-beta
+    title "v-t graph: ball thrown upward (uniform negative acceleration)"
+    x-axis "time t (s)" [0, 1, 2, 3, 4]
+    y-axis "velocity v (m s^-1)" -20 --> 20
+    line [20, 10, 0, -10, -20]
+```
+
+*Figure: A straight line of constant negative gradient. The y-intercept is the initial (upward) velocity `u`; the gradient is the constant [[Acceleration]] (here negative, i.e. gravity); the x-intercept marks the instant the ball is momentarily at rest; below the axis the line represents motion in the opposite (downward) direction. Area above the axis is positive [[Displacement]], area below is negative and partly cancels it.*
+*Source: Authored for this vault (CC0). No external copyright.*
+
 ## Source Trace
 
 - Source: OCR Practical Skills Handbook; The Physics Classroom; IOPSpark; OpenStax

@@ -73,6 +73,14 @@ The critical angle sets the acceptance condition for light to stay trapped in an
 - Inverting the relation as $\sin\theta_c = n$ instead of $1/n$.
 - Forgetting the critical angle only exists going from dense to less dense media.
 
+## Visuals
+
+### Ray diagram at the critical angle
+
+![[_attachments/04_Concepts/Critical-Angle--ray-diagram.svg]]
+*Figure: An incident ray inside a denser medium hits the boundary at exactly the critical angle θ_c. The refracted ray grazes the boundary at 90°. For angles greater than θ_c, total internal reflection occurs and no light escapes.*
+*Source: Authored for this vault (CC0). No external copyright.*
+
 ## Source Trace
 
 - Source: OpenStax College Physics; HyperPhysics; IOPSpark

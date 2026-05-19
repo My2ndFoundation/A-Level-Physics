@@ -82,6 +82,26 @@ A graph of fluid pressure against depth is a straight line of gradient `ρg` (in
 - Forgetting the force must be perpendicular to the surface
 - Confusing pressure with force
 
+## Visuals
+
+```mermaid
+flowchart LR
+    p["Pressure p = F/A (Pa)\nforce per unit area"]
+    F["Normal Force F (N)"]
+    A["Contact Area A (m²)"]
+    hyd["Hydrostatic:\np = hρg"]
+    h["Depth h (m)"]
+    rho["Fluid density ρ (kg m⁻³)"]
+
+    F -->|"÷ A"| p
+    A -->|"÷"| p
+    h -->|"× ρg"| hyd
+    rho --> hyd
+    hyd --> p
+```
+*Figure: Pressure p = F/A for a surface force, and p = hρg for a fluid column of depth h — both routes lead to the same unit Pa = N m⁻².*
+*Source: Authored for this vault (CC0). No external copyright.*
+
 ## Source Trace
 
 - Source: OpenStax College Physics; The Physics Classroom; HyperPhysics (paraphrased, no copied text)

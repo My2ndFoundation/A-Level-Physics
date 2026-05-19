@@ -84,6 +84,13 @@ Correctly classifying quantities determines whether you add numbers or use geome
 - Confusing speed/distance (scalars) with velocity/displacement (vectors)
 - Forgetting that a vector can be negative depending on chosen positive direction
 
+## Visuals
+
+### Vector addition: tip-to-tail triangle (3 + 4 = 5 example)
+![[_attachments/04_Concepts/Vectors-and-Scalars--vector-triangle.svg]]
+*Figure: Vector A (3 units East) placed tip-to-tail with vector B (4 units North) gives resultant R = 5 units at angle θ = tan⁻¹(4/3) ≈ 53° from East. Scalars would give 3 + 4 = 7 (the path length), not 5 (the displacement).*
+*Source: Authored for this vault (CC0). No external copyright.*
+
 ## Source Trace
 
 - Source: OpenStax College Physics; The Physics Classroom; HyperPhysics — no copied text

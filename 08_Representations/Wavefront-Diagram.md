@@ -62,6 +62,14 @@ Not applicable. The geometry conveys wavelength (front spacing), speed change (s
 - Forgetting that wavefronts bunch (not spread) when a wave slows in a denser medium.
 - Drawing rays parallel to wavefronts instead of perpendicular.
 
+## Visuals
+
+### Wavefront diagrams: plane wave and point source
+
+![[_attachments/08_Representations/wavefront-diagram--plane-and-circular.svg]]
+*Figure: Left — a plane wave: vertical wavefronts equally spaced by one wavelength λ, propagating rightward; horizontal arrows show the direction of energy travel (perpendicular to the wavefronts). Right — a point source: concentric circular wavefronts, each one wavelength apart, spreading outward; a radial arrow shows the ray direction. Closer wavefront spacing means shorter wavelength; when a wave enters a denser medium the spacing decreases and the wave changes direction (refraction).*
+*Source: Authored for this vault (CC0). No external copyright.*
+
 ## Source Trace
 
 - Source: OCR Practical Skills Handbook; The Physics Classroom; IOPSpark; OpenStax

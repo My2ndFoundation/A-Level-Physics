@@ -82,6 +82,24 @@ way. Long-range weather forecasting hits the same wall.
 
 - [[Newton-Second-Law]]
 
+## Visuals
+
+### Where chaos and complexity connect — an orientation map
+
+```mermaid
+flowchart TD
+    A["Deterministic equations\n(Newton's laws)"] --> B["Nonlinear system"]
+    B --> C["Sensitive dependence\non initial conditions"]
+    C --> D["Practical unpredictability\n(weather, turbulence)"]
+    B --> E["Many interacting parts"]
+    E --> F["Emergence\n(collective order)"]
+    D --> G["Strange attractor\n(structured chaos)"]
+    F --> H["Complexity science"]
+    G --> H
+```
+
+*Source: Authored for this vault (CC0). No external copyright.*
+
 ## Source Trace
 
 - Source: [[IOP-Explore-Physics]]; Institute of Physics — Explore Physics; Wikipedia (navigation)

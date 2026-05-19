@@ -112,6 +112,19 @@ explains why orbiting bodies have a fixed total mechanical energy.
 - Confusing E_p (J) with [[Gravitational-Potential]] (J kg⁻¹)
 - Thinking GPE is zero at the surface rather than at infinity
 
+## Visuals
+
+### Gravitational potential energy well (E_p vs r)
+```mermaid
+xychart-beta
+  title "E_p = −GMm/r: potential well deepens toward the source mass"
+  x-axis "Distance from centre r (relative units)" [1, 2, 3, 4, 5, 6, 7, 8]
+  y-axis "E_p (relative units, negative)" -8 --> 0
+  line [-8.0, -4.0, -2.67, -2.0, -1.6, -1.33, -1.14, -1.0]
+```
+*Figure: E_p is always negative (bound system) and rises toward zero at infinite separation. The steep well near the source shows that more energy is needed to escape from a close orbit than a distant one.*
+*Source: Authored for this vault (CC0). No external copyright.*
+
 ## Source Trace
 
 - Source: OpenStax College Physics; HyperPhysics; NASA educational material — no copied text

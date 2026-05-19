@@ -85,6 +85,20 @@ Newton's third law is equivalent to [[Conservation-of-Momentum]] for an isolated
 - Treating a third-law pair as acting on the same object
 - Pairing weight with normal contact force (these are an equilibrium pair, not a third-law pair)
 
+## Visuals
+
+### Action–reaction pair
+
+```mermaid
+graph LR
+    A["Object A"]
+    B["Object B"]
+    A -->|"F_A on B  →"| B
+    B -->|"← F_B on A\n(equal magnitude,\nopposite direction,\nsame type)"| A
+```
+*Figure: Newton's Third Law — every force has an equal and opposite partner acting on the other object.*
+*Source: Authored for this vault (CC0). No external copyright.*
+
 ## Source Trace
 
 - Source: OpenStax College Physics; HyperPhysics; Physics LibreTexts — paraphrased, no copied text

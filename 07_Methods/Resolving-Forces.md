@@ -68,6 +68,13 @@ Force is a vector. Because perpendicular directions are independent, a force's e
 - Inclined plane and equilibrium problems
 - [[Projectile-Motion]]
 
+## Visuals
+
+### Vector component diagram
+![[_attachments/07_Methods/resolving-forces--vector-components.svg]]
+*Figure: A force F at angle θ to the horizontal resolved into its horizontal component F cosθ (red) and vertical component F sinθ (green). Perpendicular axes are independent.*
+*Source: Authored for this vault (CC0). No external copyright.*
+
 ## Source Trace
 
 - Source: OpenStax College Physics; The Physics Classroom; Isaac Physics — paraphrased, no copied text.

@@ -87,6 +87,14 @@ Equilibrium underlies structural engineering, statics problems, and the principl
 - Assuming equilibrium means "at rest" — constant velocity also qualifies.
 - Taking moments about an inconvenient point and missing a simplification.
 
+## Visuals
+
+### Three-force equilibrium and closed force triangle
+
+![[_attachments/04_Concepts/Equilibrium--force-triangle.svg]]
+*Figure: A hanging object in equilibrium with two cord tensions T₁ and T₂ and weight W. Both force balance (ΣF = 0) and moment balance (Στ = 0) must hold. Three coplanar forces in equilibrium form a closed vector triangle.*
+*Source: Authored for this vault (CC0). No external copyright.*
+
 ## Source Trace
 
 - Source: OpenStax College Physics; The Physics Classroom; IOPSpark; Physics LibreTexts — paraphrased, no copied text.

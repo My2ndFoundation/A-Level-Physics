@@ -80,6 +80,20 @@ Low risk. Secure trolleys/runways so masses cannot fall onto feet; clamp gates f
 - Card not perpendicular to the beam, lengthening the block time.
 - Treating the average speed through the gate as if it were exactly the instantaneous speed for a wide card.
 
+## Visuals
+
+### Light Gate Measurement Geometry
+```mermaid
+flowchart LR
+    A["Interrupt card\n(width d)"] -->|"blocks beam\nfor time t"| B["Light Gate 1\n(timer starts/stops)"]
+    B -->|"speed v₁ = d/t₁"| C["Gap = s\n(measured)"]
+    C --> D["Light Gate 2\n(second timing)"]
+    D -->|"speed v₂ = d/t₂"| E["Data logger"]
+    E -->|"a = (v₂−v₁)/Δt"| F["Result: acceleration"]
+```
+*Figure: Two-gate setup for measuring acceleration: the card of known width d blocks each beam for a short time, giving instantaneous speeds v₁ and v₂ at each gate; the data logger computes acceleration from the speed difference and the time interval between gates.*
+*Source: Authored for this vault (CC0). No external copyright.*
+
 ## Source Trace
 
 - Source: OCR Practical Skills Handbook; The Physics Classroom; IOPSpark; OpenStax

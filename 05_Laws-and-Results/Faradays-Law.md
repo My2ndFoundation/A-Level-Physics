@@ -85,6 +85,27 @@ For a conductor of length L moving at speed v perpendicular to a field B, the ar
 - Forgetting the minus sign / direction from [[Lenzs-Law]].
 - Computing total flux instead of *rate of change* of flux.
 
+## Visuals
+
+### Flux linkage and induced EMF
+
+```mermaid
+graph LR
+    B["Magnetic flux density B (T)"]
+    A["Area of coil A (m²)"]
+    N["Number of turns N"]
+    theta["Angle θ between B and area normal"]
+    NΦ["Flux linkage NΦ = NBAcosθ (Wb)"]
+    emf["Induced e.m.f.\nε = −Δ(NΦ)/Δt (V)"]
+    B --> NΦ
+    A --> NΦ
+    N --> NΦ
+    theta --> NΦ
+    NΦ -->|"Rate of change"| emf
+```
+*Figure: Faraday's Law — the induced e.m.f. equals the rate of change of flux linkage NΦ. Any of B, A, N, or θ can be varied.*
+*Source: Authored for this vault (CC0). No external copyright.*
+
 ## Source Trace
 
 OpenStax College Physics; HyperPhysics; Physics LibreTexts — no copied text.

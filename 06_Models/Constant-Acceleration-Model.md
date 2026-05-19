@@ -78,6 +78,21 @@ This model extends the GCSE ideas of speed and acceleration into a precise vecto
 - Mixing up displacement and distance.
 - Inconsistent sign convention for the chosen positive direction.
 
+## Visuals
+
+### Velocity–Time Graph: Constant Acceleration
+
+```mermaid
+xychart-beta
+    title "Constant Acceleration: v–t Graph (straight line)"
+    x-axis "Time t (s)" [0, 1, 2, 3, 4, 5]
+    y-axis "Velocity v (m/s)" 0 --> 25
+    line [0, 5, 10, 15, 20, 25]
+```
+
+*Figure: A straight v–t line is the graphical signature of constant acceleration; gradient = a, area under line = displacement s.*
+*Source: Authored for this vault (CC0). No external copyright.*
+
 ## Source Trace
 
 - Source: OpenStax College Physics; The Physics Classroom; Isaac Physics — paraphrased, no copied text.

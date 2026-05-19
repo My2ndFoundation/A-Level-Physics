@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 360 220" width="360" height="220" font-family="sans-serif">
+  <rect width="360" height="220" fill="#f9f9f9" rx="6"/>
+  <!-- Coil (schematic ellipses) -->
+  <ellipse cx="130" cy="110" rx="18" ry="60" fill="none" stroke="#555" stroke-width="2"/>
+  <ellipse cx="148" cy="110" rx="18" ry="60" fill="none" stroke="#555" stroke-width="2"/>
+  <ellipse cx="166" cy="110" rx="18" ry="60" fill="none" stroke="#555" stroke-width="2"/>
+  <!-- Coil leads -->
+  <line x1="112" y1="90" x2="60" y2="90" stroke="#555" stroke-width="2"/>
+  <line x1="112" y1="130" x2="60" y2="130" stroke="#555" stroke-width="2"/>
+  <!-- Galvanometer/EMF indicator -->
+  <circle cx="40" cy="110" r="20" fill="white" stroke="#333" stroke-width="1.5"/>
+  <text x="40" y="114" text-anchor="middle" font-size="13" fill="#333">G</text>
+  <line x1="60" y1="90" x2="60" y2="130" stroke="#555" stroke-width="1.5"/>
+  <!-- Magnet (bar) approaching from right -->
+  <rect x="230" y="75" width="100" height="70" fill="#ddd" stroke="#888" stroke-width="1.5" rx="4"/>
+  <rect x="230" y="75" width="50" height="70" fill="#c0392b" stroke="#922b21" stroke-width="1.5" rx="4 0 0 4"/>
+  <text x="255" y="115" text-anchor="middle" font-size="14" fill="white" font-weight="bold">N</text>
+  <text x="305" y="115" text-anchor="middle" font-size="14" fill="#555" font-weight="bold">S</text>
+  <!-- Motion arrow -->
+  <defs>
+    <marker id="aM" markerWidth="8" markerHeight="8" refX="6" refY="3" orient="auto">
+      <path d="M0,0 L0,6 L8,3 z" fill="#2980b9"/>
+    </marker>
+  </defs>
+  <line x1="228" y1="110" x2="198" y2="110" stroke="#2980b9" stroke-width="2" marker-end="url(#aM)"/>
+  <text x="210" y="100" font-size="11" fill="#2980b9">motion</text>
+  <!-- Flux label -->
+  <text x="184" y="50" text-anchor="middle" font-size="11" fill="#27ae60">changing Φ → induced ε</text>
+  <!-- Formula -->
+  <text x="180" y="195" text-anchor="middle" font-size="11" fill="#333">ε = −NΔΦ/Δt  (Faraday's Law)</text>
+  <text x="180" y="210" text-anchor="middle" font-size="10" fill="#888">Direction opposes change (Lenz's Law)</text>
+</svg>

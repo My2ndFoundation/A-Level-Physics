@@ -84,6 +84,21 @@ This classification organises hundreds of observed particles, predicts which rea
 - Treating quarks and leptons as the same family
 - Forgetting mesons are quark–antiquark pairs, not three quarks
 
+## Visuals
+
+### Classification hierarchy of fundamental and composite particles
+```mermaid
+flowchart TD
+    A[Matter particles] --> B[Quarks\n6 types: u d c s t b]
+    A --> C[Leptons\n6 types: e μ τ νe νμ ντ]
+    B --> D[Hadrons\n composed of quarks]
+    D --> E[Baryons\n3 quarks\ne.g. proton = uud\nneutron = udd]
+    D --> F[Mesons\nquark–antiquark pair\ne.g. pions]
+    C --> G[e.g. electron, neutrino\ndo NOT feel strong force]
+```
+*Figure: Quarks bind into hadrons (baryons or mesons); leptons remain fundamental and do not feel the strong interaction. This tree shows how the particles relevant to OCR H556 fit together.*
+*Source: Authored for this vault (CC0). No external copyright.*
+
 ## Source Trace
 
 - Source: OpenStax College Physics; HyperPhysics; CERN educational material — no copied text

@@ -71,6 +71,27 @@ This formalises the GCSE habit of drawing an object as a dot with arrows. It mak
 - Using a point mass where rotation or moments matter.
 - Forgetting that the model places all forces at one point.
 
+## Visuals
+
+### Point Mass Model: What the Simplification Removes
+
+```mermaid
+graph TD
+    A["Real object\n(size, shape, rotation, deformation)"]
+    B["Point mass model"]
+    C["Single point carrying mass m"]
+    D["Translational equations apply\nF = ma,  p = mv"]
+    E["Rotation / moments → excluded\n(use Rigid Body Model instead)"]
+
+    A -->|"idealise"| B
+    B --> C
+    C --> D
+    B --> E
+```
+
+*Figure: The point mass reduces a real object to a mass at a point; forces, momentum, and Newton's second law apply without any turning effects.*
+*Source: Authored for this vault (CC0). No external copyright.*
+
 ## Source Trace
 
 - Source: OpenStax College Physics; The Physics Classroom; Isaac Physics — paraphrased, no copied text.

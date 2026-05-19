@@ -89,6 +89,24 @@ Energy conservation for a single photon–electron interaction: input photon ene
 - Mixing joules and electronvolts
 - Treating `KE_max` as the kinetic energy of *every* electron rather than the maximum
 
+## Visuals
+
+### Photon energy budget
+
+```mermaid
+graph LR
+    photon["Photon energy hf"]
+    phi["Work function φ\n(energy to escape metal)"]
+    KE["KE_max = hf − φ\n(maximum kinetic energy\nof emitted electron)"]
+    threshold["Threshold frequency f₀\nhf₀ = φ → KE = 0"]
+    photon -->|"if hf ≥ φ"| KE
+    photon --> phi
+    phi --> threshold
+    KE -.->|"measured via stopping potential eV_s = KE_max"| KE
+```
+*Figure: Photoelectric equation energy budget — photon energy splits between escaping the metal and kinetic energy of the emitted electron.*
+*Source: Authored for this vault (CC0). No external copyright.*
+
 ## Source Trace
 
 - Source: OpenStax College Physics; HyperPhysics; Physics LibreTexts — paraphrased, no copied text

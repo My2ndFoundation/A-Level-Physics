@@ -71,6 +71,22 @@ This extends the GCSE idea that "different colours of light carry different ener
 - Treating photon energy as depending on intensity.
 - Using the photon model to explain diffraction.
 
+## Visuals
+
+### Photon Model: Energy Quantisation Chain
+
+```mermaid
+graph LR
+    A["Electromagnetic radiation"] -->|"modelled as"| B["Stream of photons"]
+    B -->|"each photon carries"| C["E = hf = hc/λ"]
+    C -->|"one photon absorbed by"| D["one electron"]
+    D -->|"if E ≥ work function φ"| E["electron ejected  (photoelectric effect)"]
+    D -->|"if E < work function"| F["no emission  (regardless of intensity)"]
+```
+
+*Figure: The photon model links radiation frequency to discrete energy packets; intensity means more photons per second, not more energy per photon.*
+*Source: Authored for this vault (CC0). No external copyright.*
+
 ## Source Trace
 
 - Source: OpenStax College Physics; The Physics Classroom; Isaac Physics — paraphrased, no copied text.

@@ -68,6 +68,21 @@ The curve represents [[Capacitor-Discharge-Equation]]: Q = Q₀ e^(−t/RC). Bec
 - Plotting log₁₀ but using the gradient as −1/RC (with log₁₀ the gradient is −1/(RC ln 10)); use ln for the simple −1/RC result.
 - Treating the curve as a straight line or reading the half-life as the time constant (t½ = 0.69τ).
 
+## Visuals
+
+### Capacitor discharge curve: Q vs t
+
+```mermaid
+xychart-beta
+    title "Capacitor discharge: Q falls exponentially (tau = 1 s)"
+    x-axis "time t (s)" [0, 0.5, 1, 1.5, 2, 2.5, 3]
+    y-axis "charge Q (relative to Q0)" 0 --> 100
+    line [100, 61, 37, 22, 14, 8, 5]
+```
+
+*Figure: Q falls from its initial value Q₀ (here scaled to 100) following Q = Q₀ e^(−t/RC). After one time constant τ = RC the charge has fallen to ~37% of Q₀ (the point where the tangent at t = 0 meets the t-axis). The curve is asymptotic to zero and never crosses it. The initial gradient is −Q₀/RC.*
+*Source: Authored for this vault (CC0). No external copyright.*
+
 ## Source Trace
 
 - Source: OpenStax College Physics; HyperPhysics; Physics LibreTexts — no copied text

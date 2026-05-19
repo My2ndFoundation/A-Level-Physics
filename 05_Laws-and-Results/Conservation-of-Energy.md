@@ -97,6 +97,21 @@ For a constant force doing work `W = Fd`, the work–energy theorem gives `W = �
 - Mixing units (heights in cm, speeds in km h⁻¹)
 - Treating energy as a vector
 
+## Visuals
+
+### Energy transfer chain
+
+```mermaid
+graph LR
+    GPE["Gravitational PE\nmgh"] -->|"falling object"| KE["Kinetic Energy\n½mv²"]
+    KE -->|"friction"| Thermal["Thermal Energy\n(dissipated)"]
+    KE -->|"elastic collision"| EPE["Elastic PE\n½kx²"]
+    EPE -->|"spring release"| KE
+    GPE -.->|"Total E = GPE + KE = constant\n(no dissipation)"| KE
+```
+*Figure: Conservation of energy: energy transfers between stores; the total is unchanged in an isolated system.*
+*Source: Authored for this vault (CC0). No external copyright.*
+
 ## Source Trace
 
 - Source: OpenStax College Physics; HyperPhysics; Physics LibreTexts — paraphrased, no copied text

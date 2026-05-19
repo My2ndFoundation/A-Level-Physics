@@ -54,6 +54,22 @@ Builds on the GCSE skill of finding the gradient of a straight line as rise over
 
 - [[Ignoring-Units]]
 
+## Visuals
+
+### Velocity–Time Graph: Correct Gradient vs Single-Point Error
+
+```mermaid
+xychart-beta
+    title "Velocity–time graph (line does not pass through origin)"
+    x-axis "Time / s" [0, 1, 2, 3, 4, 5, 6]
+    y-axis "Velocity / m/s" 0 --> 20
+    line [4, 6, 8, 10, 12, 14, 16]
+```
+
+*Figure: The line starts at 4 m/s when t = 0 (non-zero intercept). The correct gradient (acceleration) is Δv/Δt = (14 − 6)/(5 − 1) = 2 m/s², taken between two widely separated points. The common error is to read the point (4 s, 12 m/s) and compute 12 ÷ 4 = 3 m/s², which gives the wrong answer because the line does not pass through the origin.*
+
+*Source: Authored for this vault (CC0). No external copyright.*
+
 ## Source Trace
 
 - Source: OpenStax College Physics; IOPSpark; Isaac Physics; OCR examiner reports (general) — no copied text

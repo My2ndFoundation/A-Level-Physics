@@ -66,6 +66,17 @@ Explain where this concept appears and why it is useful.
 
 - [[...]]
 
+## Visuals
+
+<!-- Each entry: an authored diagram (Mermaid/SVG) OR an openly-licensed image.
+     Every image MUST carry: caption, license, author, source URL.
+     Authored-diagram source line: *Source: Authored for this vault (CC0). No external copyright.* -->
+
+### [Diagram/Photo title]
+![[_attachments/<file>]]
+*Figure: <one-line caption explaining what to look at>.*
+*Source: <Title> — <Author> — <License> — <canonical URL>. Retrieved <date>.*
+
 ## Source Trace
 
 - Source:

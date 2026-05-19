@@ -81,6 +81,13 @@ UV sources can harm eyes and skin — never look directly at UV; use shielding. 
 - Misidentifying the stopping potential (small residual/reverse currents).
 - Using a non-monochromatic source so the frequency is ill-defined.
 
+## Visuals
+
+### Photoelectric Effect Diagram
+![[_attachments/09_Experiments-and-Practicals/Investigating-Photoelectric-Effect--photoelectric-effect-diagram.svg]]
+*Figure: Diagram of the photoelectric effect showing a photon of energy hf striking a metal surface and ejecting an electron (photoelectron) with maximum kinetic energy Ek = hf − φ, where φ is the work function. The threshold frequency f₀ is the minimum frequency that can eject an electron.*
+*Source: Photoelectric effect — Wolfmankurd — CC BY-SA 3.0 — https://commons.wikimedia.org/wiki/File:Photoelectric_effect.svg. Retrieved 2026-05-19.*
+
 ## Source Trace
 
 - Source: OCR Practical Skills Handbook; The Physics Classroom; IOPSpark; OpenStax

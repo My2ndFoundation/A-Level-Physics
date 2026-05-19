@@ -81,6 +81,23 @@ Atomic structure underpins chemistry, ionisation, conduction, [[Radioactive-Deca
 - Forgetting N = A − Z (using A as the neutron count)
 - Thinking electron mass is negligible in all contexts (it matters for energy levels)
 
+## Visuals
+
+### Atomic composition summary
+
+```mermaid
+flowchart TD
+    A["Atom\n(electrically neutral)"] --> B["Nucleus\n(tiny, dense)"]
+    A --> C["Electrons (Z)\ncharge = −Ze\nmass ≈ 1/1836 u each"]
+    B --> D["Protons (Z)\ncharge = +e\nmass ≈ 1 u each"]
+    B --> E["Neutrons (N = A − Z)\ncharge = 0\nmass ≈ 1 u each"]
+    D --> F["Fixes the element"]
+    E --> G["Determines isotope"]
+```
+
+*Figure: Structure of an atom. Z (proton number) fixes the element; A = Z + N is the nucleon number. The nucleus contains almost all the mass but is tiny compared with the atom.*
+*Source: Authored for this vault (CC0). No external copyright.*
+
 ## Source Trace
 
 - Source: OpenStax College Physics; HyperPhysics; CERN educational material — no copied text

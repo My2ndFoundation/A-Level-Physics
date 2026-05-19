@@ -75,6 +75,25 @@ The SUVAT equations are the exact algebraic consequences of integrating a consta
 - [[Projectile-Motion]]
 - Vertical free-fall problems
 
+## Visuals
+
+### SUVAT equation selector
+
+```mermaid
+flowchart TD
+    A[List known suvat quantities] --> B{Which quantity\nis irrelevant / unknown?}
+    B -->|"No s"| C["v = u + at"]
+    B -->|"No v"| D["s = ut + ½at²"]
+    B -->|"No t"| E["v² = u² + 2as"]
+    B -->|"No a"| F["s = ½(u + v)t"]
+    C --> G[Substitute with consistent signs\nCheck answer is physically sensible]
+    D --> G
+    E --> G
+    F --> G
+```
+*Figure: Choose the SUVAT equation that contains your three known quantities and the target unknown but excludes the irrelevant one. A constant-acceleration velocity–time graph has gradient = a and area = s.*
+*Source: Authored for this vault (CC0). No external copyright.*
+
 ## Source Trace
 
 - Source: OpenStax College Physics; The Physics Classroom; Isaac Physics — paraphrased, no copied text.

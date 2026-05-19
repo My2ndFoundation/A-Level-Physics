@@ -93,6 +93,19 @@ It provides the molecular interpretation of [[Temperature]] and [[Internal-Energ
 - [[Confusing-Heat-and-Temperature]]
 - Treating r.m.s. speed as equal to the mean speed
 
+## Visuals
+
+### Maxwell–Boltzmann speed distribution shifts with temperature
+```mermaid
+xychart-beta
+  title "Qualitative: higher T shifts the speed distribution right and flattens it"
+  x-axis "Molecular speed (relative units)" [0, 1, 2, 3, 4, 5, 6, 7, 8]
+  y-axis "Number of molecules (relative)" 0 --> 5
+  line [0, 2.5, 4.5, 3.5, 1.8, 0.7, 0.2, 0.05, 0.01]
+```
+*Figure: Qualitative Maxwell–Boltzmann distribution at lower temperature T₁. At higher T₂ the peak shifts right (higher most probable speed), the curve flattens, and the high-speed tail grows. Mean KE per molecule = ³⁄₂ kT.*
+*Source: Authored for this vault (CC0). No external copyright.*
+
 ## Source Trace
 
 - Source: OpenStax College Physics; HyperPhysics; The Physics Classroom — paraphrased, no copied text

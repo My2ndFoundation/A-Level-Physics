@@ -83,6 +83,21 @@ Ionisation underlies radiation detectors, the hazards of ionising radiation, gas
 - Thinking any photon can ionise an atom regardless of energy.
 - Forgetting ionisation energy refers to the ground-state, most weakly bound electron.
 
+## Visuals
+
+### Energy-level diagram: ionisation vs excitation
+```mermaid
+flowchart TB
+    Zero["0 eV  ──── ionisation level (free electron)"]
+    L2["─────── excited level (e.g. −1.5 eV)"]
+    L1["─────── ground state (e.g. −13.6 eV for hydrogen)"]
+    L1 -->|"excitation:\nphoton absorbed,\nelectron stays bound"| L2
+    L1 -->|"ionisation:\nenough energy to\nreach 0 eV — electron escapes"| Zero
+    L2 -->|"recombination:\nphoton emitted"| L1
+```
+*Figure: Ionisation requires raising the electron from its current level all the way to the zero (free) level. Excitation only raises it to an intermediate level; the electron remains bound. Ionisation energy = energy needed to reach 0 eV from the ground state.*
+*Source: Authored for this vault (CC0). No external copyright.*
+
 ## Source Trace
 
 - Source: OpenStax College Physics; The Physics Classroom; IOPSpark; Physics LibreTexts — paraphrased, no copied text.

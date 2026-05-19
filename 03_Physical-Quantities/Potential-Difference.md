@@ -86,6 +86,25 @@ On an [[IV-Characteristic]], p.d. is the x-axis (or y-axis depending on conventi
 - Confusing emf with terminal p.d. (they differ by the "lost volts" across internal resistance)
 - Treating voltage as something that "flows"
 
+## Visuals
+
+```mermaid
+flowchart LR
+    V["Potential Difference V\n(energy per unit charge, J C⁻¹)"]
+    I["Current I (A)"]
+    R["Resistance R (Ω)"]
+    P["Power P = IV (W)"]
+    emf["emf ε: terminal p.d. = ε − Ir\n(lost volts = Ir)"]
+
+    V -->|"V = IR (Ohm's Law)"| R
+    I --> R
+    V -->|"P = IV"| P
+    I --> P
+    emf -->|"reduces by Ir"| V
+```
+*Figure: Potential difference V sits at the centre of circuit relationships — defining resistance via Ohm's Law, power via P = IV, and linking to emf via internal resistance.*
+*Source: Authored for this vault (CC0). No external copyright.*
+
 ## Source Trace
 
 - Source: OpenStax College Physics; The Physics Classroom; HyperPhysics (paraphrased, no copied text)

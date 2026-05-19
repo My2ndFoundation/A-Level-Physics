@@ -68,6 +68,13 @@ Total internal reflection guides light along optical fibres with almost no loss,
 - Thinking TIR can occur going from a less dense to a denser medium.
 - Confusing partial reflection (always present) with total internal reflection (only beyond $\theta_c$).
 
+## Visuals
+
+### Total internal reflection: three-case ray diagram
+![[_attachments/04_Concepts/Total-Internal-Reflection--ray-diagram.svg]]
+*Figure: Left — angle below critical angle: partial refraction and partial reflection. Centre — angle equals critical angle: refracted ray grazes the boundary. Right — angle exceeds critical angle: total internal reflection (all light stays in dense medium). Angles measured from the normal.*
+*Source: Authored for this vault (CC0). No external copyright.*
+
 ## Source Trace
 
 - Source: OpenStax College Physics; HyperPhysics; IOPSpark

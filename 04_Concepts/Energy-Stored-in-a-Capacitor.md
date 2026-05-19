@@ -89,6 +89,21 @@ Energy storage explains why a camera flash or defibrillator uses a capacitor: en
 - Mixing the three energy forms (½CV² needs V; Q²/2C needs Q — do not substitute inconsistently).
 - Assuming all supplied energy is stored (during charging through a resistor, exactly half is dissipated as heat regardless of resistance).
 
+## Visuals
+
+### Charge–voltage graph: stored energy as triangular area
+
+```mermaid
+xychart-beta
+  title "Charge Q vs Voltage V for a capacitor (schematic)"
+  x-axis "Voltage V (relative)" [0, 0.2, 0.4, 0.6, 0.8, 1.0]
+  y-axis "Charge Q (relative)" 0 --> 1.0
+  line [0, 0.2, 0.4, 0.6, 0.8, 1.0]
+```
+
+*Figure: Q = CV gives a straight line through the origin (gradient = C). The energy stored W = ½QV is the triangular area under this line — not the full rectangle QV, because V starts at zero and rises as charge accumulates.*
+*Source: Authored for this vault (CC0). No external copyright.*
+
 ## Source Trace
 
 - Source: OpenStax College Physics; HyperPhysics; Physics LibreTexts — no copied text

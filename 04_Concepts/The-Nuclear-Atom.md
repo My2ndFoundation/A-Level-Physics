@@ -74,6 +74,13 @@ The nuclear model is the basis for understanding [[Radioactive-Decay]], [[Nuclea
 - Confusing nuclear diameter (~10⁻¹⁵ m) with atomic diameter (~10⁻¹⁰ m)
 - Thinking electrons orbit like planets at fixed radii (this is a simplification)
 
+## Visuals
+
+### Nuclear model: atom vs nucleus scale
+![[_attachments/04_Concepts/The-Nuclear-Atom--nuclear-model-scale.svg]]
+*Figure: The nucleus (~10⁻¹⁵ m) is tiny compared to the whole atom (~10⁻¹⁰ m) — a ratio of roughly 1 : 10 000 to 100 000. The red dot represents the nucleus (all positive charge and nearly all mass); blue dots represent electrons in the vast surrounding space.*
+*Source: Authored for this vault (CC0). No external copyright.*
+
 ## Source Trace
 
 - Source: OpenStax College Physics; HyperPhysics; CERN educational material — no copied text

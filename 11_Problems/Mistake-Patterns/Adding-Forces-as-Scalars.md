@@ -65,6 +65,16 @@ treating displacement like distance.
 
 - Finding a resultant of two or more concurrent forces
 
+## Visuals
+
+### Vector Addition of Two Perpendicular Forces
+
+![[_attachments/11_Problems/Adding-Forces-as-Scalars--vector-addition.svg]]
+
+*Figure: Two forces of 5 N (east, red) and 5 N (north, blue) acting at a point. The correct resultant (green) is found by completing the parallelogram: magnitude ≈ 7.1 N at 45° north of east, not 10 N. Adding magnitudes without considering direction (shown in the red box) overstates the resultant and loses directional information entirely.*
+
+*Source: Authored for this vault (CC0). No external copyright.*
+
 ## Source Trace
 
 OpenStax College Physics; HyperPhysics; The Physics Classroom — no copied text.

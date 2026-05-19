@@ -83,6 +83,24 @@ On a displacement–time graph, the period is the time for one full cycle (peak 
 - Timing a single cycle (high percentage uncertainty)
 - Forgetting the small-angle condition for the pendulum formula
 
+## Visuals
+
+```mermaid
+flowchart LR
+    T["Period T (s)\none complete cycle"]
+    f["Frequency f = 1/T (Hz)"]
+    omega["Angular frequency\nω = 2π/T (rad s⁻¹)"]
+    pend["Simple pendulum\nT = 2π√(L/g)"]
+    spring["Mass–spring\nT = 2π√(m/k)"]
+
+    T <-->|"reciprocal"| f
+    T -->|"2π/T"| omega
+    T --- pend
+    T --- spring
+```
+*Figure: Period T is the reciprocal of frequency f; it connects to angular frequency ω and to the SHM formulas for a pendulum and a mass–spring system.*
+*Source: Authored for this vault (CC0). No external copyright.*
+
 ## Source Trace
 
 - Source: OpenStax College Physics; The Physics Classroom; HyperPhysics (paraphrased, no copied text)

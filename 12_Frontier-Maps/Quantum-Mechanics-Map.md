@@ -84,6 +84,13 @@ energy, photons, and matter waves.
 - [[Energy-Levels]]
 - [[De-Broglie-Equation]]
 
+## Visuals
+
+### Double-slit interference pattern — quantum behaviour in action
+![[_attachments/12_Frontier-Maps/Quantum-Mechanics-Map--double-slit.jpg]]
+*Figure: The interference fringes produced when electrons (or photons) pass through two slits — the classic demonstration that quantum objects exhibit wave behaviour even one particle at a time.*
+*Source: Double-slit away from slits — Alexandre Gondran — CC BY-SA 4.0 — https://commons.wikimedia.org/wiki/File:Double-slit_away_from_slits.jpg. Retrieved 2026-05-19.*
+
 ## Source Trace
 
 - Source: [[IOP-Explore-Physics]]; Institute of Physics — Explore Physics; Wikipedia (navigation)

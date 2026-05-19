@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 340 260" width="340" height="260" font-family="sans-serif">
+  <rect width="340" height="260" fill="#f9f9f9" rx="8"/>
+  <text x="170" y="22" text-anchor="middle" font-size="14" font-weight="bold" fill="#333">Uniform Electric Field Between Parallel Plates</text>
+  <!-- Positive plate (top) -->
+  <rect x="40" y="50" width="260" height="14" fill="#ffcccc" stroke="#cc2200" stroke-width="1.5" rx="2"/>
+  <text x="310" y="63" fill="#cc2200" font-size="14" font-weight="bold">+</text>
+  <!-- Negative plate (bottom) -->
+  <rect x="40" y="186" width="260" height="14" fill="#cce0ff" stroke="#2266cc" stroke-width="1.5" rx="2"/>
+  <text x="310" y="199" fill="#2266cc" font-size="14" font-weight="bold">−</text>
+  <!-- Uniform field lines (evenly spaced, parallel, downward) -->
+  <defs>
+    <marker id="fieldArr" markerWidth="7" markerHeight="7" refX="5" refY="3" orient="auto">
+      <path d="M0,0 L0,6 L7,3 z" fill="#555"/>
+    </marker>
+  </defs>
+  <line x1="80"  y1="64" x2="80"  y2="186" stroke="#555" stroke-width="1.5" marker-end="url(#fieldArr)"/>
+  <line x1="130" y1="64" x2="130" y2="186" stroke="#555" stroke-width="1.5" marker-end="url(#fieldArr)"/>
+  <line x1="180" y1="64" x2="180" y2="186" stroke="#555" stroke-width="1.5" marker-end="url(#fieldArr)"/>
+  <line x1="230" y1="64" x2="230" y2="186" stroke="#555" stroke-width="1.5" marker-end="url(#fieldArr)"/>
+  <line x1="280" y1="64" x2="280" y2="186" stroke="#555" stroke-width="1.5" marker-end="url(#fieldArr)"/>
+  <!-- E field label -->
+  <text x="18" y="125" fill="#333" font-size="13" font-weight="bold">E</text>
+  <!-- d annotation -->
+  <line x1="14" y1="64" x2="14" y2="186" stroke="#888" stroke-width="1"/>
+  <line x1="9" y1="64" x2="19" y2="64" stroke="#888" stroke-width="1"/>
+  <line x1="9" y1="186" x2="19" y2="186" stroke="#888" stroke-width="1"/>
+  <text x="7" y="132" fill="#888" font-size="11">d</text>
+  <!-- Equation -->
+  <text x="170" y="225" text-anchor="middle" fill="#333" font-size="13">E = V / d</text>
+  <text x="170" y="246" text-anchor="middle" fill="#555" font-size="11">Field lines straight, parallel, evenly spaced — field is uniform</text>
+</svg>

@@ -82,6 +82,13 @@ On a displacement–position ("snapshot") graph, wavelength is the distance for 
 - Forgetting node-to-node spacing is half a wavelength
 - Confusing wavelength with amplitude
 
+## Visuals
+
+### Wave Snapshot: Wavelength λ is Crest-to-Crest Distance
+![[_attachments/03_Physical-Quantities/Wavelength--wave-snapshot.svg]]
+*Figure: Displacement–position snapshot of a transverse wave. Wavelength λ (red) spans one full cycle (crest to crest). Amplitude A (orange) is the maximum displacement from equilibrium. This is a position graph — on a time graph the corresponding quantity is period T.*
+*Source: Authored for this vault (CC0). No external copyright.*
+
 ## Source Trace
 
 - Source: OpenStax College Physics; The Physics Classroom; HyperPhysics (paraphrased, no copied text)

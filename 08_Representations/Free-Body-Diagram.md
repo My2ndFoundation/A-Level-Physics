@@ -67,6 +67,14 @@ Not applicable — this is a diagram, not a graph. The analytic step is **resolv
 - Omitting weight or the normal contact force.
 - Drawing the Newton's third law pair on the same diagram (the pair acts on different bodies).
 
+## Visuals
+
+### Free-body diagram: block on a surface
+
+![[_attachments/08_Representations/free-body-diagram--block-on-slope.svg]]
+*Figure: A block (the free body) with four forces labelled and drawn as arrows: weight W = mg downward from the centre, normal contact force N perpendicular upward from the surface, friction f opposing motion (leftward), and an applied force F (rightward). Only forces acting ON the block are shown — the Newton's third-law reaction pair acts on different bodies and is excluded.*
+*Source: Authored for this vault (CC0). No external copyright.*
+
 ## Source Trace
 
 - Source: OCR Practical Skills Handbook; The Physics Classroom; IOPSpark; OpenStax

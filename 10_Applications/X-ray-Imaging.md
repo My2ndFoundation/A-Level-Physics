@@ -66,6 +66,13 @@ Producing a two-dimensional shadow image of internal anatomy by passing X-rays t
 - Confusing tube accelerating voltage (sets maximum photon energy) with beam current (sets photon rate).
 - Treating attenuation as linear rather than exponential.
 
+## Visuals
+
+### X-ray Radiograph of a Hand
+![[_attachments/10_Applications/X-ray-Imaging--hand-radiograph.jpg]]
+*Figure: Early X-ray radiograph of a hand with a ring on one finger. Dense bone (high atomic number) absorbs X-rays strongly and appears white; soft tissue transmits more and appears grey; the metal ring absorbs almost completely and appears white-bright.*
+*Source: X-ray of the bones of a hand with a ring on one finger — Wilhelm Röntgen / Wellcome Collection — Public Domain — https://commons.wikimedia.org/wiki/File:X-ray_of_the_bones_of_a_hand_with_a_ring_on_one_finger_Wellcome_V0029523.jpg. Retrieved 2026-05-19.*
+
 ## Source Trace
 
 - Source: OpenStax College Physics; HyperPhysics; IOPSpark

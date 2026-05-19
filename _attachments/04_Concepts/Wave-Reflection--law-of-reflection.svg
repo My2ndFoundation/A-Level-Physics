@@ -1,0 +1,43 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 320 260" width="320" height="260" font-family="sans-serif">
+  <rect width="320" height="260" fill="#f9f9f9" rx="8"/>
+  <text x="160" y="22" text-anchor="middle" font-size="14" font-weight="bold" fill="#333">Law of Reflection</text>
+  <!-- Mirror surface -->
+  <line x1="20" y1="150" x2="300" y2="150" stroke="#555" stroke-width="2.5"/>
+  <!-- Hatch marks for mirror -->
+  <line x1="20" y1="150" x2="30" y2="162" stroke="#888" stroke-width="1"/>
+  <line x1="50" y1="150" x2="60" y2="162" stroke="#888" stroke-width="1"/>
+  <line x1="80" y1="150" x2="90" y2="162" stroke="#888" stroke-width="1"/>
+  <line x1="110" y1="150" x2="120" y2="162" stroke="#888" stroke-width="1"/>
+  <line x1="140" y1="150" x2="150" y2="162" stroke="#888" stroke-width="1"/>
+  <line x1="170" y1="150" x2="180" y2="162" stroke="#888" stroke-width="1"/>
+  <line x1="200" y1="150" x2="210" y2="162" stroke="#888" stroke-width="1"/>
+  <line x1="230" y1="150" x2="240" y2="162" stroke="#888" stroke-width="1"/>
+  <line x1="260" y1="150" x2="270" y2="162" stroke="#888" stroke-width="1"/>
+  <line x1="290" y1="150" x2="300" y2="162" stroke="#888" stroke-width="1"/>
+  <!-- Normal (dashed vertical at centre) -->
+  <line x1="160" y1="60" x2="160" y2="210" stroke="#bbb" stroke-width="1.2" stroke-dasharray="5,4"/>
+  <text x="165" y="72" fill="#888" font-size="11">normal</text>
+  <!-- Incident ray (from top-left to point of incidence) -->
+  <defs>
+    <marker id="rArr" markerWidth="8" markerHeight="8" refX="6" refY="3" orient="auto">
+      <path d="M0,0 L0,6 L8,3 z" fill="#2266cc"/>
+    </marker>
+    <marker id="rArr2" markerWidth="8" markerHeight="8" refX="6" refY="3" orient="auto">
+      <path d="M0,0 L0,6 L8,3 z" fill="#cc4400"/>
+    </marker>
+  </defs>
+  <line x1="60" y1="70" x2="160" y2="150" stroke="#2266cc" stroke-width="2.5" marker-end="url(#rArr)"/>
+  <text x="70" y="78" fill="#2266cc" font-size="12">incident</text>
+  <!-- Reflected ray (from point of incidence to top-right, symmetric) -->
+  <line x1="160" y1="150" x2="260" y2="70" stroke="#cc4400" stroke-width="2.5" marker-end="url(#rArr2)"/>
+  <text x="228" y="78" fill="#cc4400" font-size="12">reflected</text>
+  <!-- Angle θi (incident) -->
+  <path d="M 160,115 A 36,36 0 0,0 134,114" fill="none" stroke="#2266cc" stroke-width="1.5" stroke-dasharray="3,2"/>
+  <text x="122" y="112" fill="#2266cc" font-size="12" font-weight="bold">θᵢ</text>
+  <!-- Angle θr (reflected) -->
+  <path d="M 160,115 A 36,36 0 0,1 186,114" fill="none" stroke="#cc4400" stroke-width="1.5" stroke-dasharray="3,2"/>
+  <text x="190" y="112" fill="#cc4400" font-size="12" font-weight="bold">θᵣ</text>
+  <!-- Equation -->
+  <text x="160" y="238" text-anchor="middle" fill="#333" font-size="13" font-weight="bold">θᵢ = θᵣ</text>
+  <text x="160" y="254" text-anchor="middle" fill="#555" font-size="11">Both angles measured from the normal</text>
+</svg>

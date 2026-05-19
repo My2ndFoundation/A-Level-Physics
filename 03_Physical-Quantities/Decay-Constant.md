@@ -82,6 +82,21 @@ On a graph of ln N (or ln A) against time, the line is straight with gradient �
 - Using inconsistent time units between λ and t
 - Forgetting the minus sign in ΔN/Δt = −λN
 
+## Visuals
+
+### ln A vs Time: Gradient = −λ
+
+```mermaid
+xychart-beta
+  title "ln(Activity) vs time — gradient = −λ"
+  x-axis "Time t / s" [0, 1, 2, 3, 4, 5]
+  y-axis "ln(A / Bq)" 0 --> 6
+  line [5, 4, 3, 2, 1, 0]
+```
+
+*Figure: Plotting ln A against t converts the exponential decay into a straight line. The gradient equals −λ (the decay constant). The steeper the decline, the larger λ and the less stable the isotope. The y-intercept gives ln A₀.*
+*Source: Authored for this vault (CC0). No external copyright.*
+
 ## Source Trace
 
 - Source: OpenStax College Physics; HyperPhysics; CERN educational material — no copied text

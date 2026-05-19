@@ -75,6 +75,19 @@ The existence of a sharp threshold frequency, independent of intensity, was dire
 - Believing low-frequency light eventually frees electrons if bright enough (it never does).
 - Confusing threshold frequency with the work function (one is a frequency, the other an energy).
 
+## Visuals
+
+### Maximum KE vs frequency graph: threshold frequency f₀
+```mermaid
+xychart-beta
+    title "Photoelectric effect: KE_max vs frequency f"
+    x-axis "Frequency f" [0.5f0, f0, 1.5f0, 2.0f0, 2.5f0]
+    y-axis "Max KE of photoelectrons" -5 --> 10
+    line [0, 0, 5, 10, 10]
+```
+*Figure: Below f₀ (threshold frequency) no electrons are emitted regardless of intensity. At and above f₀, KE_max rises linearly with f; the gradient equals the Planck constant h. The x-intercept is f₀ = φ/h.*
+*Source: Authored for this vault (CC0). No external copyright.*
+
 ## Source Trace
 
 - Source: OpenStax College Physics; HyperPhysics; IOPSpark

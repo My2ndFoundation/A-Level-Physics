@@ -1,0 +1,66 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 480 280" width="480" height="280" font-family="sans-serif" font-size="13">
+  <!-- Background -->
+  <rect width="480" height="280" fill="#fafafa" rx="6"/>
+
+  <!-- Ground line -->
+  <line x1="20" y1="240" x2="460" y2="240" stroke="#555" stroke-width="2"/>
+
+  <!-- Launch point marker -->
+  <circle cx="60" cy="120" r="5" fill="#2563eb"/>
+
+  <!-- Parabolic trajectory -->
+  <path d="M60,120 Q200,60 380,240" fill="none" stroke="#2563eb" stroke-width="2.5" stroke-dasharray="6,3"/>
+
+  <!-- Landing point -->
+  <circle cx="380" cy="240" r="5" fill="#dc2626"/>
+
+  <!-- Horizontal arrow (ux component) -->
+  <line x1="60" y1="120" x2="150" y2="120" stroke="#16a34a" stroke-width="2" marker-end="url(#arrowG)"/>
+  <text x="100" y="112" fill="#16a34a" font-size="12" text-anchor="middle">u_x = u cos θ</text>
+
+  <!-- Vertical arrow (uy component) -->
+  <line x1="60" y1="120" x2="60" y2="60" stroke="#dc2626" stroke-width="2" marker-end="url(#arrowR)"/>
+  <text x="62" y="56" fill="#dc2626" font-size="12">u_y = u sin θ</text>
+
+  <!-- Launch angle arc -->
+  <path d="M90,120 A30,30 0 0,0 70,97" fill="none" stroke="#555" stroke-width="1.5"/>
+  <text x="96" y="108" fill="#555" font-size="12">θ</text>
+
+  <!-- Gravity arrow at peak -->
+  <line x1="220" y1="80" x2="220" y2="110" stroke="#555" stroke-width="2" marker-end="url(#arrowK)"/>
+  <text x="226" y="100" fill="#555" font-size="12">g</text>
+
+  <!-- Horizontal distance label -->
+  <line x1="60" y1="252" x2="380" y2="252" stroke="#555" stroke-width="1.5" marker-start="url(#tickS)" marker-end="url(#tickE)"/>
+  <text x="220" y="268" fill="#333" font-size="12" text-anchor="middle">horizontal range x = u_x · t</text>
+
+  <!-- Height label (for angled launch case) -->
+  <line x1="44" y1="120" x2="44" y2="240" stroke="#555" stroke-width="1.5" stroke-dasharray="4,2"/>
+  <text x="30" y="185" fill="#333" font-size="12" text-anchor="middle" transform="rotate(-90,30,185)">height</text>
+
+  <!-- Labels -->
+  <text x="48" y="115" fill="#2563eb" font-size="12" font-weight="bold">launch</text>
+  <text x="362" y="235" fill="#dc2626" font-size="12" font-weight="bold">land</text>
+
+  <!-- Title -->
+  <text x="240" y="22" fill="#333" font-size="13" text-anchor="middle" font-weight="bold">Projectile geometry: independent horizontal and vertical motion</text>
+
+  <!-- Arrow markers -->
+  <defs>
+    <marker id="arrowG" markerWidth="8" markerHeight="8" refX="6" refY="3" orient="auto">
+      <path d="M0,0 L0,6 L8,3 z" fill="#16a34a"/>
+    </marker>
+    <marker id="arrowR" markerWidth="8" markerHeight="8" refX="6" refY="3" orient="auto">
+      <path d="M0,0 L0,6 L8,3 z" fill="#dc2626"/>
+    </marker>
+    <marker id="arrowK" markerWidth="8" markerHeight="8" refX="6" refY="3" orient="auto">
+      <path d="M0,0 L0,6 L8,3 z" fill="#555"/>
+    </marker>
+    <marker id="tickS" markerWidth="4" markerHeight="8" refX="2" refY="4" orient="auto">
+      <line x1="2" y1="0" x2="2" y2="8" stroke="#555" stroke-width="1.5"/>
+    </marker>
+    <marker id="tickE" markerWidth="4" markerHeight="8" refX="2" refY="4" orient="auto">
+      <line x1="2" y1="0" x2="2" y2="8" stroke="#555" stroke-width="1.5"/>
+    </marker>
+  </defs>
+</svg>

@@ -82,6 +82,22 @@ Fusion powers stars and the chemical evolution of the universe, and is a leading
 - Underestimating why high temperature is needed (overcoming Coulomb repulsion).
 - Thinking fusion produces large amounts of long-lived radioactive waste like fission.
 
+## Visuals
+
+### D–T fusion reaction
+```mermaid
+flowchart LR
+    D["²H  Deuterium\n(1 proton, 1 neutron)"]
+    T["³H  Tritium\n(1 proton, 2 neutrons)"]
+    D -->|"high T needed\nto overcome\nCoulomb barrier"| Reaction["Fusion"]
+    T --> Reaction
+    Reaction --> He["⁴He  Helium\n(2 protons, 2 neutrons)"]
+    Reaction --> n["fast neutron n\n(carries ~80% energy)"]
+    Reaction --> E["Energy released\n≈ 17.6 MeV per reaction\n(Δm × c²)"]
+```
+*Figure: Deuterium and tritium fuse to give helium-4 and a fast neutron. Energy is released because the helium nucleus is more tightly bound than the two hydrogen isotopes — the products lie higher on the binding-energy-per-nucleon curve.*
+*Source: Authored for this vault (CC0). No external copyright.*
+
 ## Source Trace
 
 - Source: OpenStax College Physics; The Physics Classroom; IOPSpark; Physics LibreTexts — paraphrased, no copied text.

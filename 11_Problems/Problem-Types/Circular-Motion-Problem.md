@@ -64,6 +64,16 @@ A body moves in a circular path at constant speed and the question involves the 
 - [[Treating-Centripetal-Force-as-an-Extra-Force]]
 - Mixing $v$ and $\omega$ without converting.
 
+## Visuals
+
+### Conical Pendulum — Force Resolution Setup
+
+![[_attachments/11_Problems/Circular-Motion-Problem--conical-pendulum-setup.svg]]
+
+*Figure: A conical pendulum of mass m with string at angle θ from the vertical. Tension T is resolved into a vertical component T cosθ (which balances weight mg) and a horizontal component T sinθ (which provides the centripetal force mv²/r toward the pivot axis). The radius of the circular orbit r is the horizontal distance from the axis to the ball. This geometry applies directly to the "conical pendulum" variation listed in the Standard Approach.*
+
+*Source: Authored for this vault (CC0). No external copyright.*
+
 ## Example Sources
 
 - Source: Original problem-type pattern; aligned to OCR H556.

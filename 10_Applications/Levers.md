@@ -73,6 +73,13 @@ for the [[Principle-of-Moments]].
 - Ignoring the weight of the bar acting at its centre of mass.
 - Forgetting the pivot exerts a reaction force found from force balance.
 
+## Visuals
+
+### Lever Classes and Mechanical Advantage
+![[_attachments/10_Applications/Levers--lever-mechanical-advantage.svg]]
+*Figure: Diagram showing the three classes of lever with effort (E), load (L), and fulcrum (F) in different positions. The mechanical advantage equals the ratio of effort arm to load arm; class 1 (fulcrum between E and L) and class 2 give mechanical advantage > 1 in the useful configuration.*
+*Source: Lever mechanical advantage — Jimbowley — CC BY-SA 3.0 — https://commons.wikimedia.org/wiki/File:Lever_mechanical_advantage.svg. Retrieved 2026-05-19.*
+
 ## Source Trace
 
 OpenStax College Physics; HyperPhysics; The Physics Classroom — no copied text.

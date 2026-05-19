@@ -85,6 +85,22 @@ current as moving charge.
 - Saying protons move during charging — only electrons transfer.
 - Confusing static charge with electric current (static is not flowing).
 
+## Visuals
+
+### Static charge: electron transfer by friction
+```mermaid
+flowchart LR
+    A["Object A (insulator)"] -- "friction / contact\ntransfers electrons" --> B["Object B (insulator)"]
+    A --> PA["Loses electrons\n→ positively charged"]
+    B --> PB["Gains electrons\n→ negatively charged"]
+    PA -- "unlike charges" --> ATT["attract"]
+    PB -- "unlike charges" --> ATT
+    PA -- "like charges" --> REP["repel (with another +)"]
+    PB -- "like charges" --> REP2["repel (with another −)"]
+```
+*Figure: Only electrons transfer; protons stay fixed in nuclei. Charge is conserved: total charge on A + B is unchanged after transfer.*
+*Source: Authored for this vault (CC0). No external copyright.*
+
 ## Source Trace
 
 OpenStax College Physics; HyperPhysics; The Physics Classroom — no copied text.

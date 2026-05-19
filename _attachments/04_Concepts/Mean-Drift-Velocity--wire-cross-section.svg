@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 360 200" width="360" height="200" font-family="sans-serif" font-size="13">
+  <!-- Wire cylinder (perspective ellipse ends) -->
+  <!-- Left end ellipse -->
+  <ellipse cx="70" cy="100" rx="18" ry="55" fill="#cce" stroke="#555" stroke-width="1.5"/>
+  <!-- Wire body -->
+  <rect x="70" y="45" width="220" height="110" fill="#dde" stroke="none"/>
+  <!-- Right end ellipse (front) -->
+  <ellipse cx="290" cy="100" rx="18" ry="55" fill="#bbd" stroke="#555" stroke-width="1.5"/>
+  <!-- Top and bottom edges -->
+  <line x1="70" y1="45" x2="290" y2="45" stroke="#555" stroke-width="1.5"/>
+  <line x1="70" y1="155" x2="290" y2="155" stroke="#555" stroke-width="1.5"/>
+  <!-- Drift velocity arrow (rightward) -->
+  <line x1="120" y1="100" x2="250" y2="100" stroke="#e44" stroke-width="2.5"/>
+  <polygon points="256,100 242,95 242,105" fill="#e44"/>
+  <text x="165" y="92" fill="#e44" font-size="13" font-weight="bold">v (drift)</text>
+  <!-- Cross-section annotation on right face -->
+  <text x="298" y="95" fill="#333" font-size="12">A</text>
+  <text x="296" y="110" fill="#333" font-size="11">(area)</text>
+  <!-- Carrier density label -->
+  <text x="80" y="75" fill="#555" font-size="12">n carriers m⁻³</text>
+  <!-- Electrons as dots -->
+  <circle cx="130" cy="115" r="4" fill="#44c"/>
+  <circle cx="155" cy="88" r="4" fill="#44c"/>
+  <circle cx="180" cy="120" r="4" fill="#44c"/>
+  <circle cx="210" cy="85" r="4" fill="#44c"/>
+  <circle cx="235" cy="112" r="4" fill="#44c"/>
+  <!-- Label electrons -->
+  <text x="94" y="130" fill="#44c" font-size="11">charge carriers (e each)</text>
+  <!-- Formula -->
+  <text x="70" y="185" fill="#333" font-size="13" font-weight="bold">I = nAve</text>
+  <!-- Title -->
+  <text x="5" y="18" fill="#333" font-size="12" font-weight="bold">Mean drift velocity in a conductor</text>
+</svg>

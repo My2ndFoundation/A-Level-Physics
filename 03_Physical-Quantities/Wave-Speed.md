@@ -89,6 +89,26 @@ On a distance–time graph of a single wavefront, the gradient is the wave speed
 - Assuming wave speed changes with frequency in a non-dispersive medium (it does not — `λ` changes instead).
 - Thinking speed changes on [[Wave-Reflection]] (it does not; the medium is unchanged).
 
+## Visuals
+
+```mermaid
+flowchart LR
+    v["Wave Speed v (m s⁻¹)\nphase speed of wave pattern"]
+    feq["v = fλ\nwave equation"]
+    f["Frequency f (Hz)"]
+    lam["Wavelength λ (m)"]
+    T["Period T: v = λ/T"]
+    refr["In medium: v = c/n\n(n = refractive index)"]
+
+    f -->|"× λ"| v
+    lam --> v
+    v <--> feq
+    T -->|"λ/T"| v
+    v --> refr
+```
+*Figure: Wave speed v = fλ. For a given medium v is fixed — increasing f means λ decreases proportionally. In a medium of refractive index n the speed is c/n.*
+*Source: Authored for this vault (CC0). No external copyright.*
+
 ## Source Trace
 
 - Source: OpenStax College Physics; HyperPhysics; The Physics Classroom — paraphrased, no copied text.

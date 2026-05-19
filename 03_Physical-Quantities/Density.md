@@ -81,6 +81,21 @@ A plot of mass against volume for a single material is a straight line through t
 - Confusing density with weight or with mass
 - Measuring volume incorrectly for irregular solids
 
+## Visuals
+
+### Mass vs Volume: Gradient = Density
+
+```mermaid
+xychart-beta
+  title "Mass vs volume for a single material"
+  x-axis "Volume V / cm³" [0, 10, 20, 30, 40, 50]
+  y-axis "Mass m / g" 0 --> 400
+  line [0, 80, 160, 240, 320, 400]
+```
+
+*Figure: For a single material, m and V are proportional; the gradient of the m–V graph is the density ρ = m/V (here ρ = 8 g cm⁻³, consistent with copper). Different materials give lines of different gradients through the same origin.*
+*Source: Authored for this vault (CC0). No external copyright.*
+
 ## Source Trace
 
 - Source: OpenStax College Physics; The Physics Classroom; HyperPhysics (paraphrased, no copied text)

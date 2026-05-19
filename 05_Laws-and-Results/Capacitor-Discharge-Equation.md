@@ -92,6 +92,20 @@ For the discharge loop, `Q/C = IR` and `I = −dQ/dt`, giving `dQ/dt = −Q/RC`.
 - Forgetting that `V` and `I` decay with the same `RC` as `Q`
 - Plotting `Q` vs `t` and expecting a straight line instead of using `ln Q`
 
+## Visuals
+
+### Exponential discharge curve (Q vs t)
+
+```mermaid
+xychart-beta
+    title "Capacitor discharge: Q = Q₀ e^(−t/RC)"
+    x-axis "t / RC" [0, 1, 2, 3, 4, 5]
+    y-axis "Q / Q₀" 0 --> 1
+    line [1, 0.368, 0.135, 0.050, 0.018, 0.007]
+```
+*Figure: Charge falls exponentially. After one time constant RC, charge is about 37% of Q₀. Voltage and current follow identical curves with the same time constant.*
+*Source: Authored for this vault (CC0). No external copyright.*
+
 ## Source Trace
 
 - Source: OpenStax College Physics; HyperPhysics; Physics LibreTexts — paraphrased, no copied text

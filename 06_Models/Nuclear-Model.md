@@ -90,6 +90,25 @@ It refines the earlier "tiny solar-system atom" idea by giving real evidence
   speck.
 - Forgetting that the electrons, not the nucleus, set the atom's overall size.
 
+## Visuals
+
+### Nuclear Model: Atom Scale Comparison
+
+```mermaid
+graph TD
+    A["Atom  ~10⁻¹⁰ m  (mostly empty space)"]
+    B["Electron cloud  (sets atomic size)"]
+    C["Nucleus  ~10⁻¹⁵ m  (almost all the mass, +Ze charge)"]
+    D["Protons + Neutrons  (nucleons)"]
+
+    A --> B
+    A --> C
+    C --> D
+```
+
+*Figure: The nucleus is roughly 10⁵ times smaller than the atom in linear dimension; the atom is mostly empty space, explaining why most alpha particles pass straight through (Geiger–Marsden experiment).*
+*Source: Authored for this vault (CC0). No external copyright.*
+
 ## Source Trace
 
 OpenStax College Physics; HyperPhysics; The Physics Classroom — no copied text.

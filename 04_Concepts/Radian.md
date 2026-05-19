@@ -75,6 +75,13 @@ Radian measure makes the small-angle approximation sin θ ≈ θ valid (needed i
 
 - [[Confusing-Angular-and-Linear-Quantities]]
 
+## Visuals
+
+### Radian definition: arc length equals radius
+![[_attachments/04_Concepts/Radian--arc-radius-geometry.svg]]
+*Figure: One radian is subtended when the arc length s equals the radius r, so θ = s/r = 1. A full circle subtends 2π rad (≈ 6.28 radians). Because s and r share the same unit, θ is dimensionless.*
+*Source: Authored for this vault (CC0). No external copyright.*
+
 ## Source Trace
 
 - Source: OpenStax College Physics; HyperPhysics; The Physics Classroom — no copied text

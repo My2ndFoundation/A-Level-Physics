@@ -80,6 +80,19 @@ Not applicable (analysis step). Extrapolating far beyond the data range reduces 
 - Forcing the line through the origin and hiding a real systematic error.
 - Extrapolating a long way and treating the result as precise.
 
+## Visuals
+
+### Reading the y-Intercept from a Best-Fit Line
+```mermaid
+xychart-beta
+    title "y = mx + c  →  y-intercept = c at x = 0"
+    x-axis "x (independent variable)" [0, 1, 2, 3, 4, 5]
+    y-axis "y (dependent variable)" 0 --> 16
+    line [4, 6, 8, 10, 12, 14]
+```
+*Figure: The y-intercept c is read where the best-fit line crosses the y-axis (at x = 0). Here c = 4, representing a non-zero baseline quantity (e.g. the emf ε in the V = ε − Ir graph, or a systematic offset). If the y-axis does not start at x = 0, the intercept must be calculated from a known point and the gradient.*
+*Source: Authored for this vault (CC0). No external copyright.*
+
 ## Source Trace
 
 - Source: OCR Practical Skills Handbook; The Physics Classroom; IOPSpark; OpenStax

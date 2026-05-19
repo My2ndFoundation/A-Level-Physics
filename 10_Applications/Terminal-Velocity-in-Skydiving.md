@@ -71,6 +71,13 @@ A skydiver leaving an aircraft does not accelerate indefinitely. As speed rises,
 - [[Using-SUVAT-When-Acceleration-Is-Not-Constant]]
 - [[Misreading-Graph-Gradient]]
 
+## Visuals
+
+### Skydiver in Free Fall
+![[_attachments/10_Applications/Terminal-Velocity-in-Skydiving--skydiver.jpg]]
+*Figure: Skydiver in a spread-eagle body position during free fall. The large cross-sectional area and associated air resistance are clearly the result of deliberate body orientation — changing posture alters the drag force and hence the terminal velocity.*
+*Source: Monica Skydiving — Tomás Del Coro — CC BY-SA 2.0 — https://commons.wikimedia.org/wiki/File:Monica_Skydiving_(35841193251).jpg. Retrieved 2026-05-19.*
+
 ## Source Trace
 
 - Source: OpenStax College Physics; IOPSpark; Isaac Physics; OCR examiner reports (general) — no copied text

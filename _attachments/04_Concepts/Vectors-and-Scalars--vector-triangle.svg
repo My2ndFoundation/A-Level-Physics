@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 340 260" width="340" height="260" font-family="sans-serif">
+  <rect width="340" height="260" fill="#f9f9f9" rx="8"/>
+  <text x="170" y="22" text-anchor="middle" font-size="14" font-weight="bold" fill="#333">Vector Addition: Tip-to-Tail Triangle</text>
+  <!-- Example: 3 m East + 4 m North = 5 m resultant -->
+  <!-- Start point -->
+  <circle cx="60" cy="200" r="4" fill="#333"/>
+  <text x="42" y="218" fill="#555" font-size="11">start</text>
+  <!-- East vector (A = 3 units right) -->
+  <defs>
+    <marker id="vArr" markerWidth="8" markerHeight="8" refX="6" refY="3" orient="auto">
+      <path d="M0,0 L0,6 L8,3 z" fill="#cc2200"/>
+    </marker>
+    <marker id="vArrG" markerWidth="8" markerHeight="8" refX="6" refY="3" orient="auto">
+      <path d="M0,0 L0,6 L8,3 z" fill="#009922"/>
+    </marker>
+    <marker id="vArrP" markerWidth="8" markerHeight="8" refX="6" refY="3" orient="auto">
+      <path d="M0,0 L0,6 L8,3 z" fill="#6600cc"/>
+    </marker>
+  </defs>
+  <!-- A: east -->
+  <line x1="60" y1="200" x2="210" y2="200" stroke="#cc2200" stroke-width="2.5" marker-end="url(#vArr)"/>
+  <text x="135" y="218" text-anchor="middle" fill="#cc2200" font-size="12">A = 3 (East)</text>
+  <!-- B: north (from tip of A) -->
+  <line x1="210" y1="200" x2="210" y2="60" stroke="#009922" stroke-width="2.5" marker-end="url(#vArrG)"/>
+  <text x="232" y="132" fill="#009922" font-size="12">B = 4 (North)</text>
+  <!-- Resultant: from start to final tip -->
+  <line x1="60" y1="200" x2="210" y2="60" stroke="#6600cc" stroke-width="2.5" marker-end="url(#vArrP)"/>
+  <text x="112" y="110" fill="#6600cc" font-size="12" font-weight="bold">R = 5</text>
+  <!-- Right angle marker at corner -->
+  <rect x="210" y="190" width="12" height="12" fill="none" stroke="#555" stroke-width="1"/>
+  <!-- Angle theta -->
+  <path d="M 80,200 A 22,22 0 0,0 65,188" fill="none" stroke="#555" stroke-width="1.2" stroke-dasharray="3,2"/>
+  <text x="88" y="192" fill="#555" font-size="10">θ</text>
+  <!-- Equations -->
+  <text x="170" y="240" text-anchor="middle" fill="#555" font-size="11">|R| = √(A²+B²),  direction = tan⁻¹(B/A)</text>
+</svg>

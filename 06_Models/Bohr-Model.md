@@ -86,6 +86,27 @@ existence of [[Energy-Levels]], which the purely nuclear picture cannot do.
 - Forgetting that only the exact energy difference is emitted or absorbed, not
   any value (see [[Confusing-Photon-Energy-and-Intensity]]).
 
+## Visuals
+
+### Bohr Model: Energy Level Transitions
+
+```mermaid
+graph TD
+    E1["n=1  Ground state  (lowest energy)"]
+    E2["n=2  First excited state"]
+    E3["n=3  Second excited state"]
+    Ei["n=∞  Ionisation level  (E = 0)"]
+
+    E1 -->|"absorb photon  ΔE = hf"| E2
+    E2 -->|"absorb photon  ΔE = hf"| E3
+    E3 -->|"absorb photon"| Ei
+    E3 -->|"emit photon  ΔE = hf"| E1
+    E2 -->|"emit photon  ΔE = hf"| E1
+```
+
+*Figure: Electron transitions between discrete energy levels; each arrow represents absorption or emission of a photon with energy exactly equal to the level difference.*
+*Source: Authored for this vault (CC0). No external copyright.*
+
 ## Source Trace
 
 OpenStax College Physics; HyperPhysics; The Physics Classroom — no copied text.

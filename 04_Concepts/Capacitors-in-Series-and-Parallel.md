@@ -90,6 +90,29 @@ Combination rules let designers reach a required capacitance or voltage rating f
 - Assuming series capacitors share voltage equally (the smallest C takes the largest share of V).
 - Forgetting that series capacitors all carry the same charge, not the same voltage.
 
+## Visuals
+
+### Combination rules: parallel vs series
+
+```mermaid
+flowchart LR
+    subgraph PAR["Parallel — same V across each"]
+        direction TB
+        P1["C₁"] --- Pjoin
+        P2["C₂"] --- Pjoin
+        P3["C₃"] --- Pjoin
+        Pjoin["C_total = C₁ + C₂ + C₃\n(capacitance increases)"]
+    end
+    subgraph SER["Series — same Q through each"]
+        direction TB
+        S1["C₁"] --> S2["C₂"] --> S3["C₃"]
+        Sresult["1/C_total = 1/C₁ + 1/C₂ + 1/C₃\n(C_total < smallest Cᵢ)"]
+    end
+```
+
+*Figure: In parallel, capacitances add directly (larger effective plate area). In series, reciprocals add (larger effective gap) — giving a total capacitance smaller than any individual capacitor.*
+*Source: Authored for this vault (CC0). No external copyright.*
+
 ## Source Trace
 
 - Source: OpenStax College Physics; HyperPhysics; Physics LibreTexts — no copied text

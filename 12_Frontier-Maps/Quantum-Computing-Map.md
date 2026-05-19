@@ -83,6 +83,13 @@ only hints at superposition.
 - [[Energy-Levels]]
 - [[Wave-Particle-Duality]]
 
+## Visuals
+
+### IBM Quantum System One — a commercial superconducting quantum computer
+![[_attachments/12_Frontier-Maps/Quantum-Computing-Map--ibm-quantum.jpg]]
+*Figure: The IBM Quantum System One, encased in a cylindrical dilution refrigerator that keeps superconducting qubits near absolute zero to maintain their quantum states.*
+*Source: IBM Quantum System One — OJB Quantum — CC BY 4.0 — https://commons.wikimedia.org/wiki/File:IBM_Quantum_System_One.jpg. Retrieved 2026-05-19.*
+
 ## Source Trace
 
 - Source: [[IOP-Explore-Physics]]; Institute of Physics — Explore Physics; Wikipedia (navigation)

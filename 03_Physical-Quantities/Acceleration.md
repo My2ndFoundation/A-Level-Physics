@@ -95,6 +95,21 @@ Acceleration is rarely measured directly. Common A-Level approaches:
 - Assuming acceleration is zero whenever velocity is momentarily zero (e.g. at the top of a vertical throw, `a = g`)
 - Applying SUVAT when acceleration is not constant
 
+## Visuals
+
+### Velocity–Time Graph: Gradient = Acceleration
+
+```mermaid
+xychart-beta
+  title "Velocity–time graph (constant acceleration)"
+  x-axis "Time t / s" [0, 1, 2, 3, 4]
+  y-axis "Velocity v / m s⁻¹" 0 --> 20
+  line [0, 5, 10, 15, 20]
+```
+
+*Figure: A straight line on a v–t graph means constant acceleration; the gradient equals a = Δv/Δt. A steeper line means larger acceleration.*
+*Source: Authored for this vault (CC0). No external copyright.*
+
 ## Source Trace
 
 - Source: OpenStax College Physics; The Physics Classroom; HyperPhysics (paraphrased, no copied text)

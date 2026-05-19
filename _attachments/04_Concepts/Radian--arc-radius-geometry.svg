@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 320 280" width="320" height="280" font-family="sans-serif">
+  <!-- Background -->
+  <rect width="320" height="280" fill="#f9f9f9" rx="8"/>
+  <!-- Circle -->
+  <circle cx="160" cy="150" r="100" fill="none" stroke="#555" stroke-width="2"/>
+  <!-- Radius line 1 (horizontal right) -->
+  <line x1="160" y1="150" x2="260" y2="150" stroke="#2266cc" stroke-width="2.5"/>
+  <!-- Radius line 2 (rotated ~57.3° = 1 rad) -->
+  <line x1="160" y1="150" x2="214" y2="58" stroke="#2266cc" stroke-width="2.5"/>
+  <!-- Arc for 1 radian -->
+  <path d="M 260,150 A 100,100 0 0,0 214,58" fill="none" stroke="#cc4400" stroke-width="3"/>
+  <!-- Label: arc = r -->
+  <text x="264" y="110" fill="#cc4400" font-size="13" font-weight="bold">arc = r</text>
+  <!-- Label: r (horizontal radius) -->
+  <text x="200" y="168" fill="#2266cc" font-size="13">r</text>
+  <!-- Label: r (angled radius) -->
+  <text x="183" y="96" fill="#2266cc" font-size="13">r</text>
+  <!-- Angle arc to indicate θ = 1 rad -->
+  <path d="M 200,150 A 40,40 0 0,0 181,114" fill="none" stroke="#555" stroke-width="1.5" stroke-dasharray="4,3"/>
+  <text x="204" y="133" fill="#333" font-size="12">θ = 1 rad</text>
+  <!-- Centre dot -->
+  <circle cx="160" cy="150" r="3" fill="#333"/>
+  <!-- Title -->
+  <text x="160" y="24" text-anchor="middle" font-size="14" font-weight="bold" fill="#333">One Radian: θ = s / r = 1</text>
+  <!-- Equation -->
+  <text x="160" y="260" text-anchor="middle" font-size="12" fill="#555">When arc length s = r,  θ = 1 radian ≈ 57.3°</text>
+</svg>

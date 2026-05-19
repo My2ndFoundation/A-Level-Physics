@@ -73,6 +73,14 @@ This extends the GCSE idea that "batteries run down" and that voltage falls unde
 - Ignoring internal resistance when current is large.
 - Sign errors applying [[Kirchhoffs-Second-Law]] around the loop.
 
+## Visuals
+
+### Internal Resistance Model: Circuit Diagram
+
+![[_attachments/06_Models/Internal-Resistance-Model--circuit.svg]]
+*Figure: A real cell modelled as ideal emf ε in series with internal resistance r; terminal p.d. V = ε − Ir is the voltage available to the external load R.*
+*Source: Authored for this vault (CC0). No external copyright.*
+
 ## Source Trace
 
 - Source: OpenStax College Physics; The Physics Classroom; Isaac Physics — paraphrased, no copied text.

@@ -92,6 +92,20 @@ all satellites of the same central body.
 - Forgetting period is independent of the satellite's mass
 - Mixing units (period not in seconds, radius not in metres)
 
+## Visuals
+
+### T² vs r³ relationship
+
+```mermaid
+xychart-beta
+    title "Kepler's Third Law: T² ∝ r³"
+    x-axis "r³ (AU³)" [0, 1, 8, 27, 64, 125]
+    y-axis "T² (yr²)" 0 --> 125
+    line [0, 1, 8, 27, 64, 125]
+```
+*Figure: A plot of T² against r³ for planets orbiting the same star is a straight line through the origin. The gradient equals 4π²/(GM).*
+*Source: Authored for this vault (CC0). No external copyright.*
+
 ## Source Trace
 
 - Source: OpenStax College Physics; HyperPhysics; NASA educational material — no copied text

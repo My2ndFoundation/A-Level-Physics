@@ -72,6 +72,28 @@ Any restoring effect proportional to displacement produces the equation a = −�
 
 - [[Banked-Tracks-and-Centrifuges]]
 
+## Visuals
+
+### SHM problem-solving pathway
+
+```mermaid
+flowchart TD
+    A[SHM problem] --> B{System type?}
+    B -->|"Mass on spring"| C["ω = √(k/m)"]
+    B -->|"Simple pendulum"| D["ω = √(g/L)"]
+    C --> E["T = 2π/ω, f = 1/T"]
+    D --> E
+    E --> F{What is asked?}
+    F -->|"Speed at position x"| G["v = ±ω√(A²−x²)\nv_max = ωA at x = 0"]
+    F -->|"Acceleration at x"| H["a = −ω²x\na_max = ω²A at x = ±A"]
+    F -->|"Energy"| I["E_total = ½mω²A²\nE_k = ½mω²(A²−x²)\nE_p = ½mω²x²"]
+    G --> J[Keep calculator in radians]
+    H --> J
+    I --> J
+```
+*Figure: Decision pathway for SHM calculations. Identify the system to find ω, then T and f; choose the energy or kinematic route for the final quantity.*
+*Source: Authored for this vault (CC0). No external copyright.*
+
 ## Source Trace
 
 - Source: OpenStax College Physics; HyperPhysics; The Physics Classroom — no copied text

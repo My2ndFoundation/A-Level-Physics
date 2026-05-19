@@ -82,6 +82,19 @@ Wear safety goggles — a wire under tension can snap and recoil. Place a padded
 - Loading beyond the elastic limit, so the wire does not return.
 - Forgetting the small straightening pre-load when zeroing the extension.
 
+## Visuals
+
+### Force against Extension Graph (Elastic Region)
+```mermaid
+xychart-beta
+    title "F vs x  →  gradient = F/x  →  E = (F/x)(L/A)"
+    x-axis "Extension x / mm" [0, 1, 2, 3, 4, 5]
+    y-axis "Load F / N" 0 --> 60
+    line [0, 10, 20, 30, 40, 50]
+```
+*Figure: Load F plotted against extension x in the elastic region gives a straight line through the origin (Hooke's Law region). The Young modulus E = (gradient × L) / A, where L is the original wire length and A = πd²/4 is the cross-sectional area. Deviation from linearity above the elastic limit is not plotted here.*
+*Source: Authored for this vault (CC0). No external copyright.*
+
 ## Source Trace
 
 - Source: OCR Practical Skills Handbook; The Physics Classroom; IOPSpark; OpenStax

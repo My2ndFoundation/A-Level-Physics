@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 360 220" width="360" height="220" font-family="sans-serif" font-size="13">
+  <!-- Beam (horizontal) -->
+  <rect x="40" y="95" width="280" height="12" fill="#aac" stroke="#333" stroke-width="1.5" rx="2"/>
+  <!-- Pivot (triangle at centre) -->
+  <polygon points="180,107 164,135 196,135" fill="#555" stroke="#333" stroke-width="1"/>
+  <text x="172" y="150" fill="#555" font-size="12">pivot</text>
+  <!-- Force F1 downward at left -->
+  <line x1="90" y1="95" x2="90" y2="42" stroke="#e44" stroke-width="2.5"/>
+  <polygon points="90,36 85,50 95,50" fill="#e44"/>
+  <!-- Wait — force should be downward. Let me redo: F arrow points down -->
+  <line x1="90" y1="95" x2="90" y2="40" stroke="#e44" stroke-width="2.5"/>
+  <polygon points="90,96 85,80 95,80" fill="#e44"/>
+  <text x="56" y="68" fill="#e44" font-size="13">F₁</text>
+  <!-- Perpendicular distance d1 (from pivot to F1 line of action) -->
+  <line x1="90" y1="107" x2="180" y2="107" stroke="#e44" stroke-width="1" stroke-dasharray="5,3"/>
+  <text x="120" y="122" fill="#e44" font-size="12">d₁</text>
+  <!-- Force F2 downward at right -->
+  <line x1="280" y1="95" x2="280" y2="40" stroke="#44c" stroke-width="2.5"/>
+  <polygon points="280,96 275,80 285,80" fill="#44c"/>
+  <text x="286" y="68" fill="#44c" font-size="13">F₂</text>
+  <!-- Perpendicular distance d2 -->
+  <line x1="180" y1="107" x2="280" y2="107" stroke="#44c" stroke-width="1" stroke-dasharray="5,3"/>
+  <text x="214" y="122" fill="#44c" font-size="12">d₂</text>
+  <!-- Anticlockwise/clockwise labels -->
+  <text x="52" y="175" fill="#e44" font-size="12">Anticlockwise moment = F₁ × d₁</text>
+  <text x="52" y="193" fill="#44c" font-size="12">Clockwise moment = F₂ × d₂</text>
+  <text x="52" y="211" fill="#090" font-size="12">Equilibrium: F₁d₁ = F₂d₂</text>
+  <!-- Title -->
+  <text x="5" y="20" fill="#333" font-size="12" font-weight="bold">Moment = Force × perpendicular distance from pivot</text>
+</svg>

@@ -1,0 +1,39 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 380 280" width="380" height="280" font-family="sans-serif" font-size="12">
+  <!-- Title -->
+  <text x="190" y="18" text-anchor="middle" font-size="14" font-weight="bold">Magnetic Field Lines: Bar Magnet</text>
+
+  <!-- Bar magnet body -->
+  <rect x="140" y="115" width="100" height="50" fill="#eee" stroke="#555" stroke-width="2"/>
+  <!-- N pole (left half) -->
+  <rect x="140" y="115" width="50" height="50" fill="#ffd0d0" stroke="#555" stroke-width="2"/>
+  <text x="165" y="145" text-anchor="middle" font-size="16" fill="#c00" font-weight="bold">N</text>
+  <!-- S pole (right half) -->
+  <rect x="190" y="115" width="50" height="50" fill="#d0d0ff" stroke="#555" stroke-width="2"/>
+  <text x="215" y="145" text-anchor="middle" font-size="16" fill="#006" font-weight="bold">S</text>
+
+  <!-- Field lines outside magnet (arrowheads from N toward S, looping around) -->
+  <defs>
+    <marker id="mArr" markerWidth="7" markerHeight="7" refX="5" refY="3" orient="auto">
+      <path d="M0,0 L0,6 L7,3 z" fill="#444"/>
+    </marker>
+  </defs>
+
+  <!-- Top loop: large arc above the magnet from N to S -->
+  <path d="M 155 115 C 155 55, 230 55, 225 115" fill="none" stroke="#444" stroke-width="1.8" marker-end="url(#mArr)"/>
+
+  <!-- Second top loop (slightly smaller) -->
+  <path d="M 160 115 C 160 75, 220 75, 220 115" fill="none" stroke="#444" stroke-width="1.5" marker-end="url(#mArr)"/>
+
+  <!-- Bottom loop: large arc below the magnet -->
+  <path d="M 155 165 C 155 225, 230 225, 225 165" fill="none" stroke="#444" stroke-width="1.8" marker-end="url(#mArr)"/>
+
+  <!-- Second bottom loop (slightly smaller) -->
+  <path d="M 160 165 C 160 205, 220 205, 220 165" fill="none" stroke="#444" stroke-width="1.5" marker-end="url(#mArr)"/>
+
+  <!-- Right-side line (horizontal, near poles) -->
+  <path d="M 145 140 C 90 110, 90 170, 145 140" fill="none" stroke="#444" stroke-width="1.5" marker-end="url(#mArr)"/>
+  <path d="M 235 140 C 295 110, 295 170, 235 140" fill="none" stroke="#444" stroke-width="1.5"/>
+
+  <!-- Direction annotation -->
+  <text x="190" y="268" text-anchor="middle" font-size="11" fill="#555">Lines emerge from N, enter S (outside magnet); continue S→N inside.</text>
+</svg>

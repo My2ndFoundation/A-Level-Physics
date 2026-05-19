@@ -71,6 +71,13 @@ Particle accelerators speed charged particles to very high energies using electr
 - [[Forgetting-Vector-Direction]]
 - [[Ignoring-Units]]
 
+## Visuals
+
+### LHC Tunnel at CERN
+![[_attachments/10_Applications/Particle-Accelerators--lhc-tunnel.jpg]]
+*Figure: Inside the Large Hadron Collider tunnel at CERN, showing the superconducting dipole magnets that bend the proton beams in a circle. The blue cylinders are the magnet cryostats; the beam travels inside the narrow bore at the centre.*
+*Source: CERN LHC Tunnel — Nikolai Schwerg — CC BY-SA 3.0 — https://commons.wikimedia.org/wiki/File:CERN_LHC_Tunnel.JPG. Retrieved 2026-05-19.*
+
 ## Source Trace
 
 - Source: OpenStax College Physics; IOPSpark; Isaac Physics; OCR examiner reports (general) — no copied text

@@ -74,6 +74,18 @@ Phase difference defines coherence (needed for stable [[Interference]]), describ
 - Quoting phase difference as a length rather than an angle.
 - Forgetting to convert between radians and degrees consistently.
 
+## Visuals
+
+### Phase relationship: in phase vs antiphase
+```mermaid
+flowchart LR
+    A["Phase difference = 0\n(or 2π, 4π, …)\nIn phase → constructive"] --> B["Both crests arrive together\nResultant amplitude = 2A"]
+    C["Phase difference = π\n(or 3π, 5π, …)\nAntiphase → destructive"] --> D["Crest meets trough\nResultant amplitude = 0"]
+    E["Phase difference = π/2\n(quarter cycle)"] --> F["Partial reinforcement\nResultant between 0 and 2A"]
+```
+*Figure: The result of superposition depends entirely on the phase difference. In phase (Δφ = 0, 2π, …) gives constructive interference; antiphase (Δφ = π, 3π, …) gives destructive. Phase difference links to path difference via Δφ = (2π/λ)Δx.*
+*Source: Authored for this vault (CC0). No external copyright.*
+
 ## Source Trace
 
 - Source: OpenStax College Physics; HyperPhysics; IOPSpark

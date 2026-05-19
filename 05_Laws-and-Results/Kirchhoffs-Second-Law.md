@@ -87,6 +87,26 @@ The electric field in an electrostatic circuit is conservative, so the work done
 - Omitting internal resistance of the cell
 - Forgetting energy conservation is the underlying principle
 
+## Visuals
+
+### Loop voltage balance
+
+```mermaid
+graph LR
+    emf["EMF source ε\n(energy gained per unit charge)"]
+    R1["Resistor R₁\nVoltage drop I·R₁"]
+    R2["Resistor R₂\nVoltage drop I·R₂"]
+    r["Internal resistance r\nVoltage drop I·r"]
+    loop["Closed loop:\nΣε = ΣIR\nε = I(R₁ + R₂ + r)\n(energy conservation)"]
+    emf --> R1
+    R1 --> R2
+    R2 --> r
+    r --> loop
+    loop --> emf
+```
+*Figure: Around a closed loop, EMFs gained equal voltage drops across resistors — conservation of energy per unit charge.*
+*Source: Authored for this vault (CC0). No external copyright.*
+
 ## Source Trace
 
 - Source: OpenStax College Physics; HyperPhysics; Physics LibreTexts — paraphrased, no copied text

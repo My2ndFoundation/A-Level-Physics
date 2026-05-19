@@ -100,6 +100,22 @@ galaxies, detect binary stars and exoplanets, and — through galactic
 - Using Δλ/λ = v/c when v is comparable to c
 - Confusing blueshift (approach) with redshift (recession)
 
+## Visuals
+
+### Doppler shift: wavefront compression and stretching
+
+```mermaid
+flowchart LR
+    S["Moving source\n(speed v toward observer)"] --> C["Wavefronts compressed\nahead of source\n→ shorter observed λ\n→ higher observed f"]
+    S --> R["Wavefronts stretched\nbehind source\n→ longer observed λ\n→ lower observed f"]
+    C --> Blue["Blueshift\n(approach)"]
+    R --> Red["Redshift\n(recession)"]
+    Red --> Astro["Galactic redshift\nΔλ/λ = v/c\n→ Hubble's Law"]
+```
+
+*Figure: A source moving toward an observer compresses wavefronts (blueshift); moving away stretches them (redshift). For astronomical light: Δλ/λ ≈ v/c for v << c.*
+*Source: Authored for this vault (CC0). No external copyright.*
+
 ## Source Trace
 
 - Source: OpenStax College Physics; HyperPhysics; NASA educational material — no copied text

@@ -86,6 +86,19 @@ A graph of flux linkage against time has a gradient equal to the negative of the
 - Omitting cos θ for a coil not perpendicular to the field.
 - Treating weber-turns as a different unit from the weber in calculations.
 
+## Visuals
+
+```mermaid
+xychart-beta
+    title "Flux Linkage NΦ and Induced emf ε vs angle ωt"
+    x-axis "ωt (rad)" [0, 1.57, 3.14, 4.71, 6.28]
+    y-axis "Normalised value" -1.1 --> 1.1
+    line [1, 0, -1, 0, 1]
+    line [0, 1, 0, -1, 0]
+```
+*Figure: NΦ (blue) varies as cos(ωt); the induced emf ε = −d(NΦ)/dt (orange) is 90° ahead — peaking where NΦ passes through zero.*
+*Source: Authored for this vault (CC0). No external copyright.*
+
 ## Source Trace
 
 OpenStax College Physics; HyperPhysics; Physics LibreTexts — no copied text.

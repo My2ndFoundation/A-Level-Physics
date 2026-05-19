@@ -84,6 +84,13 @@ Almost every mechanics problem begins by finding the resultant force. It is the 
 - Forgetting that a zero resultant allows constant non-zero velocity, not only rest.
 - Omitting a force (often friction or the normal force) from the free-body diagram.
 
+## Visuals
+
+### Resultant force: tip-to-tail vector addition
+![[_attachments/04_Concepts/Resultant-Force--vector-addition.svg]]
+*Figure: Two forces F₁ (horizontal) and F₂ (vertical) acting on an object. Right: placing them tip-to-tail, the resultant F_R (purple) closes the triangle. Its magnitude is √(F₁²+F₂²) and its direction is tan⁻¹(F₂/F₁) from F₁.*
+*Source: Authored for this vault (CC0). No external copyright.*
+
 ## Source Trace
 
 - Source: OpenStax College Physics; The Physics Classroom; IOPSpark; Physics LibreTexts — paraphrased, no copied text.

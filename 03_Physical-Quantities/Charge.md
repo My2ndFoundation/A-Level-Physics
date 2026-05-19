@@ -86,6 +86,21 @@ On a current–time graph, the **area under the curve** equals the charge that h
 - Confusing charge with current (current is the *rate* of charge flow)
 - Forgetting charge is quantised in units of `e`
 
+## Visuals
+
+### Current–Time Graph: Area = Charge
+
+```mermaid
+xychart-beta
+  title "Current vs time — area = charge transferred"
+  x-axis "Time t / s" [0, 1, 2, 3, 4, 5]
+  y-axis "Current I / A" 0 --> 4
+  line [3, 3, 3, 3, 3, 3]
+```
+
+*Figure: For a steady current of 3 A, the area under the I–t graph (the rectangle) equals the charge Q = I × t = 3 × 5 = 15 C. For a varying current, Q is the total area under the curve.*
+*Source: Authored for this vault (CC0). No external copyright.*
+
 ## Source Trace
 
 - Source: OpenStax College Physics; The Physics Classroom; HyperPhysics (paraphrased, no copied text)

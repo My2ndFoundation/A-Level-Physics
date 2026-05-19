@@ -81,6 +81,13 @@ Low risk. Secure the pulley and masses; keep fingers away from the vibrating str
 - Recording a frequency slightly off resonance (amplitude not at maximum).
 - Forgetting that mass per unit length must be measured, not assumed.
 
+## Visuals
+
+### Standing Waves on a String
+![[_attachments/09_Experiments-and-Practicals/Investigating-Stationary-Waves--standing-waves-on-string.gif]]
+*Figure: Animation of standing-wave harmonics on a string fixed at both ends, showing the fundamental (n = 1, one loop), second harmonic (n = 2, two loops), and higher modes — note fixed nodes at each end and a maximum antinode amplitude at the centre of each loop.*
+*Source: Standing waves on a string — Adjwilley — CC BY-SA 3.0 — https://commons.wikimedia.org/wiki/File:Standing_waves_on_a_string.gif. Retrieved 2026-05-19.*
+
 ## Source Trace
 
 - Source: OCR Practical Skills Handbook; The Physics Classroom; IOPSpark; OpenStax

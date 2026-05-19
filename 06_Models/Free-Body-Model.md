@@ -71,6 +71,14 @@ This makes precise the GCSE "force arrows on an object" picture, adding the stri
 - Drawing both members of a third-law pair on the same body.
 - Forgetting weight or the normal contact force.
 
+## Visuals
+
+### Free-Body Diagram: Block on a Slope
+
+![[_attachments/06_Models/Free-Body-Model--box-on-slope.svg]]
+*Figure: Three external forces on an isolated block — weight W (downward), normal contact force N (perpendicular to slope), and friction f (up the slope); no force the block exerts is shown.*
+*Source: Authored for this vault (CC0). No external copyright.*
+
 ## Source Trace
 
 - Source: OpenStax College Physics; The Physics Classroom; Isaac Physics — paraphrased, no copied text.

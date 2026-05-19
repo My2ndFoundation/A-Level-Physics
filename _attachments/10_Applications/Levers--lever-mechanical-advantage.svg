@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="600" font-family="sans-serif" font-size="29.333" font-weight="bold" text-anchor="middle">
+  <defs>
+    <marker id="a" markerHeight=".8" markerWidth="1" orient="auto-start-reverse" overflow="visible" preserveAspectRatio="none" viewBox="0 0 1 1">
+      <path fill="none" stroke="context-stroke" stroke-linecap="round" d="m-2.75 3 3-3-3-3"/>
+    </marker>
+  </defs>
+  <path fill="none" stroke="#000" stroke-width="10" d="M55.139 306.86h698.42"/>
+  <path fill="#a3e2c0" d="M91.898 186.99h86.304l28.21 105.28H65.522z"/>
+  <g fill="none">
+    <path stroke="#000" stroke-width="6" marker-end="url(#a)" d="m134.65 230.54.4 61.532"/>
+    <path stroke="#000" stroke-width="6" marker-end="url(#a)" d="m689.63 223.35.8 60.333"/>
+    <path stroke="#7ba1cd" stroke-dasharray="6, 3" stroke-width="3" d="M114.27 122.26H713.6M135.05 93.496v72.719m201.38-72.719v186.19m353.2-185.391v105.48"/>
+  </g>
+  <path fill="#4f81bd" stroke="#395e8b" stroke-width="3" d="m336.43 311.65-43.152 95.893h89.501z"/>
+  <text x="164.617" y="260.511">F<tspan dy=".4em" font-size="65%">B</tspan></text>
+  <text x="719.201" y="254.118">F<tspan dy=".4em" font-size="65%">A</tspan></text>
+  <text x="242.131" y="114.273">b</text>
+  <text x="531.41" y="116.67">a</text>
+</svg>

@@ -81,6 +81,25 @@ On a graph of energy supplied against temperature for a fixed mass, the **flat p
 - Adding a $\Delta\theta$ term during a change of state
 - Confusing latent heat of fusion with vaporisation
 
+## Visuals
+
+```mermaid
+flowchart LR
+    E["Energy E = mL (J)"]
+    m["Mass changing state m (kg)"]
+    L["Specific Latent Heat L (J kg⁻¹)"]
+    Lf["Fusion Lf\nsolid ⇌ liquid"]
+    Lv["Vaporisation Lv\nliquid ⇌ gas"]
+    T["Temperature stays constant\nduring state change"]
+
+    m -->|"× L"| E
+    L --> Lf
+    L --> Lv
+    E --> T
+```
+*Figure: E = mL — the energy needed to change state depends only on mass and the type of latent heat (fusion or vaporisation). Temperature does not change during the process; the energy raises the potential energy of the molecules, not their kinetic energy.*
+*Source: Authored for this vault (CC0). No external copyright.*
+
 ## Source Trace
 
 - Source: OpenStax College Physics; HyperPhysics; The Physics Classroom — paraphrased, no copied text

@@ -63,6 +63,14 @@ A body is launched and then moves only under gravity (air resistance neglected),
 - Using the speed instead of the vertical component in vertical SUVAT.
 - [[Forgetting-Vector-Direction]]
 
+## Visuals
+
+### Projectile geometry: independent horizontal and vertical motion
+
+![[_attachments/11_Problems/Projectile-Motion-Problem--projectile-geometry.svg]]
+*Figure: Launch velocity resolved into horizontal (u_x, constant) and vertical (u_y, decreasing under gravity) components. Gravity acts only downward; the horizontal motion is unaffected.*
+*Source: Authored for this vault (CC0). No external copyright.*
+
 ## Example Sources
 
 - Source: Original problem-type pattern; aligned to OCR H556.

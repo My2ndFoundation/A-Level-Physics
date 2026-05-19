@@ -1,0 +1,45 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 260" width="400" height="260" font-family="sans-serif" font-size="13">
+  <!-- Mirror surface -->
+  <line x1="40" y1="160" x2="360" y2="160" stroke="#888" stroke-width="3"/>
+  <!-- Hatch marks for mirror -->
+  <line x1="40"  y1="160" x2="30"  y2="175" stroke="#888" stroke-width="1.5"/>
+  <line x1="70"  y1="160" x2="60"  y2="175" stroke="#888" stroke-width="1.5"/>
+  <line x1="100" y1="160" x2="90"  y2="175" stroke="#888" stroke-width="1.5"/>
+  <line x1="130" y1="160" x2="120" y2="175" stroke="#888" stroke-width="1.5"/>
+  <line x1="160" y1="160" x2="150" y2="175" stroke="#888" stroke-width="1.5"/>
+  <line x1="190" y1="160" x2="180" y2="175" stroke="#888" stroke-width="1.5"/>
+  <line x1="220" y1="160" x2="210" y2="175" stroke="#888" stroke-width="1.5"/>
+  <line x1="250" y1="160" x2="240" y2="175" stroke="#888" stroke-width="1.5"/>
+  <line x1="280" y1="160" x2="270" y2="175" stroke="#888" stroke-width="1.5"/>
+  <line x1="310" y1="160" x2="300" y2="175" stroke="#888" stroke-width="1.5"/>
+  <line x1="340" y1="160" x2="330" y2="175" stroke="#888" stroke-width="1.5"/>
+  <line x1="360" y1="160" x2="350" y2="175" stroke="#888" stroke-width="1.5"/>
+  <!-- Normal (dashed) -->
+  <line x1="200" y1="40" x2="200" y2="220" stroke="#555" stroke-width="1.5" stroke-dasharray="6,4"/>
+  <text x="207" y="35" fill="#555">Normal</text>
+  <!-- Incident ray -->
+  <line x1="80" y1="50" x2="200" y2="160" stroke="#2266cc" stroke-width="2" marker-end="url(#arrowB)"/>
+  <!-- Reflected ray -->
+  <line x1="200" y1="160" x2="320" y2="50" stroke="#cc4422" stroke-width="2" marker-end="url(#arrowR)"/>
+  <!-- Angle of incidence arc -->
+  <path d="M 200 160 m 0 -50 a 50 50 0 0 0 -38 -33" fill="none" stroke="#2266cc" stroke-width="1.2"/>
+  <text x="138" y="118" fill="#2266cc">θᵢ</text>
+  <!-- Angle of reflection arc -->
+  <path d="M 200 160 m 0 -50 a 50 50 0 0 1 38 -33" fill="none" stroke="#cc4422" stroke-width="1.2"/>
+  <text x="247" y="118" fill="#cc4422">θᵣ</text>
+  <!-- Labels -->
+  <text x="60" y="45" fill="#2266cc" font-weight="bold">Incident ray</text>
+  <text x="280" y="45" fill="#cc4422" font-weight="bold">Reflected ray</text>
+  <text x="130" y="195" fill="#888">Reflecting surface</text>
+  <!-- Arrow markers -->
+  <defs>
+    <marker id="arrowB" markerWidth="8" markerHeight="8" refX="6" refY="3" orient="auto">
+      <path d="M0,0 L0,6 L8,3 z" fill="#2266cc"/>
+    </marker>
+    <marker id="arrowR" markerWidth="8" markerHeight="8" refX="6" refY="3" orient="auto">
+      <path d="M0,0 L0,6 L8,3 z" fill="#cc4422"/>
+    </marker>
+  </defs>
+  <!-- Equation -->
+  <text x="130" y="245" fill="#333" font-size="14" font-weight="bold">θᵢ = θᵣ</text>
+</svg>

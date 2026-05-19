@@ -92,6 +92,20 @@ For a mass–spring system, [[Hookes-Law]] gives restoring force F = −kx. Newt
 
 - [[Confusing-Angular-and-Linear-Quantities]]
 
+## Visuals
+
+### SHM displacement, velocity, and acceleration
+
+```mermaid
+xychart-beta
+    title "SHM: x = A cos(ωt)"
+    x-axis "ωt (rad)" [0, 1.57, 3.14, 4.71, 6.28]
+    y-axis "x / A" -1 --> 1
+    line [1, 0, -1, 0, 1]
+```
+*Figure: SHM displacement varies as a cosine. Velocity is 90° ahead (maximum at centre, zero at extremes) and acceleration is 180° ahead (maximum and opposing at extremes).*
+*Source: Authored for this vault (CC0). No external copyright.*
+
 ## Source Trace
 
 - Source: OpenStax College Physics; HyperPhysics; The Physics Classroom — no copied text

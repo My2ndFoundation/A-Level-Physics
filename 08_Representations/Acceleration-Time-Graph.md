@@ -64,6 +64,21 @@ The height of the line is the rate at which velocity is changing at that instant
 - Confusing the area (which gives Δv) with displacement.
 - Assuming the line height is velocity.
 
+## Visuals
+
+### Acceleration-time graph: free fall and rest
+
+```mermaid
+xychart-beta
+    title "a-t graph: constant acceleration (free fall) then rest"
+    x-axis "time t (s)" [0, 1, 2, 3, 4]
+    y-axis "acceleration a (m s^-2)" -2 --> 12
+    line [9.81, 9.81, 9.81, 0, 0]
+```
+
+*Figure: A horizontal line at a = 9.81 m s⁻² represents constant downward acceleration during free fall (the [[Gravitational-Field-Strength]] near Earth's surface). The line drops to zero at t = 3 s, representing an object that has landed and is no longer accelerating. The area (rectangle) over any interval equals the change in [[Velocity]] during that interval.*
+*Source: Authored for this vault (CC0). No external copyright.*
+
 ## Source Trace
 
 - Source: OCR Practical Skills Handbook; The Physics Classroom; IOPSpark; OpenStax

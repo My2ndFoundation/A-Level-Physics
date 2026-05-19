@@ -85,6 +85,26 @@ Treated as a stated relativistic result at A-Level; no derivation required.
 - Mixing units (using u with c² directly without the 931.5 MeV conversion)
 - Thinking mass-energy equivalence violates conservation of energy (it extends it)
 
+## Visuals
+
+### Nuclear process energy chain
+
+```mermaid
+graph LR
+    reactants["Reactant nuclei\ntotal mass M_before"]
+    products["Product nuclei\ntotal mass M_after"]
+    defect["Mass defect\nΔm = M_before − M_after"]
+    energy["Energy released\nΔE = Δm × c²"]
+    reactants -->|"fission or fusion"| products
+    reactants --> defect
+    products --> defect
+    defect -->|"ΔE = Δm c²"| energy
+    note["1 u ↔ 931.5 MeV\nc² ≈ 9 × 10¹⁶ m² s⁻²"]
+    energy --- note
+```
+*Figure: Mass–energy equivalence in nuclear processes — the mass defect converts to released energy via E = Δmc².*
+*Source: Authored for this vault (CC0). No external copyright.*
+
 ## Source Trace
 
 - Source: OpenStax College Physics; HyperPhysics; CERN educational material — no copied text

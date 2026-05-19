@@ -83,6 +83,21 @@ On a graph of terminal p.d. $V$ (y-axis) against current $I$ (x-axis), the $y$-i
 - Confusing e.m.f. with terminal potential difference when current flows.
 - Forgetting the lost volts $Ir$ inside the source.
 
+## Visuals
+
+### Terminal p.d. vs Current: y-intercept = e.m.f., Gradient = −r
+
+```mermaid
+xychart-beta
+  title "Terminal p.d. V vs current I"
+  x-axis "Current I / A" [0, 0.5, 1.0, 1.5, 2.0, 2.5]
+  y-axis "Terminal p.d. V / V" 0 --> 7
+  line [6, 5.5, 5.0, 4.5, 4.0, 3.5]
+```
+
+*Figure: The y-intercept (I = 0) gives the e.m.f. ε = 6 V; the gradient equals −r = −1 Ω (internal resistance). At higher currents the "lost volts" Ir increases and the terminal p.d. falls. Extrapolating to V = 0 gives the short-circuit current.*
+*Source: Authored for this vault (CC0). No external copyright.*
+
 ## Source Trace
 
 - Source: OpenStax College Physics; HyperPhysics; IOPSpark

@@ -81,6 +81,19 @@ This distinction is the foundation for understanding [[Resonance]], damping cont
 
 - [[Confusing-Angular-and-Linear-Quantities]]
 
+## Visuals
+
+### Amplitude–frequency response (resonance curve)
+```mermaid
+xychart-beta
+  title "Forced oscillation: amplitude peaks at natural frequency f₀"
+  x-axis "Driving frequency (relative to f₀)" [0.2, 0.5, 0.8, 1.0, 1.2, 1.5, 1.8]
+  y-axis "Amplitude (relative units)" 0 --> 5
+  line [0.3, 0.5, 1.2, 4.8, 1.1, 0.5, 0.3]
+```
+*Figure: Amplitude is largest when driving frequency equals the natural frequency f₀ — this is resonance. Away from f₀ the amplitude falls rapidly.*
+*Source: Authored for this vault (CC0). No external copyright.*
+
 ## Source Trace
 
 - Source: OpenStax College Physics; HyperPhysics; The Physics Classroom — no copied text

@@ -67,6 +67,13 @@ Estimating the age of once-living material (wood, bone, charcoal) from the resid
 - Inconsistent time units between λ and t
 - Assuming dating works for very recent or extremely old samples (limited by ¹⁴C half-life range)
 
+## Visuals
+
+### Radioactive Decay of Carbon-14
+![[_attachments/10_Applications/Carbon-Dating--carbon14-decay.png]]
+*Figure: Schematic of carbon-14 (¹⁴C) beta-minus decay to nitrogen-14 (¹⁴N). A neutron converts to a proton with emission of a beta particle (electron) and an antineutrino, with a half-life of ~5730 years. Carbon dating uses the ratio of remaining ¹⁴C to stable ¹²C.*
+*Source: Radioactive decay of Carbon-14 — Kurt Rosenkrantz — CC BY-SA 3.0 — https://commons.wikimedia.org/wiki/File:Radioactive_decay_of_Carbon-14.png. Retrieved 2026-05-19.*
+
 ## Source Trace
 
 - Source: OpenStax College Physics; HyperPhysics; CERN educational material — no copied text

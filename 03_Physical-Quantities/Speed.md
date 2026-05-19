@@ -83,6 +83,24 @@ On a distance–time graph, speed is the **gradient**. On a speed–time graph t
 - Confusing average speed with average of speeds
 - Treating speed as a vector
 
+## Visuals
+
+```mermaid
+flowchart LR
+    s["Speed v = d/t (m s⁻¹)\nscalar — magnitude only"]
+    dt["Distance–time graph\ngradient = speed"]
+    st["Speed–time graph\ngradient = acceleration\narea = distance"]
+    vel["Velocity (vector)\n= speed + direction"]
+    acc["Acceleration\n= rate of change of speed\n(or direction)"]
+
+    s -->|"add direction"| vel
+    s -->|"d vs t"| dt
+    s -->|"v vs t"| st
+    vel --> acc
+```
+*Figure: Speed is the scalar magnitude of velocity. On a distance–time graph the gradient gives speed; on a speed–time graph the gradient gives acceleration and the area gives distance.*
+*Source: Authored for this vault (CC0). No external copyright.*
+
 ## Source Trace
 
 - Source: OpenStax College Physics; The Physics Classroom; HyperPhysics (paraphrased, no copied text)

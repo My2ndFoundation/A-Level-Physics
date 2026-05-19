@@ -68,6 +68,19 @@ Many automatic systems — light-activated lamps, thermostats, moisture alarms �
 - [[Ignoring-Units]]
 - [[Misreading-Graph-Gradient]]
 
+## Visuals
+
+### Potential Divider Sensor Circuit
+```mermaid
+flowchart TD
+    Vs(["Supply Vₛ"]) -->|current flows| R1["Fixed resistor R₁"]
+    R1 -->|node| Vout(["Output Vₒᵤₜ = Vₛ × R₂ / (R₁ + R₂)"])
+    Vout -->|connected to| R2["Sensor R₂\n(thermistor or LDR)"]
+    R2 --> GND(["0 V (ground)"])
+```
+*Figure: Potential divider circuit with a fixed resistor R₁ and a sensing component R₂ (thermistor or LDR) in series. The output voltage is taken across R₂. As the sensed quantity (temperature or light) changes R₂, the output voltage changes, crossing a threshold that triggers a switch.*
+*Source: Authored for this vault (CC0). No external copyright.*
+
 ## Source Trace
 
 - Source: OpenStax College Physics; IOPSpark; Isaac Physics; OCR examiner reports (general) — no copied text

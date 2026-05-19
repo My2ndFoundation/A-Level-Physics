@@ -78,6 +78,13 @@ particles — a small chart of building blocks plus the "glue" between them.
 
 - [[OCR-Physics-Map]] (Module 6.4 nuclear and particle physics; Module 4.5 quantum)
 
+## Visuals
+
+### The ATLAS Detector at the Large Hadron Collider, CERN
+![[_attachments/12_Frontier-Maps/Particle-Physics-Map--atlas-detector.jpg]]
+*Figure: The ATLAS detector at CERN — one of the world's largest scientific instruments, used to detect and measure the particles produced in LHC collisions, including the 2012 discovery of the Higgs boson.*
+*Source: CERN LHC ATLAS Detector — SimonWaldherr — CC BY-SA 4.0 — https://commons.wikimedia.org/wiki/File:CERN_LHC_ATLAS_Detector.jpg. Retrieved 2026-05-19.*
+
 ## Source Trace
 
 - Source: [[CERN-Science]]

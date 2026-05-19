@@ -75,6 +75,14 @@ is why giants sit above and right of the main sequence.
 - Reading the main sequence as a time-ordered track for one star
 - Forgetting the axes are usually logarithmic
 
+## Visuals
+
+### H-R diagram: schematic with main sequence, giants, and white dwarfs
+
+![[_attachments/08_Representations/hertzsprung-russell-diagram--schematic.svg]]
+*Figure: [[Luminosity]] (log scale, y-axis increasing upward) plotted against surface temperature (log scale, x-axis DECREASING leftward — hot blue-white O-stars at left, cool red M-stars at right). The main sequence (blue band) runs diagonally from hot-bright (upper left) to cool-faint (lower right). Red giants and supergiants (orange/yellow region) sit upper-right — cool but very luminous, so very large radii (from [[Stefans-Law]]: L = 4πr²σT⁴). White dwarfs (light-blue region) sit lower-left — hot but faint, so very small. The Sun (☉) lies on the main sequence at ~5 800 K and L = L☉.*
+*Source: Authored for this vault (CC0). No external copyright.*
+
 ## Source Trace
 
 - Source: OpenStax College Physics; HyperPhysics; NASA educational material — no copied text

@@ -79,6 +79,22 @@ These words are used precisely in exam mark schemes and evaluations. Misusing "a
 - Using "accurate" and "precise" interchangeably.
 - Assuming finer resolution means a more accurate result.
 
+## Visuals
+
+### Accuracy vs Precision: classification of measurement quality
+```mermaid
+quadrantChart
+    title Accuracy vs Precision
+    x-axis Low Accuracy --> High Accuracy
+    y-axis Low Precision --> High Precision
+    quadrant-1 Precise AND Accurate (ideal)
+    quadrant-2 Precise but Inaccurate (systematic error)
+    quadrant-3 Neither (large random + systematic error)
+    quadrant-4 Accurate on average but Imprecise (large random error)
+```
+*Figure: Four categories of measurement quality. Resolution sets the finest readable increment but does not guarantee accuracy. Systematic error → inaccuracy; random error → imprecision.*
+*Source: Authored for this vault (CC0). No external copyright.*
+
 ## Source Trace
 
 - Source: [[OCR-Physics-Practical-Skills-Handbook]]

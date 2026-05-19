@@ -74,6 +74,22 @@ Circular motion underlies orbits, fairground rides, centrifuges, banked tracks, 
 
 - [[Confusing-Angular-and-Linear-Quantities]]
 
+## Visuals
+
+### Circular motion: velocity, acceleration and force
+
+```mermaid
+flowchart LR
+    A["Constant speed v\nalong circular path"] --> B["Direction of v\nchanges every instant\n(tangential)"]
+    B --> C["Velocity changing\n→ acceleration exists"]
+    C --> D["Centripetal acceleration\na = v²/r = ω²r\n(directed inward)"]
+    D --> E["Newton 2nd Law\nF = ma = mv²/r\n(centripetal force inward)"]
+    E --> F["No outward\n'centrifugal' real force\n(inertia only)"]
+```
+
+*Figure: Even at constant speed, circular motion requires a centripetal (inward) acceleration and net force. The acceleration and force are perpendicular to the velocity at all times.*
+*Source: Authored for this vault (CC0). No external copyright.*
+
 ## Source Trace
 
 - Source: OpenStax College Physics; HyperPhysics; The Physics Classroom — no copied text

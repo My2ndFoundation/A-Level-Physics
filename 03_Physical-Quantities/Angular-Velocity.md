@@ -91,6 +91,14 @@ On an angular displacement θ against time t graph, the gradient is the angular 
 
 - [[Confusing-Angular-and-Linear-Quantities]]
 
+## Visuals
+
+### Angular Velocity and Tangential Speed
+
+![[_attachments/03_Physical-Quantities/Angular-Velocity--circular-motion.svg]]
+*Figure: An object at radius r sweeps angle Δθ in time Δt; angular velocity ω = Δθ/Δt. Its tangential (linear) speed is v = ωr — larger radius means larger linear speed at the same ω.*
+*Source: Authored for this vault (CC0). No external copyright.*
+
 ## Source Trace
 
 - Source: OpenStax College Physics; HyperPhysics; The Physics Classroom — no copied text

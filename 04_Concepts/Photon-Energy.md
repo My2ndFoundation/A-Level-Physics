@@ -77,6 +77,19 @@ The photon concept explains why only sufficiently high-frequency light causes th
 - Thinking brighter light means more energetic photons (it means more photons).
 - Mixing units: using $\lambda$ in nm without converting to metres in $E = hc/\lambda$.
 
+## Visuals
+
+### Energy-level transition with photon emission
+```mermaid
+flowchart TB
+    E2["Higher energy level  E₂"]
+    E1["Lower energy level  E₁"]
+    E2 -->|"electron drops\nemits photon\nE_photon = E₂ − E₁ = hf"| E1
+    note["E = hf = hc/λ\nh ≈ 6.63 × 10⁻³⁴ J s\nHigher f → more energetic photon"]
+```
+*Figure: When an electron falls from level E₂ to E₁ it emits a photon with exactly the energy difference. This fixes the photon's frequency f = (E₂ − E₁)/h and hence its colour. A brighter source means more photons per second, not more energetic ones.*
+*Source: Authored for this vault (CC0). No external copyright.*
+
 ## Source Trace
 
 - Source: OpenStax College Physics; HyperPhysics; IOPSpark

@@ -85,6 +85,13 @@ without being the real mathematics.
 - [[Nuclear-Fission]]
 - [[Nuclear-Fusion]]
 
+## Visuals
+
+### Black holes collide — emitting gravitational waves detectable by LIGO
+![[_attachments/12_Frontier-Maps/Relativity-Map--gravitational-waves.jpg]]
+*Figure: Artist's impression of two black holes merging and releasing gravitational waves — a prediction of general relativity first directly observed by LIGO in 2015.*
+*Source: Black Holes Collide — NASA/GSFC — Public Domain — https://images.nasa.gov/details/GSFC_20171208_Archive_e000415. Retrieved 2026-05-19.*
+
 ## Source Trace
 
 - Source: [[IOP-Explore-Physics]]; Institute of Physics — Explore Physics; NASA Astrophysics; Wikipedia (navigation)

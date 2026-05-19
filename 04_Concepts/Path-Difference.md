@@ -73,6 +73,13 @@ Path difference underlies two-source interference, the [[Diffraction-Grating]], 
 - Mixing up the conditions: using $n\lambda$ for destructive interference.
 - Confusing path difference (a length) with phase difference (an angle).
 
+## Visuals
+
+### Path difference geometry for two coherent sources
+![[_attachments/04_Concepts/Path-Difference--geometry.svg]]
+*Figure: Sources S₁ and S₂ are separated by d. A wave from S₁ travels distance r₁ and from S₂ distance r₂ to reach point P. The path difference Δx = r₂ − r₁ ≈ d sinθ. When Δx = nλ the waves arrive in phase (constructive); when Δx = (n+½)λ they cancel (destructive).*
+*Source: Authored for this vault (CC0). No external copyright.*
+
 ## Source Trace
 
 - Source: OpenStax College Physics; HyperPhysics; IOPSpark

@@ -82,6 +82,13 @@ heat or light can help electrons over.
 - [[Current]]
 - [[Photoelectric-Effect]]
 
+## Visuals
+
+### Silicon wafer — the starting material for modern semiconductor devices
+![[_attachments/12_Frontier-Maps/Semiconductor-Physics-Map--silicon-wafer.jpg]]
+*Figure: A polished silicon wafer on which hundreds of integrated circuits will be etched — the physical basis of transistors, diodes, solar cells, and microchips.*
+*Source: Wafer 20110212 — Sangitiana Fararano — CC BY-SA 2.0 — https://commons.wikimedia.org/wiki/File:Wafer_20110212.jpg. Retrieved 2026-05-19.*
+
 ## Source Trace
 
 - Source: [[IOP-Explore-Physics]]; Institute of Physics — Explore Physics; Wikipedia (navigation)

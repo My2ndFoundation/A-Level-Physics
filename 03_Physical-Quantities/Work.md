@@ -85,6 +85,13 @@ On a **force–displacement graph**, work is the **area under the curve**. For a
 - Believing a force always does work even with zero displacement
 - Confusing work with power
 
+## Visuals
+
+### Work Done by a Force at an Angle
+![[_attachments/03_Physical-Quantities/Work--force-displacement-angle.svg]]
+*Figure: An applied force F (red) acts at angle θ above the horizontal. Only the component F cosθ lies along the displacement s (green). Work W = Fs cosθ; when θ = 90° the force is perpendicular to motion and does zero work.*
+*Source: Authored for this vault (CC0). No external copyright.*
+
 ## Source Trace
 
 - Source: OpenStax College Physics; The Physics Classroom; HyperPhysics (paraphrased, no copied text)

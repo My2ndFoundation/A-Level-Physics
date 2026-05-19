@@ -83,6 +83,23 @@ Duality is the conceptual gateway to quantum mechanics, explains the electron mi
 - Applying the de Broglie wavelength to macroscopic objects expecting visible effects.
 - Confusing photon energy E = hf with de Broglie wavelength λ = h/p.
 
+## Visuals
+
+### Wave–particle duality: dual evidence chain
+```mermaid
+flowchart LR
+    LIGHT["Light / EM radiation"] -- "shows WAVE nature" --> LW["Interference · Diffraction\n(Young's slits, grating patterns)"]
+    LIGHT -- "shows PARTICLE nature" --> LP["Photoelectric effect:\nphotons absorbed one-at-a-time"]
+    MAT["Matter (electrons, etc.)"] -- "shows PARTICLE nature" --> MP["Definite mass, charge,\nscatters like a particle"]
+    MAT -- "shows WAVE nature" --> MW["Electron diffraction:\nde Broglie λ = h/p\nring patterns in crystal"]
+    LW --> DUAL["Neither model alone is complete:\nbehaviour depends on the experiment"]
+    LP --> DUAL
+    MP --> DUAL
+    MW --> DUAL
+```
+*Figure: Wave and particle behaviours are complementary, not contradictory. The de Broglie wavelength λ = h/p is negligible for macroscopic objects, significant only at atomic/sub-atomic scale.*
+*Source: Authored for this vault (CC0). No external copyright.*
+
 ## Source Trace
 
 - Source: OpenStax College Physics; The Physics Classroom; IOPSpark; Physics LibreTexts — paraphrased, no copied text.

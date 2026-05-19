@@ -102,6 +102,22 @@ coherent picture and is the framework for all of A-Level cosmology.
 - Treating 1/H₀ as the exact age (it is an estimate)
 - Thinking the Milky Way is the centre of expansion
 
+## Visuals
+
+### Three lines of evidence for the Big Bang
+
+```mermaid
+flowchart LR
+    BB["Big Bang Theory\n(expanding universe)"]
+    BB --> E1["Galactic redshift\n& Hubble's Law\nv = H₀ d"]
+    BB --> E2["Cosmic Microwave\nBackground (CMB)\nblack-body ~2.7 K"]
+    BB --> E3["Light element\nabundances\n~75% H, ~25% He"]
+    E1 --> C["Age ≈ 1/H₀"]
+```
+
+*Figure: The Big Bang theory is supported by three independent lines of evidence: galactic redshift obeying Hubble's Law, the CMB black-body radiation, and the observed hydrogen/helium ratio from primordial nucleosynthesis.*
+*Source: Authored for this vault (CC0). No external copyright.*
+
 ## Source Trace
 
 - Source: OpenStax College Physics; HyperPhysics; NASA educational material — no copied text

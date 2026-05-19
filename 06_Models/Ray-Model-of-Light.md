@@ -70,6 +70,14 @@ This formalises the everyday "light travels in straight lines / shadows have sha
 - Measuring angles from the surface instead of the normal.
 - Forgetting refractive index depends on the medium pair.
 
+## Visuals
+
+### Ray Refraction at a Boundary
+
+![[_attachments/06_Models/Ray-Model-of-Light--refraction.svg]]
+*Figure: Incident ray bends toward the normal on entering a denser medium (n₂ > n₁); angles θ₁ and θ₂ are measured from the normal, satisfying n₁ sinθ₁ = n₂ sinθ₂.*
+*Source: Authored for this vault (CC0). No external copyright.*
+
 ## Source Trace
 
 - Source: OpenStax College Physics; The Physics Classroom; Isaac Physics — paraphrased, no copied text.

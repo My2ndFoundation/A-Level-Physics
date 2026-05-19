@@ -64,6 +64,13 @@ Building a three-dimensional, cross-sectional map of the body from many X-ray pr
 - Thinking CT uses a different type of radiation from plain X-rays (it uses the same X-ray photons).
 - Underestimating the higher dose compared with a single radiograph.
 
+## Visuals
+
+### CT Scanner in a Hospital
+![[_attachments/10_Applications/CT-Scanning--ct-scanner.jpg]]
+*Figure: A 64-slice CT scanner showing the large rotating gantry ring into which the patient table slides. The ring houses the X-ray source and the opposite detector array that rotate together.*
+*Source: Lachine Hospital CT Scanner — Ptrump16 — CC BY-SA 4.0 — https://commons.wikimedia.org/wiki/File:Lachine_Hospital_CT_Scanner.jpg. Retrieved 2026-05-19.*
+
 ## Source Trace
 
 - Source: OpenStax College Physics; HyperPhysics; IOPSpark

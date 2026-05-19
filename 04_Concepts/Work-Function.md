@@ -73,6 +73,20 @@ The work function explains why photoemission depends on frequency, not brightnes
 - Thinking a more intense beam can overcome the work function below threshold (it cannot).
 - Forgetting to convert $\phi$ from eV to joules in calculations.
 
+## Visuals
+
+### Work function: photon energy partition diagram
+```mermaid
+flowchart LR
+    PH["Photon energy\nhf"] --> PHI["Work function φ\n(energy to escape\nmetal surface)"]
+    PH --> KE["KE_max = hf − φ\n(kinetic energy of\nescaping electron)"]
+    PHI --> COND["If hf < φ:\nno emission\n(threshold not met)"]
+    PHI --> EMIT["If hf ≥ φ:\nelectron escapes\n(instantaneous)"]
+    KE --> EMIT
+```
+*Figure: The work function φ is the minimum energy to remove one electron. Any photon energy above φ appears as electron kinetic energy. φ = hf₀ where f₀ is the threshold frequency.*
+*Source: Authored for this vault (CC0). No external copyright.*
+
 ## Source Trace
 
 - Source: OpenStax College Physics; HyperPhysics; IOPSpark

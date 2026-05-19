@@ -74,6 +74,19 @@ Uncertainty decides how many [[Significant-Figures-in-Measurements|significant f
 - Treating a measured value as exact.
 - Confusing uncertainty with [[Systematic-and-Random-Errors|error]] — error is a deviation from the true value; uncertainty is the *range* of doubt.
 
+## Visuals
+
+### How uncertainty propagates from measurement to result
+```mermaid
+flowchart LR
+    M["Measurement\n e.g. l = 24.0 ± 0.5 cm"] --> A["Absolute uncertainty\n Δl = 0.5 cm"]
+    A --> P["Percentage uncertainty\n (Δl / l) × 100%\n = 2.1%"]
+    P --> C["Combined uncertainty\n add % uncertainties\n when multiplying/dividing"]
+    C --> R["Result with uncertainty\n e.g. area = 576 ± 24 cm²"]
+```
+*Figure: Uncertainty flows from an individual measurement through percentage form into a combined uncertainty for the final calculated result. The number of significant figures in the result should match the uncertainty.*
+*Source: Authored for this vault (CC0). No external copyright.*
+
 ## Source Trace
 
 - Source: [[OCR-Physics-Practical-Skills-Handbook]]

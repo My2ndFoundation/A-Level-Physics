@@ -70,6 +70,13 @@ Capacitors charging and discharging through a resistor produce predictable, smoo
 - [[Ignoring-Units]]
 - [[Misreading-Graph-Gradient]]
 
+## Visuals
+
+### Capacitor-Based Timer Circuit
+![[_attachments/10_Applications/Capacitor-Timing-Circuits--capacitor-timer-circuit.png]]
+*Figure: RC timing circuit diagram showing a capacitor charging through a resistor. The output voltage rises exponentially toward the supply; when it exceeds the threshold of a comparator or transistor, the circuit switches — implementing a time delay set by the product RC.*
+*Source: Capacitor based timer — Kofani1997 — CC BY-SA 4.0 — https://commons.wikimedia.org/wiki/File:Capacitor_based_timer.png. Retrieved 2026-05-19.*
+
 ## Source Trace
 
 - Source: OpenStax College Physics; IOPSpark; Isaac Physics; OCR examiner reports (general) — no copied text

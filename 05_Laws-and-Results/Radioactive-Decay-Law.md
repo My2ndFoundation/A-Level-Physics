@@ -89,6 +89,20 @@ The decay rate is proportional to the number present: `dN/dt = −λN`. Integrat
 - Thinking decay rate can be changed by temperature or chemistry
 - Plotting count rate vs time and expecting a straight line instead of using `ln A`
 
+## Visuals
+
+### Exponential decay curve (N vs t)
+
+```mermaid
+xychart-beta
+    title "Radioactive decay: N = N₀ e^(−λt)"
+    x-axis "Time (half-lives)" [0, 1, 2, 3, 4, 5]
+    y-axis "N / N₀" 0 --> 1
+    line [1, 0.5, 0.25, 0.125, 0.0625, 0.03125]
+```
+*Figure: Number of undecayed nuclei halves every half-life t½. The same exponential shape applies to activity A = A₀ e^(−λt).*
+*Source: Authored for this vault (CC0). No external copyright.*
+
 ## Source Trace
 
 - Source: OpenStax College Physics; HyperPhysics; Physics LibreTexts — paraphrased, no copied text

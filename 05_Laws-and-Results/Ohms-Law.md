@@ -86,6 +86,14 @@ From the drift model, `I = nAvq`; for a metal `n` and the scattering rate are ro
 - Confusing the *law* with the *definition* `R = V/I`
 - Ignoring the temperature-constant condition
 
+## Visuals
+
+### I–V graph for an ohmic conductor
+
+![[_attachments/05_Laws-and-Results/ohms-law--iv-graph.svg]]
+*Figure: For an ohmic conductor at constant temperature, the I–V graph is a straight line through the origin. The gradient equals 1/R.*
+*Source: Authored for this vault (CC0). No external copyright.*
+
 ## Source Trace
 
 - Source: OpenStax College Physics; HyperPhysics; Physics LibreTexts — paraphrased, no copied text

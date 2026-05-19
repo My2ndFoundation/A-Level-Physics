@@ -85,6 +85,13 @@ Magnetic fields underpin electric motors, generators, transformers, loudspeakers
 - Confusing field lines (showing direction) with the strength of the field (shown by line spacing).
 - Forgetting that field lines run north→south outside but south→north inside a magnet.
 
+## Visuals
+
+### Magnetic field lines around a bar magnet
+![[_attachments/04_Concepts/Magnetic-Field--bar-magnet-field-lines.svg]]
+*Figure: Field lines emerge from the north pole (N, red) and enter the south pole (S, blue) outside the magnet. Inside (dashed), lines run from S to N — field lines are continuous closed loops. Closer spacing near the poles shows a stronger field.*
+*Source: Authored for this vault (CC0). No external copyright.*
+
 ## Source Trace
 
 OpenStax College Physics; HyperPhysics; Physics LibreTexts — no copied text.

@@ -73,6 +73,26 @@ Discharge current is proportional to the remaining charge (I = V/R = Q/RC), so t
 
 - [[Capacitor-Timing-Circuits]]
 
+## Visuals
+
+### Equation selection for RC circuits
+
+```mermaid
+flowchart TD
+    A[RC circuit problem] --> B{Is the capacitor\ncharging or discharging?}
+    B -->|Discharging| C["Q = Q₀ e^(−t/RC)\nV = V₀ e^(−t/RC)\nI = I₀ e^(−t/RC)"]
+    B -->|Charging| D["Q = Q₀(1 − e^(−t/RC))\nI = I₀ e^(−t/RC)"]
+    C --> E[Compute τ = RC\nSolve for unknown]
+    D --> E
+    E --> F{Finding time t?}
+    F -->|Yes| G["t = −RC ln(Q/Q₀)"]
+    F -->|No| H[Substitute directly]
+    G --> I[Sanity-check: after 5τ ≈ complete]
+    H --> I
+```
+*Figure: Decision flowchart for choosing the correct RC equation. Discharge → exponential decay; charging → complementary form. Time requires taking ln.*
+*Source: Authored for this vault (CC0). No external copyright.*
+
 ## Source Trace
 
 - Source: OpenStax College Physics; HyperPhysics; Physics LibreTexts — no copied text

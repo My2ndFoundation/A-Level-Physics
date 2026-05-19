@@ -84,6 +84,13 @@ Refraction is the working principle of lenses, the eye, cameras, prisms and opti
 - Bending the ray the wrong way relative to the normal.
 - Confusing refractive index with the angle itself.
 
+## Visuals
+
+### Wave refraction: ray bending at a medium boundary (Snell's Law)
+![[_attachments/04_Concepts/Wave-Refraction--snells-law-ray.svg]]
+*Figure: Light passing from a less dense medium (n₁) into a denser medium (n₂ > n₁) slows down and bends toward the normal (θ₂ < θ₁). Snell's Law: n₁ sin θ₁ = n₂ sin θ₂. Frequency stays constant; wavelength and speed change.*
+*Source: Authored for this vault (CC0). No external copyright.*
+
 ## Source Trace
 
 - Source: OpenStax College Physics; The Physics Classroom; IOPSpark; Physics LibreTexts — paraphrased, no copied text.

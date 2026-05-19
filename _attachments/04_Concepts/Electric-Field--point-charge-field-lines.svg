@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 300 300" width="300" height="300" font-family="sans-serif">
+  <rect width="300" height="300" fill="#f9f9f9" rx="6"/>
+  <!-- Central positive charge -->
+  <circle cx="150" cy="150" r="18" fill="#c0392b" stroke="#922b21" stroke-width="1.5"/>
+  <text x="150" y="155" text-anchor="middle" font-size="16" fill="white" font-weight="bold">+Q</text>
+  <!-- Radial field line arrows -->
+  <defs>
+    <marker id="aFE" markerWidth="8" markerHeight="8" refX="6" refY="3" orient="auto">
+      <path d="M0,0 L0,6 L8,3 z" fill="#c0392b"/>
+    </marker>
+  </defs>
+  <!-- 8 radial lines at 45° increments; start at r=22, end at r=105 -->
+  <!-- 0° (right) -->
+  <line x1="172" y1="150" x2="255" y2="150" stroke="#c0392b" stroke-width="1.5" marker-end="url(#aFE)"/>
+  <!-- 45° -->
+  <line x1="163" y1="163" x2="224" y2="224" stroke="#c0392b" stroke-width="1.5" marker-end="url(#aFE)"/>
+  <!-- 90° (down) -->
+  <line x1="150" y1="172" x2="150" y2="255" stroke="#c0392b" stroke-width="1.5" marker-end="url(#aFE)"/>
+  <!-- 135° -->
+  <line x1="137" y1="163" x2="76" y2="224" stroke="#c0392b" stroke-width="1.5" marker-end="url(#aFE)"/>
+  <!-- 180° (left) -->
+  <line x1="128" y1="150" x2="45" y2="150" stroke="#c0392b" stroke-width="1.5" marker-end="url(#aFE)"/>
+  <!-- 225° -->
+  <line x1="137" y1="137" x2="76" y2="76" stroke="#c0392b" stroke-width="1.5" marker-end="url(#aFE)"/>
+  <!-- 270° (up) -->
+  <line x1="150" y1="128" x2="150" y2="45" stroke="#c0392b" stroke-width="1.5" marker-end="url(#aFE)"/>
+  <!-- 315° -->
+  <line x1="163" y1="137" x2="224" y2="76" stroke="#c0392b" stroke-width="1.5" marker-end="url(#aFE)"/>
+  <!-- Labels -->
+  <text x="150" y="285" text-anchor="middle" font-size="11" fill="#333">Field lines point away from +Q</text>
+  <text x="150" y="298" text-anchor="middle" font-size="10" fill="#888">E = (1/4πε₀) Q/r²  (radial, 1/r²)</text>
+</svg>

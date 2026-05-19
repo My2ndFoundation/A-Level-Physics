@@ -85,6 +85,25 @@ On an energy-level diagram it is the vertical gap from the ground state up to th
 - Forgetting it refers to the ground-state, most weakly bound electron.
 - Dropping the eV → J conversion in numerical work.
 
+## Visuals
+
+### Energy Level Diagram: Ionisation Energy as the Gap to Zero
+
+```mermaid
+flowchart TD
+  zero["0 eV — ionised (electron free)"]
+  n3["n = 3  level"]
+  n2["n = 2  level"]
+  n1["n = 1 (ground state)"]
+  zero -. "ionisation energy Eᵢ" .- n1
+  n1 -->|"absorbed photon\nhf = E₃ − E₁"| n3
+  n3 -->|"emitted photon\nhf = E₃ − E₁"| n1
+  n2 -->|"emitted photon"| n1
+```
+
+*Figure: The ionisation energy Eᵢ is the gap from the ground state (n = 1) up to the 0 eV line. Absorbed photons can excite the electron to higher levels (n = 2, 3…); a photon of exactly Eᵢ removes the electron entirely. Excess energy above Eᵢ becomes the freed electron's kinetic energy.*
+*Source: Authored for this vault (CC0). No external copyright.*
+
 ## Source Trace
 
 - Source: OpenStax College Physics; HyperPhysics; Physics LibreTexts — paraphrased, no copied text.

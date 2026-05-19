@@ -84,6 +84,13 @@ A graph of $\sin\theta_{\text{incidence}}$ (in air) against $\sin\theta_{\text{r
 - Forgetting that frequency, not wavelength, is unchanged on refraction.
 - Using degrees inconsistently or taking $\sin$ of the ratio rather than the ratio of $\sin$ values.
 
+## Visuals
+
+### Refraction at a Boundary: n = c/v
+![[_attachments/03_Physical-Quantities/Refractive-Index--refraction-ray.svg]]
+*Figure: A ray passes from air (n₁ ≈ 1.00) into glass (n₂ ≈ 1.5). It bends toward the normal because it slows down. Snell's Law n₁ sinθ₁ = n₂ sinθ₂ relates the angles; the refractive index equals c/v for each medium.*
+*Source: Authored for this vault (CC0). No external copyright.*
+
 ## Source Trace
 
 - Source: OpenStax College Physics; HyperPhysics; IOPSpark

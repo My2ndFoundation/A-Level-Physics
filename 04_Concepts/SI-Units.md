@@ -89,6 +89,24 @@ SI units make measurements reproducible worldwide, allow dimensional checking of
 - Forgetting to convert prefixes before calculating
 - Treating a unit check as optional rather than a validity test
 
+## Visuals
+
+### SI base units → derived units (selected A-Level examples)
+```mermaid
+flowchart TD
+    KG["kg (mass)"] --> N["newton N = kg m s⁻²\nF = ma"]
+    M["m (length)"] --> N
+    S["s (time)"] --> N
+    N --> J["joule J = N m = kg m² s⁻²\nW = Fd"]
+    N --> PA["pascal Pa = N m⁻² = kg m⁻¹ s⁻²\np = F/A"]
+    J --> W2["watt W = J s⁻¹ = kg m² s⁻³\nP = W/t"]
+    A_["A (current)"] --> V2["volt V = kg m² s⁻³ A⁻¹\nV = W/I"]
+    J --> V2
+    S --> V2
+```
+*Figure: Five A-Level base units (kg, m, s, A, K) combine to give all derived units. Any derived unit can be re-expressed in base units for dimensional homogeneity checks.*
+*Source: Authored for this vault (CC0). No external copyright.*
+
 ## Source Trace
 
 - Source: OpenStax College Physics; The Physics Classroom; HyperPhysics — no copied text

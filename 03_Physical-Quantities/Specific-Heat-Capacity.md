@@ -80,6 +80,18 @@ Plot total energy supplied $E$ (y-axis) against temperature $\theta$ (x-axis) fo
 - Using mass in grams instead of kilograms
 - Forgetting energy lost to surroundings overestimates $c$
 
+## Visuals
+
+```mermaid
+xychart-beta
+    title "Energy Supplied E vs Temperature θ (fixed mass m)"
+    x-axis "Temperature θ" [0, 1, 2, 3, 4, 5, 6, 7, 8]
+    y-axis "Energy E" 0 --> 8
+    line [0, 1, 2, 3, 3, 3, 4, 5, 6]
+```
+*Figure: Within a single state (solid or liquid) the graph is a straight line of gradient mc — steeper for materials with lower c. The flat plateau (constant temperature) is the change of state, where energy goes to specific latent heat L instead.*
+*Source: Authored for this vault (CC0). No external copyright.*
+
 ## Source Trace
 
 - Source: OpenStax College Physics; HyperPhysics; The Physics Classroom — paraphrased, no copied text

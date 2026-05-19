@@ -111,6 +111,19 @@ is a standard A-Level derivation linking gravitation and circular motion.
 - Using a uniform-field g instead of GM/r² for high orbits
 - Confusing orbital speed with escape velocity (escape = √2 × orbital)
 
+## Visuals
+
+### Kepler's third law: T² proportional to r³
+```mermaid
+xychart-beta
+  title "T² vs r³: straight line through origin confirms Kepler's 3rd law"
+  x-axis "r³ (relative units)" [0, 1, 8, 27, 64, 125]
+  y-axis "T² (relative units)" 0 --> 125
+  line [0, 1, 8, 27, 64, 125]
+```
+*Figure: A graph of T² against r³ for circular orbits is a straight line through the origin with gradient 4π²/GM. The slope depends only on the central mass M, not on the satellite's mass — this allows M to be determined from orbital data.*
+*Source: Authored for this vault (CC0). No external copyright.*
+
 ## Source Trace
 
 - Source: OpenStax College Physics; HyperPhysics; NASA educational material — no copied text

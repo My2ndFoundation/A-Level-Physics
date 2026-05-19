@@ -88,6 +88,14 @@ Electric fields explain charging, sparks, the deflection of charged particles in
 - Confusing field strength E with [[Electric-Potential]] V (E is force per charge; V is energy per charge).
 - Drawing field lines that cross or that start/end in empty space.
 
+## Visuals
+
+### Radial electric field lines around a positive point charge
+
+![[_attachments/04_Concepts/Electric-Field--point-charge-field-lines.svg]]
+*Figure: Field lines point radially outward from a positive charge. Their density represents field strength, which falls off as 1/r². For a negative charge the arrows would reverse (lines pointing inward).*
+*Source: Authored for this vault (CC0). No external copyright.*
+
 ## Source Trace
 
 - Source: OpenStax College Physics; HyperPhysics; Physics LibreTexts — no copied text

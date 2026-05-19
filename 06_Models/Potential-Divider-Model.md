@@ -72,6 +72,14 @@ This builds on the GCSE result that voltage is shared in a series circuit, makin
 - Swapping which resistor the output is taken across.
 - Forgetting that a sensor's resistance changes the division ratio.
 
+## Visuals
+
+### Potential Divider Circuit
+
+![[_attachments/06_Models/Potential-Divider-Model--circuit.svg]]
+*Figure: Two resistors R₁ and R₂ in series across supply V_in; the output V_out is taken across R₂ and equals V_in × R₂/(R₁ + R₂) when unloaded.*
+*Source: Authored for this vault (CC0). No external copyright.*
+
 ## Source Trace
 
 - Source: OpenStax College Physics; The Physics Classroom; Isaac Physics — paraphrased, no copied text.

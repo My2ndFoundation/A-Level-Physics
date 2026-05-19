@@ -88,6 +88,22 @@ Collision analysis is central to vehicle safety, particle physics scattering, sp
 - Dropping vector signs in the momentum equation
 - Calling a collision "elastic" just because objects bounce apart
 
+## Visuals
+
+### Collision classification
+
+```mermaid
+flowchart TD
+    A["Collision\n(isolated system)"] --> B["Momentum always conserved\nΣmv before = Σmv after"]
+    B --> C{"Kinetic energy\nconserved?"}
+    C -->|Yes| D["Elastic collision\nΣ½mv² unchanged\n(e.g. gas molecules, steel balls)"]
+    C -->|No| E["Inelastic collision\nKE decreases\n(→ heat, sound, deformation)"]
+    E --> F["Perfectly inelastic:\nobjects stick together\nmaximum KE loss"]
+```
+
+*Figure: Momentum is conserved in all collisions. Elastic: KE also conserved. Inelastic: KE decreases. Perfectly inelastic: maximum KE loss, objects move together after.*
+*Source: Authored for this vault (CC0). No external copyright.*
+
 ## Source Trace
 
 - Source: OpenStax College Physics; The Physics Classroom; HyperPhysics — no copied text
