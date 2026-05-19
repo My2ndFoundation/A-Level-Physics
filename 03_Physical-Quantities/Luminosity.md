@@ -41,26 +41,26 @@ intensity) reaching Earth, which also depends on distance.
 
 ## Related Equations
 
-- L = 4π r² σ T⁴ (Stefan's law for a spherical black body — see
+- $L = 4\pi r^2 \sigma T^4$ (Stefan's law for a spherical black body — see
   [[Stefans-Law]]), with r = stellar radius (m), σ = Stefan constant
   5.67 × 10⁻⁸ W m⁻² K⁻⁴, T = surface temperature (K)
-- F = L / (4π d²) — observed [[Intensity]] (radiant flux, W m⁻²) at distance
-  d, assuming radiation spreads over a sphere of area 4πd²
-- Combined with [[Wiens-Displacement-Law]] (λ_max T = 2.90 × 10⁻³ m K) to
+- $F = L / (4\pi d^2)$ — observed [[Intensity]] (radiant flux, W m⁻²) at distance
+  d, assuming radiation spreads over a sphere of area $4\pi d^2$
+- Combined with [[Wiens-Displacement-Law]] ($\lambda_{max} T = 2.90 \times 10^{-3}\,\text{m K}$) to
   find T from a star's spectrum
 
 ## How It Is Measured
 
 Measure the radiant flux F reaching Earth with a calibrated detector, then
 determine distance d (parallax — see [[Astronomical-Distances]] — or standard
-candles) and compute L = 4π d² F.
+candles) and compute $L = 4\pi d^2 F$.
 
 ## Graphical Meaning
 
 Luminosity is the vertical axis of the [[Hertzsprung-Russell-Diagram]]
 (usually logarithmic). On a log L against log T plot the main sequence forms
 a diagonal band; equal-radius stars lie on straight lines because
-L ∝ r² T⁴.
+$L \propto r^2 T^4$.
 
 ## Foundation Links
 
@@ -89,7 +89,7 @@ L ∝ r² T⁴.
 - Confusing luminosity (intrinsic power, W) with observed brightness/intensity
   (W m⁻², distance-dependent)
 - Forgetting the 4πd² inverse-square spreading factor
-- Using temperature in °C instead of kelvin in L = 4πr²σT⁴
+- Using temperature in °C instead of kelvin in $L = 4\pi r^2\sigma T^4$
 
 ## Visuals
 

@@ -40,7 +40,7 @@ To investigate how the frequency of a [[Standing-Waves|stationary wave]] on a st
 ## Method
 
 1. Measure mass per unit length `μ` by weighing a measured length of the string.
-2. Set a known tension `T = mg` with the hanging mass and a fixed vibrating length `L`.
+2. Set a known tension $T = mg$ with the hanging mass and a fixed vibrating length `L`.
 3. Slowly increase the driving frequency until a clear single-loop (fundamental) standing wave forms — large, stable antinode, sharp nodes.
 4. Record the resonant frequency `f`.
 5. Vary the chosen independent variable (e.g. add mass to change `T`, keeping `L` fixed) and find the new resonant frequency each time.
@@ -52,11 +52,11 @@ Resonant frequency `f`, tension `T`, vibrating length `L`, mass per unit length 
 
 ## Data Processing
 
-For the fundamental, `f = (1 / 2L) √(T/μ)`. To test the tension relationship, plot `f` against `√T` — a straight line through the origin confirms `f ∝ √T`, with gradient `= 1 / (2L√μ)`. Node-to-node distance = `λ/2`, so wave speed `v = fλ`.
+For the fundamental, $f = \frac{1}{2L} \sqrt{\frac{T}{\mu}}$. To test the tension relationship, plot `f` against $\sqrt{T}$ — a straight line through the origin confirms $f \propto \sqrt{T}$, with gradient $= \frac{1}{2L\sqrt{\mu}}$. Node-to-node distance $= \lambda/2$, so wave speed $v = f\lambda$.
 
 ## Graph Use
 
-`f` (y-axis) against `√T` (x-axis): straight line through the origin; gradient `= 1/(2L√μ)` (see [[Using-Gradient]]). The node spacing on a [[Standing-Wave-Diagram]] gives the wavelength.
+`f` (y-axis) against $\sqrt{T}$ (x-axis): straight line through the origin; gradient $= \frac{1}{2L\sqrt{\mu}}$ (see [[Using-Gradient]]). The node spacing on a [[Standing-Wave-Diagram]] gives the wavelength.
 
 ## Uncertainty
 

@@ -42,13 +42,13 @@ Tensile stress is the force applied per unit cross-sectional area, perpendicular
 
 ## Related Equations
 
-- `σ = F / A` — `σ` = stress (Pa), `F` = applied force (N), `A` = cross-sectional area (m²).
-- Young modulus: `E = σ / ε` — `ε` = strain (dimensionless). See [[Young-Modulus]].
+- $\sigma = F / A$ — `σ` = stress (Pa), `F` = applied force (N), `A` = cross-sectional area (m²).
+- Young modulus: $E = \sigma / \varepsilon$ — `ε` = strain (dimensionless). See [[Young-Modulus]].
 - Breaking (ultimate tensile) stress is the maximum stress a material withstands before fracture.
 
 ## How It Is Measured
 
-Apply a known force (hanging masses) to a sample of measured cross-section. The area is found from a diameter measured with a micrometer (`A = πd²/4`). Stress is then `F/A`. Used in the [[Measuring-Young-Modulus]] experiment.
+Apply a known force (hanging masses) to a sample of measured cross-section. The area is found from a diameter measured with a micrometer ($A = \pi d^2/4$). Stress is then $F/A$. Used in the [[Measuring-Young-Modulus]] experiment.
 
 ## Graphical Meaning
 
@@ -79,7 +79,7 @@ On a [[Stress-Strain-Graph]] (stress on the y-axis, strain on the x-axis), the i
 
 ## Common Mistakes
 
-- Using diameter instead of radius (or forgetting `A = πd²/4`)
+- Using diameter instead of radius (or forgetting $A = \pi d^2/4$)
 - Confusing stress with pressure (similar units, different context)
 - Using the original area after large deformation
 

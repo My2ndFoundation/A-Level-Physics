@@ -38,22 +38,22 @@ Angular velocity measures how fast an object rotates or sweeps out angle around 
 
 Angular velocity is the angle swept per unit time:
 
-ω = Δθ / Δt
+$$\omega = \Delta\theta / \Delta t$$
 
 For uniform [[Circular-Motion]] this is constant. It relates to linear (tangential) speed v and radius r by:
 
-v = ω r
+$$v = \omega r$$
 
 and to the [[Period]] T and [[Frequency]] f of one revolution by:
 
-ω = 2π / T = 2π f
+$$\omega = 2\pi / T = 2\pi f$$
 
 ## Related Equations
 
-- ω = Δθ / Δt
-- v = ω r
-- ω = 2π f = 2π / T
-- [[Centripetal-Acceleration]]: a = ω² r = v² / r
+- $\omega = \Delta\theta / \Delta t$
+- $v = \omega r$
+- $\omega = 2\pi f = 2\pi / T$
+- [[Centripetal-Acceleration]]: $a = \omega^2 r = v^2 / r$
 
 ## How It Is Measured
 

@@ -42,9 +42,9 @@ The Young modulus is the ratio of tensile stress to tensile strain in the region
 
 ## Related Equations
 
-- `E = σ / ε` — `E` = Young modulus (Pa), `σ` = stress (Pa), `ε` = strain (no unit).
-- Expanded: `E = (F L) / (A x)` — `F` = force (N), `L` = original length (m), `A` = cross-sectional area (m²), `x` = extension (m).
-- `A = πd²/4` for a wire of diameter `d` (m).
+- $E = \sigma / \varepsilon$ — `E` = Young modulus (Pa), `σ` = stress (Pa), `ε` = strain (no unit).
+- Expanded: $E = \frac{F L}{A x}$ — `F` = force (N), `L` = original length (m), `A` = cross-sectional area (m²), `x` = extension (m).
+- $A = \pi d^2/4$ for a wire of diameter `d` (m).
 
 ## How It Is Measured
 
@@ -52,7 +52,7 @@ The standard [[Measuring-Young-Modulus]] experiment: a long thin wire is loaded 
 
 ## Graphical Meaning
 
-On a [[Stress-Strain-Graph]], the Young modulus is the **gradient of the initial straight-line portion**. Equivalently, on a [[Force-Extension-Graph]], gradient `= EA/L`. A steeper line means a stiffer material.
+On a [[Stress-Strain-Graph]], the Young modulus is the **gradient of the initial straight-line portion**. Equivalently, on a [[Force-Extension-Graph]], gradient $= EA/L$. A steeper line means a stiffer material.
 
 ## Foundation Links
 

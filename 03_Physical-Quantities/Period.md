@@ -41,11 +41,11 @@ The period is the time taken for one complete oscillation, rotation, or wave cyc
 
 ## Related Equations
 
-- `T = 1 / f` — `T` = period (s), `f` = frequency (Hz).
-- `T = 2π/ω` — `ω` = angular frequency (rad s⁻¹).
-- Simple pendulum (small angle): `T = 2π√(L/g)` — `L` = length (m), `g` = 9.81 N kg⁻¹.
-- Mass–spring: `T = 2π√(m/k)` — `m` = mass (kg), `k` = spring constant (N m⁻¹).
-- Circular orbit: `T = 2πr/v` — `r` = radius (m), `v` = speed (m s⁻¹).
+- $T = 1 / f$ — `T` = period (s), `f` = frequency (Hz).
+- $T = 2\pi/\omega$ — `ω` = angular frequency (rad s⁻¹).
+- Simple pendulum (small angle): $T = 2\pi\sqrt{L/g}$ — `L` = length (m), `g` = 9.81 N kg⁻¹.
+- Mass–spring: $T = 2\pi\sqrt{m/k}$ — `m` = mass (kg), `k` = spring constant (N m⁻¹).
+- Circular orbit: $T = 2\pi r/v$ — `r` = radius (m), `v` = speed (m s⁻¹).
 
 ## How It Is Measured
 
@@ -53,7 +53,7 @@ Time a large number of complete cycles with a stopwatch (or light gate / data-lo
 
 ## Graphical Meaning
 
-On a displacement–time graph, the period is the time for one full cycle (peak to next equivalent peak). The gradient of a `T²` against `L` graph for a pendulum gives `4π²/g`, allowing `g` to be found.
+On a displacement–time graph, the period is the time for one full cycle (peak to next equivalent peak). The gradient of a $T^2$ against `L` graph for a pendulum gives $4\pi^2/g$, allowing `g` to be found.
 
 ## Foundation Links
 

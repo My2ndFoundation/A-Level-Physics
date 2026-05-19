@@ -46,15 +46,15 @@ A force is an interaction that, when unopposed, changes the motion of an object.
 
 ## Related Equations
 
-- `F = ma` — `F` = resultant force (N), `m` = mass (kg), `a` = acceleration (m s⁻²). See [[Newton-Second-Law]].
-- `F = Δp / Δt` — `Δp` = change in momentum (kg m s⁻¹), `Δt` = time (s).
-- Weight: `W = mg` — `g` = gravitational field strength (N kg⁻¹). See [[Weight]].
-- Spring: `F = kx` — `k` = spring constant (N m⁻¹), `x` = extension (m). See [[Hookes-Law]].
-- Gravitation: `F = GMm/r²` — see [[Newtons-Law-of-Gravitation]]. Electrostatic: see [[Coulombs-Law]].
+- $F = ma$ — `F` = resultant force (N), `m` = mass (kg), `a` = acceleration (m s⁻²). See [[Newton-Second-Law]].
+- $F = \Delta p / \Delta t$ — `Δp` = change in momentum (kg m s⁻¹), `Δt` = time (s).
+- Weight: $W = mg$ — `g` = gravitational field strength (N kg⁻¹). See [[Weight]].
+- Spring: $F = kx$ — `k` = spring constant (N m⁻¹), `x` = extension (m). See [[Hookes-Law]].
+- Gravitation: $F = GMm/r^2$ — see [[Newtons-Law-of-Gravitation]]. Electrostatic: see [[Coulombs-Law]].
 
 ## How It Is Measured
 
-Newtonmeters (calibrated springs), force sensors, or indirectly via `F = ma` (measured mass and acceleration) or via measured extension and a known spring constant.
+Newtonmeters (calibrated springs), force sensors, or indirectly via $F = ma$ (measured mass and acceleration) or via measured extension and a known spring constant.
 
 ## Graphical Meaning
 

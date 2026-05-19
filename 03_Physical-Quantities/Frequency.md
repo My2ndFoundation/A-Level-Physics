@@ -41,10 +41,10 @@ Frequency is the number of complete cycles (or oscillations, or waves) per unit 
 
 ## Related Equations
 
-- `f = 1 / T` — `f` = frequency (Hz), `T` = period (s).
-- Wave equation: `v = fλ` — `v` = wave speed (m s⁻¹), `λ` = wavelength (m).
-- Photon energy: `E = hf` — `h` = Planck constant (J s), `E` in joules.
-- Angular frequency: `ω = 2πf` (rad s⁻¹).
+- $f = 1 / T$ — `f` = frequency (Hz), `T` = period (s).
+- Wave equation: $v = f\lambda$ — `v` = wave speed (m s⁻¹), `λ` = wavelength (m).
+- Photon energy: $E = hf$ — `h` = Planck constant (J s), `E` in joules.
+- Angular frequency: $\omega = 2\pi f$ (rad s⁻¹).
 
 ## How It Is Measured
 
@@ -80,7 +80,7 @@ On a displacement–time graph of an oscillation, the frequency is the reciproca
 ## Common Mistakes
 
 - Confusing frequency with period (they are reciprocals)
-- Mixing up frequency and angular frequency (`ω = 2πf`)
+- Mixing up frequency and angular frequency ($\omega = 2\pi f$)
 - Timing only one cycle (large percentage uncertainty)
 
 ## Visuals

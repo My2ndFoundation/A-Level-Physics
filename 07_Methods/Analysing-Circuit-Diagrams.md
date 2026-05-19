@@ -35,14 +35,14 @@ Use it for any circuit problem: combinations of resistors, finding the reading o
 
 1. Identify the source (emf), and whether [[Internal-Resistance]] must be included.
 2. Mark which components are in series (same current) and which are in parallel (same p.d.).
-3. Reduce resistor networks: series add directly; parallel combine as 1/R_total = Σ(1/R).
-4. Find the total current from the source using *I = ε / R_total* (or *ε/(R+r)*).
+3. Reduce resistor networks: series add directly; parallel combine as $1/R_\text{total} = \Sigma(1/R)$.
+4. Find the total current from the source using $I = \varepsilon / R_\text{total}$ (or $\varepsilon/(R+r)$).
 5. Work back through the network using [[Ohms-Law]] and [[Kirchhoffs-First-Law]] to find branch currents and p.d.s.
 6. Check: sum of p.d.s around any loop equals the emf ([[Kirchhoffs-Second-Law]]).
 
 ## Worked Example
 
-A 6.0 V supply (no internal resistance) drives a 4.0 Ω and 2.0 Ω resistor in series. Total resistance = 6.0 Ω, so current = 6.0 / 6.0 = 1.0 A. P.d. across the 4.0 Ω resistor = 1.0 × 4.0 = 4.0 V; across the 2.0 Ω resistor = 2.0 V; these sum to the 6.0 V supply, as required.
+A 6.0 V supply (no internal resistance) drives a 4.0 Ω and 2.0 Ω resistor in series. Total resistance = 6.0 Ω, so current $= 6.0 / 6.0 = 1.0 \text{ A}$. P.d. across the 4.0 Ω resistor $= 1.0 \times 4.0 = 4.0 \text{ V}$; across the 2.0 Ω resistor = 2.0 V; these sum to the 6.0 V supply, as required.
 
 ## Why It Works
 

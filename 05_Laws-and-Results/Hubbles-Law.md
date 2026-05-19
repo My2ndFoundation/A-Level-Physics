@@ -23,7 +23,7 @@ distance from us: more distant galaxies recede faster.
 
 ## Equation
 
-v = H₀ d
+$$v = H_0 d$$
 
 ## Symbols and Units
 
@@ -36,7 +36,7 @@ v = H₀ d
 - Applies on large (cosmological) scales, not to gravitationally bound local
   groups
 - Speeds small compared with c, so v can be obtained from
-  [[Redshift]] as v ≈ c z
+  [[Redshift]] as $v \approx cz$
 - Assumes uniform large-scale expansion
 
 ## Physical Meaning
@@ -44,7 +44,7 @@ v = H₀ d
 Every galaxy recedes from every other, with speed proportional to separation.
 This is the signature of a uniformly expanding Universe with no special
 centre. Reversing the expansion implies a hot, dense origin, supporting the
-[[Big-Bang-Theory]]. The reciprocal 1/H₀ gives a rough estimate of the age of
+[[Big-Bang-Theory]]. The reciprocal $1/H_0$ gives a rough estimate of the age of
 the Universe.
 
 ## Foundation Link
@@ -54,9 +54,9 @@ quantitative as a linear speed–distance relation.
 
 ## How to Use
 
-Measure [[Redshift]] z to get v ≈ cz, find d independently (standard candles
-or other ladder steps — see [[Astronomical-Distances]]), then H₀ = v/d. Or use
-H₀ to estimate distance, recession speed, or age (≈ 1/H₀, with H₀ in s⁻¹).
+Measure [[Redshift]] z to get $v \approx cz$, find d independently (standard candles
+or other ladder steps — see [[Astronomical-Distances]]), then $H_0 = v/d$. Or use
+H₀ to estimate distance, recession speed, or age ($\approx 1/H_0$, with H₀ in s⁻¹).
 
 ## Derivation or Explanation
 
@@ -85,7 +85,7 @@ straight line through the origin whose gradient is H₀.
 
 - Applying it to nearby bound galaxies (e.g. Andromeda, which blueshifts)
 - Inconsistent units for H₀ (km s⁻¹ Mpc⁻¹ vs s⁻¹) when finding age
-- Treating 1/H₀ as the exact, not approximate, age
+- Treating $1/H_0$ as the exact, not approximate, age
 
 ## Visuals
 

@@ -36,26 +36,26 @@ Wave speed is how fast a wave pattern (a crest, a wavefront, or a point of fixed
 
 ## Definition
 
-The wave speed is the distance travelled by a point of constant phase per unit time. In one period `T` the pattern advances exactly one [[Wavelength]] `λ`, so `v = λ / T = f λ`, where `f` is the [[Frequency]].
+The wave speed is the distance travelled by a point of constant phase per unit time. In one period `T` the pattern advances exactly one [[Wavelength]] `λ`, so $v = \lambda / T = f \lambda$, where `f` is the [[Frequency]].
 
 It must be distinguished from the **particle speed** — the speed of an individual oscillating particle of the medium, which varies continuously through each cycle and is generally different from `v`.
 
 ## Related Equations
 
-- `v = f λ` — see [[Wave-Speed-Equation]]
-- `v = λ / T`, using `f = 1 / T` with [[Period]] `T`
-- For light in a medium, `v = c / n` where `n` is the [[Refractive-Index]] (see [[Snell-Law]])
+- $v = f \lambda$ — see [[Wave-Speed-Equation]]
+- $v = \lambda / T$, using $f = 1 / T$ with [[Period]] `T`
+- For light in a medium, $v = c / n$ where `n` is the [[Refractive-Index]] (see [[Snell-Law]])
 
 ## How It Is Measured
 
-- **Sound:** time an echo over a known distance, or use a microphone and oscilloscope to measure wavelength of a known-frequency tone, then `v = f λ`.
+- **Sound:** time an echo over a known distance, or use a microphone and oscilloscope to measure wavelength of a known-frequency tone, then $v = f \lambda$.
 - **Waves on a string:** measure frequency for a standing-wave pattern of known length (see [[Standing-Waves]]).
 - **Water/ripple waves:** stroboscope and ruler in a ripple tank.
 - **Light:** derived from `c` and the measured [[Refractive-Index]].
 
 ## Graphical Meaning
 
-On a distance–time graph of a single wavefront, the gradient is the wave speed. On a displacement–position ("snapshot") graph the wavelength is read off, and combined with frequency from a displacement–time graph it gives `v = f λ`.
+On a distance–time graph of a single wavefront, the gradient is the wave speed. On a displacement–position ("snapshot") graph the wavelength is read off, and combined with frequency from a displacement–time graph it gives $v = f \lambda$.
 
 ## Foundation Links
 

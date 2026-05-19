@@ -28,7 +28,7 @@ GCSE
 
 At GCSE, power is the rate of energy transfer. It is measured in watts (W), where one watt means one joule of energy transferred each second. A 2000 W kettle transfers 2000 J every second; a 60 W bulb transfers 60 J every second.
 
-Power can be calculated as the energy transferred divided by the time taken, or equivalently as the work done divided by the time taken. For electrical appliances it can also be found from current and voltage (power = potential difference × current).
+Power can be calculated as the energy transferred divided by the time taken, or equivalently as the work done divided by the time taken. For electrical appliances it can also be found from current and voltage ($\text{power} = \text{potential difference} \times \text{current}$).
 
 The key distinction students must grasp is between *energy* and *power*. Energy (in joules) is the total amount transferred. Power (in watts) is how fast that transfer happens. A low-power device left on for a long time can transfer just as much total energy as a high-power device used briefly.
 
@@ -66,7 +66,7 @@ A powerful kettle boils water faster than a low-power one because it transfers e
 
 ## Bridge to A-Level
 
-At A-Level, power becomes a precise derived quantity: P = E/t, P = W/t, P = Fv for mechanical power, and P = IV (with P = I²R and P = V²/R) for electrical power. It is used in efficiency definitions and in analysing energy transfer in circuits and machines. See the A-Level [[Power]] physical-quantity page for the formal treatment.
+At A-Level, power becomes a precise derived quantity: $P = E/t$, $P = W/t$, $P = Fv$ for mechanical power, and $P = IV$ (with $P = I^2R$ and $P = V^2/R$) for electrical power. It is used in efficiency definitions and in analysing energy transfer in circuits and machines. See the A-Level [[Power]] physical-quantity page for the formal treatment.
 
 ## Source Trace
 

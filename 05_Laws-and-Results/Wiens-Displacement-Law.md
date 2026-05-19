@@ -24,13 +24,13 @@ wavelengths.
 
 ## Equation
 
-λ_max T = 2.90 × 10⁻³ m K
+$$\lambda_{max} T = 2.90 \times 10^{-3} \ \text{m K}$$
 
 ## Symbols and Units
 
 - λ_max: wavelength of peak emission — m
 - T: absolute (thermodynamic) temperature of the surface — K
-- Wien constant: 2.90 × 10⁻³ — m K
+- Wien constant: $2.90 \times 10^{-3}$ — m K
 
 ## Conditions
 
@@ -54,8 +54,8 @@ temperature.
 
 ## How to Use
 
-Measure λ_max from a star's spectrum, then T = 2.90 × 10⁻³ / λ_max. Combine
-with [[Stefans-Law]] (L = 4πr²σT⁴) to estimate stellar radius.
+Measure λ_max from a star's spectrum, then $T = \frac{2.90 \times 10^{-3}}{\lambda_{max}}$. Combine
+with [[Stefans-Law]] ($L = 4\pi r^2 \sigma T^4$) to estimate stellar radius.
 
 ## Derivation or Explanation
 

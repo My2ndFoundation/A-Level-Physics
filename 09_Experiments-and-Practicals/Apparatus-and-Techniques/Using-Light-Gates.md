@@ -40,8 +40,8 @@ To measure short time intervals, instantaneous speeds and accelerations more rel
 
 1. Measure the interrupt card width `d` accurately (use [[Using-Vernier-Calipers]] or a rule).
 2. Fix the light gate(s) at known positions and connect to the timer/data logger.
-3. For **instantaneous speed**: let the card pass through one gate; the timer records the time `t` the beam is blocked. Speed `v = d / t`.
-4. For **acceleration**: use two gates a measured distance apart; record the speed at each gate and the time between them, then `a = (v₂ − v₁) / Δt`. Alternatively use a double-interrupt card at a single gate.
+3. For **instantaneous speed**: let the card pass through one gate; the timer records the time `t` the beam is blocked. Speed $v = \frac{d}{t}$.
+4. For **acceleration**: use two gates a measured distance apart; record the speed at each gate and the time between them, then $a = \frac{v_2 - v_1}{\Delta t}$. Alternatively use a double-interrupt card at a single gate.
 5. Repeat each run several times and take a mean.
 
 ## Measurements
@@ -50,7 +50,7 @@ Beam-block time at each gate; gate separation; card width; derived speeds and ac
 
 ## Data Processing
 
-Speed at a gate = card width ÷ block time. Acceleration from two speeds and the time between them, or from `v² = u² + 2as`. Mean of repeated runs.
+Speed at a gate = card width ÷ block time. Acceleration from two speeds and the time between them, or from $v^2 = u^2 + 2as$. Mean of repeated runs.
 
 ## Graph Use
 

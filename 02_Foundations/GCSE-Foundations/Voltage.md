@@ -70,7 +70,7 @@ If current is like the rate of water flow, voltage is like the pressure differen
 
 ## Bridge to A-Level
 
-At A-Level, potential difference is defined precisely as the work done (energy transferred) per unit charge, V = W/Q, and is distinguished carefully from electromotive force. It is combined with [[Electric-Current]] and [[Resistance]] through [[Ohms-Law]], used in potential dividers, and generalised into electric potential and potential energy in fields. See the A-Level [[Potential-Difference]] physical-quantity page for the formal treatment.
+At A-Level, potential difference is defined precisely as the work done (energy transferred) per unit charge, $V = W/Q$, and is distinguished carefully from electromotive force. It is combined with [[Electric-Current]] and [[Resistance]] through [[Ohms-Law]], used in potential dividers, and generalised into electric potential and potential energy in fields. See the A-Level [[Potential-Difference]] physical-quantity page for the formal treatment.
 
 ## Source Trace
 

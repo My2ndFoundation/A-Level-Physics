@@ -38,15 +38,15 @@ Activity is the rate at which nuclei in a radioactive sample decay — how many 
 
 Activity is the number of nuclear decays per unit time. It is proportional to both the [[Decay-Constant]] λ and the number of undecayed nuclei N present:
 
-A = λN
+$$A = \lambda N$$
 
-Since N falls exponentially, so does activity: A = A₀ e^(−λt), with A₀ the initial activity.
+Since N falls exponentially, so does activity: $A = A_0 e^{-\lambda t}$, with $A_0$ the initial activity.
 
 ## Related Equations
 
-- A = λN
-- A = A₀ e^(−λt)
-- t₁/₂ = ln 2 / λ  (via [[Half-Life]])
+- $A = \lambda N$
+- $A = A_0 e^{-\lambda t}$
+- $t_{1/2} = \ln 2 / \lambda$  (via [[Half-Life]])
 
 ## How It Is Measured
 

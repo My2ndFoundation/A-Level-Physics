@@ -36,18 +36,18 @@ Magnetic flux linkage is the total magnetic flux passing through a coil multipli
 
 ## Definition
 
-For a coil of N turns, each enclosing the same flux Φ = B A cos θ, the flux linkage is:
+For a coil of N turns, each enclosing the same flux $\Phi = B A \cos\theta$, the flux linkage is:
 
-NΦ = B A N cos θ
+$$N\Phi = B A N \cos\theta$$
 
 where B is the [[Magnetic-Flux-Density]], A the area of one turn, N the number of turns, and θ the angle between the field and the normal to the coil.
 
 ## Related Equations
 
-- NΦ = B A N cos θ
-- Φ = B A cos θ (single-loop flux, see [[Magnetic-Flux]])
-- Induced e.m.f. ε = −d(NΦ)/dt (see [[Faradays-Law]])
-- For a coil rotating at angular speed ω: NΦ = B A N cos(ωt), so ε = B A N ω sin(ωt)
+- $N\Phi = B A N \cos\theta$
+- $\Phi = B A \cos\theta$ (single-loop flux, see [[Magnetic-Flux]])
+- Induced e.m.f. $\varepsilon = -\frac{d(N\Phi)}{dt}$ (see [[Faradays-Law]])
+- For a coil rotating at angular speed ω: $N\Phi = B A N \cos(\omega t)$, so $\varepsilon = B A N \omega \sin(\omega t)$
 
 ## How It Is Measured
 

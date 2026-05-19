@@ -94,7 +94,7 @@ xychart-beta
   y-axis "E_k (relative units)" 0 --> 12.5
   line [0, 0.5, 2.0, 4.5, 8.0, 12.5]
 ```
-*Figure: E_k is linear in v² (gradient = ½m). Doubling v multiplies v² by 4, so E_k quadruples — this explains why stopping distances grow sharply with speed.*
+*Figure: $E_k$ is linear in $v^2$ (gradient $= \tfrac{1}{2}m$). Doubling v multiplies $v^2$ by 4, so $E_k$ quadruples — this explains why stopping distances grow sharply with speed.*
 *Source: Authored for this vault (CC0). No external copyright.*
 
 ## Source Trace

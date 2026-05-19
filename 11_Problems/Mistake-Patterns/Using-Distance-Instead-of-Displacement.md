@@ -27,7 +27,7 @@ Distance and displacement are equal for motion in a straight line without revers
 
 ## Example
 
-A runner completes one lap of a 400 m track, returning to the start in 80 s. A student reports an average velocity of 400 ÷ 80 = 5 m/s. The displacement after a full lap is zero, so the average velocity is 0 m/s; 5 m/s is the average *speed*.
+A runner completes one lap of a 400 m track, returning to the start in 80 s. A student reports an average velocity of $400 / 80 = 5\ \text{m s}^{-1}$. The displacement after a full lap is zero, so the average velocity is 0 m/s; 5 m/s is the average *speed*.
 
 ## Correct Approach
 

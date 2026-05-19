@@ -35,12 +35,12 @@ When a question asks for a total accumulated over time or distance, or explicitl
 ## Method
 
 1. Identify the function to accumulate, e.g. velocity `v(t)`.
-2. Integrate over the interval: displacement `s = ∫v dt`.
+2. Integrate over the interval: displacement $s = \int v\, dt$.
 3. On a graph, evaluate the **area between the curve and the axis** (count signed areas).
 
 ## Worked Example
 
-For constant `v = 12 m s⁻¹` over `5 s`, `s = ∫v dt = 12 × 5 = 60 m` — the rectangle's area. See [[Velocity-Time-Graph]], [[Work]], [[Impulse]].
+For constant $v = 12 \text{ m s}^{-1}$ over `5 s`, $s = \int v\, dt = 12 \times 5 = 60 \text{ m}$ — the rectangle's area. See [[Velocity-Time-Graph]], [[Work]], [[Impulse]].
 
 ## Why It Works
 

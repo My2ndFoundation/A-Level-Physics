@@ -25,7 +25,7 @@ The speed of a wave equals its frequency multiplied by its wavelength. This rela
 
 ## Equation
 
-`v = f λ`
+$$v = f \lambda$$
 
 ## Symbols and Units
 
@@ -33,7 +33,7 @@ The speed of a wave equals its frequency multiplied by its wavelength. This rela
 - `f`: frequency, hertz `Hz` (equivalent to `s⁻¹`)
 - `λ`: wavelength, metres `m`
 
-Related: `f = 1/T`, where `T` is the period in seconds `s`.
+Related: $f = 1/T$, where `T` is the period in seconds `s`.
 
 ## Conditions
 
@@ -43,22 +43,22 @@ Related: `f = 1/T`, where `T` is the period in seconds `s`.
 
 ## Physical Meaning
 
-In one period `T`, the wave advances exactly one wavelength `λ`, so its speed is `λ/T = fλ`. Frequency is set by the source and does not change when a wave enters a new medium; the wave speed and wavelength change together. This is the key idea behind refraction (see [[Snell-Law]]).
+In one period `T`, the wave advances exactly one wavelength `λ`, so its speed is $\lambda/T = f\lambda$. Frequency is set by the source and does not change when a wave enters a new medium; the wave speed and wavelength change together. This is the key idea behind refraction (see [[Snell-Law]]).
 
 ## Foundation Link
 
-GCSE introduces `wave speed = frequency × wavelength` and the idea of transverse and longitudinal waves. A-Level adds the period link `f = 1/T`, phase, and the constancy of frequency across boundaries, leading into refraction and the [[Photon-Model]].
+GCSE introduces $\text{wave speed} = \text{frequency} \times \text{wavelength}$ and the idea of transverse and longitudinal waves. A-Level adds the period link $f = 1/T$, phase, and the constancy of frequency across boundaries, leading into refraction and the [[Photon-Model]].
 
 ## How to Use
 
 1. Identify which two of `v`, `f`, `λ` are known.
-2. Rearrange `v = fλ` for the unknown.
+2. Rearrange $v = f\lambda$ for the unknown.
 3. Convert frequency from `1/T` if only the period is given.
 4. When a wave changes medium, keep `f` fixed and recompute `λ` from the new `v`.
 
 ## Derivation or Explanation
 
-By definition, in one period the wave moves one wavelength: `v = distance/time = λ/T`. Since `f = 1/T`, this gives `v = fλ`.
+By definition, in one period the wave moves one wavelength: $v = \text{distance}/\text{time} = \lambda/T$. Since $f = 1/T$, this gives $v = f\lambda$.
 
 ## Related Quantities
 

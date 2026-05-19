@@ -35,12 +35,12 @@ When a question asks for a value "at an instant", for the **gradient of a curved
 ## Method
 
 1. Identify the function, e.g. displacement `s(t)`.
-2. Differentiate with respect to the variable: `v = ds/dt`, `a = dv/dt`.
+2. Differentiate with respect to the variable: $v = \frac{ds}{dt}$, $a = \frac{dv}{dt}$.
 3. For graph work, the derivative is the **tangent gradient** at that point.
 
 ## Worked Example
 
-For `s = 5t²`, velocity `v = ds/dt = 10t`; at `t = 3 s`, `v = 30 m s⁻¹`. See [[Velocity]] and [[Acceleration]].
+For $s = 5t^2$, velocity $v = \frac{ds}{dt} = 10t$; at $t = 3 \text{ s}$, $v = 30 \text{ m s}^{-1}$. See [[Velocity]] and [[Acceleration]].
 
 ## Why It Works
 

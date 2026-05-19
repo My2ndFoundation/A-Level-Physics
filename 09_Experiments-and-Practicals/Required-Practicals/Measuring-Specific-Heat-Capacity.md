@@ -93,7 +93,7 @@ xychart-beta
     y-axis "Temperature θ / °C" 15 --> 40
     line [18, 21, 24, 27, 30, 33]
 ```
-*Figure: Temperature θ rises linearly with energy supplied E = VIt for a well-insulated block. The gradient equals 1/(mc), so the specific heat capacity c = 1/(m × gradient). The slight curve at the start reflects warm-up of the heater; using the gradient of the best-fit line averages this out.*
+*Figure: Temperature θ rises linearly with energy supplied $E = VIt$ for a well-insulated block. The gradient equals $\frac{1}{mc}$, so the specific heat capacity $c = \frac{1}{m \times \text{gradient}}$. The slight curve at the start reflects warm-up of the heater; using the gradient of the best-fit line averages this out.*
 *Source: Authored for this vault (CC0). No external copyright.*
 
 ## Source Trace

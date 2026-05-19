@@ -27,7 +27,7 @@ At GCSE many calculations only involve magnitudes, so learners build a habit of 
 
 ## Example
 
-A ball thrown upward at 6 m/s rebounds downward at 4 m/s after a wall bounce. A student writes the change in velocity as 4 − 6 = −2 m/s. Taking up as positive, the correct change is (−4) − (+6) = −10 m/s: the directions must be carried through with signs.
+A ball thrown upward at 6 m/s rebounds downward at 4 m/s after a wall bounce. A student writes the change in velocity as $4 - 6 = -2\ \text{m s}^{-1}$. Taking up as positive, the correct change is $(-4) - (+6) = -10\ \text{m s}^{-1}$: the directions must be carried through with signs.
 
 ## Correct Approach
 

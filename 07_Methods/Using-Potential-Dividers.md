@@ -34,14 +34,14 @@ Use it whenever a fraction of a supply voltage is needed, or when analysing a se
 
 1. Identify the two series resistances *R₁* and *R₂* and which one the output is taken across.
 2. Confirm the output is effectively unloaded (negligible current drawn) or include the load in parallel if not.
-3. Apply *V_out = V_in × R₂ / (R₁ + R₂)*.
+3. Apply $V_\text{out} = V_\text{in} \times \dfrac{R_2}{R_1 + R_2}$.
 4. For sensor circuits, substitute the sensor's resistance at the relevant condition (hot/cold, light/dark).
 5. To design for a target *V_out*, rearrange to find the required resistance ratio.
 6. State how *V_out* changes as the sensor's resistance changes.
 
 ## Worked Example
 
-A 9.0 V supply drives a 6.0 kΩ resistor in series with a 3.0 kΩ resistor, output taken across the 3.0 kΩ. *V_out = 9.0 × 3.0 / (6.0 + 3.0) = 3.0 V*. If the 3.0 kΩ resistor were a thermistor whose resistance fell when warmed, *V_out* would also fall.
+A 9.0 V supply drives a 6.0 kΩ resistor in series with a 3.0 kΩ resistor, output taken across the 3.0 kΩ. $V_\text{out} = 9.0 \times 3.0 / (6.0 + 3.0) = 3.0 \text{ V}$. If the 3.0 kΩ resistor were a thermistor whose resistance fell when warmed, *V_out* would also fall.
 
 ## Why It Works
 
@@ -71,7 +71,7 @@ In a series circuit the same current flows through both resistors, so by [[Ohms-
 
 ### Potential divider circuit
 ![[_attachments/07_Methods/using-potential-dividers--circuit.svg]]
-*Figure: R₁ (red) and R₂ (green) in series across V_in. Output V_out is taken across R₂. The supply voltage divides in the resistance ratio: V_out = V_in × R₂/(R₁+R₂).*
+*Figure: R₁ (red) and R₂ (green) in series across V_in. Output V_out is taken across R₂. The supply voltage divides in the resistance ratio: $V_\text{out} = V_\text{in} \times R_2/(R_1+R_2)$.*
 *Source: Authored for this vault (CC0). No external copyright.*
 
 ## Source Trace

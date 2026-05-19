@@ -27,16 +27,16 @@ The total momentum of a system of interacting objects stays constant, provided n
 
 For two bodies:
 
-`m₁u₁ + m₂u₂ = m₁v₁ + m₂v₂`
+$$m_1 u_1 + m_2 u_2 = m_1 v_1 + m_2 v_2$$
 
-Vector form: `Σp_before = Σp_after`
+Vector form: $\Sigma p_{before} = \Sigma p_{after}$
 
 ## Symbols and Units
 
 - `m₁, m₂`: masses of the objects, kilograms `kg` (scalar)
 - `u₁, u₂`: velocities before interaction, metres per second `m s⁻¹` (vector)
 - `v₁, v₂`: velocities after interaction, metres per second `m s⁻¹` (vector)
-- `p`: momentum `= mv`, kilogram metres per second `kg m s⁻¹` (vector)
+- `p`: momentum $= mv$, kilogram metres per second `kg m s⁻¹` (vector)
 
 ## Conditions
 
@@ -51,7 +51,7 @@ Because internal forces obey [[Newton-Third-Law]] (equal and opposite), the impu
 
 ## Foundation Link
 
-GCSE introduces momentum `p = mv` and conservation in simple collisions. A-Level adds full vector treatment (2-D collisions, components), the elastic/inelastic distinction, and the link to impulse `Δp = FΔt`.
+GCSE introduces momentum $p = mv$ and conservation in simple collisions. A-Level adds full vector treatment (2-D collisions, components), the elastic/inelastic distinction, and the link to impulse $\Delta p = F\Delta t$.
 
 ## How to Use
 
@@ -62,7 +62,7 @@ GCSE introduces momentum `p = mv` and conservation in simple collisions. A-Level
 
 ## Derivation or Explanation
 
-From [[Newton-Second-Law]] in momentum form, `F_ext = Δp_total/Δt`. If `F_ext = 0`, then `Δp_total = 0`, so total momentum is constant. Internal forces cancel in pairs by [[Newton-Third-Law]].
+From [[Newton-Second-Law]] in momentum form, $F_{ext} = \Delta p_{total}/\Delta t$. If $F_{ext} = 0$, then $\Delta p_{total} = 0$, so total momentum is constant. Internal forces cancel in pairs by [[Newton-Third-Law]].
 
 ## Related Quantities
 
@@ -84,7 +84,7 @@ From [[Newton-Second-Law]] in momentum form, `F_ext = Δp_total/Δt`. If `F_ext 
 
 ## Frontier Links
 
-- [[Relativity-Map]] — relativistic momentum replaces `mv` at high speeds.
+- [[Relativity-Map]] — relativistic momentum replaces $mv$ at high speeds.
 - [[Quantum-Mechanics-Map]] — momentum conservation governs particle scattering and the [[De-Broglie-Equation]].
 
 ## Common Mistakes

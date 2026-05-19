@@ -24,7 +24,7 @@ Nuclear fission is the splitting of a large, heavy nucleus into two smaller nucl
 
 ## Meaning
 
-A heavy nucleus such as uranium-235 can be made unstable by absorbing a slow (thermal) neutron. The resulting nucleus splits into two medium-sized daughter nuclei, releases two or three fast neutrons, and emits energy. The energy comes from the increase in binding energy per nucleon: the products lie nearer the peak of the binding-energy curve, so mass is lost and converted to energy according to E = mc² (mass–energy equivalence). Most of this energy appears as kinetic energy of the fragments.
+A heavy nucleus such as uranium-235 can be made unstable by absorbing a slow (thermal) neutron. The resulting nucleus splits into two medium-sized daughter nuclei, releases two or three fast neutrons, and emits energy. The energy comes from the increase in binding energy per nucleon: the products lie nearer the peak of the binding-energy curve, so mass is lost and converted to energy according to $E = mc^2$ (mass–energy equivalence). Most of this energy appears as kinetic energy of the fragments.
 
 The released neutrons can trigger further fissions in nearby nuclei, producing a chain reaction. In a nuclear reactor this chain is controlled — control rods absorb surplus neutrons and a moderator slows neutrons so they can be captured — keeping exactly one neutron from each fission causing the next (a steady, critical reaction). An uncontrolled, rapidly multiplying chain is the principle of a fission weapon.
 

@@ -85,7 +85,7 @@ Low-voltage circuit; main precaution is the series resistor to avoid burning out
 
 ### Assorted LEDs of Different Colours
 ![[_attachments/09_Experiments-and-Practicals/Measuring-the-Planck-Constant--assorted-LEDs-photo.jpg]]
-*Figure: A set of LEDs of different colours (red, amber, yellow, green, blue) — each emits light at a characteristic peak wavelength; the higher the frequency, the higher the threshold voltage required to turn the LED on, giving the V against 1/λ graph its upward slope with gradient hc/e.*
+*Figure: A set of LEDs of different colours (red, amber, yellow, green, blue) — each emits light at a characteristic peak wavelength; the higher the frequency, the higher the threshold voltage required to turn the LED on, giving the V against $1/\lambda$ graph its upward slope with gradient $hc/e$.*
 *Source: Verschiedene LEDs — Afrank99 — CC BY-SA 2.0 — https://commons.wikimedia.org/wiki/File:Verschiedene_LEDs.jpg. Retrieved 2026-05-19. Downscaled from 3392×1193 to 1600×562 px.*
 
 ## Source Trace

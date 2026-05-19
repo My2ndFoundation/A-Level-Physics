@@ -36,12 +36,12 @@ A line graph with extension on the horizontal axis and force (load) on the verti
 
 ## Physical Meaning
 
-The shape encodes the material's mechanical behaviour. The straight portion shows [[Hookes-Law]] holding (`F = kx`). The point where the line stops being straight is the limit of proportionality; beyond the elastic limit the sample no longer returns to its original length when unloaded (plastic deformation).
+The shape encodes the material's mechanical behaviour. The straight portion shows [[Hookes-Law]] holding ($F = kx$). The point where the line stops being straight is the limit of proportionality; beyond the elastic limit the sample no longer returns to its original length when unloaded (plastic deformation).
 
 ## Gradient / Area / Intercepts
 
 - **Gradient** of the straight section = the spring/force constant `k` (N m⁻¹) from [[Hookes-Law]]. A stiffer sample gives a steeper line. Find it with [[Finding-Gradient-from-a-Graph]].
-- **Area under the line** = work done on the sample = elastic strain energy stored. For the linear region this is the triangle `½Fx = ½kx²`.
+- **Area under the line** = work done on the sample = elastic strain energy stored. For the linear region this is the triangle $\frac{1}{2}Fx = \frac{1}{2}kx^2$.
 - **Intercept**: a well-behaved sample passes through the origin; a non-zero intercept usually signals slack or zero error in the apparatus.
 
 ## Converts To / From
@@ -77,7 +77,7 @@ xychart-beta
     line [0, 10, 20, 30, 35, 38, 38]
 ```
 
-*Figure: The straight section from the origin (x = 0 to 0.3 m) obeys [[Hookes-Law]]; its gradient is the spring constant k = F/x. Beyond the limit of proportionality the line curves and then flattens — the sample yields and extends with little extra force. The triangular area under the straight section equals the elastic strain energy stored (½Fx = ½kx²).*
+*Figure: The straight section from the origin (x = 0 to 0.3 m) obeys [[Hookes-Law]]; its gradient is the spring constant $k = F/x$. Beyond the limit of proportionality the line curves and then flattens — the sample yields and extends with little extra force. The triangular area under the straight section equals the elastic strain energy stored ($\frac{1}{2}Fx = \frac{1}{2}kx^2$).*
 *Source: Authored for this vault (CC0). No external copyright.*
 
 ## Source Trace

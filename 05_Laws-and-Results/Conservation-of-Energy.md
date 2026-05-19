@@ -28,17 +28,17 @@ Energy cannot be created or destroyed; it can only be transferred from one store
 
 For a closed mechanical system with no resistive losses:
 
-`E_total = KE + PE = constant`
+$$E_{total} = KE + PE = \text{constant}$$
 
 With dissipation (e.g. friction, drag):
 
-`E_input = useful_output + wasted (often thermal)`
+$$E_{input} = E_{useful} + E_{wasted} \ \text{(often thermal)}$$
 
 ## Symbols and Units
 
 - `E_total`: total energy of the system, joules `J` (scalar)
-- `KE`: kinetic energy, `½mv²`, joules `J`
-- `PE`: potential energy (gravitational `mgh`, elastic `½kx²`), joules `J`
+- `KE`: kinetic energy, $\frac{1}{2}mv^2$, joules `J`
+- `PE`: potential energy (gravitational $mgh$, elastic $\frac{1}{2}kx^2$), joules `J`
 - `m`: mass, kilograms `kg`
 - `v`: speed, metres per second `m s⁻¹`
 - `g`: gravitational field strength, newtons per kilogram `N kg⁻¹`
@@ -48,7 +48,7 @@ With dissipation (e.g. friction, drag):
 
 - The principle is universal, but the simple "KE + PE constant" form requires **no energy lost to resistive forces**.
 - For a real system, account for energy transferred to thermal stores by friction or drag.
-- Mass–energy equivalence (`E = mc²`) extends the principle to nuclear and particle processes.
+- Mass–energy equivalence ($E = mc^2$) extends the principle to nuclear and particle processes.
 
 ## Physical Meaning
 
@@ -56,7 +56,7 @@ Energy is a conserved bookkeeping quantity. In a falling object, gravitational p
 
 ## Foundation Link
 
-GCSE teaches energy "stores and transfers" and that energy is conserved overall. A-Level makes this quantitative with `½mv²` and `mgh`, and adds elastic, electrical, and nuclear forms, plus the idea of efficiency and dissipation.
+GCSE teaches energy "stores and transfers" and that energy is conserved overall. A-Level makes this quantitative with $\frac{1}{2}mv^2$ and $mgh$, and adds elastic, electrical, and nuclear forms, plus the idea of efficiency and dissipation.
 
 ## How to Use
 
@@ -67,7 +67,7 @@ GCSE teaches energy "stores and transfers" and that energy is conserved overall.
 
 ## Derivation or Explanation
 
-For a constant force doing work `W = Fd`, the work–energy theorem gives `W = ΔKE`. Integrating conservative forces defines potential energy, so their sum is constant when only conservative forces act.
+For a constant force doing work $W = Fd$, the work–energy theorem gives $W = \Delta KE$. Integrating conservative forces defines potential energy, so their sum is constant when only conservative forces act.
 
 ## Related Quantities
 
@@ -88,7 +88,7 @@ For a constant force doing work `W = Fd`, the work–energy theorem gives `W = �
 
 ## Frontier Links
 
-- [[Relativity-Map]] — mass–energy equivalence `E = mc²` unifies mass and energy.
+- [[Relativity-Map]] — mass–energy equivalence $E = mc^2$ unifies mass and energy.
 - [[Quantum-Mechanics-Map]] — energy conservation holds for photon emission and absorption.
 
 ## Common Mistakes

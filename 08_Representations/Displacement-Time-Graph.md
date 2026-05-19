@@ -41,7 +41,7 @@ The line's height is *where* the object is, not how fast it moves. Returning to 
 
 - **Gradient** = change in displacement ÷ change in time = [[Velocity]]. A steeper line means faster motion; a negative gradient means motion back toward and past the origin. For a curve, the **tangent gradient** at a point gives the instantaneous velocity (use [[Finding-Gradient-from-a-Graph]]); the chord gradient gives average velocity.
 - **Area under the graph** has *no standard physical meaning* — do not interpret it.
-- **y-intercept** = the starting position at `t = 0`.
+- **y-intercept** = the starting position at $t = 0$.
 
 ## Converts To / From
 

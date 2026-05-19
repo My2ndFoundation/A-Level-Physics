@@ -37,8 +37,8 @@ The potential divider model represents two (or more) resistors in series across 
 
 ## Key Equations
 
-- *V_out = V_in × R₂ / (R₁ + R₂)*
-- Ratio form: *V₁ / V₂ = R₁ / R₂*
+- $V_{out} = V_{in} \times \frac{R_2}{R_1 + R_2}$
+- Ratio form: $\frac{V_1}{V_2} = \frac{R_1}{R_2}$
 - Built on [[Ohms-Law]] and [[Kirchhoffs-Second-Law]].
 
 ## When to Use

@@ -19,11 +19,11 @@ sources: []
 
 ## Purpose
 
-This method uses [[Newton-Second-Law]] (*ΣF = ma*) to link the resultant force on a body to its [[Acceleration]], so you can find an unknown force, acceleration, or mass in a dynamics problem.
+This method uses [[Newton-Second-Law]] ($\Sigma F = ma$) to link the resultant force on a body to its [[Acceleration]], so you can find an unknown force, acceleration, or mass in a dynamics problem.
 
 ## When to Use
 
-Use it whenever a body has a non-zero resultant force and you need its acceleration, or whenever you know the acceleration and want a force. It also covers equilibrium as the special case *ΣF = 0*, *a = 0*.
+Use it whenever a body has a non-zero resultant force and you need its acceleration, or whenever you know the acceleration and want a force. It also covers equilibrium as the special case $\Sigma F = 0$, $a = 0$.
 
 ## Prerequisites
 
@@ -36,17 +36,17 @@ Use it whenever a body has a non-zero resultant force and you need its accelerat
 1. Choose the body and draw its [[Free-Body-Diagram]].
 2. Choose a positive direction (often the expected direction of acceleration).
 3. Resolve all forces along the chosen axes.
-4. Write ΣF = ma for each axis, substituting components with correct signs.
+4. Write $\Sigma F = ma$ for each axis, substituting components with correct signs.
 5. Solve for the unknown (force, *a*, or *m*).
 6. Check the sign and magnitude of the answer are physically sensible.
 
 ## Worked Example
 
-A 2.0 kg trolley is pulled by a 12 N force against 4 N of friction along a flat track. Taking the pull direction positive: ΣF = 12 − 4 = 8 N. Then *a = ΣF/m = 8 / 2.0 = 4.0 m s⁻²* in the pull direction.
+A 2.0 kg trolley is pulled by a 12 N force against 4 N of friction along a flat track. Taking the pull direction positive: $\Sigma F = 12 - 4 = 8 \text{ N}$. Then $a = \Sigma F/m = 8 / 2.0 = 4.0 \text{ m s}^{-2}$ in the pull direction.
 
 ## Why It Works
 
-Newton's second law states that the rate of change of [[Momentum]] equals the resultant force; for constant mass this reduces to *F = ma*. Resolving onto axes works because the law applies independently to each perpendicular direction.
+Newton's second law states that the rate of change of [[Momentum]] equals the resultant force; for constant mass this reduces to $F = ma$. Resolving onto axes works because the law applies independently to each perpendicular direction.
 
 ## Common Mistakes
 

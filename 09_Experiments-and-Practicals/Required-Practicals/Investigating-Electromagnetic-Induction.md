@@ -47,7 +47,7 @@ To investigate how the induced e.m.f. in a coil depends on the rate of change of
 
 ## Measurements
 
-Peak voltage from the data logger trace; magnet speed from light-gate timing or fall height (v = √(2gh)); turns N counted; coil area A measured with a ruler/calipers.
+Peak voltage from the data logger trace; magnet speed from light-gate timing or fall height ($v = \sqrt{2gh}$); turns N counted; coil area A measured with a ruler/calipers.
 
 ## Data Processing
 

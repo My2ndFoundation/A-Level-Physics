@@ -23,11 +23,11 @@ Using a single applied force in Newton's second law instead of the resultant (ne
 
 ## Why It Happens
 
-Introductory problems often feature one force on a frictionless surface, training learners to plug the first force they see into `F = ma`. Free-body thinking is skipped under exam pressure.
+Introductory problems often feature one force on a frictionless surface, training learners to plug the first force they see into $F = ma$. Free-body thinking is skipped under exam pressure.
 
 ## Example
 
-A 2 kg box is pushed with 10 N while friction of 4 N opposes it. A student computes `a = 10 ÷ 2 = 5 m/s²`. The resultant force is 10 − 4 = 6 N, so the correct acceleration is 6 ÷ 2 = 3 m/s².
+A 2 kg box is pushed with 10 N while friction of 4 N opposes it. A student computes $a = 10 / 2 = 5\ \text{m s}^{-2}$. The resultant force is $10 - 4 = 6\ \text{N}$, so the correct acceleration is $6 / 2 = 3\ \text{m s}^{-2}$.
 
 ## Correct Approach
 

@@ -42,9 +42,9 @@ Velocity is the rate of change of displacement with time. Average velocity is di
 
 ## Related Equations
 
-- `v̄ = Δs / Δt` — `Δs` = displacement (m), `Δt` = time (s).
-- SUVAT: `v = u + at`, `v² = u² + 2as` — `u` = initial velocity (m s⁻¹), `a` = acceleration (m s⁻²), `s` = displacement (m), `t` = time (s).
-- Components: `v_x = v cosθ`, `v_y = v sinθ`.
+- $\bar{v} = \Delta s / \Delta t$ — `Δs` = displacement (m), `Δt` = time (s).
+- SUVAT: $v = u + at$, $v^2 = u^2 + 2as$ — `u` = initial velocity (m s⁻¹), `a` = acceleration (m s⁻²), `s` = displacement (m), `t` = time (s).
+- Components: $v_x = v \cos\theta$, $v_y = v \sin\theta$.
 
 ## How It Is Measured
 

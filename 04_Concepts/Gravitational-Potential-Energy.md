@@ -30,24 +30,24 @@ potential energy (GPE).
 
 **Near a surface (uniform field):**
 
-ΔE_p = m g Δh
+$$\Delta E_p = m g \Delta h$$
 
-valid only when g is approximately constant and Δh is small compared with the
+valid only when g is approximately constant and $\Delta h$ is small compared with the
 distance to the planet's centre. Symbols: m = mass (kg), g = field strength
-(N kg⁻¹), Δh = change in height (m), ΔE_p in joules (J).
+(N kg⁻¹), $\Delta h$ = change in height (m), $\Delta E_p$ in joules (J).
 
 **General radial field (point mass / outside a sphere):**
 
-E_p = − G M m / r
+$$E_p = -\frac{G M m}{r}$$
 
-where G = 6.67 × 10⁻¹¹ N m² kg⁻², M = source mass (kg), m = the mass placed
+where $G = 6.67 \times 10^{-11}$ N m² kg⁻², M = source mass (kg), m = the mass placed
 in the field (kg), r = separation of centres (m).
 
 The minus sign is essential. The zero of potential energy is taken at
 **infinite separation**, where the masses no longer interact. Any finite
-separation has *less* energy than this, so E_p is negative — the masses are
+separation has *less* energy than this, so $E_p$ is negative — the masses are
 "bound". GPE per unit mass is the [[Gravitational-Potential]]:
-E_p = m × V_grav.
+$E_p = m \times V_\text{grav}$.
 
 ## Everyday Intuition
 
@@ -61,7 +61,7 @@ starts, the more energy escape requires.
 - [[Mass]]
 - [[Conservation-of-Energy]]
 
-GCSE uses only E_p = m g h. A-Level adds the negative inverse-r form and the
+GCSE uses only $E_p = m g h$. A-Level adds the negative inverse-r form and the
 idea that the reference point is infinity, not the ground.
 
 ## Why It Matters
@@ -107,7 +107,7 @@ explains why orbiting bodies have a fixed total mechanical energy.
 
 ## Common Mistakes
 
-- Dropping the minus sign in E_p = −GMm/r
+- Dropping the minus sign in $E_p = -GMm/r$
 - Using m g h over large distances where g is not constant
 - Confusing E_p (J) with [[Gravitational-Potential]] (J kg⁻¹)
 - Thinking GPE is zero at the surface rather than at infinity

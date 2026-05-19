@@ -42,13 +42,13 @@ It is the limiting case of [[Ionisation]]: supply exactly `E_i` and the electron
 
 ## Related Equations
 
-- Photo-ionisation threshold: `h f_min = E_i` (a [[Photon-Energy|photon]] just able to ionise) — parallels the [[Photoelectric-Equation]].
-- From energy levels: `E_i = 0 − E_ground = −E_ground`.
-- Unit conversion: `E_i(J) = E_i(eV) × 1.60 × 10⁻¹⁹`.
+- Photo-ionisation threshold: $h f_{min} = E_i$ (a [[Photon-Energy|photon]] just able to ionise) — parallels the [[Photoelectric-Equation]].
+- From energy levels: $E_i = 0 - E_{ground} = -E_{ground}$.
+- Unit conversion: $E_i(\text{J}) = E_i(\text{eV}) \times 1.60 \times 10^{-19}$.
 
 ## How It Is Measured
 
-- **Spectroscopically:** find the series limit (convergence frequency) of an emission/absorption series; `E_i = h f_limit`.
+- **Spectroscopically:** find the series limit (convergence frequency) of an emission/absorption series; $E_i = h f_{limit}$.
 - **By electron collision:** increase accelerating voltage until ionisation current suddenly rises (the ionisation potential in volts equals `E_i` in eV).
 
 ## Graphical Meaning

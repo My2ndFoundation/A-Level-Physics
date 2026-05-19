@@ -25,9 +25,9 @@ A charged particle moving through a magnetic field experiences a force perpendic
 
 ## Equation
 
-F = B q v sin θ
+$$F = B q v \sin\theta$$
 
-For motion perpendicular to the field (θ = 90°): F = B q v
+For motion perpendicular to the field ($\theta = 90^\circ$): $F = B q v$
 
 ## Symbols and Units
 
@@ -45,7 +45,7 @@ For motion perpendicular to the field (θ = 90°): F = B q v
 
 ## Physical Meaning
 
-The force is always perpendicular to the velocity, so it does no work and cannot change the particle's speed — only its direction. A charge entering a uniform field perpendicular to it therefore moves in a circle of radius r = mv/(Bq), where the magnetic force provides the centripetal force: Bqv = mv²/r. This is the principle of cyclotrons, mass spectrometers, and the deflection of cosmic rays.
+The force is always perpendicular to the velocity, so it does no work and cannot change the particle's speed — only its direction. A charge entering a uniform field perpendicular to it therefore moves in a circle of radius $r = \frac{mv}{Bq}$, where the magnetic force provides the centripetal force: $Bqv = \frac{mv^2}{r}$. This is the principle of cyclotrons, mass spectrometers, and the deflection of cosmic rays.
 
 ## Foundation Link
 
@@ -53,11 +53,11 @@ Extends the GCSE idea that magnets affect currents: a current is just moving cha
 
 ## How to Use
 
-Identify q, v, B and the angle θ; apply F = Bqv sin θ. For circular motion equate Bqv = mv²/r to find radius, period T = 2πm/(Bq), or speed. Direction from Fleming's left-hand rule (treat conventional current as the direction of positive charge motion).
+Identify q, v, B and the angle θ; apply $F = Bqv \sin\theta$. For circular motion equate $Bqv = \frac{mv^2}{r}$ to find radius, period $T = \frac{2\pi m}{Bq}$, or speed. Direction from Fleming's left-hand rule (treat conventional current as the direction of positive charge motion).
 
 ## Derivation or Explanation
 
-This is the magnetic part of the Lorentz force. Summing this single-charge force over all carriers in a wire gives the macroscopic [[Force-on-a-Current-Carrying-Conductor]], F = BIL sin θ.
+This is the magnetic part of the Lorentz force. Summing this single-charge force over all carriers in a wire gives the macroscopic [[Force-on-a-Current-Carrying-Conductor]], $F = BIL \sin\theta$.
 
 ## Related Quantities
 

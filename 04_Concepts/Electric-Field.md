@@ -24,18 +24,19 @@ An electric field is a region where a charged object experiences a force; its st
 
 A charge modifies the space around it so that any other charge placed there feels a force without direct contact. The field is described by the [[Electric-Field-Strength]] E, defined as the force per unit positive test charge:
 
-- E = F / Q
-  - E = electric field strength, N C⁻¹ (equivalently V m⁻¹)
-  - F = force on the test charge, newtons (N)
-  - Q = magnitude of the test charge, coulombs (C)
+$$E = F / Q$$
 
-E is a **vector**, pointing in the direction of the force on a positive charge: away from positive charges, towards negative charges.
+  - $E$ = electric field strength, N C⁻¹ (equivalently V m⁻¹)
+  - $F$ = force on the test charge, newtons (N)
+  - $Q$ = magnitude of the test charge, coulombs (C)
+
+$E$ is a **vector**, pointing in the direction of the force on a positive charge: away from positive charges, towards negative charges.
 
 For an isolated point charge the field is **radial** and follows [[Coulombs-Law]]:
 
-- E = (1 / 4πε₀) · Q / r²
+$$E = \frac{1}{4\pi\varepsilon_0} \cdot \frac{Q}{r^2}$$
 
-so field strength falls off with the inverse square of distance r. Field patterns are drawn with [[Electric-Field-Line-Diagram]]s: lines start on positive charge, end on negative charge, and never cross. Closer lines mean a stronger field. A special case is the [[Uniform-Electric-Field]] between parallel plates, where the lines are evenly spaced.
+so field strength falls off with the inverse square of distance $r$. Field patterns are drawn with [[Electric-Field-Line-Diagram]]s: lines start on positive charge, end on negative charge, and never cross. Closer lines mean a stronger field. A special case is the [[Uniform-Electric-Field]] between parallel plates, where the lines are evenly spaced.
 
 ## Everyday Intuition
 

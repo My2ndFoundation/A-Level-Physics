@@ -19,7 +19,7 @@ sources: []
 
 ## Purpose
 
-This method applies the [[Photoelectric-Equation]] *hf = φ + ½mv²_max* to find the maximum kinetic energy of emitted electrons, the work function of a metal, the threshold frequency, or the stopping potential.
+This method applies the [[Photoelectric-Equation]] $hf = \varphi + \frac{1}{2}mv_\text{max}^2$ to find the maximum kinetic energy of emitted electrons, the work function of a metal, the threshold frequency, or the stopping potential.
 
 ## When to Use
 
@@ -32,16 +32,16 @@ Use it for any photoelectric effect calculation: threshold frequency, maximum el
 
 ## Method
 
-1. Find the photon energy: *E = hf* or *E = hc/λ*.
+1. Find the photon energy: $E = hf$ or $E = hc/\lambda$.
 2. Identify the work function *φ* (minimum energy to release an electron).
-3. Check emission occurs: only if *hf ≥ φ* (frequency at or above threshold *f₀ = φ/h*).
-4. Apply *½mv²_max = hf − φ* to get maximum kinetic energy.
-5. If asked, find max electron speed from ½mv²_max, or stopping potential from *eV_s = ½mv²_max*.
-6. Keep energies consistent in joules (convert eV using 1 eV = 1.60 × 10⁻¹⁹ J).
+3. Check emission occurs: only if $hf \geq \varphi$ (frequency at or above threshold $f_0 = \varphi/h$).
+4. Apply $\frac{1}{2}mv_\text{max}^2 = hf - \varphi$ to get maximum kinetic energy.
+5. If asked, find max electron speed from $\frac{1}{2}mv_\text{max}^2$, or stopping potential from $eV_s = \frac{1}{2}mv_\text{max}^2$.
+6. Keep energies consistent in joules (convert eV using $1 \text{ eV} = 1.60 \times 10^{-19} \text{ J}$).
 
 ## Worked Example
 
-Light of frequency 1.0 × 10¹⁵ Hz strikes a metal of work function 3.0 × 10⁻¹⁹ J. Photon energy = hf = 6.63 × 10⁻³⁴ × 1.0 × 10¹⁵ ≈ 6.6 × 10⁻¹⁹ J. Since this exceeds φ, electrons are emitted with ½mv²_max = 6.6 × 10⁻¹⁹ − 3.0 × 10⁻¹⁹ = 3.6 × 10⁻¹⁹ J.
+Light of frequency 1.0 × 10¹⁵ Hz strikes a metal of work function 3.0 × 10⁻¹⁹ J. Photon energy $= hf = 6.63 \times 10^{-34} \times 1.0 \times 10^{15} \approx 6.6 \times 10^{-19} \text{ J}$. Since this exceeds φ, electrons are emitted with $\frac{1}{2}mv_\text{max}^2 = 6.6 \times 10^{-19} - 3.0 \times 10^{-19} = 3.6 \times 10^{-19} \text{ J}$.
 
 ## Why It Works
 
@@ -51,7 +51,7 @@ By the [[Photon-Model]], one photon gives all its energy *hf* to one electron. E
 
 - Assuming emission below the threshold frequency (intensity cannot help).
 - Mixing eV and joules.
-- Treating ½mv²_max as the energy of every electron rather than the maximum.
+- Treating $\frac{1}{2}mv_\text{max}^2$ as the energy of every electron rather than the maximum.
 
 ## Related Quantities
 

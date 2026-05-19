@@ -41,18 +41,18 @@ Electric field strength at a point is the force per unit positive charge experie
 
 ## Related Equations
 
-- `E = F / Q` — `E` = field strength (N C⁻¹), `F` = force (N), `Q` = charge (C).
-- Uniform field (parallel plates): `E = V / d` — `V` = p.d. (V), `d` = plate separation (m).
-- Radial field of a point charge: `E = (1/4πε₀)(Q/r²)` — `r` = distance (m). See [[Coulombs-Law]].
-- Force on a charge: `F = EQ`.
+- $E = F / Q$ — `E` = field strength (N C⁻¹), `F` = force (N), `Q` = charge (C).
+- Uniform field (parallel plates): $E = V / d$ — `V` = p.d. (V), `d` = plate separation (m).
+- Radial field of a point charge: $E = \frac{1}{4\pi\varepsilon_0}\frac{Q}{r^2}$ — `r` = distance (m). See [[Coulombs-Law]].
+- Force on a charge: $F = EQ$.
 
 ## How It Is Measured
 
-Usually deduced rather than directly measured: for a uniform field, measure plate p.d. and separation and use `E = V/d`. The force on a known charge (e.g. a charged sphere on a balance, or deflection of a charged droplet) can also give `E = F/Q`.
+Usually deduced rather than directly measured: for a uniform field, measure plate p.d. and separation and use $E = V/d$. The force on a known charge (e.g. a charged sphere on a balance, or deflection of a charged droplet) can also give $E = F/Q$.
 
 ## Graphical Meaning
 
-For a point charge, an `E` against `r` graph falls off as an inverse-square curve; an `E` against `1/r²` graph is a straight line through the origin. In a uniform field `E` is constant with position, and `V` varies linearly with distance (gradient = `−E`).
+For a point charge, an `E` against `r` graph falls off as an inverse-square curve; an `E` against $1/r^2$ graph is a straight line through the origin. In a uniform field `E` is constant with position, and `V` varies linearly with distance (gradient = $-E$).
 
 ## Foundation Links
 
@@ -81,7 +81,7 @@ For a point charge, an `E` against `r` graph falls off as an inverse-square curv
 
 - Forgetting the field is a vector (direction matters)
 - Confusing field strength `E` with potential `V`
-- Using `E = V/d` for non-uniform fields
+- Using $E = V/d$ for non-uniform fields
 
 ## Visuals
 

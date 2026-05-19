@@ -40,9 +40,9 @@ To determine the [[Young-Modulus]] of a material in wire form by measuring how i
 ## Method
 
 1. Measure the original length `L` of the wire from clamp to marker with a metre rule.
-2. Measure the wire diameter `d` at several points with a micrometer; take a mean and find cross-sectional area `A = πd²/4`.
+2. Measure the wire diameter `d` at several points with a micrometer; take a mean and find cross-sectional area $A = \frac{\pi d^2}{4}$.
 3. Apply a small initial load to straighten the wire and set the reference mark to zero.
-4. Add masses in steps, recording the load `F = mg` and the corresponding extension `x` each time.
+4. Add masses in steps, recording the load $F = mg$ and the corresponding extension `x` each time.
 5. Continue to a sensible maximum (staying within the elastic region), then unload in steps to check the wire returns to its original length (elastic behaviour).
 
 ## Measurements
@@ -51,11 +51,11 @@ Load `F`, extension `x`, original length `L`, mean diameter `d`.
 
 ## Data Processing
 
-From the definition `E = stress / strain = (F/A) / (x/L) = FL / (Ax)`. Plot a [[Force-Extension-Graph]] (`F` against `x`); its gradient is `F/x`, so `E = gradient × L / A`. Alternatively plot a [[Stress-Strain-Graph]] and take the gradient of the linear region directly.
+From the definition $E = \frac{\text{stress}}{\text{strain}} = \frac{F/A}{x/L} = \frac{FL}{Ax}$. Plot a [[Force-Extension-Graph]] (`F` against `x`); its gradient is $F/x$, so $E = \frac{\text{gradient} \times L}{A}$. Alternatively plot a [[Stress-Strain-Graph]] and take the gradient of the linear region directly.
 
 ## Graph Use
 
-`F` (y-axis) against `x` (x-axis), straight through the origin in the elastic region; gradient `= F/x` (see [[Using-Gradient]]). Combine with `L` and `A` to get `E`.
+`F` (y-axis) against `x` (x-axis), straight through the origin in the elastic region; gradient $= F/x$ (see [[Using-Gradient]]). Combine with `L` and `A` to get `E`.
 
 ## Uncertainty
 
@@ -92,7 +92,7 @@ xychart-beta
     y-axis "Load F / N" 0 --> 60
     line [0, 10, 20, 30, 40, 50]
 ```
-*Figure: Load F plotted against extension x in the elastic region gives a straight line through the origin (Hooke's Law region). The Young modulus E = (gradient × L) / A, where L is the original wire length and A = πd²/4 is the cross-sectional area. Deviation from linearity above the elastic limit is not plotted here.*
+*Figure: Load F plotted against extension x in the elastic region gives a straight line through the origin (Hooke's Law region). The Young modulus $E = \frac{\text{gradient} \times L}{A}$, where L is the original wire length and $A = \frac{\pi d^2}{4}$ is the cross-sectional area. Deviation from linearity above the elastic limit is not plotted here.*
 *Source: Authored for this vault (CC0). No external copyright.*
 
 ## Source Trace

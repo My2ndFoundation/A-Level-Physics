@@ -35,14 +35,14 @@ Use it whenever forces act at angles to each other or to the direction of motion
 
 1. Draw a [[Free-Body-Diagram]] with every force labelled.
 2. Choose convenient perpendicular axes (often along and perpendicular to the slope).
-3. For each force at angle θ to an axis, component along = *F cosθ*, component perpendicular = *F sinθ*.
+3. For each force at angle θ to an axis, component along $= F \cos\theta$, component perpendicular $= F \sin\theta$.
 4. Add components along each axis separately (with signs).
-5. Combine if needed: resultant magnitude = √(ΣFₓ² + ΣF_y²), direction = arctan(ΣF_y/ΣFₓ).
-6. Apply equilibrium (ΣF = 0) or [[Newton-Second-Law]] per axis.
+5. Combine if needed: resultant magnitude $= \sqrt{\Sigma F_x^2 + \Sigma F_y^2}$, direction $= \arctan(\Sigma F_y/\Sigma F_x)$.
+6. Apply equilibrium ($\Sigma F = 0$) or [[Newton-Second-Law]] per axis.
 
 ## Worked Example
 
-A 5.0 N force acts at 30° above the horizontal. Horizontal component = 5.0 cos30° ≈ 4.3 N; vertical component = 5.0 sin30° = 2.5 N. If a second force of 4.3 N acts horizontally in the opposite direction, the net horizontal force is zero and only the 2.5 N vertical component remains.
+A 5.0 N force acts at 30° above the horizontal. Horizontal component $= 5.0 \cos 30° \approx 4.3 \text{ N}$; vertical component $= 5.0 \sin 30° = 2.5 \text{ N}$. If a second force of 4.3 N acts horizontally in the opposite direction, the net horizontal force is zero and only the 2.5 N vertical component remains.
 
 ## Why It Works
 

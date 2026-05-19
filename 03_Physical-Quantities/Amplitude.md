@@ -40,10 +40,10 @@ Amplitude is the maximum magnitude of displacement of an oscillating system from
 
 ## Related Equations
 
-- For SHM: displacement `x = A cos(ωt)` or `x = A sin(ωt)` — `A` = amplitude, `ω` = angular frequency (rad s⁻¹), `t` = time (s).
-- Maximum speed in SHM: `v_max = ωA` (m s⁻¹).
-- Maximum acceleration: `a_max = ω²A` (m s⁻²).
-- Intensity (and energy) ∝ amplitude²: `I ∝ A²`. See [[Intensity]].
+- For SHM: displacement $x = A \cos(\omega t)$ or $x = A \sin(\omega t)$ — `A` = amplitude, `ω` = angular frequency (rad s⁻¹), `t` = time (s).
+- Maximum speed in SHM: $v_{max} = \omega A$ (m s⁻¹).
+- Maximum acceleration: $a_{max} = \omega^2 A$ (m s⁻²).
+- Intensity (and energy) ∝ amplitude²: $I \propto A^2$. See [[Intensity]].
 
 ## How It Is Measured
 

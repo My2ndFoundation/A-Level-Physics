@@ -42,9 +42,9 @@ Pressure is the force acting normally per unit area.
 
 ## Related Equations
 
-- `p = F / A` — `p` = pressure (Pa), `F` = normal force (N), `A` = area (m²).
-- Hydrostatic pressure in a fluid: `p = hρg` — `h` = depth (m), `ρ` = fluid density (kg m⁻³), `g` = 9.81 N kg⁻¹.
-- Ideal gas (frontier-adjacent): `pV = nRT` or `pV = NkT`.
+- $p = F / A$ — `p` = pressure (Pa), `F` = normal force (N), `A` = area (m²).
+- Hydrostatic pressure in a fluid: $p = h\rho g$ — `h` = depth (m), `ρ` = fluid density (kg m⁻³), `g` = 9.81 N kg⁻¹.
+- Ideal gas (frontier-adjacent): $pV = nRT$ or $pV = NkT$.
 
 ## How It Is Measured
 
@@ -52,7 +52,7 @@ Manometers (liquid column height differences), Bourdon gauges, pressure sensors,
 
 ## Graphical Meaning
 
-A graph of fluid pressure against depth is a straight line of gradient `ρg` (intercept = surface/atmospheric pressure). For a fixed-temperature gas, a `p` against `1/V` graph is linear (Boyle's law).
+A graph of fluid pressure against depth is a straight line of gradient $\rho g$ (intercept = surface/atmospheric pressure). For a fixed-temperature gas, a `p` against $1/V$ graph is linear (Boyle's law).
 
 ## Foundation Links
 

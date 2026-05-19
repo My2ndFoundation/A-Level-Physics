@@ -39,7 +39,7 @@ Three standard distance units appear at A-Level.
 a nearby star appears to shift against the distant background. Half the
 angular shift over six months is the parallax angle p. If p is in arcseconds:
 
-d (parsecs) = 1 / p (arcseconds)
+$$d\ \text{(parsecs)} = \frac{1}{p\ \text{(arcseconds)}}$$
 
 Smaller parallax means a more distant star, so the method is limited to
 relatively nearby stars where p is large enough to measure.
@@ -108,7 +108,7 @@ cosmic distance scale all depend on knowing how far away objects are.
 ### Stellar parallax triangle
 
 ![[_attachments/04_Concepts/Astronomical-Distances--parallax-triangle.svg]]
-*Figure: As Earth moves from one side of its orbit to the other (baseline = 2 AU), a nearby star appears to shift by angle 2p against distant background stars. Half the total shift is the parallax angle p; distance d (parsecs) = 1/p (arcseconds).*
+*Figure: As Earth moves from one side of its orbit to the other (baseline = 2 AU), a nearby star appears to shift by angle 2p against distant background stars. Half the total shift is the parallax angle p; distance $d\ \text{(parsecs)} = 1/p\ \text{(arcseconds)}$.*
 *Source: Authored for this vault (CC0). No external copyright.*
 
 ## Source Trace

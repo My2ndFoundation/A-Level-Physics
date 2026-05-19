@@ -39,7 +39,7 @@ A common convention is also introduced: *conventional current* is taken to flow 
 
 ## Why It Matters for A-Level Physics
 
-Current is one of the foundation quantities of A-Level electricity. It underlies [[Ohms-Law]], resistance, power in circuits, Kirchhoff's current law, charge and capacitance, and the microscopic model I = nAvq. A clear GCSE picture of "current as flow of charge that is conserved at junctions" is the prerequisite.
+Current is one of the foundation quantities of A-Level electricity. It underlies [[Ohms-Law]], resistance, power in circuits, Kirchhoff's current law, charge and capacitance, and the microscopic model $I = nAvq$. A clear GCSE picture of "current as flow of charge that is conserved at junctions" is the prerequisite.
 
 ## Everyday Intuition
 
@@ -70,7 +70,7 @@ Current is like the rate at which water flows past a point in a pipe. A wider, l
 
 ## Bridge to A-Level
 
-At A-Level, current is defined precisely as the rate of flow of charge, I = ΔQ/Δt, and is linked to the microscopic picture through I = nAvq, where n is charge-carrier density, A cross-sectional area, v drift velocity and q the carrier charge. It is combined with [[Voltage]] and [[Resistance]] via [[Ohms-Law]] and Kirchhoff's laws. See the A-Level [[Current]] physical-quantity page for the formal treatment.
+At A-Level, current is defined precisely as the rate of flow of charge, $I = \Delta Q / \Delta t$, and is linked to the microscopic picture through $I = nAvq$, where n is charge-carrier density, A cross-sectional area, v drift velocity and q the carrier charge. It is combined with [[Voltage]] and [[Resistance]] via [[Ohms-Law]] and Kirchhoff's laws. See the A-Level [[Current]] physical-quantity page for the formal treatment.
 
 ## Source Trace
 

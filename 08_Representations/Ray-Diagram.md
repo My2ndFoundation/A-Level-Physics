@@ -40,7 +40,7 @@ The diagram encodes that light travels in straight lines in a uniform medium and
 
 ## Gradient / Area / Intercepts
 
-Not applicable. The analytic content is the geometry: equal angles for reflection, and `n₁ sin θ₁ = n₂ sin θ₂` for refraction.
+Not applicable. The analytic content is the geometry: equal angles for reflection, and $n_1 \sin\theta_1 = n_2 \sin\theta_2$ for refraction.
 
 ## Converts To / From
 
@@ -67,7 +67,7 @@ Not applicable. The analytic content is the geometry: equal angles for reflectio
 ### Ray diagram: refraction at a boundary
 
 ![[_attachments/08_Representations/ray-diagram--refraction-at-boundary.svg]]
-*Figure: An incident ray (orange) strikes a boundary between medium 1 (less dense, n₁) and medium 2 (more dense, n₂). The dashed normal is perpendicular to the boundary. The angle of incidence θ₁ and angle of refraction θ₂ are both measured from the normal, not the surface. Because n₂ > n₁, the refracted ray (blue) bends toward the normal (θ₂ < θ₁), consistent with [[Snell-Law|Snell's law]]: n₁ sin θ₁ = n₂ sin θ₂.*
+*Figure: An incident ray (orange) strikes a boundary between medium 1 (less dense, n₁) and medium 2 (more dense, n₂). The dashed normal is perpendicular to the boundary. The angle of incidence θ₁ and angle of refraction θ₂ are both measured from the normal, not the surface. Because $n_2 > n_1$, the refracted ray (blue) bends toward the normal ($\theta_2 < \theta_1$), consistent with [[Snell-Law|Snell's law]]: $n_1 \sin\theta_1 = n_2 \sin\theta_2$.*
 *Source: Authored for this vault (CC0). No external copyright.*
 
 ## Source Trace

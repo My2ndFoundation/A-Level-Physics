@@ -20,11 +20,11 @@ sources: []
 
 ## Core Idea
 
-The photon model represents electromagnetic radiation as a stream of discrete energy packets called photons, each carrying energy *E = hf* proportional to its frequency. Unlike the continuous [[Wavefront-Model]], energy is delivered in indivisible lumps: a single photon interacts with a single electron in an all-or-nothing exchange. This particle-like picture is essential for explaining the [[Photoelectric-Effect]], where wave theory fails to predict the observed threshold frequency and instantaneous emission.
+The photon model represents electromagnetic radiation as a stream of discrete energy packets called photons, each carrying energy $E = hf$ proportional to its frequency. Unlike the continuous [[Wavefront-Model]], energy is delivered in indivisible lumps: a single photon interacts with a single electron in an all-or-nothing exchange. This particle-like picture is essential for explaining the [[Photoelectric-Effect]], where wave theory fails to predict the observed threshold frequency and instantaneous emission.
 
 ## Assumptions
 
-- Light energy comes in discrete quanta of size *E = hf*.
+- Light energy comes in discrete quanta of size $E = hf$.
 - One photon interacts with one electron at a time.
 - A photon is either absorbed entirely or not at all.
 - Photon energy depends only on frequency, not on intensity.
@@ -38,8 +38,8 @@ The photon model represents electromagnetic radiation as a stream of discrete en
 
 ## Key Equations
 
-- *E = hf = hc/λ*
-- [[Photoelectric-Equation]]: *hf = φ + ½mv²_max*
+- $E = hf = \frac{hc}{\lambda}$
+- [[Photoelectric-Equation]]: $hf = \varphi + \frac{1}{2}mv_{max}^2$
 
 ## When to Use
 
@@ -51,7 +51,7 @@ It does not explain interference and diffraction, which need the [[Wavefront-Mod
 
 ## Foundation Link
 
-This extends the GCSE idea that "different colours of light carry different energy" into the precise quantised relation *E = hf*, explaining why only high-frequency light ejects electrons.
+This extends the GCSE idea that "different colours of light carry different energy" into the precise quantised relation $E = hf$, explaining why only high-frequency light ejects electrons.
 
 ## Related Methods
 

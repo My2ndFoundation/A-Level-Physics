@@ -25,9 +25,9 @@ The photoelectric effect is the emission of electrons from a metal surface when 
 
 When light shines on a metal, electrons can be ejected — but only if the light's frequency is above a threshold frequency characteristic of that metal. Below the threshold no electrons are emitted, no matter how intense the light or how long you wait. This cannot be explained by the wave model, which predicts that any frequency should eventually supply enough energy.
 
-The [[Photon-Model]] resolves this: light arrives as photons each carrying energy E = hf, where h is the Planck constant and f the frequency. One photon interacts with one electron in a one-to-one collision. To escape, the electron must be given at least the work function φ, the minimum energy to remove it from the metal. Any surplus becomes the electron's maximum kinetic energy, giving the [[Photoelectric-Equation]]:
+The [[Photon-Model]] resolves this: light arrives as photons each carrying energy $E = hf$, where $h$ is the Planck constant and $f$ the frequency. One photon interacts with one electron in a one-to-one collision. To escape, the electron must be given at least the work function $\varphi$, the minimum energy to remove it from the metal. Any surplus becomes the electron's maximum kinetic energy, giving the [[Photoelectric-Equation]]:
 
-hf = φ + KE_max.
+$$hf = \varphi + KE_\text{max}$$
 
 This explains all the observations: the threshold frequency (hf must exceed φ), instantaneous emission (single-photon interaction), and why increasing intensity raises the number of electrons but not their maximum kinetic energy (more photons, same energy each).
 

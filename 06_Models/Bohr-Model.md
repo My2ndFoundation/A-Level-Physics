@@ -44,9 +44,9 @@ jumps between these levels.
 ## Key Equations
 
 - Photon emitted or absorbed in a transition:
-  ΔE = E₂ − E₁ = hf, where h is the Planck constant
-  (6.63 × 10⁻³⁴ J s) and f is the photon frequency (Hz).
-- Equivalently ΔE = hc/λ, linking the change to the photon [[Wavelength]] λ
+  $\Delta E = E_2 - E_1 = hf$, where h is the Planck constant
+  ($6.63 \times 10^{-34}$ J s) and f is the photon frequency (Hz).
+- Equivalently $\Delta E = \frac{hc}{\lambda}$, linking the change to the photon [[Wavelength]] λ
   (c = speed of light).
 
 ## When to Use

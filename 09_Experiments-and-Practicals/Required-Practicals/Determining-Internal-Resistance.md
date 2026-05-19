@@ -50,11 +50,11 @@ Pairs of current `I` and terminal pd `V`.
 
 ## Data Processing
 
-From `V = ε − I r` (terminal pd = emf − lost volts across internal resistance). A graph of `V` (y-axis) against `I` (x-axis) is a straight line: y-intercept = `ε` (the emf), gradient = `−r` (negative of the internal resistance).
+From $V = \varepsilon - I r$ (terminal pd = emf − lost volts across internal resistance). A graph of `V` (y-axis) against `I` (x-axis) is a straight line: y-intercept $= \varepsilon$ (the emf), gradient $= -r$ (negative of the internal resistance).
 
 ## Graph Use
 
-Plot `V` against `I`. The **y-intercept** gives the emf `ε` (see [[Using-Intercept]]); the **gradient** is `−r`, so internal resistance `r = −gradient` (see [[Using-Gradient]]).
+Plot `V` against `I`. The **y-intercept** gives the emf `ε` (see [[Using-Intercept]]); the **gradient** is $-r$, so internal resistance $r = -\text{gradient}$ (see [[Using-Gradient]]).
 
 ## Uncertainty
 
@@ -91,7 +91,7 @@ xychart-beta
     y-axis "Terminal pd V / V" 0 --> 2.0
     line [1.8, 1.6, 1.4, 1.2, 1.0, 0.8]
 ```
-*Figure: Terminal pd V plotted against current I gives a straight line with negative gradient −r (the internal resistance) and y-intercept ε (the emf). Here ε = 1.8 V and r = (1.8 − 0.8)/1.0 = 1.0 Ω. The line must not be forced through the origin.*
+*Figure: Terminal pd V plotted against current I gives a straight line with negative gradient $-r$ (the internal resistance) and y-intercept ε (the emf). Here $\varepsilon = 1.8\ \text{V}$ and $r = \frac{1.8 - 0.8}{1.0} = 1.0\ \Omega$. The line must not be forced through the origin.*
 *Source: Authored for this vault (CC0). No external copyright.*
 
 ## Source Trace

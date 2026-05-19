@@ -43,16 +43,16 @@ Acceleration is the rate of change of velocity with time. Average acceleration i
 
 ## Related Equations
 
-- `a = Δv / Δt` — `a` = acceleration (m s⁻²), `Δv` = change in velocity (m s⁻¹), `Δt` = time interval (s).
-- `F = ma` — `F` = resultant force (N), `m` = mass (kg). See [[Newton-Second-Law]].
-- SUVAT equations for **constant** acceleration: `v = u + at`, `s = ut + ½at²`, `v² = u² + 2as`, `s = ½(u+v)t` — `s` = displacement (m), `u` = initial velocity (m s⁻¹), `v` = final velocity (m s⁻¹), `t` = time (s).
+- $a = \Delta v / \Delta t$ — `a` = acceleration (m s⁻²), `Δv` = change in velocity (m s⁻¹), `Δt` = time interval (s).
+- $F = ma$ — `F` = resultant force (N), `m` = mass (kg). See [[Newton-Second-Law]].
+- SUVAT equations for **constant** acceleration: $v = u + at$, $s = ut + \frac{1}{2}at^2$, $v^2 = u^2 + 2as$, $s = \frac{1}{2}(u+v)t$ — `s` = displacement (m), `u` = initial velocity (m s⁻¹), `v` = final velocity (m s⁻¹), `t` = time (s).
 - `g ≈ 9.81 m s⁻²` is the free-fall acceleration near Earth's surface.
 
 ## How It Is Measured
 
 Acceleration is rarely measured directly. Common A-Level approaches:
 
-- **Light gates** on a track: a card of known length through one or two gates gives velocities at known points; `a` follows from `v² = u² + 2as` or from `Δv/Δt`.
+- **Light gates** on a track: a card of known length through one or two gates gives velocities at known points; `a` follows from $v^2 = u^2 + 2as$ or from $\Delta v/\Delta t$.
 - **Ticker timer or motion sensor**: produces position–time data; differentiate twice or take the velocity–time gradient.
 - **Video analysis**: frame-by-frame displacement at a known frame rate.
 
@@ -92,7 +92,7 @@ Acceleration is rarely measured directly. Common A-Level approaches:
 
 - Confusing acceleration with speed or velocity
 - Treating acceleration as a scalar when direction matters
-- Assuming acceleration is zero whenever velocity is momentarily zero (e.g. at the top of a vertical throw, `a = g`)
+- Assuming acceleration is zero whenever velocity is momentarily zero (e.g. at the top of a vertical throw, $a = g$)
 - Applying SUVAT when acceleration is not constant
 
 ## Visuals

@@ -42,9 +42,9 @@ Speed is the rate of change of distance with time. Average speed is total distan
 
 ## Related Equations
 
-- `average speed = total distance / total time` → `v̄ = d / t` — `d` = distance (m), `t` = time (s).
-- Instantaneous speed = magnitude of instantaneous velocity = `|v|`.
-- `v = u + at` (constant acceleration, magnitudes) — `u` = initial speed (m s⁻¹), `a` = acceleration (m s⁻²).
+- $\text{average speed} = \text{total distance} / \text{total time}$ → $\bar{v} = d / t$ — `d` = distance (m), `t` = time (s).
+- Instantaneous speed = magnitude of instantaneous velocity = $|v|$.
+- $v = u + at$ (constant acceleration, magnitudes) — `u` = initial speed (m s⁻¹), `a` = acceleration (m s⁻²).
 
 ## How It Is Measured
 

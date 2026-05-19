@@ -25,20 +25,20 @@ Any moving particle has an associated wavelength, equal to the Planck constant d
 
 ## Equation
 
-`λ = h / p`
+$$\lambda = \frac{h}{p}$$
 
-equivalently `λ = h / (mv)` for a non-relativistic particle
+equivalently $\lambda = \frac{h}{mv}$ for a non-relativistic particle
 
 ## Symbols and Units
 
 - `λ`: de Broglie wavelength, metres `m`
-- `h`: Planck constant, `≈ 6.63 × 10⁻³⁴`, joule seconds `J s`
+- `h`: Planck constant, $\approx 6.63 \times 10^{-34}$, joule seconds `J s`
 - `p`: momentum of the particle, kilogram metres per second `kg m s⁻¹`
 - `m`: particle mass, kilograms `kg`; `v`: particle speed, `m s⁻¹`
 
 ## Conditions
 
-- The simple form `λ = h/mv` is non-relativistic; relativistic momentum is needed near light speed.
+- The simple form $\lambda = h/mv$ is non-relativistic; relativistic momentum is needed near light speed.
 - Wave behaviour is only observable when `λ` is comparable to the size of obstacles or gaps (e.g. atomic spacing for electrons).
 - For everyday objects `λ` is far too small to detect, so they appear purely particle-like.
 
@@ -48,18 +48,18 @@ De Broglie proposed that the wave–particle duality seen for light (via the [[P
 
 ## Foundation Link
 
-GCSE treats electrons strictly as particles. A-Level introduces the radical idea that particles also diffract and interfere, building on the photon energy idea `E = hf` and momentum `p = mv` to unify waves and particles.
+GCSE treats electrons strictly as particles. A-Level introduces the radical idea that particles also diffract and interfere, building on the photon energy idea $E = hf$ and momentum $p = mv$ to unify waves and particles.
 
 ## How to Use
 
-1. Find the particle's momentum `p = mv` (or from kinetic energy: `p = √(2mE_k)`).
+1. Find the particle's momentum $p = mv$ (or from kinetic energy: $p = \sqrt{2mE_k}$).
 2. Divide the Planck constant by `p` to get `λ`.
-3. For electrons accelerated through a potential difference `V`, use `E_k = eV` then `p = √(2mE_k)`.
+3. For electrons accelerated through a potential difference `V`, use $E_k = eV$ then $p = \sqrt{2mE_k}$.
 4. Compare `λ` with the obstacle size to judge whether diffraction is observable.
 
 ## Derivation or Explanation
 
-By analogy with the photon, for which `p = h/λ` (from `E = hf` and `E = pc`), de Broglie postulated the same relation for matter, giving `λ = h/p`.
+By analogy with the photon, for which $p = h/\lambda$ (from $E = hf$ and $E = pc$), de Broglie postulated the same relation for matter, giving $\lambda = h/p$.
 
 ## Related Quantities
 
@@ -85,7 +85,7 @@ By analogy with the photon, for which `p = h/λ` (from `E = hf` and `E = pc`), d
 ## Common Mistakes
 
 - Using speed instead of momentum
-- Forgetting to convert kinetic energy to momentum via `p = √(2mE_k)`
+- Forgetting to convert kinetic energy to momentum via $p = \sqrt{2mE_k}$
 - Expecting macroscopic objects to show measurable wave behaviour
 
 ## Visuals

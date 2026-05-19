@@ -48,7 +48,7 @@ Projectile motion describes any object moving under gravity alone after release:
 
 1. Resolve the launch velocity into horizontal and vertical components.
 2. Treat horizontal motion as constant velocity (zero horizontal acceleration).
-3. Treat vertical motion as constant acceleration with `a = g` downward.
+3. Treat vertical motion as constant acceleration with $a = g$ downward.
 4. Use a shared time variable to link the two directions.
 5. Recombine components vectorially when a resultant velocity or position is required.
 

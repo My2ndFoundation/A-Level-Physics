@@ -44,7 +44,7 @@ body and turn it.
 - For translational equilibrium: net [[Resultant-Force]] = 0.
 - For rotational equilibrium: sum of clockwise moments = sum of
   anticlockwise moments about any point (the [[Principle-of-Moments]]).
-- Moment of a force: M = F × d, where d is the perpendicular distance from the
+- Moment of a force: $M = F \times d$, where d is the perpendicular distance from the
   pivot to the line of action of force F (unit: N m).
 
 ## When to Use

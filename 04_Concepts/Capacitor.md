@@ -27,14 +27,15 @@ A capacitor in its simplest form is two conducting plates separated by an insula
 
 The defining relationship is the [[Capacitance]] equation:
 
-- Q = C V
-  - Q = magnitude of charge on each plate, coulombs (C)
-  - V = potential difference across the plates, volts (V)
-  - C = capacitance, farads (F)
+$$Q = C V$$
 
-Capacitance C is fixed by geometry and the dielectric, so Q is directly proportional to V. A graph of Q against V is a straight line through the origin with gradient C.
+  - $Q$ = magnitude of charge on each plate, coulombs (C)
+  - $V$ = potential difference across the plates, volts (V)
+  - $C$ = capacitance, farads (F)
 
-For a parallel-plate capacitor, C = εA / d, where A is plate area, d is plate separation, and ε is the permittivity of the dielectric. Larger area or a thinner gap increases capacitance.
+Capacitance $C$ is fixed by geometry and the dielectric, so $Q$ is directly proportional to $V$. A graph of $Q$ against $V$ is a straight line through the origin with gradient $C$.
+
+For a parallel-plate capacitor, $C = \varepsilon A / d$, where $A$ is plate area, $d$ is plate separation, and $\varepsilon$ is the permittivity of the dielectric. Larger area or a thinner gap increases capacitance.
 
 ## Everyday Intuition
 
@@ -94,7 +95,7 @@ Capacitors smooth rectified voltages, provide timing in [[Capacitor-Timing-Circu
 ### Parallel-plate capacitor: charge separation and electric field
 
 ![[_attachments/04_Concepts/Capacitor--parallel-plates-field.svg]]
-*Figure: Two conducting plates carry equal and opposite charges (+Q and −Q). Uniform electric field lines run from + to − plate. Capacitance C = εA/d; charge Q = CV with Q proportional to V.*
+*Figure: Two conducting plates carry equal and opposite charges (+Q and −Q). Uniform electric field lines run from + to − plate. Capacitance $C = \varepsilon A/d$; charge $Q = CV$ with $Q$ proportional to $V$.*
 *Source: Authored for this vault (CC0). No external copyright.*
 
 ## Source Trace

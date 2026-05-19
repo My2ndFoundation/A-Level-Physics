@@ -40,9 +40,9 @@ Intensity is the radiant power transmitted per unit area perpendicular to the di
 
 ## Related Equations
 
-- `I = P / A` — `I` = intensity (W m⁻²), `P` = power (W), `A` = area (m²).
-- Point source (inverse-square law): `I = P / (4πr²)` — `r` = distance from source (m).
-- Amplitude relation: `I ∝ A²` (intensity is proportional to amplitude squared).
+- $I = P / A$ — `I` = intensity (W m⁻²), `P` = power (W), `A` = area (m²).
+- Point source (inverse-square law): $I = P / (4\pi r^2)$ — `r` = distance from source (m).
+- Amplitude relation: $I \propto A^2$ (intensity is proportional to amplitude squared).
 
 ## How It Is Measured
 
@@ -50,7 +50,7 @@ Measure the power received by a detector of known area (e.g. a light sensor or s
 
 ## Graphical Meaning
 
-For a point source, a graph of intensity against `1/r²` is a straight line through the origin (gradient `= P/4π`), confirming the inverse-square law. A graph of amplitude against √I is linear.
+For a point source, a graph of intensity against $1/r^2$ is a straight line through the origin (gradient $= P/4\pi$), confirming the inverse-square law. A graph of amplitude against $\sqrt{I}$ is linear.
 
 ## Foundation Links
 

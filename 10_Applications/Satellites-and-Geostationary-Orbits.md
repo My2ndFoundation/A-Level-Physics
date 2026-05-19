@@ -40,18 +40,18 @@ equator — the basis of satellite TV, communications and weather monitoring.
 ## Typical Questions
 
 - Show that a geostationary orbit has a period of 24 hours and radius
-  ≈ 4.2 × 10⁷ m (about 3.6 × 10⁷ m above the surface).
+  $\approx 4.2 \times 10^7\ \text{m}$ (about $3.6 \times 10^7\ \text{m}$ above the surface).
 - Compare a low polar orbit with a geostationary orbit.
 - Calculate the speed of a satellite at a given orbital radius.
 
 ## Method Outline
 
-1. State the geostationary conditions: period T = 24 h (one sidereal day),
+1. State the geostationary conditions: period $T = 24\ \text{h}$ (one sidereal day),
    equatorial orbit, west-to-east direction matching Earth's rotation.
-2. Apply the orbital condition GMm/r² = mω²r with ω = 2π/T.
-3. Rearrange to r³ = GMT²/4π² ([[Keplers-Third-Law]]) and solve for r.
+2. Apply the orbital condition $\frac{GMm}{r^2} = m\omega^2 r$ with $\omega = \frac{2\pi}{T}$.
+3. Rearrange to $r^3 = \frac{GMT^2}{4\pi^2}$ ([[Keplers-Third-Law]]) and solve for r.
 4. Subtract Earth's radius to get the height above the surface, or use
-   v = √(GM/r) for orbital speed.
+   $v = \sqrt{\frac{GM}{r}}$ for orbital speed.
 
 ## Assumptions
 

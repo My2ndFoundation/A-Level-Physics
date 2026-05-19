@@ -25,9 +25,9 @@ A conductor carrying a [[Current]] in a magnetic field experiences a force. This
 
 ## Equation
 
-F = B I L sin θ
+$$F = B I L \sin\theta$$
 
-For a conductor perpendicular to the field (θ = 90°): F = B I L
+For a conductor perpendicular to the field ($\theta = 90^\circ$): $F = B I L$
 
 ## Symbols and Units
 
@@ -45,7 +45,7 @@ For a conductor perpendicular to the field (θ = 90°): F = B I L
 
 ## Physical Meaning
 
-Moving charges in the wire each feel a magnetic force ([[Force-on-a-Moving-Charge]]); summed over all carriers in length L this gives the bulk force F = BIL sin θ. The force direction is perpendicular to both the current and the field, given by Fleming's left-hand rule (thumb = thrust/force, first finger = field, second finger = current). This force converts electrical energy into mechanical motion, the basis of every electric motor.
+Moving charges in the wire each feel a magnetic force ([[Force-on-a-Moving-Charge]]); summed over all carriers in length L this gives the bulk force $F = BIL \sin\theta$. The force direction is perpendicular to both the current and the field, given by Fleming's left-hand rule (thumb = thrust/force, first finger = field, second finger = current). This force converts electrical energy into mechanical motion, the basis of every electric motor.
 
 ## Foundation Link
 
@@ -53,11 +53,11 @@ Builds on the GCSE observation that a current-carrying wire between magnet poles
 
 ## How to Use
 
-Identify B, I, and L; resolve for the angle θ if the wire is not perpendicular to the field; apply F = BIL sin θ; use Fleming's left-hand rule for direction.
+Identify B, I, and L; resolve for the angle θ if the wire is not perpendicular to the field; apply $F = BIL \sin\theta$; use Fleming's left-hand rule for direction.
 
 ## Derivation or Explanation
 
-A single charge q drifting at speed v feels force F = Bqv sin θ. In length L there are nAL carriers (n = number density, A = cross-section). Total force = (nAL)(Bqv sin θ). Since current I = nAvq, this simplifies to F = BIL sin θ.
+A single charge q drifting at speed v feels force $F = Bqv \sin\theta$. In length L there are $nAL$ carriers (n = number density, A = cross-section). Total force $= (nAL)(Bqv \sin\theta)$. Since current $I = nAvq$, this simplifies to $F = BIL \sin\theta$.
 
 ## Related Quantities
 
@@ -81,7 +81,7 @@ A single charge q drifting at speed v feels force F = Bqv sin θ. In length L th
 
 - Forgetting the sin θ factor when the wire is not perpendicular to the field.
 - Using Fleming's *right*-hand rule (that is for induced current/generators).
-- Confusing this law with [[Force-on-a-Moving-Charge]] (use F = BIL for wires, F = Bqv for single charges).
+- Confusing this law with [[Force-on-a-Moving-Charge]] (use $F = BIL$ for wires, $F = Bqv$ for single charges).
 
 ## Visuals
 

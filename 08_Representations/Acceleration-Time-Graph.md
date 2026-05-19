@@ -39,8 +39,8 @@ The height of the line is the rate at which velocity is changing at that instant
 ## Gradient / Area / Intercepts
 
 - **Gradient** = rate of change of acceleration ("jerk"); rarely required at A-Level but conceptually the slope of `a` against `t`.
-- **Area under the graph** = change in [[Velocity]] (Δv = a × t for a rectangle). This is the key reading: the area between the line and the time axis over an interval equals the velocity gained in that interval.
-- **y-intercept** = the initial acceleration at `t = 0`.
+- **Area under the graph** = change in [[Velocity]] ($\Delta v = a \times t$ for a rectangle). This is the key reading: the area between the line and the time axis over an interval equals the velocity gained in that interval.
+- **y-intercept** = the initial acceleration at $t = 0$.
 
 ## Converts To / From
 
@@ -76,7 +76,7 @@ xychart-beta
     line [9.81, 9.81, 9.81, 0, 0]
 ```
 
-*Figure: A horizontal line at a = 9.81 m s⁻² represents constant downward acceleration during free fall (the [[Gravitational-Field-Strength]] near Earth's surface). The line drops to zero at t = 3 s, representing an object that has landed and is no longer accelerating. The area (rectangle) over any interval equals the change in [[Velocity]] during that interval.*
+*Figure: A horizontal line at $a = 9.81 \text{ m s}^{-2}$ represents constant downward acceleration during free fall (the [[Gravitational-Field-Strength]] near Earth's surface). The line drops to zero at $t = 3 \text{ s}$, representing an object that has landed and is no longer accelerating. The area (rectangle) over any interval equals the change in [[Velocity]] during that interval.*
 *Source: Authored for this vault (CC0). No external copyright.*
 
 ## Source Trace

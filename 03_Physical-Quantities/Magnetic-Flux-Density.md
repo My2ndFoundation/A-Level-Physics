@@ -42,14 +42,14 @@ Magnetic flux density is defined through the force law: it is the force per unit
 
 ## Related Equations
 
-- `F = BIL` — `F` = force (N), `B` = flux density (T), `I` = current (A), `L` = length of conductor in the field (m); conductor perpendicular to `B`.
-- `F = BIL sinθ` for a conductor at angle `θ` to the field.
-- Force on a moving charge: `F = Bqv` — `q` = charge (C), `v` = speed (m s⁻¹).
-- Magnetic flux: `Φ = BA` — `A` = area (m²), `Φ` in webers (Wb).
+- $F = BIL$ — `F` = force (N), `B` = flux density (T), `I` = current (A), `L` = length of conductor in the field (m); conductor perpendicular to `B`.
+- $F = BIL \sin\theta$ for a conductor at angle `θ` to the field.
+- Force on a moving charge: $F = Bqv$ — `q` = charge (C), `v` = speed (m s⁻¹).
+- Magnetic flux: $\Phi = BA$ — `A` = area (m²), `Φ` in webers (Wb).
 
 ## How It Is Measured
 
-A current-balance: a known current `I` flows through a wire of length `L` in the field; the magnetic force is measured by the change in reading of a top-pan balance, giving `B = F/(IL)`. Alternatively a calibrated Hall probe reads `B` directly.
+A current-balance: a known current `I` flows through a wire of length `L` in the field; the magnetic force is measured by the change in reading of a top-pan balance, giving $B = F/(IL)$. Alternatively a calibrated Hall probe reads `B` directly.
 
 ## Graphical Meaning
 
@@ -80,7 +80,7 @@ A graph of force against current for a fixed wire length in a uniform field is a
 
 ## Common Mistakes
 
-- Forgetting the conductor must be perpendicular to `B` for `F = BIL`
+- Forgetting the conductor must be perpendicular to `B` for $F = BIL$
 - Confusing flux density `B` with magnetic flux `Φ`
 - Ignoring the vector direction (use of the left-hand rule)
 

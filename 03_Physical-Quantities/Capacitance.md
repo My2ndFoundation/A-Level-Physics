@@ -41,18 +41,18 @@ Capacitance is the charge stored per unit potential difference across a capacito
 
 ## Related Equations
 
-- `C = Q / V` — `C` = capacitance (F), `Q` = charge (C), `V` = p.d. (V).
-- Energy stored: `E = ½QV = ½CV² = ½Q²/C` (J).
-- Discharge: `Q = Q₀e^(−t/RC)` — `R` = resistance (Ω), `t` = time (s); time constant `τ = RC` (s).
-- Parallel: `C_total = C₁ + C₂ + …`. Series: `1/C_total = 1/C₁ + 1/C₂ + …`.
+- $C = Q / V$ — `C` = capacitance (F), `Q` = charge (C), `V` = p.d. (V).
+- Energy stored: $E = \frac{1}{2}QV = \frac{1}{2}CV^2 = \frac{1}{2}Q^2/C$ (J).
+- Discharge: $Q = Q_0 e^{-t/RC}$ — `R` = resistance (Ω), `t` = time (s); time constant $\tau = RC$ (s).
+- Parallel: $C_{total} = C_1 + C_2 + \dots$. Series: $1/C_{total} = 1/C_1 + 1/C_2 + \dots$.
 
 ## How It Is Measured
 
-Charge the capacitor to a known p.d., measure stored charge (coulombmeter, or `Q = It` by discharging at constant current), and use `C = Q/V`. Alternatively, find `C` from the time constant `RC` of an exponential discharge curve with a known resistor.
+Charge the capacitor to a known p.d., measure stored charge (coulombmeter, or $Q = It$ by discharging at constant current), and use $C = Q/V$. Alternatively, find `C` from the time constant $RC$ of an exponential discharge curve with a known resistor.
 
 ## Graphical Meaning
 
-A charge–p.d. graph for a capacitor is a straight line through the origin; the **gradient is the capacitance** and the **area under it is the energy stored** (`½QV`). A discharge `ln Q` vs `t` graph is linear with gradient `−1/RC`.
+A charge–p.d. graph for a capacitor is a straight line through the origin; the **gradient is the capacitance** and the **area under it is the energy stored** ($\frac{1}{2}QV$). A discharge $\ln Q$ vs $t$ graph is linear with gradient $-1/RC$.
 
 ## Foundation Links
 

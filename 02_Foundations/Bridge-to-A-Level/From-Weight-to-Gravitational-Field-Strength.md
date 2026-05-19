@@ -19,7 +19,7 @@ sources: []
 
 ## Core Idea
 
-At GCSE, weight is "the pull of gravity on an object" found from weight = mass × g. A-Level reinterprets g not just as a number but as the *gravitational field strength* — the force per unit mass produced by a gravitational field.
+At GCSE, weight is "the pull of gravity on an object" found from $\text{weight} = \text{mass} \times g$. A-Level reinterprets g not just as a number but as the *gravitational field strength* — the force per unit mass produced by a gravitational field.
 
 ## Prior Knowledge Level
 
@@ -27,9 +27,9 @@ Bridge to A-Level
 
 ## Meaning
 
-GCSE treats g (about 9.8 N kg⁻¹ near the Earth's surface) almost as a fixed constant, used in W = mg to turn a mass into a weight. This works well near the ground, but it hides what g really is.
+GCSE treats g (about 9.8 N kg⁻¹ near the Earth's surface) almost as a fixed constant, used in $W = mg$ to turn a mass into a weight. This works well near the ground, but it hides what g really is.
 
-The A-Level view is that mass creates a gravitational field in the space around it. The strength of that field at a point, g, is defined as the gravitational force experienced per unit mass placed there: g = F/m. So weight is just the force a field exerts on a mass, W = mg, and "g" is simultaneously the acceleration of free fall *and* the field strength — the same quantity seen two ways.
+The A-Level view is that mass creates a gravitational field in the space around it. The strength of that field at a point, g, is defined as the gravitational force experienced per unit mass placed there: $g = F/m$. So weight is just the force a field exerts on a mass, $W = mg$, and "g" is simultaneously the acceleration of free fall *and* the field strength — the same quantity seen two ways.
 
 This shift matters because it makes g a property of *where you are*, not a universal constant. It is smaller at altitude, different on the Moon, and follows an inverse-square law as you move away from a planet. The field idea also lets gravity be drawn with field lines and treated like other fields (electric, magnetic), unifying large parts of A-Level Physics.
 
@@ -66,7 +66,7 @@ An astronaut's *mass* is the same on the Earth and the Moon, but their *weight* 
 
 ## Bridge to A-Level
 
-At A-Level, gravitational field strength is defined formally as g = F/m and linked to Newton's law of gravitation g = GM/r², giving the inverse-square variation with distance. It is connected to gravitational potential, potential energy and orbital motion, and treated in parallel with electric fields. See the A-Level [[Gravitational-Field-Strength]] page and the fields topic for the formal treatment.
+At A-Level, gravitational field strength is defined formally as $g = F/m$ and linked to Newton's law of gravitation $g = GM/r^2$, giving the inverse-square variation with distance. It is connected to gravitational potential, potential energy and orbital motion, and treated in parallel with electric fields. See the A-Level [[Gravitational-Field-Strength]] page and the fields topic for the formal treatment.
 
 ## Source Trace
 

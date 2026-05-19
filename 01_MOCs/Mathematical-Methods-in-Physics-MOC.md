@@ -41,7 +41,7 @@ sources teach each skill.
 - **M3 — Graphs**
   - M3.1 translate between graphical, numerical and algebraic forms
   - M3.2 plot two variables from data
-  - M3.3 y = mx + c as a linear relationship
+  - M3.3 $y = mx + c$ as a linear relationship
   - M3.4 slope and intercept of a linear graph
   - M3.5 rate of change from a linear graph
   - M3.6 slope of a tangent as a rate of change

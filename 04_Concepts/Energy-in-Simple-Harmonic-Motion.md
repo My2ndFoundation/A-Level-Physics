@@ -24,13 +24,13 @@ In an undamped simple harmonic oscillator, energy is continuously exchanged betw
 
 ## Meaning
 
-For [[Simple-Harmonic-Motion]] with [[Amplitude]] A and angular frequency ω, the speed at displacement x is v = ±ω√(A² − x²). For a mass–spring system of mass m:
+For [[Simple-Harmonic-Motion]] with [[Amplitude]] A and angular frequency $\omega$, the speed at displacement x is $v = \pm\omega\sqrt{A^2 - x^2}$. For a mass–spring system of mass m:
 
-- Kinetic energy: E_k = ½ m v² = ½ m ω² (A² − x²)
-- Potential energy: E_p = ½ m ω² x²
-- Total energy: E = E_k + E_p = ½ m ω² A² = constant
+- Kinetic energy: $E_k = \tfrac{1}{2} m v^2 = \tfrac{1}{2} m \omega^2 (A^2 - x^2)$
+- Potential energy: $E_p = \tfrac{1}{2} m \omega^2 x^2$
+- Total energy: $E = E_k + E_p = \tfrac{1}{2} m \omega^2 A^2 = \text{constant}$
 
-At the centre (x = 0) energy is all kinetic; at the extremes (x = ±A) it is all potential. Total energy is proportional to A², so doubling the amplitude quadruples the energy. With [[Damping]], total energy decays as the amplitude falls. This is an application of [[Conservation-of-Energy]].
+At the centre (x = 0) energy is all kinetic; at the extremes (x = ±A) it is all potential. Total energy is proportional to $A^2$, so doubling the amplitude quadruples the energy. With [[Damping]], total energy decays as the amplitude falls. This is an application of [[Conservation-of-Energy]].
 
 ## Everyday Intuition
 
@@ -94,7 +94,7 @@ xychart-beta
   line [1.0, 0.64, 0.36, 0.16, 0.04, 0.0, 0.04, 0.16, 0.36, 0.64, 1.0]
 ```
 
-*Figure: Potential energy E_p = ½mω²x² is maximum at the extremes (x = ±A) and zero at the centre. Kinetic energy E_k = E_total − E_p is zero at the extremes and maximum at the centre. Total energy E ∝ A² remains constant.*
+*Figure: Potential energy $E_p = \tfrac{1}{2}m\omega^2 x^2$ is maximum at the extremes (x = ±A) and zero at the centre. Kinetic energy $E_k = E_\text{total} - E_p$ is zero at the extremes and maximum at the centre. Total energy $E \propto A^2$ remains constant.*
 *Source: Authored for this vault (CC0). No external copyright.*
 
 ## Source Trace

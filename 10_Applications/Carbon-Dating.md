@@ -37,14 +37,14 @@ Estimating the age of once-living material (wood, bone, charcoal) from the resid
 ## Typical Questions
 
 - A sample's ¹⁴C activity is one quarter of that in a living sample — find its age.
-- Given t₁/₂ of ¹⁴C ≈ 5730 years, find λ and hence the age from N/N₀.
+- Given $t_{1/2}$ of ¹⁴C ≈ 5730 years, find λ and hence the age from $N/N_0$.
 
 ## Method Outline
 
 1. While alive, an organism exchanges carbon with the environment, keeping a near-constant ratio of ¹⁴C to stable ¹²C. At death, intake stops and ¹⁴C decays with no replacement.
-2. Use t₁/₂ = ln 2 / λ to obtain the decay constant from the known half-life.
-3. Apply N = N₀ e^(−λt) (or A = A₀ e^(−λt)), where the ratio N/N₀ equals the measured fraction of ¹⁴C (or activity) compared with living material.
-4. Rearrange: t = (1/λ) ln(N₀/N).
+2. Use $t_{1/2} = \frac{\ln 2}{\lambda}$ to obtain the decay constant from the known half-life.
+3. Apply $N = N_0 e^{-\lambda t}$ (or $A = A_0 e^{-\lambda t}$), where the ratio $N/N_0$ equals the measured fraction of ¹⁴C (or activity) compared with living material.
+4. Rearrange: $t = \frac{1}{\lambda} \ln\frac{N_0}{N}$.
 
 ## Assumptions
 
@@ -63,7 +63,7 @@ Estimating the age of once-living material (wood, bone, charcoal) from the resid
 
 ## Common Mistakes
 
-- Using N instead of N₀/N inside the logarithm
+- Using N instead of $N_0/N$ inside the logarithm
 - Inconsistent time units between λ and t
 - Assuming dating works for very recent or extremely old samples (limited by ¹⁴C half-life range)
 

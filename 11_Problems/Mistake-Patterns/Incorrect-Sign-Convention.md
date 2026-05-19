@@ -27,7 +27,7 @@ Sign conventions are arbitrary but must be consistent. Learners pick a direction
 
 ## Example
 
-A ball is thrown up and caught. Taking up as positive, a student uses displacement +5 m, initial velocity +12 m/s, but acceleration +9.8 m/s² instead of −9.8 m/s². Gravity acts downward, so with up positive the acceleration must be negative; the inconsistent sign gives an impossible answer.
+A ball is thrown up and caught. Taking up as positive, a student uses displacement $+5\ \text{m}$, initial velocity $+12\ \text{m s}^{-1}$, but acceleration $+9.8\ \text{m s}^{-2}$ instead of $-9.8\ \text{m s}^{-2}$. Gravity acts downward, so with up positive the acceleration must be negative; the inconsistent sign gives an impossible answer.
 
 ## Correct Approach
 

@@ -27,7 +27,7 @@ The two rule sets are introduced close together and look similar. Without redraw
 
 ## Example
 
-Two 6 Ω resistors are connected in parallel. A student gives the combined resistance as 6 + 6 = 12 Ω. For two equal resistors in parallel the combined resistance is 3 Ω, half of one resistor's value.
+Two 6 Ω resistors are connected in parallel. A student gives the combined resistance as $6 + 6 = 12\ \Omega$. For two equal resistors in parallel the combined resistance is $3\ \Omega$, half of one resistor's value.
 
 ## Correct Approach
 

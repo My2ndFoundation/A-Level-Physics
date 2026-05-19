@@ -37,24 +37,24 @@ Centripetal acceleration is the acceleration directed towards the centre of a ci
 
 For an object moving at speed v in a circle of radius r with [[Angular-Velocity]] ω:
 
-a = v² / r = ω² r = v ω
+$$a = v^2 / r = \omega^2 r = v \omega$$
 
-The velocity vector has constant magnitude but continuously changing direction; that change of direction is itself an acceleration, supplied by a net inward [[Centripetal-Force]] F = m a.
+The velocity vector has constant magnitude but continuously changing direction; that change of direction is itself an acceleration, supplied by a net inward [[Centripetal-Force]] $F = m a$.
 
 ## Related Equations
 
-- a = v² / r
-- a = ω² r
-- a = v ω
-- F = m v² / r = m ω² r (Newton's second law applied radially)
+- $a = v^2 / r$
+- $a = \omega^2 r$
+- $a = v \omega$
+- $F = m v^2 / r = m \omega^2 r$ (Newton's second law applied radially)
 
 ## How It Is Measured
 
-Indirectly: measure v (or ω) and r, then compute a = v²/r. Experimentally a whirling-bung apparatus (mass on a string passing through a tube, balancing weights providing the inward force) lets you check F = m ω² r by varying ω and the suspended mass.
+Indirectly: measure v (or ω) and r, then compute $a = v^2/r$. Experimentally a whirling-bung apparatus (mass on a string passing through a tube, balancing weights providing the inward force) lets you check $F = m \omega^2 r$ by varying ω and the suspended mass.
 
 ## Graphical Meaning
 
-Plotting the required inward force F against ω² for fixed m and r gives a straight line through the origin with gradient m r, confirming a ∝ ω². Plotting F against v²/r gives gradient equal to mass m.
+Plotting the required inward force F against $\omega^2$ for fixed m and r gives a straight line through the origin with gradient $m r$, confirming $a \propto \omega^2$. Plotting F against $v^2/r$ gives gradient equal to mass m.
 
 ## Foundation Links
 

@@ -23,16 +23,16 @@ and to the fourth power of its absolute temperature.
 
 ## Equation
 
-L = 4π r² σ T⁴
+$$L = 4\pi r^2 \sigma T^4$$
 
-(for a spherical star of radius r; in general P = σ A T⁴)
+(for a spherical star of radius r; in general $P = \sigma A T^4$)
 
 ## Symbols and Units
 
 - L: luminosity, total radiated power — W
 - r: radius of the star — m
 - A: surface area — m²
-- σ: Stefan(-Boltzmann) constant, 5.67 × 10⁻⁸ — W m⁻² K⁻⁴
+- σ: Stefan(-Boltzmann) constant, $5.67 \times 10^{-8}$ — W m⁻² K⁻⁴
 - T: absolute surface temperature — K
 
 ## Conditions
@@ -61,7 +61,7 @@ from measured luminosity and temperature.
 ## Derivation or Explanation
 
 Obtained by integrating the black-body (Planck) spectral distribution over
-all wavelengths; the integration is beyond A-Level — only the L ∝ AT⁴ result
+all wavelengths; the integration is beyond A-Level — only the $L \propto AT^4$ result
 is required.
 
 ## Related Quantities

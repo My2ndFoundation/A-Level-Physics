@@ -39,10 +39,10 @@ The constant acceleration model treats motion as having a fixed, unchanging [[Ac
 
 ## Key Equations
 
-- *v = u + at*
-- *s = ut + ½at²*
-- *v² = u² + 2as*
-- *s = ½(u + v)t*
+- $v = u + at$
+- $s = ut + \frac{1}{2}at^2$
+- $v^2 = u^2 + 2as$
+- $s = \frac{1}{2}(u + v)t$
 - See [[Using-SUVAT-Equations]] for selection strategy.
 
 ## When to Use

@@ -38,8 +38,8 @@ The internal resistance model represents a real power source (cell or battery) a
 
 ## Key Equations
 
-- *ε = I(R + r)*
-- *V = ε − Ir* (terminal p.d.)
+- $\varepsilon = I(R + r)$
+- $V = \varepsilon - Ir$ (terminal p.d.)
 - See [[Internal-Resistance]] and [[Kirchhoffs-Second-Law]].
 
 ## When to Use

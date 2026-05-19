@@ -26,9 +26,9 @@ The resultant (net) force acting on an object is equal to the rate of change of 
 
 ## Equation
 
-`F = Δp / Δt` (general form)
+$$F = \frac{\Delta p}{\Delta t} \quad \text{(general form)}$$
 
-`F = ma` (constant-mass form)
+$$F = ma \quad \text{(constant-mass form)}$$
 
 ## Symbols and Units
 
@@ -44,14 +44,14 @@ One newton is defined as the resultant force that gives a 1 kg mass an accelerat
 ## Conditions
 
 - The general momentum form holds whenever mass may change (e.g. rockets, raindrops).
-- The form `F = ma` requires **constant mass**.
+- The form $F = ma$ requires **constant mass**.
 - `F` must be the **resultant** of all forces, not a single applied force.
 - Valid for speeds well below the speed of light; relativity modifies it at very high speeds.
 - Measurements taken in an inertial (non-accelerating) reference frame.
 
 ## Physical Meaning
 
-A resultant force does not maintain motion — it changes motion. The larger the resultant force, the greater the acceleration; the larger the mass, the smaller the acceleration for the same force. Acceleration is always in the same direction as the resultant force. The momentum form `F = Δp/Δt` is more fundamental: it explains why a quick collision (small `Δt`) produces a large force for a given momentum change, linking directly to [[Impulse]].
+A resultant force does not maintain motion — it changes motion. The larger the resultant force, the greater the acceleration; the larger the mass, the smaller the acceleration for the same force. Acceleration is always in the same direction as the resultant force. The momentum form $F = \frac{\Delta p}{\Delta t}$ is more fundamental: it explains why a quick collision (small `Δt`) produces a large force for a given momentum change, linking directly to [[Impulse]].
 
 ## Foundation Link
 
@@ -61,12 +61,12 @@ This builds on the GCSE idea of a force as a push or pull that can speed up, slo
 
 1. Identify the object and draw a free-body diagram.
 2. Use [[Resolving-Forces]] to find the resultant force along each axis.
-3. Apply `F = ma` (constant mass) or `F = Δp/Δt` (changing momentum).
+3. Apply $F = ma$ (constant mass) or $F = \frac{\Delta p}{\Delta t}$ (changing momentum).
 4. Keep direction signs consistent; the answer's sign gives direction.
 
 ## Derivation or Explanation
 
-Starting from momentum `p = mv`, the rate of change is `Δp/Δt`. If mass is constant, `Δp/Δt = m(Δv/Δt) = ma`, recovering `F = ma`.
+Starting from momentum $p = mv$, the rate of change is $\frac{\Delta p}{\Delta t}$. If mass is constant, $\frac{\Delta p}{\Delta t} = m\frac{\Delta v}{\Delta t} = ma$, recovering $F = ma$.
 
 ## Related Quantities
 
@@ -88,7 +88,7 @@ Starting from momentum `p = mv`, the rate of change is `Δp/Δt`. If mass is con
 
 ## Frontier Links
 
-- [[Relativity-Map]] — at speeds near light, inertial mass increases and `F = ma` no longer holds simply.
+- [[Relativity-Map]] — at speeds near light, inertial mass increases and $F = ma$ no longer holds simply.
 
 ## Common Mistakes
 

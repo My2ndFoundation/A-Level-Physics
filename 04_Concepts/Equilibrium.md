@@ -92,7 +92,7 @@ Equilibrium underlies structural engineering, statics problems, and the principl
 ### Three-force equilibrium and closed force triangle
 
 ![[_attachments/04_Concepts/Equilibrium--force-triangle.svg]]
-*Figure: A hanging object in equilibrium with two cord tensions T₁ and T₂ and weight W. Both force balance (ΣF = 0) and moment balance (Στ = 0) must hold. Three coplanar forces in equilibrium form a closed vector triangle.*
+*Figure: A hanging object in equilibrium with two cord tensions T₁ and T₂ and weight W. Both force balance ($\Sigma F = 0$) and moment balance ($\Sigma \tau = 0$) must hold. Three coplanar forces in equilibrium form a closed vector triangle.*
 *Source: Authored for this vault (CC0). No external copyright.*
 
 ## Source Trace

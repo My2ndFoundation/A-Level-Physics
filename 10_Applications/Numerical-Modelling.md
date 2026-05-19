@@ -40,7 +40,7 @@ Numerical modelling approximates the solution of a physics problem by stepping f
 
 ## Method Outline
 
-1. Write the rate law, e.g. `ΔQ = −(Q/RC) Δt`.
+1. Write the rate law, e.g. $\Delta Q = -\frac{Q}{RC} \Delta t$.
 2. From the current value compute the change over Δt.
 3. Update the value and repeat; tabulate or graph the results.
 

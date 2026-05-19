@@ -27,7 +27,7 @@ more energy.
 ## Why It Happens
 
 Everyday language treats "bright" and "powerful" as the same. But photon
-energy depends only on frequency (E = hf), while [[Intensity]] depends on how
+energy depends only on frequency ($E = hf$), while [[Intensity]] depends on how
 many photons arrive per second per unit area.
 
 ## Example
@@ -41,7 +41,7 @@ can eject electrons.
 
 ## Correct Approach
 
-Separate the two ideas: use E = hf (or E = hc/λ) for the energy of one photon;
+Separate the two ideas: use $E = hf$ (or $E = hc/\lambda$) for the energy of one photon;
 use [[Intensity]] for the rate of photon arrival. Brighter light = more
 photons per second, not more energy per photon.
 

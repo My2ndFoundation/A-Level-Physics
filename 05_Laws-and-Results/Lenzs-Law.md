@@ -26,7 +26,7 @@ The direction of an induced current (or e.m.f.) is always such that it opposes t
 
 Lenz's law is expressed by the minus sign in Faraday's law:
 
-ε = −d(NΦ)/dt
+$$\varepsilon = -\frac{d(N\Phi)}{dt}$$
 
 ## Symbols and Units
 

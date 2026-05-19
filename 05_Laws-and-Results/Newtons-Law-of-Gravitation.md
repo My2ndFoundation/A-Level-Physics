@@ -26,12 +26,12 @@ Every point mass attracts every other point mass with a force directed along the
 
 ## Equation
 
-`F = G m₁ m₂ / r²`
+$$F = \frac{G m_1 m_2}{r^2}$$
 
 ## Symbols and Units
 
 - `F`: gravitational force of attraction, newtons `N` (vector, attractive)
-- `G`: universal gravitational constant, `≈ 6.67 × 10⁻¹¹`, `N m² kg⁻²`
+- `G`: universal gravitational constant, $\approx 6.67 \times 10^{-11}$, `N m² kg⁻²`
 - `m₁, m₂`: the two masses, kilograms `kg`
 - `r`: distance between the centres of the masses, metres `m`
 
@@ -44,22 +44,22 @@ Every point mass attracts every other point mass with a force directed along the
 
 ## Physical Meaning
 
-Gravity is a universal attraction between all masses, extremely weak per kilogram but dominant on astronomical scales because mass only adds up (never cancels, unlike charge). It explains why objects fall, why planets orbit, and why `g ≈ 9.8 N kg⁻¹` near Earth's surface. The field strength is `g = GM/r²`, linking this law to free fall and orbital motion.
+Gravity is a universal attraction between all masses, extremely weak per kilogram but dominant on astronomical scales because mass only adds up (never cancels, unlike charge). It explains why objects fall, why planets orbit, and why $g \approx 9.8 \ \text{N kg}^{-1}$ near Earth's surface. The field strength is $g = \frac{GM}{r^2}$, linking this law to free fall and orbital motion.
 
 ## Foundation Link
 
-GCSE introduces weight `W = mg` and that masses attract each other. A-Level generalises to the universal inverse-square law, gravitational field strength `g = F/m`, and orbital mechanics, showing GCSE's constant `g` is just the near-surface special case.
+GCSE introduces weight $W = mg$ and that masses attract each other. A-Level generalises to the universal inverse-square law, gravitational field strength $g = F/m$, and orbital mechanics, showing GCSE's constant `g` is just the near-surface special case.
 
 ## How to Use
 
 1. Identify the two masses and the centre-to-centre distance `r`.
-2. Substitute into `F = Gm₁m₂/r²`.
-3. For field strength use `g = GM/r²`; for orbits set gravitational force equal to the required centripetal force.
+2. Substitute into $F = \frac{Gm_1 m_2}{r^2}$.
+3. For field strength use $g = \frac{GM}{r^2}$; for orbits set gravitational force equal to the required centripetal force.
 4. Keep `r` in metres and use centre-to-centre distances, not surface separations.
 
 ## Derivation or Explanation
 
-Newton inferred the inverse-square form from Kepler's third law: requiring the gravitational force to supply circular-orbit centripetal force `mv²/r` reproduces `T² ∝ r³`.
+Newton inferred the inverse-square form from Kepler's third law: requiring the gravitational force to supply circular-orbit centripetal force $\frac{mv^2}{r}$ reproduces $T^2 \propto r^3$.
 
 ## Related Quantities
 
@@ -85,7 +85,7 @@ Newton inferred the inverse-square form from Kepler's third law: requiring the g
 ## Common Mistakes
 
 - Using surface separation instead of centre-to-centre distance
-- Forgetting the inverse-square (using `1/r` instead of `1/r²`)
+- Forgetting the inverse-square (using $1/r$ instead of $1/r^2$)
 - [[Confusing-Mass-and-Weight]]
 
 ## Visuals

@@ -38,11 +38,11 @@ To extract a physical quantity from the slope of a straight-line graph, and to e
 
 ## Method
 
-1. Rearrange the physical equation into straight-line form `y = mx + c`, so the gradient `m` corresponds to the wanted quantity.
+1. Rearrange the physical equation into straight-line form $y = mx + c$, so the gradient `m` corresponds to the wanted quantity.
 2. Plot the data and draw the single best-fit straight line balancing points above and below.
 3. Choose a large triangle on the line — the two points should span at least half the plotted range to reduce reading error.
 4. Read the coordinates of both chosen points (read off the line, not off raw data points).
-5. Gradient `m = (y₂ − y₁) / (x₂ − x₁)`, keeping units throughout.
+5. Gradient $m = \frac{y_2 - y_1}{x_2 - x_1}$, keeping units throughout.
 6. Identify the physical quantity from the rearranged equation and quote it with units.
 
 ## Measurements
@@ -51,7 +51,7 @@ The coordinates of two well-separated points on the best-fit line; the axis scal
 
 ## Data Processing
 
-Compute the gradient as the change in the y-quantity divided by the change in the x-quantity. Convert to the target quantity using the rearranged equation (e.g. gradient of force vs extension = spring constant; gradient of `ln N` vs time = −λ).
+Compute the gradient as the change in the y-quantity divided by the change in the x-quantity. Convert to the target quantity using the rearranged equation (e.g. gradient of force vs extension = spring constant; gradient of $\ln N$ vs time $= -\lambda$).
 
 ## Graph Use
 
@@ -81,7 +81,7 @@ Not applicable (analysis step). Only valid when the relationship is genuinely li
 
 - Using two raw data points instead of points on the best-fit line.
 - Choosing a tiny triangle, inflating the reading uncertainty.
-- Forgetting to carry units, or not rearranging the equation into `y = mx + c` first.
+- Forgetting to carry units, or not rearranging the equation into $y = mx + c$ first.
 
 ## Visuals
 
@@ -93,7 +93,7 @@ xychart-beta
     y-axis "y (dependent variable)" 0 --> 14
     line [1, 3, 5, 7, 9, 11, 13]
 ```
-*Figure: A straight-line best-fit graph. The gradient is found by choosing two well-separated points on the line (not on raw data points), drawing a large triangle, and computing m = Δy/Δx. The units of the gradient equal the units of the y-axis divided by the units of the x-axis, and the physical quantity is identified from the rearranged equation.*
+*Figure: A straight-line best-fit graph. The gradient is found by choosing two well-separated points on the line (not on raw data points), drawing a large triangle, and computing $m = \frac{\Delta y}{\Delta x}$. The units of the gradient equal the units of the y-axis divided by the units of the x-axis, and the physical quantity is identified from the rearranged equation.*
 *Source: Authored for this vault (CC0). No external copyright.*
 
 ## Source Trace

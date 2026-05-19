@@ -21,7 +21,8 @@ sources: []
 
 To find an unknown orbital quantity — period, radius, central mass or orbital
 speed — for a body in a circular orbit, using the relationship
-T² = (4π²/GM) r³.
+
+$$T^2 = \frac{4\pi^2}{GM} r^3$$
 
 ## When to Use
 
@@ -40,19 +41,20 @@ T² = (4π²/GM) r³.
 ## Method
 
 1. Identify the central mass M and confirm a roughly circular orbit.
-2. Write the orbital condition: GMm/r² = mv²/r, or equivalently mω²r with
-   ω = 2π/T.
-3. Substitute v = 2πr/T and rearrange to T² = (4π²/GM) r³.
+2. Write the orbital condition: $GMm/r^2 = mv^2/r$, or equivalently $m\omega^2 r$ with
+   $\omega = 2\pi/T$.
+3. Substitute $v = 2\pi r/T$ and rearrange to $T^2 = \dfrac{4\pi^2}{GM} r^3$.
 4. Insert known values in SI units (T in s, r in m measured from the
    central body's centre).
 5. Solve for the unknown. For two orbits of the same central body, use the
-   ratio T₁²/r₁³ = T₂²/r₂³ so G and M cancel.
+   ratio $T_1^2/r_1^3 = T_2^2/r_2^3$ so G and M cancel.
 6. Convert results to required units and check orders of magnitude.
 
 ## Worked Example
 
-For a geostationary orbit, T = 24 h = 8.64 × 10⁴ s and M_Earth ≈ 5.97 × 10²⁴
-kg. Then r³ = GMT²/4π² gives r ≈ 4.2 × 10⁷ m, so the satellite is about
+For a geostationary orbit, $T = 24 \text{ h} = 8.64 \times 10^4 \text{ s}$ and
+$M_\text{Earth} \approx 5.97 \times 10^{24} \text{ kg}$. Then $r^3 = GMT^2/4\pi^2$
+gives $r \approx 4.2 \times 10^7 \text{ m}$, so the satellite is about
 3.6 × 10⁷ m above the surface. (See [[Satellites-and-Geostationary-Orbits]].)
 
 ## Why It Works

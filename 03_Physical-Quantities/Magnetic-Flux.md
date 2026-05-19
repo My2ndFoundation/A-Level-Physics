@@ -38,15 +38,15 @@ Magnetic flux measures the total amount of magnetic field passing perpendicularl
 
 Magnetic flux through a flat area is the product of the [[Magnetic-Flux-Density]] component perpendicular to the area and the area:
 
-Φ = B A cos θ
+$$\Phi = B A \cos\theta$$
 
-where θ is the angle between the field direction and the normal to the area. When the field is perpendicular to the area (θ = 0), flux is a maximum, Φ = B A. When the field lies in the plane of the area (θ = 90°), Φ = 0.
+where θ is the angle between the field direction and the normal to the area. When the field is perpendicular to the area (θ = 0), flux is a maximum, $\Phi = B A$. When the field lies in the plane of the area (θ = 90°), $\Phi = 0$.
 
 ## Related Equations
 
-- Φ = B A cos θ
-- Flux linkage NΦ = B A N cos θ (see [[Magnetic-Flux-Linkage]])
-- Induced e.m.f. magnitude = |d(NΦ)/dt| (see [[Faradays-Law]])
+- $\Phi = B A \cos\theta$
+- Flux linkage $N\Phi = B A N \cos\theta$ (see [[Magnetic-Flux-Linkage]])
+- Induced e.m.f. magnitude $= \left|\frac{d(N\Phi)}{dt}\right|$ (see [[Faradays-Law]])
 
 ## How It Is Measured
 
@@ -81,7 +81,7 @@ On a graph of flux linkage NΦ against time, the gradient gives the negative of 
 
 ## Common Mistakes
 
-- Using B A instead of B A cos θ when the field is not perpendicular to the area.
+- Using $B A$ instead of $B A \cos\theta$ when the field is not perpendicular to the area.
 - Confusing flux Φ with flux linkage NΦ.
 - Using the wrong area (e.g. coil cross-section vs the area the field actually threads).
 

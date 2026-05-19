@@ -46,14 +46,14 @@ The curvature tells you how [[Resistance]] changes with conditions. A straight l
 ## Gradient / Area / Intercepts
 
 - **Gradient** of an I-against-V graph = 1 / [[Resistance]] at that point. The reciprocal of the gradient is the resistance; for a curve, take it at a *specific* point, not as a chord across the whole graph.
-- The line through the origin for an ohmic conductor confirms `V ∝ I`.
+- The line through the origin for an ohmic conductor confirms $V \propto I$.
 - **Intercept**: an ohmic conductor passes through the origin; a diode shows a threshold voltage intercept on the V-axis.
 - Area under the curve has no standard meaning here.
 
 ## Converts To / From
 
 - From: paired ammeter/voltmeter readings (see [[Determining-Internal-Resistance]] for the related circuit method).
-- To: resistance values via `R = V/I` at chosen points.
+- To: resistance values via $R = V/I$ at chosen points.
 
 ## Related Quantities
 
@@ -68,7 +68,7 @@ The curvature tells you how [[Resistance]] changes with conditions. A straight l
 
 ## Common Mistakes
 
-- Reading "resistance = gradient" — for an I-V graph resistance is the *reciprocal* of the gradient (or `V/I` at a point).
+- Reading "resistance = gradient" — for an I-V graph resistance is the *reciprocal* of the gradient (or $V/I$ at a point).
 - Taking a single resistance for a non-ohmic component whose resistance changes with V.
 - Plotting axes the wrong way and misreading the gradient.
 
@@ -85,7 +85,7 @@ xychart-beta
     line [0, 0.4, 0.7, 0.9, 1.1, 1.2, 1.3]
 ```
 
-*Figure: The straight line through the origin represents an ohmic conductor; its constant gradient = 1/R confirms constant [[Resistance]]. The curve (flattening at higher V) represents a filament lamp: as the filament heats up [[Resistance]] increases, so the gradient (= 1/R) decreases and the line curves away from the ohmic case.*
+*Figure: The straight line through the origin represents an ohmic conductor; its constant gradient $= 1/R$ confirms constant [[Resistance]]. The curve (flattening at higher V) represents a filament lamp: as the filament heats up [[Resistance]] increases, so the gradient ($= 1/R$) decreases and the line curves away from the ohmic case.*
 *Source: Authored for this vault (CC0). No external copyright.*
 
 ## Source Trace

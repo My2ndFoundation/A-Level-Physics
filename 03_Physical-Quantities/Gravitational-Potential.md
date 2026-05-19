@@ -41,7 +41,7 @@ Gravitational potential at a point is the work done per unit mass to bring a
 small test mass from infinity to that point. The reference zero is at
 infinity. For a point mass (or outside a uniform sphere):
 
-V_grav = − G M / r
+$$V_{grav} = -\frac{GM}{r}$$
 
 where G = 6.67 × 10⁻¹¹ N m² kg⁻², M = mass producing the field (kg),
 r = distance from its centre (m). The value is always negative, approaching
@@ -49,9 +49,9 @@ zero only at infinite distance.
 
 ## Related Equations
 
-- E_p = m × V_grav (links to [[Gravitational-Potential-Energy]])
-- g = − ΔV_grav / Δr (field strength is the negative potential gradient)
-- ΔV_grav = work per unit mass moved between two points
+- $E_p = m \times V_{grav}$ (links to [[Gravitational-Potential-Energy]])
+- $g = -\Delta V_{grav} / \Delta r$ (field strength is the negative potential gradient)
+- $\Delta V_{grav}$ = work per unit mass moved between two points
 
 ## How It Is Measured
 
@@ -92,7 +92,7 @@ mass; no work is done moving along one.
 ## Common Mistakes
 
 - Confusing potential (J kg⁻¹) with potential energy (J)
-- Dropping the minus sign in V = −GM/r
+- Dropping the minus sign in $V = -GM/r$
 - Treating potential as a vector
 - Forgetting the zero is at infinity, not the surface
 

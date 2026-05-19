@@ -40,10 +40,10 @@ Wavelength is the shortest distance between two points on a wave that are oscill
 
 ## Related Equations
 
-- `v = fλ` — `v` = wave speed (m s⁻¹), `f` = frequency (Hz), `λ` = wavelength (m).
-- Double-slit fringe spacing: `w = λD / s` — `w` = fringe separation (m), `D` = slit-to-screen distance (m), `s` = slit separation (m).
-- Diffraction grating: `dsinθ = nλ` — `d` = slit spacing (m), `n` = order, `θ` = diffraction angle.
-- de Broglie: `λ = h/p` (frontier orientation).
+- $v = f\lambda$ — `v` = wave speed (m s⁻¹), `f` = frequency (Hz), `λ` = wavelength (m).
+- Double-slit fringe spacing: $w = \lambda D / s$ — `w` = fringe separation (m), `D` = slit-to-screen distance (m), `s` = slit separation (m).
+- Diffraction grating: $d\sin\theta = n\lambda$ — `d` = slit spacing (m), `n` = order, `θ` = diffraction angle.
+- de Broglie: $\lambda = h/p$ (frontier orientation).
 
 ## How It Is Measured
 

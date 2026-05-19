@@ -26,7 +26,7 @@ For a metallic conductor at constant temperature, the current through it is dire
 
 ## Equation
 
-`V = IR`
+$$V = IR$$
 
 ## Symbols and Units
 
@@ -37,27 +37,27 @@ For a metallic conductor at constant temperature, the current through it is dire
 ## Conditions
 
 - Strictly valid only for an **ohmic conductor at constant temperature**.
-- A filament lamp, thermistor, and diode are **non-ohmic**: their `I–V` graphs are not straight lines, though `V = IR` still *defines* resistance at any point.
+- A filament lamp, thermistor, and diode are **non-ohmic**: their `I–V` graphs are not straight lines, though $V = IR$ still *defines* resistance at any point.
 - Temperature must be constant, since resistance of a metal rises with temperature.
 
 ## Physical Meaning
 
-Ohm's law says a metal offers a constant opposition to current flow as long as it does not heat up. On an `I–V` graph for an ohmic conductor, the line is straight through the origin, and `1/gradient` gives the resistance. For non-ohmic devices the law does not hold, but `R = V/I` can still be evaluated at each operating point.
+Ohm's law says a metal offers a constant opposition to current flow as long as it does not heat up. On an `I–V` graph for an ohmic conductor, the line is straight through the origin, and $1/\text{gradient}$ gives the resistance. For non-ohmic devices the law does not hold, but $R = V/I$ can still be evaluated at each operating point.
 
 ## Foundation Link
 
-GCSE introduces `V = IR` and ohmic vs non-ohmic `I–V` graphs (resistor, filament lamp, diode). A-Level adds resistivity, temperature dependence, and a clear distinction between Ohm's *law* (a proportionality that only some components obey) and the *definition* of resistance `R = V/I` (which always applies).
+GCSE introduces $V = IR$ and ohmic vs non-ohmic `I–V` graphs (resistor, filament lamp, diode). A-Level adds resistivity, temperature dependence, and a clear distinction between Ohm's *law* (a proportionality that only some components obey) and the *definition* of resistance $R = V/I$ (which always applies).
 
 ## How to Use
 
 1. Identify two of the three quantities `V`, `I`, `R`.
-2. Rearrange `V = IR` for the unknown.
+2. Rearrange $V = IR$ for the unknown.
 3. For combined resistors, find total resistance first (series: add; parallel: reciprocals).
 4. Use [[Kirchhoffs-Second-Law]] to apply it around a loop.
 
 ## Derivation or Explanation
 
-From the drift model, `I = nAvq`; for a metal `n` and the scattering rate are roughly constant at fixed temperature, giving a constant `V/I` ratio.
+From the drift model, $I = nAvq$; for a metal `n` and the scattering rate are roughly constant at fixed temperature, giving a constant $V/I$ ratio.
 
 ## Related Quantities
 
@@ -83,7 +83,7 @@ From the drift model, `I = nAvq`; for a metal `n` and the scattering rate are ro
 ## Common Mistakes
 
 - Applying Ohm's law to non-ohmic components as if `R` were constant
-- Confusing the *law* with the *definition* `R = V/I`
+- Confusing the *law* with the *definition* $R = V/I$
 - Ignoring the temperature-constant condition
 
 ## Visuals

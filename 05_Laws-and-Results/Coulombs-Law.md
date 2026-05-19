@@ -25,16 +25,16 @@ The electrostatic force between two point charges acts along the line joining th
 
 ## Equation
 
-`F = Q₁ Q₂ / (4 π ε₀ r²)`
+$$F = \frac{Q_1 Q_2}{4 \pi \varepsilon_0 r^2}$$
 
-equivalently `F = k Q₁ Q₂ / r²`, with `k = 1/(4πε₀) ≈ 8.99 × 10⁹ N m² C⁻²`
+equivalently $F = \frac{k Q_1 Q_2}{r^2}$, with $k = \frac{1}{4\pi\varepsilon_0} \approx 8.99 \times 10^9 \ \text{N m}^2 \text{ C}^{-2}$
 
 ## Symbols and Units
 
 - `F`: electrostatic force, newtons `N` (vector; attractive or repulsive)
 - `Q₁, Q₂`: the two point charges, coulombs `C` (signed)
 - `r`: separation of the charges, metres `m`
-- `ε₀`: permittivity of free space, `≈ 8.85 × 10⁻¹²`, farads per metre `F m⁻¹`
+- `ε₀`: permittivity of free space, $\approx 8.85 \times 10^{-12}$, farads per metre `F m⁻¹`
 - `k`: Coulomb constant, `N m² C⁻²`
 
 ## Conditions
@@ -45,22 +45,22 @@ equivalently `F = k Q₁ Q₂ / r²`, with `k = 1/(4πε₀) ≈ 8.99 × 10⁹ N
 
 ## Physical Meaning
 
-Coulomb's law has the same inverse-square mathematical form as [[Newtons-Law-of-Gravitation]], but it can be attractive *or* repulsive because charge has two signs. It is enormously stronger than gravity for fundamental particles, which is why electrostatic forces hold atoms and molecules together. The electric field strength of a point charge is `E = Q/(4πε₀r²)`, linking this law to field and potential.
+Coulomb's law has the same inverse-square mathematical form as [[Newtons-Law-of-Gravitation]], but it can be attractive *or* repulsive because charge has two signs. It is enormously stronger than gravity for fundamental particles, which is why electrostatic forces hold atoms and molecules together. The electric field strength of a point charge is $E = \frac{Q}{4\pi\varepsilon_0 r^2}$, linking this law to field and potential.
 
 ## Foundation Link
 
-GCSE introduces that like charges repel and unlike charges attract, and the idea of an electric field. A-Level adds the quantitative inverse-square law, field strength `E = F/Q`, and the close parallel with gravitational fields.
+GCSE introduces that like charges repel and unlike charges attract, and the idea of an electric field. A-Level adds the quantitative inverse-square law, field strength $E = F/Q$, and the close parallel with gravitational fields.
 
 ## How to Use
 
 1. Identify the two charges (with signs) and their separation `r`.
-2. Substitute magnitudes into `F = kQ₁Q₂/r²`.
+2. Substitute magnitudes into $F = \frac{kQ_1 Q_2}{r^2}$.
 3. Use the sign rule (like repel, unlike attract) to fix the direction.
-4. For field strength of a point charge, use `E = kQ/r²`.
+4. For field strength of a point charge, use $E = \frac{kQ}{r^2}$.
 
 ## Derivation or Explanation
 
-The law is empirical (from torsion-balance experiments). Combined with the definition `E = F/Q`, it gives the radial field of a point charge `E = Q/(4πε₀r²)`.
+The law is empirical (from torsion-balance experiments). Combined with the definition $E = F/Q$, it gives the radial field of a point charge $E = \frac{Q}{4\pi\varepsilon_0 r^2}$.
 
 ## Related Quantities
 
@@ -85,8 +85,8 @@ The law is empirical (from torsion-balance experiments). Combined with the defin
 
 ## Common Mistakes
 
-- Forgetting the inverse-square (using `1/r` not `1/r²`)
-- Dropping the factor `4πε₀` or misusing `k`
+- Forgetting the inverse-square (using $1/r$ not $1/r^2$)
+- Dropping the factor $4\pi\varepsilon_0$ or misusing `k`
 - Ignoring charge signs when deciding attraction vs repulsion
 
 ## Visuals

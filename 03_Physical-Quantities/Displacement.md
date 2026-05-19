@@ -42,10 +42,10 @@ Displacement is the change in position of an object, measured as a vector from t
 
 ## Related Equations
 
-- `Δs = s_final − s_initial` — positions measured from a chosen origin (m).
-- SUVAT: `s = ut + ½at²` — `s` = displacement (m), `u` = initial velocity (m s⁻¹), `a` = acceleration (m s⁻²), `t` = time (s).
-- `s = v̄ t` — `v̄` = average velocity (m s⁻¹).
-- Resultant of two perpendicular displacements: `s = √(s_x² + s_y²)`.
+- $\Delta s = s_{final} - s_{initial}$ — positions measured from a chosen origin (m).
+- SUVAT: $s = ut + \frac{1}{2}at^2$ — `s` = displacement (m), `u` = initial velocity (m s⁻¹), `a` = acceleration (m s⁻²), `t` = time (s).
+- $s = \bar{v} t$ — `v̄` = average velocity (m s⁻¹).
+- Resultant of two perpendicular displacements: $s = \sqrt{s_x^2 + s_y^2}$.
 
 ## How It Is Measured
 

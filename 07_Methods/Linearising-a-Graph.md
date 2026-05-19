@@ -20,11 +20,11 @@ sources: []
 
 ## Purpose
 
-Linearising a graph rearranges a non-linear physical relationship into the straight-line form *y = mx + c*, so that a chosen quantity can be found from the gradient or intercept of a straight-line plot. Straight lines are easier to draw a best fit through and reveal whether the data truly follow the proposed law.
+Linearising a graph rearranges a non-linear physical relationship into the straight-line form $y = mx + c$, so that a chosen quantity can be found from the gradient or intercept of a straight-line plot. Straight lines are easier to draw a best fit through and reveal whether the data truly follow the proposed law.
 
 ## When to Use
 
-Use it for relationships like *T = 2π√(L/g)*, *I–V* of non-ohmic components, exponential decay, or any power/exponential law where a direct plot would be a curve.
+Use it for relationships like $T = 2\pi\sqrt{L/g}$, *I–V* of non-ohmic components, exponential decay, or any power/exponential law where a direct plot would be a curve.
 
 ## Prerequisites
 
@@ -34,19 +34,19 @@ Use it for relationships like *T = 2π√(L/g)*, *I–V* of non-ohmic components
 ## Method
 
 1. Write the suspected relationship between the variables.
-2. Rearrange it into the form *y = mx + c*: choose what to plot on each axis so the relationship is linear.
-3. For power laws *y = ax^n*, take logs: log y = n log x + log a (plot log y vs log x).
-4. For exponentials *y = A e^{−kx}*, take ln: ln y = −kx + ln A.
+2. Rearrange it into the form $y = mx + c$: choose what to plot on each axis so the relationship is linear.
+3. For power laws $y = ax^n$, take logs: $\log y = n \log x + \log a$ (plot $\log y$ vs $\log x$).
+4. For exponentials $y = A e^{-kx}$, take ln: $\ln y = -kx + \ln A$.
 5. Tabulate the transformed variables and plot.
 6. Draw the best-fit line; obtain the constant from the gradient and/or intercept.
 
 ## Worked Example
 
-For a pendulum, *T = 2π√(L/g)* gives *T² = (4π²/g) L*. Plotting *T²* (y) against *L* (x) yields a straight line through the origin with gradient *4π²/g*. Measuring the gradient lets you calculate *g = 4π² / gradient*.
+For a pendulum, $T = 2\pi\sqrt{L/g}$ gives $T^2 = \dfrac{4\pi^2}{g} L$. Plotting $T^2$ (y) against *L* (x) yields a straight line through the origin with gradient $4\pi^2/g$. Measuring the gradient lets you calculate $g = 4\pi^2 / \text{gradient}$.
 
 ## Why It Works
 
-Any relationship reducible to *y = mx + c* maps onto a straight line whose slope and intercept carry the physical constants. Logarithms convert multiplicative power and exponential laws into additive linear ones.
+Any relationship reducible to $y = mx + c$ maps onto a straight line whose slope and intercept carry the physical constants. Logarithms convert multiplicative power and exponential laws into additive linear ones.
 
 ## Common Mistakes
 

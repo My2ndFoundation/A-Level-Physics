@@ -40,7 +40,7 @@ The line represents the physical relationship; scatter about it reflects [[Syste
 
 ## Gradient / Area / Intercepts
 
-- **Gradient** — read using a large triangle spanning most of the line; it usually equals a physical quantity once the equation is linearised to `y = mx + c`.
+- **Gradient** — read using a large triangle spanning most of the line; it usually equals a physical quantity once the equation is linearised to $y = mx + c$.
 - **Intercept** — the value where the line crosses an axis; physically meaningful only if that axis point is actually plotted (otherwise extrapolate honestly).
 - **Area** — relevant only when the plotted quantities make the area a physical quantity.
 - A worst-acceptable-line gives the gradient/intercept uncertainty.
@@ -77,7 +77,7 @@ xychart-beta
     bar [1.4, 2.8, 5.2, 6.9, 9.3, 10.8]
 ```
 
-*Figure: The straight line balances the scatter of the experimental points (bars), passing through the approximate centre of the spread. The gradient is read from a large triangle spanning most of the line: rise ÷ run gives the physical quantity encoded by the equation's y = mx + c form. A non-zero intercept may indicate a systematic offset in the apparatus.*
+*Figure: The straight line balances the scatter of the experimental points (bars), passing through the approximate centre of the spread. The gradient is read from a large triangle spanning most of the line: rise ÷ run gives the physical quantity encoded by the equation's $y = mx + c$ form. A non-zero intercept may indicate a systematic offset in the apparatus.*
 *Source: Authored for this vault (CC0). No external copyright.*
 
 ## Source Trace

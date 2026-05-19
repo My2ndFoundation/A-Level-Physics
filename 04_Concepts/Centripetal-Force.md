@@ -25,9 +25,9 @@ Centripetal force is the net resultant force directed towards the centre of a ci
 
 Centripetal force is not a new kind of force — it is the *name for the resultant* of real forces (tension, gravity, friction, normal reaction, magnetic force) resolved towards the centre. Applying [[Newton-Second-Law]] radially:
 
-F = m a = m v² / r = m ω² r
+$$F = m a = \frac{m v^2}{r} = m \omega^2 r$$
 
-where m is mass, v tangential speed, r radius, ω [[Angular-Velocity]]. It acts perpendicular to the velocity, so it changes direction but not speed and therefore does no work on the object in uniform [[Circular-Motion]].
+where $m$ is mass, $v$ tangential speed, $r$ radius, $\omega$ [[Angular-Velocity]]. It acts perpendicular to the velocity, so it changes direction but not speed and therefore does no work on the object in uniform [[Circular-Motion]].
 
 ## Everyday Intuition
 
@@ -81,7 +81,7 @@ Identifying *which* real force provides the centripetal requirement is the key s
 ### Centripetal force direction on a circular path
 
 ![[_attachments/04_Concepts/Centripetal-Force--circular-path.svg]]
-*Figure: An object moving in a circle has velocity v tangent to the path. The centripetal force F = mv²/r (and centripetal acceleration) always points radially inward toward the centre. The force is perpendicular to v, so it does no work and speed is unchanged.*
+*Figure: An object moving in a circle has velocity v tangent to the path. The centripetal force $F = mv^2/r$ (and centripetal acceleration) always points radially inward toward the centre. The force is perpendicular to v, so it does no work and speed is unchanged.*
 *Source: Authored for this vault (CC0). No external copyright.*
 
 ## Source Trace

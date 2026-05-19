@@ -26,7 +26,7 @@ Free fall is motion under the influence of gravity alone, with no other signific
 
 During free fall the only force on an object is its weight, so by [[Newton-Second-Law]] its acceleration equals the gravitational field strength g (about 9.81 m s⁻² near Earth's surface). Crucially this acceleration is independent of mass: a feather and a hammer fall together in a vacuum, because while a heavier object is pulled harder, it also has proportionally more inertia, and the two effects cancel.
 
-A freely falling object follows the [[Constant-Acceleration-Model]], so the SUVAT equations apply with a = g. An object thrown upward is still in free fall on the way up, at the top, and on the way down — the acceleration remains g downward throughout, even when the velocity is momentarily zero at the highest point.
+A freely falling object follows the [[Constant-Acceleration-Model]], so the SUVAT equations apply with $a = g$. An object thrown upward is still in free fall on the way up, at the top, and on the way down — the acceleration remains g downward throughout, even when the velocity is momentarily zero at the highest point.
 
 True free fall requires no air resistance. In real air, drag grows with speed and eventually opposes the weight; the motion is then no longer free fall and may approach [[Terminal-Velocity]].
 

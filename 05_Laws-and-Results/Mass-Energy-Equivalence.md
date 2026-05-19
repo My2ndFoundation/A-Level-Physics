@@ -25,16 +25,16 @@ Mass and energy are equivalent: a change in the energy of a system corresponds t
 
 ## Equation
 
-ΔE = Δm c²
+$$\Delta E = \Delta m \, c^2$$
 
-(and for rest energy, E₀ = m c²)
+(and for rest energy, $E_0 = m c^2$)
 
 ## Symbols and Units
 
 - ΔE: energy change — unit joule (J), often MeV in nuclear physics
 - Δm: mass change — unit kilogram (kg), often atomic mass units (u)
-- c: speed of light in vacuum, 3.00 × 10⁸ m s⁻¹
-- Conversions: 1 u ↔ 931.5 MeV; 1 MeV = 1.60 × 10⁻¹³ J
+- c: speed of light in vacuum, $3.00 \times 10^8$ m s⁻¹
+- Conversions: 1 u ↔ 931.5 MeV; $1 \text{ MeV} = 1.60 \times 10^{-13}$ J
 
 ## Conditions
 
@@ -43,7 +43,7 @@ Mass and energy are equivalent: a change in the energy of a system corresponds t
 
 ## Physical Meaning
 
-Because c² is huge (≈ 9 × 10¹⁶ m² s⁻²), a tiny mass change releases an enormous energy. In a bound nucleus the [[Mass-Defect]] is the mass "stored" as [[Binding-Energy]]. In annihilation, all rest mass becomes photon energy; in pair production, photon energy becomes rest mass.
+Because c² is huge ($\approx 9 \times 10^{16}$ m² s⁻²), a tiny mass change releases an enormous energy. In a bound nucleus the [[Mass-Defect]] is the mass "stored" as [[Binding-Energy]]. In annihilation, all rest mass becomes photon energy; in pair production, photon energy becomes rest mass.
 
 ## Foundation Link
 

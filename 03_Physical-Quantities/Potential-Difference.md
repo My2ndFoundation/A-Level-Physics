@@ -44,10 +44,10 @@ Potential difference between two points is the energy transferred from electrica
 
 ## Related Equations
 
-- `V = W / Q` — `V` = p.d. (V), `W` = energy transferred (J), `Q` = charge (C).
-- `V = IR` — `I` = current (A), `R` = resistance (Ω). See [[Ohms-Law]].
-- `ε = I(R + r)` — emf `ε` (V), internal resistance `r` (Ω). See [[Determining-Internal-Resistance]].
-- `P = IV` — power (W).
+- $V = W / Q$ — `V` = p.d. (V), `W` = energy transferred (J), `Q` = charge (C).
+- $V = IR$ — `I` = current (A), `R` = resistance (Ω). See [[Ohms-Law]].
+- $\varepsilon = I(R + r)$ — emf `ε` (V), internal resistance `r` (Ω). See [[Determining-Internal-Resistance]].
+- $P = IV$ — power (W).
 
 ## How It Is Measured
 

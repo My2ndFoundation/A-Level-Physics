@@ -30,7 +30,7 @@ evidence support it:
 
 1. **Galactic redshift and [[Hubbles-Law]].** Almost all galaxies show
    [[Redshift]], and recession speed v is proportional to distance d
-   (v = H₀ d). This is exactly what a uniformly expanding Universe predicts,
+   ($v = H_0 d$). This is exactly what a uniformly expanding Universe predicts,
    and running the expansion backwards points to a hot dense origin.
 2. **Cosmic microwave background (CMB) radiation.** A faint, almost uniform
    microwave glow fills the sky with a black-body spectrum peaking in the
@@ -42,7 +42,7 @@ evidence support it:
    early Universe.
 
 The Hubble constant H₀ also gives a rough **age of the Universe** as
-approximately 1 / H₀ (assuming a roughly constant expansion rate).
+approximately $1 / H_0$ (assuming a roughly constant expansion rate).
 
 ## Everyday Intuition
 
@@ -56,7 +56,7 @@ is the centre.
 - [[Redshift]]
 
 GCSE introduces red-shift evidence for an expanding Universe. A-Level adds
-the CMB, light-element abundance and age ≈ 1/H₀.
+the CMB, light-element abundance and age $\approx 1/H_0$.
 
 ## Why It Matters
 

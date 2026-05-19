@@ -24,11 +24,11 @@ The radian is the natural angular unit defined by arc length divided by radius, 
 
 ## Meaning
 
-One radian is the angle subtended at the centre of a circle by an arc equal in length to the radius. For arc length s and radius r:
+One radian is the angle subtended at the centre of a circle by an arc equal in length to the radius. For arc length $s$ and radius $r$:
 
-θ = s / r   (θ in radians)
+$$\theta = \frac{s}{r} \quad (\theta \text{ in radians})$$
 
-A full circle is 2π rad = 360°, so 1 rad ≈ 57.3°. Because it is length/length, the radian is dimensionless; this is why ω in rad s⁻¹ has base units s⁻¹ and why equations like v = ωr and a = ω²r need no conversion factor.
+A full circle is $2\pi \text{ rad} = 360^\circ$, so $1 \text{ rad} \approx 57.3^\circ$. Because it is length/length, the radian is dimensionless; this is why $\omega$ in rad s⁻¹ has base units s⁻¹ and why equations like $v = \omega r$ and $a = \omega^2 r$ need no conversion factor.
 
 ## Everyday Intuition
 
@@ -40,7 +40,7 @@ Wrapping a string of length equal to the wheel's radius around its rim sweeps ou
 
 ## Why It Matters
 
-Radian measure makes the small-angle approximation sin θ ≈ θ valid (needed in [[Simple-Harmonic-Motion]] and optics), and is essential for [[Angular-Velocity]], [[Circular-Motion]] and wave phase. Calculators must be in radian mode for these formulae.
+Radian measure makes the small-angle approximation $\sin\theta \approx \theta$ valid (needed in [[Simple-Harmonic-Motion]] and optics), and is essential for [[Angular-Velocity]], [[Circular-Motion]] and wave phase. Calculators must be in radian mode for these formulae.
 
 ## Related Quantities
 

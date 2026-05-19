@@ -73,7 +73,7 @@ team pulls harder, the forces become unbalanced and the rope moves their way.
 
 At A-Level the words "balanced/unbalanced" are replaced by the precise
 statement that the vector sum of forces is zero or non-zero, and the net force
-is linked to acceleration through F = ma.
+is linked to acceleration through $F = ma$.
 
 ## Source Trace
 

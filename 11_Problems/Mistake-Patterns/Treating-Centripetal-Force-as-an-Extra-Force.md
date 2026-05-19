@@ -41,7 +41,7 @@ already supplied by the tension. Counting it twice doubles the inward force.
 ## Correct Approach
 
 Draw only the real forces. Then identify their resultant towards the centre
-and set it equal to mv²/r. The centripetal requirement is what the [[Resultant-Force]]
+and set it equal to $mv^2/r$. The centripetal requirement is what the [[Resultant-Force]]
 must equal, not an additional arrow.
 
 ## Foundation Link

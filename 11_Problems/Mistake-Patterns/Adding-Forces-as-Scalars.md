@@ -34,7 +34,7 @@ changes the result.
 
 Two forces of 5 N act on a point, one due east and one due north. A student
 gives the resultant as 10 N. Correctly, the forces are perpendicular, so the
-resultant magnitude is √(5² + 5²) ≈ 7.1 N, directed 45° north of east. Adding
+resultant magnitude is $\sqrt{5^2 + 5^2} \approx 7.1\ \text{N}$, directed $45^\circ$ north of east. Adding
 them as scalars overstates the resultant and gives no direction at all.
 
 ## Correct Approach

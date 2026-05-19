@@ -35,24 +35,24 @@ Whenever a final quantity is computed from two or more measured quantities (e.g.
 
 Let measured quantities be `a, b` with absolute uncertainties `Δa, Δb` and percentage uncertainties `%a, %b`.
 
-1. **Adding or subtracting** (`y = a + b` or `y = a − b`): **add the absolute uncertainties** → `Δy = Δa + Δb`.
-2. **Multiplying or dividing** (`y = ab` or `y = a/b`): **add the percentage uncertainties** → `%y = %a + %b`.
-3. **Raising to a power** (`y = aⁿ`): **multiply the percentage uncertainty by n** → `%y = |n| × %a` (this includes roots, where n is a fraction).
-4. **Multiplying by an exact constant** (`y = ka`): the percentage uncertainty is unchanged; the absolute uncertainty scales by `k`.
+1. **Adding or subtracting** ($y = a + b$ or $y = a - b$): **add the absolute uncertainties** → $\Delta y = \Delta a + \Delta b$.
+2. **Multiplying or dividing** ($y = ab$ or $y = a/b$): **add the percentage uncertainties** → $\%y = \%a + \%b$.
+3. **Raising to a power** ($y = a^n$): **multiply the percentage uncertainty by n** → $\%y = |n| \times \%a$ (this includes roots, where n is a fraction).
+4. **Multiplying by an exact constant** ($y = ka$): the percentage uncertainty is unchanged; the absolute uncertainty scales by `k`.
 5. Convert the final percentage uncertainty back to an absolute uncertainty if the answer is quoted as `value ± Δy`.
 
 ## Worked Example
 
-Density `ρ = m / V`. If `%m = 1%` and `%V = 3%`, then `%ρ = 1% + 3% = 4%`. For `ρ = 2500 kg m⁻³`, the absolute uncertainty is `0.04 × 2500 = 100 kg m⁻³`, so `ρ = 2500 ± 100 kg m⁻³`.
+Density $\rho = m / V$. If $\%m = 1\%$ and $\%V = 3\%$, then $\%\rho = 1\% + 3\% = 4\%$. For $\rho = 2500 \text{ kg m}^{-3}$, the absolute uncertainty is $0.04 \times 2500 = 100 \text{ kg m}^{-3}$, so $\rho = 2500 \pm 100 \text{ kg m}^{-3}$.
 
 ## Why It Works
 
-For independent small uncertainties, fractional doubts add through products, and the power rule follows because `aⁿ` multiplies the fractional change n times. (At A-Level the simple *sum* of percentages is used, not the quadrature rule.)
+For independent small uncertainties, fractional doubts add through products, and the power rule follows because $a^n$ multiplies the fractional change n times. (At A-Level the simple *sum* of percentages is used, not the quadrature rule.)
 
 ## Common Mistakes
 
 - Adding absolute uncertainties for a product/quotient (should be percentages).
-- Forgetting to multiply by the power n (especially for square roots, n = ½).
+- Forgetting to multiply by the power n (especially for square roots, $n = \frac{1}{2}$).
 
 ## Related Quantities
 

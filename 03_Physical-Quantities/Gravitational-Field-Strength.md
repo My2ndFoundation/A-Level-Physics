@@ -42,18 +42,18 @@ Gravitational field strength at a point is the gravitational force exerted per u
 
 ## Related Equations
 
-- `g = F / m` — `g` = field strength (N kg⁻¹), `F` = gravitational force (N), `m` = mass (kg).
-- `W = mg` — `W` = weight (N). See [[Weight]].
-- Radial field of a planet: `g = GM/r²` — `G` = gravitational constant, `M` = planet mass (kg), `r` = distance from centre (m). See [[Newtons-Law-of-Gravitation]].
+- $g = F / m$ — `g` = field strength (N kg⁻¹), `F` = gravitational force (N), `m` = mass (kg).
+- $W = mg$ — `W` = weight (N). See [[Weight]].
+- Radial field of a planet: $g = GM/r^2$ — `G` = gravitational constant, `M` = planet mass (kg), `r` = distance from centre (m). See [[Newtons-Law-of-Gravitation]].
 - In free fall the acceleration equals `g`.
 
 ## How It Is Measured
 
-From weight–mass data (newtonmeter, gradient of `W` vs `m`), or from a free-fall experiment: measure the time for an object to fall a known distance (light gates / electromagnet-and-trapdoor) and use `s = ½gt²`.
+From weight–mass data (newtonmeter, gradient of `W` vs `m`), or from a free-fall experiment: measure the time for an object to fall a known distance (light gates / electromagnet-and-trapdoor) and use $s = \frac{1}{2}gt^2$.
 
 ## Graphical Meaning
 
-A graph of weight against mass at one location is a straight line through the origin with gradient `g`. For a radial field, `g` against `1/r²` is a straight line through the origin.
+A graph of weight against mass at one location is a straight line through the origin with gradient `g`. For a radial field, `g` against $1/r^2$ is a straight line through the origin.
 
 ## Foundation Links
 

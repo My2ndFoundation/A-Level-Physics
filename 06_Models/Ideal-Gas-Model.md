@@ -40,9 +40,9 @@ The ideal gas model describes a gas as a large number of identical point molecul
 
 ## Key Equations
 
-- *pV = nRT* (equation of state)
-- *pV = ⅓ N m ⟨c²⟩* (kinetic theory)
-- Mean kinetic energy per molecule: *½m⟨c²⟩ = (3/2)kT*
+- $pV = nRT$ (equation of state)
+- $pV = \frac{1}{3} N m \langle c^2 \rangle$ (kinetic theory)
+- Mean kinetic energy per molecule: $\frac{1}{2}m\langle c^2 \rangle = \frac{3}{2}kT$
 
 ## When to Use
 

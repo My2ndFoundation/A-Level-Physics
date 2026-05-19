@@ -27,7 +27,7 @@ SUVAT is the first kinematics toolkit learners master, so it becomes the default
 
 ## Example
 
-A skydiver falls for 20 s before opening a parachute. A student uses `v = u + at` with `a = 9.8 m/s²` for the whole 20 s. Drag makes the acceleration fall toward zero as the skydiver approaches terminal velocity, so SUVAT does not apply across that interval.
+A skydiver falls for 20 s before opening a parachute. A student uses $v = u + at$ with $a = 9.8\ \text{m s}^{-2}$ for the whole 20 s. Drag makes the acceleration fall toward zero as the skydiver approaches terminal velocity, so SUVAT does not apply across that interval.
 
 ## Correct Approach
 

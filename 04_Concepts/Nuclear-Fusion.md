@@ -24,7 +24,7 @@ Nuclear fusion is the joining of two light nuclei to form a heavier nucleus, rel
 
 ## Meaning
 
-When two light nuclei (for example isotopes of hydrogen, deuterium and tritium) are brought close enough together they can fuse into a heavier nucleus such as helium, releasing energy. As with fission, the energy comes from a gain in binding energy per nucleon and an associated loss of mass, governed by E = mc². Fusion of light nuclei releases even more energy per nucleon than fission, because the binding-energy curve rises very steeply at the light end.
+When two light nuclei (for example isotopes of hydrogen, deuterium and tritium) are brought close enough together they can fuse into a heavier nucleus such as helium, releasing energy. As with fission, the energy comes from a gain in binding energy per nucleon and an associated loss of mass, governed by $E = mc^2$. Fusion of light nuclei releases even more energy per nucleon than fission, because the binding-energy curve rises very steeply at the light end.
 
 The great difficulty is getting the nuclei close enough. Both are positively charged, so they strongly repel (the Coulomb barrier). Overcoming this requires extremely high temperatures (millions of kelvin) so the nuclei move fast enough, and high density so collisions are frequent. These conditions exist naturally in the cores of stars: fusion of hydrogen into helium is the energy source of the Sun and the reason stars shine.
 

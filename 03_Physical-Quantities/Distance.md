@@ -42,9 +42,9 @@ Distance is the total length of the path travelled by an object between two inst
 
 ## Related Equations
 
-- `distance = speed × time` → `d = v̄ t` — `v̄` = average speed (m s⁻¹), `t` = time (s).
+- $\text{distance} = \text{speed} \times \text{time}$ → $d = \bar{v} t$ — `v̄` = average speed (m s⁻¹), `t` = time (s).
 - For a curved path, distance is the total arc length travelled.
-- Distance ≥ |displacement| always.
+- $\text{Distance} \geq |\text{displacement}|$ always.
 
 ## How It Is Measured
 

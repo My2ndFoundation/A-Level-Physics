@@ -27,17 +27,17 @@ When several capacitors are connected, they behave as a single equivalent [[Capa
 
 **Parallel.** Each capacitor has the same [[Potential-Difference]] V across it. Total charge is the sum of the individual charges, so:
 
-- C_total = C₁ + C₂ + C₃ + …
+$$C_\text{total} = C_1 + C_2 + C_3 + \ldots$$
 
 Parallel connection effectively increases plate area, so capacitance increases.
 
 **Series.** Each capacitor carries the same [[Charge]] Q (charge displaced by the source is identical through the chain). The voltages add to the supply voltage, giving:
 
-- 1 / C_total = 1/C₁ + 1/C₂ + 1/C₃ + …
+$$\frac{1}{C_\text{total}} = \frac{1}{C_1} + \frac{1}{C_2} + \frac{1}{C_3} + \ldots$$
 
 Series connection effectively increases plate separation, so the total capacitance is smaller than the smallest individual capacitor.
 
-This is the reverse of the resistor rules: resistors add in series, reciprocally in parallel. The reason is that capacitance relates charge to voltage (Q = CV), whereas resistance relates voltage to current.
+This is the reverse of the resistor rules: resistors add in series, reciprocally in parallel. The reason is that capacitance relates charge to voltage ($Q = CV$), whereas resistance relates voltage to current.
 
 ## Everyday Intuition
 

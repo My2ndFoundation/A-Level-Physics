@@ -41,10 +41,10 @@ Linear momentum is the product of an object's mass and its velocity. The resulta
 
 ## Related Equations
 
-- `p = mv` — `p` = momentum (kg m s⁻¹), `m` = mass (kg), `v` = velocity (m s⁻¹).
-- `F = Δp / Δt` — `F` = resultant force (N), `Δt` = time (s). See [[Newton-Second-Law]].
-- `Σp_before = Σp_after` (closed system). See [[Conservation-of-Momentum]].
-- Impulse–momentum: `FΔt = Δp`. See [[Impulse]].
+- $p = mv$ — `p` = momentum (kg m s⁻¹), `m` = mass (kg), `v` = velocity (m s⁻¹).
+- $F = \Delta p / \Delta t$ — `F` = resultant force (N), `Δt` = time (s). See [[Newton-Second-Law]].
+- $\Sigma p_{before} = \Sigma p_{after}$ (closed system). See [[Conservation-of-Momentum]].
+- Impulse–momentum: $F\Delta t = \Delta p$. See [[Impulse]].
 
 ## How It Is Measured
 

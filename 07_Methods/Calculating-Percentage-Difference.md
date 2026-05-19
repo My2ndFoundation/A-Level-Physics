@@ -34,14 +34,14 @@ In the evaluation of a practical, when a known accepted value exists (e.g. compa
 ## Method
 
 1. Find the experimental value and the accepted value.
-2. **Percentage difference** `= (|experimental − accepted| / accepted) × 100%`.
+2. **Percentage difference** $= \dfrac{|\text{experimental} - \text{accepted}|}{\text{accepted}} \times 100\%$.
 3. Compare this with the experiment's total [[Calculating-Percentage-Uncertainty|percentage uncertainty]]:
    - If the percentage difference is **within** the percentage uncertainty → the result is consistent with the accepted value (no evidence of systematic error).
    - If it is **larger** → there is likely an unaccounted [[Systematic-and-Random-Errors|systematic error]] to discuss.
 
 ## Worked Example
 
-A pendulum experiment gives `g = 9.40 m s⁻²`; accepted `9.81 m s⁻²`. Percentage difference = `(0.41 / 9.81) × 100% ≈ 4.2%`. If the experiment's percentage uncertainty was only 2%, the 4.2% gap points to a systematic error (e.g. consistently late timing) rather than random scatter.
+A pendulum experiment gives $g = 9.40 \text{ m s}^{-2}$; accepted `9.81 m s⁻²`. Percentage difference $= (0.41 / 9.81) \times 100\% \approx 4.2\%$. If the experiment's percentage uncertainty was only 2%, the 4.2% gap points to a systematic error (e.g. consistently late timing) rather than random scatter.
 
 ## Why It Works
 

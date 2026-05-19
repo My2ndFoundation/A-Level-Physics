@@ -33,7 +33,7 @@ Use it when a problem involves changes in speed, height, or stored energy and as
 ## Method
 
 1. Identify the system and define a reference level for gravitational potential energy.
-2. List the energy stores at the initial state (kinetic ½mv², gravitational mgh, elastic ½kx²).
+2. List the energy stores at the initial state (kinetic $\frac{1}{2}mv^2$, gravitational $mgh$, elastic $\frac{1}{2}kx^2$).
 3. List the energy stores at the final state.
 4. Account for energy transferred out (work done against friction or drag).
 5. Write: total energy initial = total energy final + energy dissipated.
@@ -41,7 +41,7 @@ Use it when a problem involves changes in speed, height, or stored energy and as
 
 ## Worked Example
 
-A 0.50 kg ball is dropped from 1.8 m (negligible air resistance). Taking the ground as reference: initial energy = mgh = 0.50 × 9.81 × 1.8 ≈ 8.8 J, all gravitational. At the ground this is all kinetic: ½mv² = 8.8 J, so *v = √(2 × 8.8 / 0.50) ≈ 5.9 m s⁻¹*.
+A 0.50 kg ball is dropped from 1.8 m (negligible air resistance). Taking the ground as reference: initial energy $= mgh = 0.50 \times 9.81 \times 1.8 \approx 8.8 \text{ J}$, all gravitational. At the ground this is all kinetic: $\frac{1}{2}mv^2 = 8.8 \text{ J}$, so $v = \sqrt{2 \times 8.8 / 0.50} \approx 5.9 \text{ m s}^{-1}$.
 
 ## Why It Works
 

@@ -35,12 +35,12 @@ Whenever a vector acts at an angle, a force is on a slope, or a quantity varies 
 ## Method
 
 1. Draw the right-angled triangle for the vector or geometry.
-2. Apply `component = magnitude × cos θ` (adjacent) or `× sin θ` (opposite).
-3. Recombine with Pythagoras and `tan θ` for the resultant and its direction.
+2. Apply $\text{component} = \text{magnitude} \times \cos\theta$ (adjacent) or $\times \sin\theta$ (opposite).
+3. Recombine with Pythagoras and $\tan\theta$ for the resultant and its direction.
 
 ## Worked Example
 
-A `20 N` force at `30°` to the horizontal has horizontal component `20 cos 30° ≈ 17.3 N` and vertical `20 sin 30° = 10 N`. See [[Resolving-Forces]], [[Resolving-Vectors]].
+A `20 N` force at `30°` to the horizontal has horizontal component $20 \cos 30° \approx 17.3 \text{ N}$ and vertical $20 \sin 30° = 10 \text{ N}$. See [[Resolving-Forces]], [[Resolving-Vectors]].
 
 ## Why It Works
 

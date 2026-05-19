@@ -26,15 +26,16 @@ Just as a mass has gravitational potential energy from its position in a [[Gravi
 
 For two point charges Q and q separated by distance r, the electric potential energy is:
 
-- E_p = (1 / 4πε₀) · Q q / r
-  - E_p = electric potential energy, joules (J)
-  - Q, q = the two charges, coulombs (C)
-  - r = separation, metres (m)
-  - ε₀ = permittivity of free space
+$$E_p = \frac{1}{4\pi\varepsilon_0} \cdot \frac{Q q}{r}$$
 
-Note this is a 1/r dependence, while the force (and field) follows 1/r². The energy is **positive** for like charges (work must be done to push them together, they would fly apart) and **negative** for unlike charges (they are bound; energy must be supplied to separate them to infinity).
+  - $E_p$ = electric potential energy, joules (J)
+  - $Q, q$ = the two charges, coulombs (C)
+  - $r$ = separation, metres (m)
+  - $\varepsilon_0$ = permittivity of free space
 
-Electric potential energy and [[Electric-Potential]] V are linked by E_p = qV: potential is the potential energy per unit positive charge. The work done moving a charge between two points is the change in E_p, which equals qΔV.
+Note this is a $1/r$ dependence, while the force (and field) follows $1/r^2$. The energy is **positive** for like charges (work must be done to push them together, they would fly apart) and **negative** for unlike charges (they are bound; energy must be supplied to separate them to infinity).
+
+Electric potential energy and [[Electric-Potential]] V are linked by $E_p = qV$: potential is the potential energy per unit positive charge. The work done moving a charge between two points is the change in $E_p$, which equals $q\Delta V$.
 
 ## Everyday Intuition
 
@@ -48,7 +49,7 @@ Pushing two like charges together is like compressing a spring — release them 
 
 ## Why It Matters
 
-It underlies energy transfer in circuits (W = QV), the energy of charged particles in accelerators, ionisation energy, and the energy stored in a [[Capacitor]] via the work done separating charge.
+It underlies energy transfer in circuits ($W = QV$), the energy of charged particles in accelerators, ionisation energy, and the energy stored in a [[Capacitor]] via the work done separating charge.
 
 ## Related Quantities
 
@@ -100,7 +101,7 @@ xychart-beta
   line [5.0, 2.5, 1.67, 1.25, 1.0, 0.67, 0.5, 0.33]
 ```
 
-*Figure: For like charges (same sign) E_p = (1/4πε₀)Qq/r is positive and falls as 1/r — energy stored as they are pushed together; they repel. For unlike charges, E_p is negative (an energy well); energy must be supplied to separate them.*
+*Figure: For like charges (same sign) $E_p = (1/4\pi\varepsilon_0)Qq/r$ is positive and falls as $1/r$ — energy stored as they are pushed together; they repel. For unlike charges, $E_p$ is negative (an energy well); energy must be supplied to separate them.*
 *Source: Authored for this vault (CC0). No external copyright.*
 
 ## Source Trace

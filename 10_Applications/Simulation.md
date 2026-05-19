@@ -39,7 +39,7 @@ A simulation uses a computer to predict how a physical system evolves by repeate
 
 ## Method Outline
 
-1. Express the physics as update rules (e.g. `v → v + a Δt`).
+1. Express the physics as update rules (e.g. $v \rightarrow v + a\,\Delta t$).
 2. Repeat over many small time steps.
 3. Plot/inspect the predicted behaviour and compare with theory or data.
 

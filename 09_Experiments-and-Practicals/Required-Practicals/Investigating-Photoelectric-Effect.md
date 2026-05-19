@@ -48,15 +48,15 @@ To investigate the [[Photoelectric-Effect]] — demonstrating that emission depe
 
 ## Measurements
 
-Stopping potential `V_s` for each light frequency `f` (frequency obtained from the known wavelength via `c = fλ`).
+Stopping potential `V_s` for each light frequency `f` (frequency obtained from the known wavelength via $c = f\lambda$).
 
 ## Data Processing
 
-The maximum kinetic energy of emitted electrons is `eV_s = hf − φ`, where `φ` is the work function. Rearranged: `V_s = (h/e) f − φ/e`. A graph of `V_s` against `f` is a straight line.
+The maximum kinetic energy of emitted electrons is $eV_s = hf - \varphi$, where `φ` is the work function. Rearranged: $V_s = \frac{h}{e} f - \frac{\varphi}{e}$. A graph of `V_s` against `f` is a straight line.
 
 ## Graph Use
 
-Plot `V_s` (y-axis) against `f` (x-axis): gradient `= h/e`, so `h = e × gradient` (see [[Using-Gradient]]). The x-intercept gives the threshold frequency; the y-intercept relates to `φ/e` (see [[Using-Intercept]]).
+Plot `V_s` (y-axis) against `f` (x-axis): gradient $= h/e$, so $h = e \times \text{gradient}$ (see [[Using-Gradient]]). The x-intercept gives the threshold frequency; the y-intercept relates to $\varphi/e$ (see [[Using-Intercept]]).
 
 ## Uncertainty
 
@@ -85,7 +85,7 @@ UV sources can harm eyes and skin — never look directly at UV; use shielding. 
 
 ### Photoelectric Effect Diagram
 ![[_attachments/09_Experiments-and-Practicals/Investigating-Photoelectric-Effect--photoelectric-effect-diagram.svg]]
-*Figure: Diagram of the photoelectric effect showing a photon of energy hf striking a metal surface and ejecting an electron (photoelectron) with maximum kinetic energy Ek = hf − φ, where φ is the work function. The threshold frequency f₀ is the minimum frequency that can eject an electron.*
+*Figure: Diagram of the photoelectric effect showing a photon of energy hf striking a metal surface and ejecting an electron (photoelectron) with maximum kinetic energy $E_k = hf - \varphi$, where φ is the work function. The threshold frequency $f_0$ is the minimum frequency that can eject an electron.*
 *Source: Photoelectric effect — Wolfmankurd — CC BY-SA 3.0 — https://commons.wikimedia.org/wiki/File:Photoelectric_effect.svg. Retrieved 2026-05-19.*
 
 ## Source Trace

@@ -37,14 +37,14 @@ To work out the binding energy of a nucleus, the binding energy per nucleon, or 
 
 1. Write the balanced nuclear equation; ensure nucleon number and proton number balance.
 2. Compute total mass of reactants and total mass of products (use consistent atomic or nuclear masses).
-3. Find the mass change Δm = (mass of reactants) − (mass of products); for a single nucleus' binding energy, Δm = (Z m_p + N m_n) − M_nucleus.
-4. Convert Δm to energy: either ΔE = Δm c² (Δm in kg, c = 3.00 × 10⁸ m s⁻¹), or multiply Δm in u by 931.5 MeV per u.
+3. Find the mass change $\Delta m = (\text{mass of reactants}) - (\text{mass of products})$; for a single nucleus' binding energy, $\Delta m = (Z m_p + N m_n) - M_\text{nucleus}$.
+4. Convert Δm to energy: either $\Delta E = \Delta m\, c^2$ ($\Delta m$ in kg, $c = 3.00 \times 10^8 \text{ m s}^{-1}$), or multiply Δm in u by 931.5 MeV per u.
 5. For binding energy per nucleon, divide the total binding energy by the nucleon number A.
-6. Convert MeV ↔ J if required (1 MeV = 1.60 × 10⁻¹³ J).
+6. Convert MeV ↔ J if required ($1 \text{ MeV} = 1.60 \times 10^{-13} \text{ J}$).
 
 ## Worked Example
 
-For a fusion reaction releasing Δm = 0.0189 u: energy released = 0.0189 × 931.5 ≈ 17.6 MeV ≈ 2.82 × 10⁻¹² J. (See linked worked examples for fuller treatment.)
+For a fusion reaction releasing $\Delta m = 0.0189 \text{ u}$: energy released $= 0.0189 \times 931.5 \approx 17.6 \text{ MeV} \approx 2.82 \times 10^{-12} \text{ J}$. (See linked worked examples for fuller treatment.)
 
 ## Why It Works
 

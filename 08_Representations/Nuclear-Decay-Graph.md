@@ -32,23 +32,23 @@ A line graph with time on the horizontal axis and the decaying quantity on the v
 
 - x-axis: time `t` (s, or appropriate unit).
 - y-axis: number of undecayed nuclei `N`, activity `A` (becquerel, Bq), or corrected count rate.
-- Often a second version is plotted as `ln N` against `t`, which linearises the data.
+- Often a second version is plotted as $\ln N$ against `t`, which linearises the data.
 
 ## Physical Meaning
 
-Decay is random and spontaneous: each nucleus has a fixed probability of decaying per unit time (the decay constant `λ`). The graph embodies `N = N₀ e^(−λt)` — the rate of decay is proportional to how much is left, giving a constant [[Half-Life]] independent of the amount present.
+Decay is random and spontaneous: each nucleus has a fixed probability of decaying per unit time (the decay constant `λ`). The graph embodies $N = N_0 e^{-\lambda t}$ — the rate of decay is proportional to how much is left, giving a constant [[Half-Life]] independent of the amount present.
 
 ## Gradient / Area / Intercepts
 
-- **Gradient of the curve** at any point = the activity `A = −dN/dt = λN` (rate of decay) at that instant.
-- **Linearised plot:** `ln N` against `t` is a straight line with gradient `−λ` (the decay constant) and y-intercept `ln N₀`. Use [[Finding-Gradient-from-a-Graph]] and [[Using-Intercept]].
+- **Gradient of the curve** at any point = the activity $A = -\frac{dN}{dt} = \lambda N$ (rate of decay) at that instant.
+- **Linearised plot:** $\ln N$ against `t` is a straight line with gradient $-\lambda$ (the decay constant) and y-intercept $\ln N_0$. Use [[Finding-Gradient-from-a-Graph]] and [[Using-Intercept]].
 - **Half-life** is read directly: the time for the curve to fall from any value to half that value; averaging several such intervals improves reliability.
 - **y-intercept** of the decay curve = the initial quantity `N₀`.
 
 ## Converts To / From
 
 - From: count-rate measurements (with background subtracted).
-- To: the decay constant `λ` (from the log plot gradient) and the [[Half-Life]] (`t½ = ln2 / λ`).
+- To: the decay constant `λ` (from the log plot gradient) and the [[Half-Life]] ($t_{1/2} = \ln 2 / \lambda$).
 
 ## Related Quantities
 
@@ -77,7 +77,7 @@ xychart-beta
     line [100, 50, 25, 12.5, 6.25]
 ```
 
-*Figure: At t = 0 the full quantity N₀ is present. After each [[Half-Life]] interval the quantity halves (100 → 50 → 25 → 12.5 → 6.25). The curve approaches zero asymptotically, never reaching it. The y-intercept is N₀; the gradient at any point equals −λN, where λ is the decay constant.*
+*Figure: At $t = 0$ the full quantity N₀ is present. After each [[Half-Life]] interval the quantity halves (100 → 50 → 25 → 12.5 → 6.25). The curve approaches zero asymptotically, never reaching it. The y-intercept is N₀; the gradient at any point equals $-\lambda N$, where λ is the decay constant.*
 *Source: Authored for this vault (CC0). No external copyright.*
 
 ## Source Trace

@@ -34,14 +34,14 @@ Before using [[Combining-Uncertainties]] for products, quotients or powers; and 
 ## Method
 
 1. Find the absolute uncertainty `Δx` (see [[Estimating-Uncertainty-from-Apparatus]]).
-2. **Percentage uncertainty** `= (Δx / x) × 100%`, where `x` is the measured value.
-3. **Fractional uncertainty** is the same without the ×100 (`Δx / x`).
-4. To go back: absolute uncertainty `= (percentage / 100) × x`.
+2. **Percentage uncertainty** $= (\Delta x / x) \times 100\%$, where `x` is the measured value.
+3. **Fractional uncertainty** is the same without the ×100 ($\Delta x / x$).
+4. To go back: absolute uncertainty $= (\text{percentage} / 100) \times x$.
 5. Quote percentage uncertainty to about 1–2 significant figures.
 
 ## Worked Example
 
-A current of `I = 0.50 A` is read on a meter with absolute uncertainty `0.01 A`. Percentage uncertainty = `(0.01 / 0.50) × 100% = 2%`. The same `0.01 A` on a `2.00 A` reading is only `0.5%` — larger readings carry smaller percentage uncertainty, which is why measuring over a bigger interval improves an experiment.
+A current of $I = 0.50 \text{ A}$ is read on a meter with absolute uncertainty `0.01 A`. Percentage uncertainty $= (0.01 / 0.50) \times 100\% = 2\%$. The same `0.01 A` on a `2.00 A` reading is only `0.5%` — larger readings carry smaller percentage uncertainty, which is why measuring over a bigger interval improves an experiment.
 
 ## Why It Works
 

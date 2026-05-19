@@ -35,27 +35,27 @@ To find the charge, voltage, current, or time in an RC circuit during exponentia
 
 ## Method
 
-1. Identify the circuit values: R, C, and the initial charge Q₀ = C V₀ (or initial voltage V₀, initial current I₀ = V₀/R).
-2. Compute the time constant τ = RC, ensuring R is in Ω and C in F (convert μF, nF).
+1. Identify the circuit values: R, C, and the initial charge $Q_0 = C V_0$ (or initial voltage $V_0$, initial current $I_0 = V_0/R$).
+2. Compute the time constant $\tau = RC$, ensuring R is in Ω and C in F (convert μF, nF).
 3. Choose the right exponential form:
-   - Discharge: Q = Q₀ e^(−t/RC); likewise V = V₀ e^(−t/RC), I = I₀ e^(−t/RC).
-   - Charging: Q = Q₀(1 − e^(−t/RC)) towards the final charge; current still decays as I = I₀ e^(−t/RC).
-4. Substitute and solve. To find time, take natural logs: t = −RC ln(Q/Q₀).
-5. For experimental data, plot ln V against t (see [[Capacitor-Discharge-Graph]]); the gradient is −1/RC, so τ = −1/gradient and hence C = τ/R.
-6. Sanity-check: after 1τ ≈ 37% remains (discharge); after 5τ treat as complete.
+   - Discharge: $Q = Q_0 e^{-t/RC}$; likewise $V = V_0 e^{-t/RC}$, $I = I_0 e^{-t/RC}$.
+   - Charging: $Q = Q_0(1 - e^{-t/RC})$ towards the final charge; current still decays as $I = I_0 e^{-t/RC}$.
+4. Substitute and solve. To find time, take natural logs: $t = -RC \ln(Q/Q_0)$.
+5. For experimental data, plot $\ln V$ against $t$ (see [[Capacitor-Discharge-Graph]]); the gradient is $-1/RC$, so $\tau = -1/\text{gradient}$ and hence $C = \tau/R$.
+6. Sanity-check: after $1\tau \approx 37\%$ remains (discharge); after $5\tau$ treat as complete.
 
 ## Worked Example
 
-A 100 μF capacitor charged to 12 V discharges through 47 kΩ. τ = (47000)(100×10⁻⁶) = 4.7 s. After 5 s: V = 12 e^(−5/4.7) ≈ 12 × 0.345 ≈ 4.1 V. (Link a full worked example if one exists.)
+A 100 μF capacitor charged to 12 V discharges through 47 kΩ. $\tau = (47000)(100\times10^{-6}) = 4.7 \text{ s}$. After 5 s: $V = 12\, e^{-5/4.7} \approx 12 \times 0.345 \approx 4.1 \text{ V}$. (Link a full worked example if one exists.)
 
 ## Why It Works
 
-Discharge current is proportional to the remaining charge (I = V/R = Q/RC), so the rate of loss is proportional to the amount present. This self-limiting feedback is the defining property of exponential decay, giving the e^(−t/RC) solution.
+Discharge current is proportional to the remaining charge ($I = V/R = Q/RC$), so the rate of loss is proportional to the amount present. This self-limiting feedback is the defining property of exponential decay, giving the $e^{-t/RC}$ solution.
 
 ## Common Mistakes
 
 - Not converting μF/nF to farads before computing τ.
-- Using the discharge form for the charge build-up (charge rises as 1 − e^(−t/RC)).
+- Using the discharge form for the charge build-up (charge rises as $1 - e^{-t/RC}$).
 - Forgetting the minus sign when taking logs to solve for t.
 
 ## Related Quantities

@@ -23,12 +23,12 @@ When a wave reflects from a boundary, the angle of incidence equals the angle of
 
 ## Equation
 
-`θ_i = θ_r`
+$$\theta_i = \theta_r$$
 
 ## Symbols and Units
 
-- Symbol: `θ_i` — Meaning: angle of incidence (between incident ray and the normal) — Unit: degrees `°` (or radians `rad`)
-- Symbol: `θ_r` — Meaning: angle of reflection (between reflected ray and the normal) — Unit: degrees `°` (or radians `rad`)
+- Symbol: $\theta_i$ — Meaning: angle of incidence (between incident ray and the normal) — Unit: degrees `°` (or radians `rad`)
+- Symbol: $\theta_r$ — Meaning: angle of reflection (between reflected ray and the normal) — Unit: degrees `°` (or radians `rad`)
 
 The **normal** is the line perpendicular to the surface at the point where the ray meets it. Both angles are always measured from this normal, never from the surface.
 
@@ -55,7 +55,7 @@ Builds on the GCSE idea that "light bounces off a mirror" and the ray-box demons
 
 ## Derivation or Explanation
 
-Using Huygens' wavefront construction: every point on the wavefront reaching the boundary acts as a source of secondary wavelets travelling at the same speed `v`. The envelope of the reflected wavelets makes an angle with the boundary equal to that of the incident wavefront, which gives `θ_i = θ_r` when re-expressed relative to the normal.
+Using Huygens' wavefront construction: every point on the wavefront reaching the boundary acts as a source of secondary wavelets travelling at the same speed `v`. The envelope of the reflected wavelets makes an angle with the boundary equal to that of the incident wavefront, which gives $\theta_i = \theta_r$ when re-expressed relative to the normal.
 
 ## Related Quantities
 

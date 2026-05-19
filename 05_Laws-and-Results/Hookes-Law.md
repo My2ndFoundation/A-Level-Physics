@@ -26,7 +26,7 @@ For an elastic object such as a spring or wire, the extension is directly propor
 
 ## Equation
 
-`F = kx`
+$$F = kx$$
 
 ## Symbols and Units
 
@@ -42,22 +42,22 @@ For an elastic object such as a spring or wire, the extension is directly propor
 
 ## Physical Meaning
 
-A stiffer spring (large `k`) needs more force per unit extension. The constant `k` is the gradient of a force–extension graph in the linear region. The energy stored in stretching is the area under that graph, `E = ½kx²`, which is the elastic potential energy recovered when the spring relaxes. Hooke's law is the basis of the [[Simple-Harmonic-Oscillator]] model because the restoring force is proportional to displacement.
+A stiffer spring (large `k`) needs more force per unit extension. The constant `k` is the gradient of a force–extension graph in the linear region. The energy stored in stretching is the area under that graph, $E = \frac{1}{2}kx^2$, which is the elastic potential energy recovered when the spring relaxes. Hooke's law is the basis of the [[Simple-Harmonic-Oscillator]] model because the restoring force is proportional to displacement.
 
 ## Foundation Link
 
-GCSE shows that springs stretch more with more weight and introduces "force = spring constant × extension". A-Level adds the limit of proportionality, elastic limit, elastic strain energy `½kx²`, and the link to material properties through stress, [[Strain]], and the [[Young-Modulus]].
+GCSE shows that springs stretch more with more weight and introduces "force = spring constant × extension". A-Level adds the limit of proportionality, elastic limit, elastic strain energy $\frac{1}{2}kx^2$, and the link to material properties through stress, [[Strain]], and the [[Young-Modulus]].
 
 ## How to Use
 
 1. Plot force against extension and check the line is straight.
 2. Find `k` from the gradient in the linear region.
-3. Use `F = kx` for forces or `E = ½kx²` for stored energy.
+3. Use $F = kx$ for forces or $E = \frac{1}{2}kx^2$ for stored energy.
 4. Combine spring constants: series springs are softer, parallel springs are stiffer.
 
 ## Derivation or Explanation
 
-For a uniform wire, `F = kx` follows from the material relation `stress = Young modulus × strain` with stiffness `k = EA/L`, where `A` is cross-sectional area and `L` is original length.
+For a uniform wire, $F = kx$ follows from the material relation $\text{stress} = \text{Young modulus} \times \text{strain}$ with stiffness $k = \frac{EA}{L}$, where `A` is cross-sectional area and `L` is original length.
 
 ## Related Quantities
 
@@ -85,7 +85,7 @@ For a uniform wire, `F = kx` follows from the material relation `stress = Young 
 
 - Using the law beyond the limit of proportionality
 - Confusing extension `x` with total length
-- Forgetting the ½ in elastic energy `½kx²`
+- Forgetting the ½ in elastic energy $\frac{1}{2}kx^2$
 
 ## Visuals
 

@@ -19,7 +19,7 @@ sources: []
 
 ## Core Idea
 
-The ohmic conductor model treats a component as one whose current is exactly proportional to the potential difference across it, provided physical conditions (especially temperature) stay constant. Its resistance is therefore a single fixed number and its current–voltage graph is a straight line through the origin. A metal wire at constant temperature is the standard example. This idealisation underpins [[Ohms-Law]] and the simple use of *V = IR* in circuit analysis.
+The ohmic conductor model treats a component as one whose current is exactly proportional to the potential difference across it, provided physical conditions (especially temperature) stay constant. Its resistance is therefore a single fixed number and its current–voltage graph is a straight line through the origin. A metal wire at constant temperature is the standard example. This idealisation underpins [[Ohms-Law]] and the simple use of $V = IR$ in circuit analysis.
 
 ## Assumptions
 
@@ -36,8 +36,8 @@ The ohmic conductor model treats a component as one whose current is exactly pro
 
 ## Key Equations
 
-- [[Ohms-Law]]: *V = IR*
-- *R = ρL/A* (resistance from resistivity, length, cross-section)
+- [[Ohms-Law]]: $V = IR$
+- $R = \frac{\rho L}{A}$ (resistance from resistivity, length, cross-section)
 
 ## When to Use
 

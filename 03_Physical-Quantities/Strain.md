@@ -42,13 +42,13 @@ Tensile strain is the extension of a sample divided by its original length.
 
 ## Related Equations
 
-- `ε = x / L` — `ε` = strain (no unit), `x` = extension (m), `L` = original length (m).
-- Young modulus: `E = σ / ε` — `σ` = stress (Pa). See [[Young-Modulus]].
-- Percentage strain `= ε × 100%`.
+- $\varepsilon = x / L$ — `ε` = strain (no unit), `x` = extension (m), `L` = original length (m).
+- Young modulus: $E = \sigma / \varepsilon$ — `σ` = stress (Pa). See [[Young-Modulus]].
+- Percentage strain $= \varepsilon \times 100\%$.
 
 ## How It Is Measured
 
-Measure the original length `L` with a metre rule or tape, then measure the extension `x` as load is added (a marker plus a fixed reference scale, or a travelling microscope for small extensions). Strain is the ratio `x/L`. Central to [[Measuring-Young-Modulus]].
+Measure the original length `L` with a metre rule or tape, then measure the extension `x` as load is added (a marker plus a fixed reference scale, or a travelling microscope for small extensions). Strain is the ratio $x/L$. Central to [[Measuring-Young-Modulus]].
 
 ## Graphical Meaning
 

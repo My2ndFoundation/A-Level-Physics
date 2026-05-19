@@ -37,11 +37,11 @@ Whenever you record a reading and need its `± value` for a [[Results-Table]] or
 3. **Digital instrument** → uncertainty = ± the last displayed digit (or as the manufacturer states).
 4. **A reading taken as a difference of two scale readings** (e.g. a length from two ruler positions) → the uncertainty applies at *both* ends, so use ± 1 whole division.
 5. **Measurement limited by the operator, not the scale** (e.g. hand-timing with a stopwatch) → use the dominant effect: a reasonable estimate of human reaction time, not the stopwatch's 0.001 s resolution.
-6. **Repeated readings** → uncertainty ≈ half the range (½ × (max − min)).
+6. **Repeated readings** → uncertainty ≈ half the range ($\frac{1}{2} \times (\text{max} - \text{min})$).
 
 ## Worked Example
 
-A stopwatch shows 12.4 s for one swing, timed by hand. Resolution is 0.01 s, but reaction time dominates, so quote `t = 12.4 ± 0.3 s` (using ~0.3 s reaction time). Timing 20 swings instead and dividing by 20 shrinks this uncertainty twentyfold.
+A stopwatch shows 12.4 s for one swing, timed by hand. Resolution is 0.01 s, but reaction time dominates, so quote $t = 12.4 \pm 0.3 \text{ s}$ (using ~0.3 s reaction time). Timing 20 swings instead and dividing by 20 shrinks this uncertainty twentyfold.
 
 ## Why It Works
 

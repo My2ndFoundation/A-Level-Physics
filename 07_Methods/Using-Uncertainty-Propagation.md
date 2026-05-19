@@ -45,7 +45,7 @@ Use it whenever a final quantity is calculated from one or more measured quantit
 
 ## Worked Example
 
-Density *ρ = m/V*. If mass has 2% uncertainty and volume has 3% uncertainty, the quantities are divided, so percentage uncertainties add: 2% + 3% = 5%. A density of 8.0 g cm⁻³ is therefore quoted as 8.0 ± 0.4 g cm⁻³.
+Density $\rho = m/V$. If mass has 2% uncertainty and volume has 3% uncertainty, the quantities are divided, so percentage uncertainties add: $2\% + 3\% = 5\%$. A density of 8.0 g cm⁻³ is therefore quoted as 8.0 ± 0.4 g cm⁻³.
 
 ## Why It Works
 

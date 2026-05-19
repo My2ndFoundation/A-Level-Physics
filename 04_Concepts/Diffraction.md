@@ -26,7 +26,7 @@ Diffraction is the spreading of a wave as it passes through a gap or around an o
 
 When a wave meets an edge or aperture, it does not continue purely in straight lines — it bends into the geometrical shadow region and spreads out. The amount of spreading depends on the ratio of wavelength to gap width: when the gap is much larger than the wavelength there is little noticeable diffraction; when the gap is similar to the wavelength the wave spreads strongly into a wide pattern.
 
-For a single slit, monochromatic light produces a central bright fringe (twice as wide as the others) flanked by dimmer fringes separated by dark minima. A diffraction grating, which has many thousands of slits per metre, produces sharp bright maxima at angles given by d sin θ = nλ, where d is the slit spacing, θ the angle of the maximum, n the order, and λ the wavelength. Gratings give very precise wavelength measurements because the maxima are narrow and well separated.
+For a single slit, monochromatic light produces a central bright fringe (twice as wide as the others) flanked by dimmer fringes separated by dark minima. A diffraction grating, which has many thousands of slits per metre, produces sharp bright maxima at angles given by $d \sin\theta = n\lambda$, where d is the slit spacing, θ the angle of the maximum, n the order, and λ the wavelength. Gratings give very precise wavelength measurements because the maxima are narrow and well separated.
 
 Diffraction is direct evidence of the wave nature of light and, when observed for electrons, of the [[Wave-Particle-Duality]] of matter.
 

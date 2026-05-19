@@ -36,18 +36,18 @@ A reliable procedure for problems where an object moves on a circular path: find
 
 1. Draw the object and a free-body diagram; mark every real force (tension, weight, normal, friction, magnetic).
 2. Choose the radial direction (towards the centre) as positive.
-3. Convert quantities to SI: radius in m, time in s; convert rev min⁻¹ to ω using ω = 2π × (rev s⁻¹), or use ω = 2π/T = 2πf.
-4. Write the resultant of the real forces *along the radius* and set it equal to the centripetal requirement: ΣF_radial = m v²/r = m ω² r.
-5. Solve for the unknown. For vertical circles, evaluate at the critical point (top: weight aids the inward force; minimum speed at top when tension/contact = 0 gives v² = gr).
+3. Convert quantities to SI: radius in m, time in s; convert rev min⁻¹ to ω using $\omega = 2\pi \times (\text{rev s}^{-1})$, or use $\omega = 2\pi/T = 2\pi f$.
+4. Write the resultant of the real forces *along the radius* and set it equal to the centripetal requirement: $\Sigma F_\text{radial} = m v^2/r = m \omega^2 r$.
+5. Solve for the unknown. For vertical circles, evaluate at the critical point (top: weight aids the inward force; minimum speed at top when tension/contact = 0 gives $v^2 = gr$).
 6. Check units and that the force points inward (centre-seeking), not outward.
 
 ## Worked Example
 
-A 0.20 kg ball on a 0.50 m string is whirled in a horizontal circle at 3.0 rev s⁻¹. ω = 2π(3.0) = 18.8 rad s⁻¹. Tension ≈ m ω² r = 0.20 × (18.8)² × 0.50 ≈ 35 N (ignoring weight). See [[Banked-Tracks-and-Centrifuges]] for the inclined case.
+A 0.20 kg ball on a 0.50 m string is whirled in a horizontal circle at 3.0 rev s⁻¹. $\omega = 2\pi(3.0) = 18.8 \text{ rad s}^{-1}$. Tension $\approx m \omega^2 r = 0.20 \times (18.8)^2 \times 0.50 \approx 35 \text{ N}$ (ignoring weight). See [[Banked-Tracks-and-Centrifuges]] for the inclined case.
 
 ## Why It Works
 
-[[Centripetal-Acceleration]] a = v²/r = ω²r is real because velocity direction changes. [[Newton-Second-Law]] applied radially equates the net real inward force to m a — no extra "centrifugal" force is added.
+[[Centripetal-Acceleration]] $a = v^2/r = \omega^2 r$ is real because velocity direction changes. [[Newton-Second-Law]] applied radially equates the net real inward force to $ma$ — no extra "centrifugal" force is added.
 
 ## Common Mistakes
 
@@ -72,7 +72,7 @@ A 0.20 kg ball on a 0.50 m string is whirled in a horizontal circle at 3.0 rev s
 
 ### Centripetal force on an object in circular motion
 ![[_attachments/07_Methods/solving-circular-motion-problems--radial-force.svg]]
-*Figure: Object m moves on a circular orbit (dashed). Velocity v is tangential (green). The net inward force F = mv²/r (red) always points toward the centre — this is supplied by tension, gravity, normal force, or any real force, never a separate "centrifugal" force.*
+*Figure: Object m moves on a circular orbit (dashed). Velocity v is tangential (green). The net inward force $F = mv^2/r$ (red) always points toward the centre — this is supplied by tension, gravity, normal force, or any real force, never a separate "centrifugal" force.*
 *Source: Authored for this vault (CC0). No external copyright.*
 
 ## Source Trace

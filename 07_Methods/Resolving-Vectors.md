@@ -78,7 +78,7 @@ Perpendicular directions are independent: a force along $x$ produces no accelera
 
 ### Resolving a vector into components
 ![[_attachments/07_Methods/resolving-vectors--component-diagram.svg]]
-*Figure: Vector V at angle θ to the x-axis resolved into Vx = V cosθ (red, horizontal) and Vy = V sinθ (green, vertical). Perpendicular components are added independently.*
+*Figure: Vector V at angle θ to the x-axis resolved into $V_x = V \cos\theta$ (red, horizontal) and $V_y = V \sin\theta$ (green, vertical). Perpendicular components are added independently.*
 *Source: Authored for this vault (CC0). No external copyright.*
 
 ## Source Trace

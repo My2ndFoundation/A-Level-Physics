@@ -23,15 +23,15 @@ The mass defect is the difference between the total mass of the separate nucleon
 
 ## Meaning
 
-For a nucleus with Z protons and N = A − Z neutrons:
+For a nucleus with $Z$ protons and $N = A - Z$ neutrons:
 
-Δm = (Z m_p + N m_n) − M_nucleus
+$$\Delta m = (Z m_p + N m_n) - M_\text{nucleus}$$
 
-where m_p ≈ 1.0073 u, m_n ≈ 1.0087 u, and M_nucleus is the measured nuclear mass. Δm is always positive for a bound nucleus, because some mass is "converted" into the energy that holds the nucleus together. This is the basis of [[Binding-Energy]]:
+where $m_p \approx 1.0073 \text{ u}$, $m_n \approx 1.0087 \text{ u}$, and $M_\text{nucleus}$ is the measured nuclear mass. $\Delta m$ is always positive for a bound nucleus, because some mass is "converted" into the energy that holds the nucleus together. This is the basis of [[Binding-Energy]]:
 
-E_b = Δm c²
+$$E_b = \Delta m c^2$$
 
-Masses are usually given in unified atomic mass units, u = 1.66 × 10⁻²⁷ kg, with the convenient conversion 1 u ↔ 931.5 MeV of energy.
+Masses are usually given in unified atomic mass units, $u = 1.66 \times 10^{-27} \text{ kg}$, with the convenient conversion 1 u ↔ 931.5 MeV of energy.
 
 The same idea applies to any nuclear reaction: if the products have less total mass than the reactants, the lost mass appears as released energy (Q-value).
 

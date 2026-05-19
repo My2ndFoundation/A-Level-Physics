@@ -25,13 +25,13 @@ When a photon is absorbed by a surface electron, the photon's energy is used par
 
 ## Equation
 
-`hf = φ + KE_max`
+$$hf = \varphi + KE_{max}$$
 
-equivalently `hf = φ + ½mv²_max`
+equivalently $hf = \varphi + \frac{1}{2}mv_{max}^2$
 
 ## Symbols and Units
 
-- `h`: Planck constant, `≈ 6.63 × 10⁻³⁴`, joule seconds `J s`
+- `h`: Planck constant, $\approx 6.63 \times 10^{-34}$, joule seconds `J s`
 - `f`: frequency of the incident light, hertz `Hz`
 - `hf`: energy of one photon, joules `J`
 - `φ`: work function of the metal (minimum energy to remove an electron), joules `J`
@@ -41,27 +41,27 @@ equivalently `hf = φ + ½mv²_max`
 ## Conditions
 
 - One photon delivers its whole energy to one electron (no accumulation).
-- Emission occurs only if `f ≥ f₀`, the threshold frequency, where `hf₀ = φ`.
+- Emission occurs only if $f \geq f_0$, the threshold frequency, where $hf_0 = \varphi$.
 - The metal surface must be clean; energy may be lost if the electron starts below the surface.
 
 ## Physical Meaning
 
-The photoelectric effect cannot be explained by classical waves. Light delivers energy in discrete quanta (photons) of energy `hf`. Below the threshold frequency no electrons are emitted no matter how intense the light, because each photon individually lacks the energy `φ`. Increasing intensity only increases the *number* of photons (and so the current), not the energy per electron. This was direct evidence for the [[Photon-Model]] and wave–particle duality.
+The photoelectric effect cannot be explained by classical waves. Light delivers energy in discrete quanta (photons) of energy $hf$. Below the threshold frequency no electrons are emitted no matter how intense the light, because each photon individually lacks the energy $\varphi$. Increasing intensity only increases the *number* of photons (and so the current), not the energy per electron. This was direct evidence for the [[Photon-Model]] and wave–particle duality.
 
 ## Foundation Link
 
-GCSE introduces the electromagnetic spectrum and photon energy increasing with frequency. A-Level adds the quantitative photon energy `E = hf`, the work function, threshold frequency, stopping potential, and the failure of the classical wave model.
+GCSE introduces the electromagnetic spectrum and photon energy increasing with frequency. A-Level adds the quantitative photon energy $E = hf$, the work function, threshold frequency, stopping potential, and the failure of the classical wave model.
 
 ## How to Use
 
-1. Compute photon energy `hf` (convert eV ↔ J if needed: `1 eV = 1.6 × 10⁻¹⁹ J`).
+1. Compute photon energy $hf$ (convert eV ↔ J if needed: $1 \text{ eV} = 1.6 \times 10^{-19} \text{ J}$).
 2. Subtract the work function to find `KE_max`.
-3. Find threshold frequency from `f₀ = φ/h`.
-4. Relate `KE_max` to stopping potential `V_s` via `KE_max = eV_s`.
+3. Find threshold frequency from $f_0 = \varphi/h$.
+4. Relate `KE_max` to stopping potential `V_s` via $KE_{max} = eV_s$.
 
 ## Derivation or Explanation
 
-Energy conservation for a single photon–electron interaction: input photon energy `hf` equals energy to escape `φ` plus the surplus carried away as kinetic energy, giving `hf = φ + KE_max`.
+Energy conservation for a single photon–electron interaction: input photon energy $hf$ equals energy to escape $\varphi$ plus the surplus carried away as kinetic energy, giving $hf = \varphi + KE_{max}$.
 
 ## Related Quantities
 

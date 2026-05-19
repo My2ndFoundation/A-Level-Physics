@@ -25,14 +25,14 @@ When object A exerts a force on object B, object B exerts an equal-magnitude, op
 
 ## Equation
 
-`F_{A on B} = − F_{B on A}`
+$$F_{A \text{ on } B} = - F_{B \text{ on } A}$$
 
 The two forces are equal in magnitude and opposite in direction.
 
 ## Symbols and Units
 
-- `F_{A on B}`: force exerted by A on B, newtons `N` (vector)
-- `F_{B on A}`: force exerted by B on A, newtons `N` (vector)
+- $F_{A \text{ on } B}$: force exerted by A on B, newtons `N` (vector)
+- $F_{B \text{ on } A}$: force exerted by B on A, newtons `N` (vector)
 
 ## Conditions
 

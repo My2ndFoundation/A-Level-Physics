@@ -37,13 +37,13 @@ encloses.
 ## Definition
 
 Volume is the space inside a three-dimensional region, found by multiplying
-three perpendicular lengths for a cuboid: V = length × width × height.
+three perpendicular lengths for a cuboid: $V = \text{length} \times \text{width} \times \text{height}$.
 
 ## Related Equations
 
-- Cuboid: V = l × w × h
-- Sphere: V = (4/3)πr³
-- It appears in [[Density]]: ρ = m / V
+- Cuboid: $V = l \times w \times h$
+- Sphere: $V = \frac{4}{3}\pi r^3$
+- It appears in [[Density]]: $\rho = m / V$
 - Used with [[Pressure]] in gas relationships (pV behaviour for gases)
 
 ## How It Is Measured
@@ -67,7 +67,7 @@ states of the gas; volume itself is a measured three-dimensional quantity.
 
 ## Related Laws or Results
 
-- [[Density]] equation ρ = m / V
+- [[Density]] equation $\rho = m / V$
 
 ## Related Experiments
 

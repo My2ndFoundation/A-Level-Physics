@@ -24,9 +24,9 @@ Refraction is the change in direction of a wave as it passes from one medium int
 
 ## Meaning
 
-When a wave crosses into a different medium its speed changes. If it enters at an angle to the normal, this speed change makes the wave bend: entering a slower medium it bends towards the normal, and entering a faster medium it bends away from the normal. The frequency stays constant (it is fixed by the source), so since v = fλ, a change in speed means a change in wavelength.
+When a wave crosses into a different medium its speed changes. If it enters at an angle to the normal, this speed change makes the wave bend: entering a slower medium it bends towards the normal, and entering a faster medium it bends away from the normal. The frequency stays constant (it is fixed by the source), so since $v = f\lambda$, a change in speed means a change in wavelength.
 
-For light, the amount of bending is governed by [[Snell-Law]]: n₁ sin θ₁ = n₂ sin θ₂, where n is the refractive index of each medium (n = c/v, the ratio of the speed of light in vacuum to the speed in the medium). A higher refractive index means a slower wave and stronger bending.
+For light, the amount of bending is governed by [[Snell-Law]]: $n_1 \sin\theta_1 = n_2 \sin\theta_2$, where $n$ is the refractive index of each medium ($n = c/v$, the ratio of the speed of light in vacuum to the speed in the medium). A higher refractive index means a slower wave and stronger bending.
 
 A useful way to picture refraction is with wavefronts: the part of a wavefront that enters the slower medium first is held back, so the whole front pivots, like a car wheel slowing on one side and turning the car. When light tries to leave a dense medium at a large angle, refraction can fail entirely, giving total internal reflection.
 

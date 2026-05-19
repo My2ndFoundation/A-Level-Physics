@@ -25,7 +25,9 @@ The total current entering any junction (node) in a circuit equals the total cur
 
 ## Equation
 
-`ΣI_in = ΣI_out`   or equivalently   `ΣI = 0` (taking inflows positive, outflows negative)
+$$\Sigma I_{in} = \Sigma I_{out} \qquad \text{or equivalently} \qquad \Sigma I = 0$$
+
+(taking inflows positive, outflows negative)
 
 ## Symbols and Units
 
@@ -50,13 +52,13 @@ GCSE teaches that in a parallel circuit "the currents in the branches add up to 
 ## How to Use
 
 1. Label every branch current with an assumed direction.
-2. At each junction write `Σ(in) = Σ(out)`.
+2. At each junction write $\Sigma(\text{in}) = \Sigma(\text{out})$.
 3. Combine with loop equations from [[Kirchhoffs-Second-Law]].
 4. A negative answer means the real current is opposite to the assumed direction.
 
 ## Derivation or Explanation
 
-From [[Charge]] conservation: the net charge in a tiny volume around a node is constant, so `dQ/dt = 0`, and since `I = dQ/dt` for each branch, the branch currents must sum to zero.
+From [[Charge]] conservation: the net charge in a tiny volume around a node is constant, so $\frac{dQ}{dt} = 0$, and since $I = \frac{dQ}{dt}$ for each branch, the branch currents must sum to zero.
 
 ## Related Quantities
 

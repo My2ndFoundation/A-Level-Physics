@@ -27,7 +27,7 @@ Everyday usage blurs the terms ("a powerful battery"), and both appear in simila
 
 ## Example
 
-A motor transfers 6000 J in 30 s. A student states its power as 6000 W. Power is energy transferred per second, so the correct power is 6000 ÷ 30 = 200 W.
+A motor transfers 6000 J in 30 s. A student states its power as 6000 W. Power is energy transferred per second, so the correct power is $6000 / 30 = 200\ \text{W}$.
 
 ## Correct Approach
 

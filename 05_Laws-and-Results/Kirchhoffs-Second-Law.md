@@ -25,7 +25,9 @@ Around any closed loop in a circuit, the sum of the electromotive forces equals 
 
 ## Equation
 
-`Σε = ΣIR`   or equivalently   `ΣV = 0` around the loop
+$$\Sigma \varepsilon = \Sigma IR \qquad \text{or equivalently} \qquad \Sigma V = 0$$
+
+around the loop
 
 ## Symbols and Units
 
@@ -57,7 +59,7 @@ GCSE teaches that in a series circuit "the supply voltage is shared between comp
 
 ## Derivation or Explanation
 
-The electric field in an electrostatic circuit is conservative, so the work done moving a charge around any closed path is zero: `Σ(qV) = 0`, giving `ΣV = 0`. Dividing by `q` yields `Σε = ΣIR`.
+The electric field in an electrostatic circuit is conservative, so the work done moving a charge around any closed path is zero: $\Sigma(qV) = 0$, giving $\Sigma V = 0$. Dividing by `q` yields $\Sigma \varepsilon = \Sigma IR$.
 
 ## Related Quantities
 

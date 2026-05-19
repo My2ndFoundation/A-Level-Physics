@@ -42,10 +42,10 @@ Work done by a force is the product of the force and the displacement moved in t
 
 ## Related Equations
 
-- `W = Fs cosθ` — `W` = work (J), `F` = force (N), `s` = displacement (m), `θ` = angle between force and displacement.
-- `W = Fs` when force and displacement are parallel (`θ = 0`).
-- Work–energy principle: `W_net = ΔE_k`. See [[Energy-Quantity|Energy]].
-- Gravitational PE change: `W = mgΔh` — `m` = mass (kg), `g` = 9.81 N kg⁻¹, `Δh` = height change (m).
+- $W = Fs \cos\theta$ — `W` = work (J), `F` = force (N), `s` = displacement (m), `θ` = angle between force and displacement.
+- $W = Fs$ when force and displacement are parallel ($\theta = 0$).
+- Work–energy principle: $W_{net} = \Delta E_k$. See [[Energy-Quantity|Energy]].
+- Gravitational PE change: $W = mg\Delta h$ — `m` = mass (kg), `g` = 9.81 N kg⁻¹, `Δh` = height change (m).
 
 ## How It Is Measured
 
@@ -53,7 +53,7 @@ From measured force and displacement, or by measuring the energy change it produ
 
 ## Graphical Meaning
 
-On a **force–displacement graph**, work is the **area under the curve**. For a stretched spring this area (`½Fx`) is the elastic strain energy stored — see [[Force-Extension-Graph]].
+On a **force–displacement graph**, work is the **area under the curve**. For a stretched spring this area ($\frac{1}{2}Fx$) is the elastic strain energy stored — see [[Force-Extension-Graph]].
 
 ## Foundation Links
 
@@ -81,7 +81,7 @@ On a **force–displacement graph**, work is the **area under the curve**. For a
 
 ## Common Mistakes
 
-- Forgetting the `cosθ` factor when force is at an angle
+- Forgetting the $\cos\theta$ factor when force is at an angle
 - Believing a force always does work even with zero displacement
 - Confusing work with power
 

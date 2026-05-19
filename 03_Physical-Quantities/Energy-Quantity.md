@@ -44,11 +44,11 @@ Energy is a conserved scalar quantity that measures the ability of a system to d
 
 ## Related Equations
 
-- Kinetic energy: `E_k = ½mv²` — `m` = mass (kg), `v` = speed (m s⁻¹).
-- Gravitational PE (near surface): `E_p = mgΔh` — `g` = 9.81 N kg⁻¹, `Δh` = height change (m).
-- Elastic strain energy: `E = ½Fx = ½kx²` — `F` = force (N), `x` = extension (m), `k` = spring constant (N m⁻¹). See [[Hookes-Law]].
-- Work–energy: `W = ΔE`. See [[Work]].
-- Electrical: `E = QV` — `Q` = charge (C), `V` = potential difference (V).
+- Kinetic energy: $E_k = \frac{1}{2}mv^2$ — `m` = mass (kg), `v` = speed (m s⁻¹).
+- Gravitational PE (near surface): $E_p = mg\Delta h$ — `g` = 9.81 N kg⁻¹, `Δh` = height change (m).
+- Elastic strain energy: $E = \frac{1}{2}Fx = \frac{1}{2}kx^2$ — `F` = force (N), `x` = extension (m), `k` = spring constant (N m⁻¹). See [[Hookes-Law]].
+- Work–energy: $W = \Delta E$. See [[Work]].
+- Electrical: $E = QV$ — `Q` = charge (C), `V` = potential difference (V).
 
 ## How It Is Measured
 

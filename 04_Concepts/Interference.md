@@ -28,7 +28,7 @@ Interference is the result of two or more coherent waves overlapping, producing 
 
 Interference is a direct consequence of [[Superposition]]: where two waves meet, the resultant displacement is the sum of their individual displacements. If two waves arrive in phase (path difference of a whole number of wavelengths) they add to give a large amplitude — constructive interference. If they arrive in antiphase (path difference of an odd number of half-wavelengths) they cancel — destructive interference.
 
-A stable, observable interference pattern requires the sources to be coherent: same frequency and a constant phase relationship. In Young's double-slit experiment, monochromatic light through two narrow slits produces evenly spaced bright and dark fringes with spacing w = λD/s, where λ is the wavelength, D the slit-to-screen distance and s the slit separation. This experiment is the classic demonstration of the wave nature of light, and rearranging the equation gives an experimental value of wavelength.
+A stable, observable interference pattern requires the sources to be coherent: same frequency and a constant phase relationship. In Young's double-slit experiment, monochromatic light through two narrow slits produces evenly spaced bright and dark fringes with spacing $w = \lambda D/s$, where λ is the wavelength, D the slit-to-screen distance and s the slit separation. This experiment is the classic demonstration of the wave nature of light, and rearranging the equation gives an experimental value of wavelength.
 
 Interference also occurs with sound, microwaves, water waves and thin films (the colours of soap bubbles and oil films arise from interference of reflected light).
 
@@ -89,7 +89,7 @@ Interference confirms the wave model of light, enables precise wavelength and di
 
 ### Two-source interference geometry
 ![[_attachments/04_Concepts/Interference--two-source-path-difference.svg]]
-*Figure: Coherent sources S₁ and S₂ (separation s) are a distance D from the screen. Point P receives waves whose path lengths differ by a whole number of wavelengths (constructive — bright fringe). Point Q has a half-wavelength path difference (destructive — dark fringe). Fringe spacing w = λD/s.*
+*Figure: Coherent sources S₁ and S₂ (separation s) are a distance D from the screen. Point P receives waves whose path lengths differ by a whole number of wavelengths (constructive — bright fringe). Point Q has a half-wavelength path difference (destructive — dark fringe). Fringe spacing $w = \lambda D/s$.*
 *Source: Authored for this vault (CC0). No external copyright.*
 
 ## Source Trace

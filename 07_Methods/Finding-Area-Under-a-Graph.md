@@ -41,7 +41,7 @@ Use it when the product of the two plotted quantities is physically meaningful: 
 
 ## Worked Example
 
-On a velocity–time graph, velocity rises uniformly from 0 to 8.0 m s⁻¹ over 4.0 s. The area is a triangle: ½ × base × height = ½ × 4.0 × 8.0 = 16 m. This is the displacement.
+On a velocity–time graph, velocity rises uniformly from 0 to 8.0 m s⁻¹ over 4.0 s. The area is a triangle: $\frac{1}{2} \times \text{base} \times \text{height} = \frac{1}{2} \times 4.0 \times 8.0 = 16 \text{ m}$. This is the displacement.
 
 ## Why It Works
 
@@ -71,7 +71,7 @@ Multiplying the y-value by a small x-interval and summing is exactly integration
 
 ### Area under a velocity–time graph equals displacement
 ![[_attachments/07_Methods/finding-area-under-a-graph--triangle-displacement.svg]]
-*Figure: Velocity increases uniformly from 0 to 8 m s⁻¹ over 4 s. The shaded triangular area = ½ × 4 × 8 = 16 m, which is the displacement. Area below the x-axis would count as negative.*
+*Figure: Velocity increases uniformly from 0 to 8 m s⁻¹ over 4 s. The shaded triangular area $= \frac{1}{2} \times 4 \times 8 = 16 \text{ m}$, which is the displacement. Area below the x-axis would count as negative.*
 *Source: Authored for this vault (CC0). No external copyright.*
 
 ## Source Trace

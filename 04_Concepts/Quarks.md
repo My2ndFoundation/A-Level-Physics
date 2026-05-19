@@ -26,8 +26,8 @@ Quarks are fundamental particles that feel the strong interaction and combine in
 
 There are six quark "flavours": up (u), down (d), charm (c), strange (s), top (t), bottom (b). For A-Level, up, down, and strange are the priority. Quarks carry **fractional charge**:
 
-- up-type (u, c, t): charge +2/3 e
-- down-type (d, s, b): charge −1/3 e
+- up-type (u, c, t): charge $+\tfrac{2}{3} e$
+- down-type (d, s, b): charge $-\tfrac{1}{3} e$
 
 Each quark has a corresponding [[Antiparticles|antiquark]] with opposite charge. Quarks bind via the strong interaction into:
 
@@ -82,7 +82,7 @@ Quark composition explains the charge and identity of nucleons and predicts allo
 
 - Assigning integer charge to quarks
 - Thinking a single quark can exist freely
-- Forgetting beta decay involves a quark flavour change (d → u)
+- Forgetting beta decay involves a quark flavour change ($d \rightarrow u$)
 
 ## Visuals
 

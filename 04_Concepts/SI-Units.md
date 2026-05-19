@@ -38,7 +38,7 @@ Every physical quantity is expressed as a number times a unit. The SI system fix
 
 All other units are **derived** as products and powers of base units. For example the newton is $\text{kg m s}^{-2}$ (from $F = ma$), the joule is $\text{kg m}^{2}\,\text{s}^{-2}$ (from [[Work]] $= Fd$), and the pascal is $\text{kg m}^{-1}\,\text{s}^{-2}$. Expressing a derived unit in base units is the basis of **homogeneity / dimensional analysis**: a physically valid equation must have the same base-unit combination on both sides. Checking this catches algebraic errors and helps deduce unknown units.
 
-Prefixes scale units by powers of ten (e.g. n = 10⁻⁹, μ = 10⁻⁶, m = 10⁻³, k = 10³, M = 10⁶, G = 10⁹), so quantities can be written compactly across many orders of magnitude. Consistent SI use is required so that equations, measurements and constants combine correctly.
+Prefixes scale units by powers of ten (e.g. $n = 10^{-9}$, $\mu = 10^{-6}$, $m = 10^{-3}$, $k = 10^{3}$, $M = 10^{6}$, $G = 10^{9}$), so quantities can be written compactly across many orders of magnitude. Consistent SI use is required so that equations, measurements and constants combine correctly.
 
 ## Everyday Intuition
 

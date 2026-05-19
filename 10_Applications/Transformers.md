@@ -46,9 +46,9 @@ A transformer changes the size of an alternating voltage using [[Electromagnetic
 
 1. An alternating [[Potential-Difference]] in the primary coil drives an alternating [[Current]], producing a continually changing magnetic flux in a soft-iron core.
 2. The core channels almost all this flux through the secondary coil, so both coils share the same changing flux.
-3. By [[Faradays-Law]], the induced e.m.f. in each coil is proportional to its number of turns: Vs/Vp = Ns/Np.
-4. For an ideal (100% efficient) transformer, input power = output power, so Vp Ip = Vs Is, giving Vs/Vp = Ns/Np = Ip/Is.
-5. Step-up: Ns > Np raises voltage and lowers current; step-down: Ns < Np does the reverse.
+3. By [[Faradays-Law]], the induced e.m.f. in each coil is proportional to its number of turns: $\frac{V_s}{V_p} = \frac{N_s}{N_p}$.
+4. For an ideal (100% efficient) transformer, input power = output power, so $V_p I_p = V_s I_s$, giving $\frac{V_s}{V_p} = \frac{N_s}{N_p} = \frac{I_p}{I_s}$.
+5. Step-up: $N_s > N_p$ raises voltage and lowers current; step-down: $N_s < N_p$ does the reverse.
 
 ## Assumptions
 

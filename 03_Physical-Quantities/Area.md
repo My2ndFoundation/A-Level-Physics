@@ -38,21 +38,21 @@ shape covers.
 ## Definition
 
 Area is the extent of a surface, found by multiplying two perpendicular
-lengths. For a rectangle, A = length × width.
+lengths. For a rectangle, $A = \text{length} \times \text{width}$.
 
 ## Related Equations
 
-- Rectangle: A = l × w
-- Circle: A = πr²
-- It appears in [[Pressure]]: p = F / A
+- Rectangle: $A = l \times w$
+- Circle: $A = \pi r^2$
+- It appears in [[Pressure]]: $p = F / A$
 - It appears in [[Density]]-related volume calculations and in resistance
-  (R = ρL / A) and intensity (I = power / A, see [[Intensity]]).
+  ($R = \rho L / A$) and intensity ($I = \text{power} / A$, see [[Intensity]]).
 
 ## How It Is Measured
 
 For regular shapes, measure the relevant lengths with a ruler or calliper and
 apply the formula. Cross-sectional area of a wire is found from its diameter
-using a micrometer, A = πd²/4.
+using a micrometer, $A = \pi d^2/4$.
 
 ## Graphical Meaning
 
@@ -70,7 +70,7 @@ a measured surface.
 
 ## Related Laws or Results
 
-- [[Pressure]] equation p = F / A
+- [[Pressure]] equation $p = F / A$
 
 ## Related Experiments
 
@@ -83,7 +83,7 @@ a measured surface.
 ## Common Mistakes
 
 - Forgetting to square the unit (m² not m).
-- Using diameter instead of radius in A = πr².
+- Using diameter instead of radius in $A = \pi r^2$.
 
 ## Source Trace
 

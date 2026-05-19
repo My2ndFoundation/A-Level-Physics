@@ -30,7 +30,7 @@ The nucleus contains **protons** (charge +e, mass ≈ 1 u) and **neutrons** (cha
 Two integers describe a nuclide, written as ᴬ_Z X:
 
 - **Proton number** Z (atomic number): number of protons; fixes the element.
-- **Nucleon number** A (mass number): total protons + neutrons. Number of neutrons N = A − Z.
+- **Nucleon number** A (mass number): total protons + neutrons. Number of neutrons $N = A - Z$.
 
 The elementary charge is e = 1.60 × 10⁻¹⁹ C. The unified atomic mass unit u = 1.66 × 10⁻²⁷ kg.
 
@@ -78,7 +78,7 @@ Atomic structure underpins chemistry, ionisation, conduction, [[Radioactive-Deca
 ## Common Mistakes
 
 - Swapping A and Z in nuclide notation
-- Forgetting N = A − Z (using A as the neutron count)
+- Forgetting $N = A - Z$ (using A as the neutron count)
 - Thinking electron mass is negligible in all contexts (it matters for energy levels)
 
 ## Visuals
@@ -95,7 +95,7 @@ flowchart TD
     E --> G["Determines isotope"]
 ```
 
-*Figure: Structure of an atom. Z (proton number) fixes the element; A = Z + N is the nucleon number. The nucleus contains almost all the mass but is tiny compared with the atom.*
+*Figure: Structure of an atom. Z (proton number) fixes the element; $A = Z + N$ is the nucleon number. The nucleus contains almost all the mass but is tiny compared with the atom.*
 *Source: Authored for this vault (CC0). No external copyright.*
 
 ## Source Trace

@@ -38,15 +38,15 @@ Scalar. Magnitude only; always positive.
 
 ## Definition
 
-Mass is the property of a body that quantifies its inertia (the `m` in `F = ma`) and the strength of its gravitational interaction. Inertial and gravitational mass are experimentally equal.
+Mass is the property of a body that quantifies its inertia (the `m` in $F = ma$) and the strength of its gravitational interaction. Inertial and gravitational mass are experimentally equal.
 
 ## Related Equations
 
-- `F = ma` — `F` = resultant force (N), `a` = acceleration (m s⁻²). See [[Newton-Second-Law]].
-- `W = mg` — `W` = weight (N), `g` = gravitational field strength (N kg⁻¹). See [[Weight]].
-- `ρ = m / V` — `ρ` = density (kg m⁻³), `V` = volume (m³). See [[Density]].
-- `p = mv` — momentum (kg m s⁻¹). See [[Momentum]].
-- `E = mc²` (mass–energy equivalence, frontier orientation only).
+- $F = ma$ — `F` = resultant force (N), `a` = acceleration (m s⁻²). See [[Newton-Second-Law]].
+- $W = mg$ — `W` = weight (N), `g` = gravitational field strength (N kg⁻¹). See [[Weight]].
+- $\rho = m / V$ — `ρ` = density (kg m⁻³), `V` = volume (m³). See [[Density]].
+- $p = mv$ — momentum (kg m s⁻¹). See [[Momentum]].
+- $E = mc^2$ (mass–energy equivalence, frontier orientation only).
 
 ## How It Is Measured
 

@@ -48,15 +48,15 @@ After each throw: throw number (time analogue) and number of surviving objects N
 
 ## Data Processing
 
-- Plot N against throw number → exponential decay curve.
-- Plot ln N against throw number → straight line of gradient −λ (effective decay constant per throw).
-- Determine the "half-life" as the number of throws for N to halve, and check t₁/₂ = ln 2 / λ.
+- Plot N against throw number $\rightarrow$ exponential decay curve.
+- Plot $\ln N$ against throw number $\rightarrow$ straight line of gradient $-\lambda$ (effective decay constant per throw).
+- Determine the "half-life" as the number of throws for N to halve, and check $t_{1/2} = \frac{\ln 2}{\lambda}$.
 
 ## Graph Use
 
-- Axes: ln N (y) vs throw number (x).
-- Gradient = −λ.
-- y-intercept = ln N₀.
+- Axes: $\ln N$ (y) vs throw number (x).
+- Gradient $= -\lambda$.
+- y-intercept $= \ln N_0$.
 
 ## Uncertainty
 
@@ -94,7 +94,7 @@ xychart-beta
     y-axis "ln N (natural log of survivors)" 3 --> 6
     line [5.9, 5.7, 5.5, 5.3, 5.1, 4.9, 4.7]
 ```
-*Figure: Plotting ln N against throw number gives a straight line of gradient −λ (the effective decay constant per throw) and y-intercept ln N₀. The "half-life" in throws is t₁/₂ = ln 2 / λ. Data scatter grows as N becomes small (late throws) — a feature of real radioactive statistics.*
+*Figure: Plotting ln N against throw number gives a straight line of gradient $-\lambda$ (the effective decay constant per throw) and y-intercept $\ln N_0$. The "half-life" in throws is $t_{1/2} = \frac{\ln 2}{\lambda}$. Data scatter grows as N becomes small (late throws) — a feature of real radioactive statistics.*
 *Source: Authored for this vault (CC0). No external copyright.*
 
 ## Source Trace

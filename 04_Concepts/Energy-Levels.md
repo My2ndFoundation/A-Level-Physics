@@ -26,9 +26,9 @@ Electrons in an atom can only occupy certain discrete (quantised) energy levels;
 
 Unlike a ball on a ramp, which can sit at any height, an electron bound in an atom is restricted to specific allowed energies. These are usually drawn as horizontal lines on an energy-level diagram, with the lowest (most negative) level called the ground state and higher levels called excited states. Energies are negative because energy must be supplied to free the electron; the zero is taken at the point where the electron is just removed (ionised).
 
-An electron moves between levels only by gaining or losing a precise amount of energy equal to the difference between two levels. When it falls from a higher level E₂ to a lower level E₁ it emits a photon whose energy and frequency are fixed by:
+An electron moves between levels only by gaining or losing a precise amount of energy equal to the difference between two levels. When it falls from a higher level $E_2$ to a lower level $E_1$ it emits a photon whose energy and frequency are fixed by:
 
-ΔE = E₂ − E₁ = hf.
+$$\Delta E = E_2 - E_1 = hf$$
 
 Because only certain level differences exist, only certain photon frequencies are emitted, producing a line emission spectrum unique to each element. Absorbing a photon of exactly the right energy lifts an electron up a level, producing dark absorption lines. This discreteness is direct evidence for quantisation and the [[Photon-Model]].
 
@@ -90,7 +90,7 @@ Energy levels explain emission and absorption spectra, how lasers and fluorescen
 ### Atomic energy-level diagram with photon emission
 
 ![[_attachments/04_Concepts/Energy-Levels--transition-diagram.svg]]
-*Figure: Electrons occupy discrete energy levels (horizontal lines). A downward transition from n = 3 to n = 1 releases a photon with energy ΔE = hf — exactly the level difference. Only certain frequencies are emitted, producing a line spectrum unique to each element.*
+*Figure: Electrons occupy discrete energy levels (horizontal lines). A downward transition from n = 3 to n = 1 releases a photon with energy $\Delta E = hf$ — exactly the level difference. Only certain frequencies are emitted, producing a line spectrum unique to each element.*
 *Source: Authored for this vault (CC0). No external copyright.*
 
 ## Source Trace

@@ -35,15 +35,15 @@ Use it for two-source interference (e.g. Young's double slit), diffraction-grati
 1. Establish the wavelength *λ* and confirm the sources are coherent (constant phase relation, same frequency).
 2. At the point of interest, find the path difference between the waves from each source.
 3. Apply the conditions:
-   - constructive (maximum): path difference = *nλ* (n = 0, 1, 2 …).
-   - destructive (minimum): path difference = (n + ½)λ.
-4. For double slits, use *λ = ax/D* (fringe spacing relation) to link geometry to wavelength.
-5. For stationary waves, locate nodes (always destructive) and antinodes (always constructive); adjacent nodes are λ/2 apart.
+   - constructive (maximum): path difference $= n\lambda$ (n = 0, 1, 2 …).
+   - destructive (minimum): path difference $= (n + \frac{1}{2})\lambda$.
+4. For double slits, use $\lambda = ax/D$ (fringe spacing relation) to link geometry to wavelength.
+5. For stationary waves, locate nodes (always destructive) and antinodes (always constructive); adjacent nodes are $\lambda/2$ apart.
 6. Add displacements directly where exact resultant amplitude is needed.
 
 ## Worked Example
 
-Two coherent loudspeakers emit sound of wavelength 0.50 m. At a point 2.50 m from one speaker and 2.75 m from the other, the path difference is 0.25 m = ½λ. This is destructive interference, so a quiet point (minimum) is heard.
+Two coherent loudspeakers emit sound of wavelength 0.50 m. At a point 2.50 m from one speaker and 2.75 m from the other, the path difference is $0.25 \text{ m} = \frac{1}{2}\lambda$. This is destructive interference, so a quiet point (minimum) is heard.
 
 ## Why It Works
 
@@ -53,7 +53,7 @@ The principle of superposition states the resultant displacement is the vector s
 
 - Forgetting sources must be coherent for stable interference.
 - Confusing path difference with the actual distances.
-- Using ½λ condition for maxima instead of minima.
+- Using $\frac{1}{2}\lambda$ condition for maxima instead of minima.
 
 ## Related Quantities
 

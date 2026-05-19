@@ -30,9 +30,9 @@ For each particle there is an antiparticle: the electron's antiparticle is the *
 Two key processes:
 
 - **Annihilation**: a particle meets its antiparticle and their mass is converted entirely into energy, usually as photons. For electron–positron annihilation, two gamma photons are produced (to conserve momentum), each of minimum energy equal to the rest energy of an electron, ≈ 0.51 MeV.
-- **Pair production**: a sufficiently energetic photon (energy ≥ 2mc² of the pair) converts into a particle–antiparticle pair near a nucleus, the reverse of annihilation.
+- **Pair production**: a sufficiently energetic photon (energy $\geq 2mc^2$ of the pair) converts into a particle–antiparticle pair near a nucleus, the reverse of annihilation.
 
-These are direct demonstrations of [[Mass-Energy-Equivalence]] (E = mc²). Antiparticles are emitted in beta-plus decay (a positron and a neutrino).
+These are direct demonstrations of [[Mass-Energy-Equivalence]] ($E = mc^2$). Antiparticles are emitted in beta-plus decay (a positron and a neutrino).
 
 ## Everyday Intuition
 
@@ -44,7 +44,7 @@ An antiparticle is a particle's "mirror twin" in charge. When the twins meet, th
 
 ## Why It Matters
 
-Annihilation underlies PET (positron emission tomography) medical scanning, and pair production/annihilation are standard E = mc² exam contexts.
+Annihilation underlies PET (positron emission tomography) medical scanning, and pair production/annihilation are standard $E = mc^2$ exam contexts.
 
 ## Related Quantities
 
@@ -81,7 +81,7 @@ Annihilation underlies PET (positron emission tomography) medical scanning, and 
 
 - Thinking an antiparticle has negative mass (mass is the same; charge is opposite)
 - Forgetting two photons are needed in annihilation (momentum conservation)
-- Using only one rest energy instead of 2mc² for the photon-energy threshold in pair production
+- Using only one rest energy instead of $2mc^2$ for the photon-energy threshold in pair production
 
 ## Visuals
 
@@ -98,7 +98,7 @@ flowchart LR
     G --> I["e⁺"]
 ```
 
-*Figure: Annihilation converts an electron–positron pair into two gamma photons (momentum conservation requires two); pair production is the reverse, requiring a photon of energy at least 2m_e c².*
+*Figure: Annihilation converts an electron–positron pair into two gamma photons (momentum conservation requires two); pair production is the reverse, requiring a photon of energy at least $2m_e c^2$.*
 *Source: Authored for this vault (CC0). No external copyright.*
 
 ## Source Trace

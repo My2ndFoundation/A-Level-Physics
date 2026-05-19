@@ -41,13 +41,13 @@ Density is the mass per unit volume of a substance.
 
 ## Related Equations
 
-- `ρ = m / V` — `ρ` = density (kg m⁻³), `m` = mass (kg), `V` = volume (m³).
-- `m = ρV` and `V = m/ρ` (rearrangements).
+- $\rho = m / V$ — `ρ` = density (kg m⁻³), `m` = mass (kg), `V` = volume (m³).
+- $m = \rho V$ and $V = m/\rho$ (rearrangements).
 - Floating condition: an object floats when its mean density is less than that of the fluid.
 
 ## How It Is Measured
 
-Measure mass with a balance and volume by geometry (regular solid: measure dimensions) or by displacement of liquid (irregular solid: change in measuring-cylinder reading). For a liquid, weigh a known volume in a measuring cylinder. Combine using `ρ = m/V`, with uncertainties propagated from each measurement.
+Measure mass with a balance and volume by geometry (regular solid: measure dimensions) or by displacement of liquid (irregular solid: change in measuring-cylinder reading). For a liquid, weigh a known volume in a measuring cylinder. Combine using $\rho = m/V$, with uncertainties propagated from each measurement.
 
 ## Graphical Meaning
 

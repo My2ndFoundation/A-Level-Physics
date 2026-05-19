@@ -27,9 +27,9 @@ any point equals the sum of the anticlockwise moments about that same point.
 
 ## Equation
 
-Σ(clockwise moments) = Σ(anticlockwise moments)
+$$\Sigma(\text{clockwise moments}) = \Sigma(\text{anticlockwise moments})$$
 
-For a single moment: M = F × d
+For a single moment: $M = F \times d$
 
 ## Symbols and Units
 

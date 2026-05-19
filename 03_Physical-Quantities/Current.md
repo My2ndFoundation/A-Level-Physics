@@ -42,9 +42,9 @@ Electric current is the rate of flow of electric charge past a point.
 
 ## Related Equations
 
-- `I = ΔQ / Δt` — `I` = current (A), `ΔQ` = charge (C), `Δt` = time (s).
-- `I = nAvq` — `n` = charge-carrier number density (m⁻³), `A` = cross-sectional area (m²), `v` = drift velocity (m s⁻¹), `q` = carrier charge (C).
-- `V = IR` — `V` = p.d. (V), `R` = resistance (Ω). See [[Ohms-Law]].
+- $I = \Delta Q / \Delta t$ — `I` = current (A), `ΔQ` = charge (C), `Δt` = time (s).
+- $I = nAvq$ — `n` = charge-carrier number density (m⁻³), `A` = cross-sectional area (m²), `v` = drift velocity (m s⁻¹), `q` = carrier charge (C).
+- $V = IR$ — `V` = p.d. (V), `R` = resistance (Ω). See [[Ohms-Law]].
 - Kirchhoff's first law: total current in = total current out at a junction.
 
 ## How It Is Measured
@@ -53,7 +53,7 @@ An ammeter connected **in series** with the component (ideal ammeter has negligi
 
 ## Graphical Meaning
 
-On an [[IV-Characteristic]], current is plotted against p.d.; the gradient gives `1/R` (for an ohmic conductor, a straight line through the origin). The area under a current–time graph is the charge transferred.
+On an [[IV-Characteristic]], current is plotted against p.d.; the gradient gives $1/R$ (for an ohmic conductor, a straight line through the origin). The area under a current–time graph is the charge transferred.
 
 ## Foundation Links
 

@@ -39,15 +39,15 @@ To calculate the magnitude and direction of an induced e.m.f. (or induced [[Curr
 ## Method
 
 1. Identify the coil/conductor and the quantity that changes: [[Magnetic-Flux-Density]] B, area A, angle θ, or number of turns N.
-2. Write the flux linkage: NΦ = B A N cos θ.
+2. Write the flux linkage: $N\Phi = B A N \cos\theta$.
 3. Find the rate of change: differentiate with respect to time, or use Δ(NΦ)/Δt for an average over a time interval.
-4. Take the magnitude for the size of the e.m.f.: |ε| = |d(NΦ)/dt|.
+4. Take the magnitude for the size of the e.m.f.: $|\varepsilon| = \left|\dfrac{d(N\Phi)}{dt}\right|$.
 5. Apply [[Lenzs-Law]] to state the direction (the induced current opposes the change in flux).
-6. If a closed circuit of [[Resistance]] R is given, find induced current I = ε / R.
+6. If a closed circuit of [[Resistance]] R is given, find induced current $I = \varepsilon / R$.
 
 ## Worked Example
 
-A coil of 200 turns and area 4.0 × 10⁻³ m² sits perpendicular to a field that falls uniformly from 0.50 T to 0 in 0.10 s. Change in flux linkage = N·A·ΔB = 200 × 4.0 × 10⁻³ × 0.50 = 0.40 Wb. Induced e.m.f. = 0.40 / 0.10 = 4.0 V. Direction: by Lenz's law it opposes the decrease, so the induced current acts to maintain the original flux.
+A coil of 200 turns and area 4.0 × 10⁻³ m² sits perpendicular to a field that falls uniformly from 0.50 T to 0 in 0.10 s. Change in flux linkage $= N\cdot A\cdot\Delta B = 200 \times 4.0 \times 10^{-3} \times 0.50 = 0.40 \text{ Wb}$. Induced e.m.f. $= 0.40 / 0.10 = 4.0 \text{ V}$. Direction: by Lenz's law it opposes the decrease, so the induced current acts to maintain the original flux.
 
 ## Why It Works
 

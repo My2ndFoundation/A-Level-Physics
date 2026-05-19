@@ -25,14 +25,14 @@ When light passes from one transparent medium into another, the ratio of the sin
 
 ## Equation
 
-`n₁ sin θ₁ = n₂ sin θ₂`
+$$n_1 \sin\theta_1 = n_2 \sin\theta_2$$
 
 ## Symbols and Units
 
 - `n₁, n₂`: refractive indices of medium 1 and 2, dimensionless (no unit)
 - `θ₁`: angle of incidence, measured from the **normal**, degrees or radians
 - `θ₂`: angle of refraction, measured from the normal
-- Also `n = c / v`, where `c` is the speed of light in vacuum and `v` the speed in the medium (`m s⁻¹`)
+- Also $n = c / v$, where `c` is the speed of light in vacuum and `v` the speed in the medium (`m s⁻¹`)
 
 ## Conditions
 
@@ -43,22 +43,22 @@ When light passes from one transparent medium into another, the ratio of the sin
 
 ## Physical Meaning
 
-Light slows down in an optically denser medium; the wavefronts bend toward the normal because one edge enters the slower medium first. The refractive index measures how much a medium slows light: `n = c/v`. The conserved quantity `n sin θ` reflects that the wave [[Frequency]] is unchanged while wavelength and speed scale together.
+Light slows down in an optically denser medium; the wavefronts bend toward the normal because one edge enters the slower medium first. The refractive index measures how much a medium slows light: $n = c/v$. The conserved quantity $n \sin\theta$ reflects that the wave [[Frequency]] is unchanged while wavelength and speed scale together.
 
 ## Foundation Link
 
-GCSE shows that light bends toward the normal entering glass and away leaving it, and introduces refractive index qualitatively. A-Level adds the quantitative law, `n = c/v`, the critical angle `sin θ_c = 1/n`, and total internal reflection used in optical fibres.
+GCSE shows that light bends toward the normal entering glass and away leaving it, and introduces refractive index qualitatively. A-Level adds the quantitative law, $n = c/v$, the critical angle $\sin\theta_c = 1/n$, and total internal reflection used in optical fibres.
 
 ## How to Use
 
 1. Identify the two media and their refractive indices.
 2. Measure both angles from the normal.
-3. Apply `n₁ sin θ₁ = n₂ sin θ₂` and solve for the unknown.
-4. For total internal reflection, find the critical angle from `sin θ_c = n₂/n₁`.
+3. Apply $n_1 \sin\theta_1 = n_2 \sin\theta_2$ and solve for the unknown.
+4. For total internal reflection, find the critical angle from $\sin\theta_c = n_2/n_1$.
 
 ## Derivation or Explanation
 
-From the wave model, frequency is constant across the boundary while speed changes, so wavelength changes. Matching wavefronts along the interface gives `sin θ₁ / sin θ₂ = v₁ / v₂ = n₂ / n₁`.
+From the wave model, frequency is constant across the boundary while speed changes, so wavelength changes. Matching wavefronts along the interface gives $\frac{\sin\theta_1}{\sin\theta_2} = \frac{v_1}{v_2} = \frac{n_2}{n_1}$.
 
 ## Related Quantities
 

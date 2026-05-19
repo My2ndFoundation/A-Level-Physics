@@ -32,13 +32,13 @@ Two main types are introduced:
 - **Transverse waves**, where the oscillations are at right angles to the direction the wave travels (for example, water ripples, waves on a rope, and all electromagnetic waves such as light).
 - **Longitudinal waves**, where the oscillations are along the direction of travel, producing compressions and rarefactions (for example, sound).
 
-Waves are described using a small set of quantities: amplitude (the maximum displacement from rest, linked to energy or loudness/brightness), wavelength (the distance for one complete cycle), frequency (cycles per second, in hertz), and period (time for one cycle). These connect through the wave equation: wave speed = frequency × wavelength.
+Waves are described using a small set of quantities: amplitude (the maximum displacement from rest, linked to energy or loudness/brightness), wavelength (the distance for one complete cycle), frequency (cycles per second, in hertz), and period (time for one cycle). These connect through the wave equation: $\text{wave speed} = \text{frequency} \times \text{wavelength}$.
 
 GCSE also introduces wave behaviours: reflection, refraction (change of speed and direction when entering a new medium), and basic ideas of absorption and transmission, plus the electromagnetic spectrum from radio waves to gamma rays.
 
 ## Why It Matters for A-Level Physics
 
-Waves are a major A-Level topic. The GCSE foundations support [[Superposition]], interference and [[Diffraction]], standing waves, polarisation, [[Wave-Refraction|refraction of waves]] and total internal reflection, the photoelectric effect, and wave–particle duality. The wave equation v = fλ is used constantly.
+Waves are a major A-Level topic. The GCSE foundations support [[Superposition]], interference and [[Diffraction]], standing waves, polarisation, [[Wave-Refraction|refraction of waves]] and total internal reflection, the photoelectric effect, and wave–particle duality. The wave equation $v = f\lambda$ is used constantly.
 
 ## Everyday Intuition
 

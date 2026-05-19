@@ -37,7 +37,7 @@ The wavefront model represents a wave as a set of surfaces (wavefronts) joining 
 
 ## Key Equations
 
-- *v = fλ*
+- $v = f\lambda$
 - [[Snell-Law]] explained via change of wavefront spacing on refraction
 - Path difference → constructive/destructive interference
 

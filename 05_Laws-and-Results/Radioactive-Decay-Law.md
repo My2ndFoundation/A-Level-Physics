@@ -26,9 +26,9 @@ Radioactive decay is a random process: each undecayed nucleus has the same fixed
 
 ## Equation
 
-`N = N₀ e^(−λt)`
+$$N = N_0 e^{-\lambda t}$$
 
-with activity `A = λN`, so `A = A₀ e^(−λt)` and half-life `t½ = ln 2 / λ`
+with activity $A = \lambda N$, so $A = A_0 e^{-\lambda t}$ and half-life $t_{1/2} = \frac{\ln 2}{\lambda}$
 
 ## Symbols and Units
 
@@ -55,14 +55,14 @@ GCSE introduces half-life and the random nature of decay using count-rate graphs
 
 ## How to Use
 
-1. Identify `N₀` (or `A₀`) and either `λ` or `t½`; convert using `λ = ln 2 / t½`.
-2. Substitute into `N = N₀ e^(−λt)` or `A = A₀ e^(−λt)`.
-3. To find `λ` from data, plot `ln A` against `t`; the gradient is `−λ`.
+1. Identify `N₀` (or `A₀`) and either `λ` or `t½`; convert using $\lambda = \frac{\ln 2}{t_{1/2}}$.
+2. Substitute into $N = N_0 e^{-\lambda t}$ or $A = A_0 e^{-\lambda t}$.
+3. To find `λ` from data, plot $\ln A$ against `t`; the gradient is $-\lambda$.
 4. Use the half-life for quick "halving" estimates.
 
 ## Derivation or Explanation
 
-The decay rate is proportional to the number present: `dN/dt = −λN`. Integrating this first-order equation gives `N = N₀ e^(−λt)`; setting `N = N₀/2` yields `t½ = ln 2 / λ`.
+The decay rate is proportional to the number present: $\frac{dN}{dt} = -\lambda N$. Integrating this first-order equation gives $N = N_0 e^{-\lambda t}$; setting $N = N_0/2$ yields $t_{1/2} = \frac{\ln 2}{\lambda}$.
 
 ## Related Quantities
 
@@ -87,7 +87,7 @@ The decay rate is proportional to the number present: `dN/dt = −λN`. Integrat
 
 - Confusing decay constant `λ` with half-life
 - Thinking decay rate can be changed by temperature or chemistry
-- Plotting count rate vs time and expecting a straight line instead of using `ln A`
+- Plotting count rate vs time and expecting a straight line instead of using $\ln A$
 
 ## Visuals
 

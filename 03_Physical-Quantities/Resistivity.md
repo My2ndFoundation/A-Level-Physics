@@ -43,17 +43,17 @@ Resistivity is the property of a material defined so that the resistance of a un
 
 ## Related Equations
 
-- `R = ρL / A` → `ρ = RA / L` — `ρ` = resistivity (Ω m), `R` = resistance (Ω), `A` = cross-sectional area (m²), `L` = length (m).
-- `A = πd²/4` for a wire of diameter `d`.
-- Conductivity `σ = 1/ρ` (S m⁻¹).
+- $R = \rho L / A$ → $\rho = RA / L$ — `ρ` = resistivity (Ω m), `R` = resistance (Ω), `A` = cross-sectional area (m²), `L` = length (m).
+- $A = \pi d^2/4$ for a wire of diameter `d`.
+- Conductivity $\sigma = 1/\rho$ (S m⁻¹).
 
 ## How It Is Measured
 
-Use a uniform wire: measure its resistance (`R = V/I`) for several lengths, its diameter with a micrometer (to get `A`). Plot `R` against `L`; the gradient is `ρ/A`, so `ρ =` gradient × `A`. This averages out random errors and gives a reliable value.
+Use a uniform wire: measure its resistance ($R = V/I$) for several lengths, its diameter with a micrometer (to get `A`). Plot `R` against `L`; the gradient is $\rho/A$, so $\rho =$ gradient $\times A$. This averages out random errors and gives a reliable value.
 
 ## Graphical Meaning
 
-A graph of resistance against length (constant cross-section) is a straight line through the origin with gradient `ρ/A`. Multiplying the gradient by the measured area gives the resistivity.
+A graph of resistance against length (constant cross-section) is a straight line through the origin with gradient $\rho/A$. Multiplying the gradient by the measured area gives the resistivity.
 
 ## Foundation Links
 

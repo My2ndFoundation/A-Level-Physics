@@ -34,7 +34,7 @@ Car safety features — seatbelts, airbags, crumple zones — are an exam favour
 
 - Impulse–momentum relation: force equals rate of change of momentum
 - Energy transfer calculations for kinetic energy dissipated in a collision
-- Average force from `F = Δp / Δt`
+- Average force from $F = \frac{\Delta p}{\Delta t}$
 
 ## Typical Questions
 

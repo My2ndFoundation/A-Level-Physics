@@ -44,9 +44,9 @@ Weight is the force exerted on a mass by a gravitational field. Near a surface i
 
 ## Related Equations
 
-- `W = mg` — `W` = weight (N), `m` = mass (kg), `g` = gravitational field strength (N kg⁻¹ ≈ 9.81 near Earth's surface).
-- `g = F/m` defines [[Gravitational-Field-Strength]].
-- `W = GMm/r²` for the general case. See [[Newtons-Law-of-Gravitation]].
+- $W = mg$ — `W` = weight (N), `m` = mass (kg), `g` = gravitational field strength (N kg⁻¹ ≈ 9.81 near Earth's surface).
+- $g = F/m$ defines [[Gravitational-Field-Strength]].
+- $W = GMm/r^2$ for the general case. See [[Newtons-Law-of-Gravitation]].
 
 ## How It Is Measured
 

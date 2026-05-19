@@ -50,11 +50,11 @@ Drop height `h` for each setting and the corresponding mean fall time `t`.
 
 ## Data Processing
 
-From `h = ½gt²` (initial velocity zero), rearrange to `h = (g/2) t²`. So a graph of `h` against `t²` is a straight line through the origin with gradient `g/2`. Hence `g = 2 × gradient`.
+From $h = \frac{1}{2}gt^2$ (initial velocity zero), rearrange to $h = \frac{g}{2} t^2$. So a graph of `h` against $t^2$ is a straight line through the origin with gradient $g/2$. Hence $g = 2 \times \text{gradient}$.
 
 ## Graph Use
 
-Plot `h` (y-axis) against `t²` (x-axis). The line should pass through the origin; gradient = `g/2`, so `g = 2 × gradient` (see [[Using-Gradient]]). A non-zero intercept signals a timing systematic error (see [[Using-Intercept]]).
+Plot `h` (y-axis) against $t^2$ (x-axis). The line should pass through the origin; gradient $= g/2$, so $g = 2 \times \text{gradient}$ (see [[Using-Gradient]]). A non-zero intercept signals a timing systematic error (see [[Using-Intercept]]).
 
 ## Uncertainty
 
@@ -84,7 +84,7 @@ Low risk. Keep feet clear of the falling ball and trapdoor. The free-fall (no ai
 
 ### Free-Fall Diagram
 ![[_attachments/09_Experiments-and-Practicals/Measuring-Acceleration-Due-to-Gravity--free-fall-diagram.svg]]
-*Figure: Diagram of an object in free fall showing the distance h fallen from rest under gravitational acceleration g with no air resistance — the ball accelerates uniformly downward, illustrating the h = ½gt² relationship used to determine g from the gradient of an h against t² graph.*
+*Figure: Diagram of an object in free fall showing the distance h fallen from rest under gravitational acceleration g with no air resistance — the ball accelerates uniformly downward, illustrating the $h = \frac{1}{2}gt^2$ relationship used to determine g from the gradient of an h against $t^2$ graph.*
 *Source: Free fall — Pieter Kuiper — Public domain — https://commons.wikimedia.org/wiki/File:Free_fall.svg. Retrieved 2026-05-19.*
 
 ## Source Trace

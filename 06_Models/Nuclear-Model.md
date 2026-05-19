@@ -27,12 +27,12 @@ working picture of the atom for A-Level.
 
 ## Assumptions
 
-- The nucleus is point-like compared with the atom (radius ~10⁻¹⁵ m versus
-  ~10⁻¹⁰ m for the atom).
+- The nucleus is point-like compared with the atom (radius $\sim 10^{-15}$ m versus
+  $\sim 10^{-10}$ m for the atom).
 - Almost all the atomic mass is concentrated in the nucleus (protons and
   neutrons).
-- The nucleus carries the whole positive charge, +Ze, where Z is the proton
-  number and e is the elementary charge (1.60 × 10⁻¹⁹ C).
+- The nucleus carries the whole positive charge, $+Ze$, where Z is the proton
+  number and e is the elementary charge ($1.60 \times 10^{-19}$ C).
 - Electrons occupy the space outside the nucleus and carry the balancing
   negative charge.
 - Most of the atom is empty space, so most fast particles fired at it pass
@@ -45,9 +45,9 @@ working picture of the atom for A-Level.
 
 ## Key Equations
 
-- Nuclear charge: Q = +Ze (Z = proton number, e = elementary charge)
-- Approximate nuclear radius scaling: R = r₀A^(1/3), where A is the nucleon
-  number and r₀ ≈ 1.2 × 10⁻¹⁵ m.
+- Nuclear charge: $Q = +Ze$ (Z = proton number, e = elementary charge)
+- Approximate nuclear radius scaling: $R = r_0 A^{1/3}$, where A is the nucleon
+  number and $r_0 \approx 1.2 \times 10^{-15}$ m.
 
 ## When to Use
 

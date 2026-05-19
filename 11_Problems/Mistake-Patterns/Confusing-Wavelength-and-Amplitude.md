@@ -41,7 +41,7 @@ cycle, read on the horizontal axis).
 Identify the axes first. [[Amplitude]] is the vertical distance from the
 middle to a crest. [[Wavelength]] is the horizontal distance between two
 matching points (crest to crest). Amplitude links to energy carried; only
-wavelength enters v = fλ.
+wavelength enters $v = f\lambda$.
 
 ## Foundation Link
 
@@ -63,7 +63,7 @@ repeating pattern.
 
 ## Related Problem Types
 
-- Wave-graph interpretation and v = fλ calculations
+- Wave-graph interpretation and $v = f\lambda$ calculations
 
 ## Visuals
 

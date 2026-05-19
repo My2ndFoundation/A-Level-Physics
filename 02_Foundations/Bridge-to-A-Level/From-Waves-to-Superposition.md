@@ -26,7 +26,7 @@ Bridge to A-Level
 
 ## Meaning
 
-GCSE wave work concentrates on one wave at a time: its wavelength, frequency, amplitude and speed, and the wave equation v = fλ. It rarely asks what happens where waves overlap.
+GCSE wave work concentrates on one wave at a time: its wavelength, frequency, amplitude and speed, and the wave equation $v = f\lambda$. It rarely asks what happens where waves overlap.
 
 The bridging idea is the **principle of superposition**: when two or more waves meet, the total displacement at any point is the *sum* of the displacements each wave would produce there on its own. After they pass through each other, each wave continues unchanged.
 

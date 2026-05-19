@@ -32,7 +32,7 @@ Force is measured in newtons (N). One newton is roughly the size of the gravitat
 
 When several forces act on an object, what matters is the overall, combined effect — the resultant force. If forces are balanced (resultant force zero), a stationary object stays still and a moving object keeps moving at a steady speed in a straight line. If forces are unbalanced (resultant force not zero), the object speeds up, slows down, or changes direction. The bigger the resultant force, and the smaller the mass, the greater the change in motion.
 
-Weight is a particular force: the pull of gravity on a mass, found from weight = mass × gravitational field strength.
+Weight is a particular force: the pull of gravity on a mass, found from $\text{weight} = \text{mass} \times \text{gravitational field strength}$.
 
 ## Why It Matters for A-Level Physics
 
@@ -68,7 +68,7 @@ Pushing a shopping trolley harder makes it speed up faster. A heavier trolley is
 
 ## Bridge to A-Level
 
-At A-Level the everyday "push or pull" becomes a precise vector quantity. Forces are resolved into components, combined using vector addition, and represented on free-body diagrams. Force is tied to [[Acceleration]] through Newton's second law in the form F = ma, and extended into rates of change of [[Momentum]]. See [[From-Speed-to-Velocity]] and the A-Level [[Force]] physical-quantity page for the more formal treatment.
+At A-Level the everyday "push or pull" becomes a precise vector quantity. Forces are resolved into components, combined using vector addition, and represented on free-body diagrams. Force is tied to [[Acceleration]] through Newton's second law in the form $F = ma$, and extended into rates of change of [[Momentum]]. See [[From-Speed-to-Velocity]] and the A-Level [[Force]] physical-quantity page for the more formal treatment.
 
 ## Source Trace
 

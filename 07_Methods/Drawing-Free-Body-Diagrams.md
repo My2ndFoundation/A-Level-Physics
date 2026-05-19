@@ -41,7 +41,7 @@ Use it at the start of nearly every dynamics or statics problem: objects on slop
 
 ## Worked Example
 
-A book resting on a table: draw the book as a box, weight *W* arrow pointing down, normal contact force *N* arrow pointing up from the table surface. Since the book is in equilibrium, *N = W*. The book's downward push on the table is *not* drawn — it acts on the table, not the book.
+A book resting on a table: draw the book as a box, weight *W* arrow pointing down, normal contact force *N* arrow pointing up from the table surface. Since the book is in equilibrium, $N = W$. The book's downward push on the table is *not* drawn — it acts on the table, not the book.
 
 ## Why It Works
 

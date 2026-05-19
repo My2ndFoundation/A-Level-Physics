@@ -41,18 +41,18 @@ The resistance of a component is the ratio of the potential difference across it
 
 ## Related Equations
 
-- `R = V / I` — `R` = resistance (Ω), `V` = p.d. (V), `I` = current (A).
-- `R = ρL / A` — `ρ` = resistivity (Ω m), `L` = length (m), `A` = cross-sectional area (m²). See [[Resistivity]].
-- Series: `R_total = R₁ + R₂ + …`. Parallel: `1/R_total = 1/R₁ + 1/R₂ + …`.
-- `P = I²R = V²/R` — power dissipated (W).
+- $R = V / I$ — `R` = resistance (Ω), `V` = p.d. (V), `I` = current (A).
+- $R = \rho L / A$ — `ρ` = resistivity (Ω m), `L` = length (m), `A` = cross-sectional area (m²). See [[Resistivity]].
+- Series: $R_{total} = R_1 + R_2 + \dots$. Parallel: $1/R_{total} = 1/R_1 + 1/R_2 + \dots$.
+- $P = I^2 R = V^2/R$ — power dissipated (W).
 
 ## How It Is Measured
 
-Measure p.d. (voltmeter in parallel) and current (ammeter in series) and compute `R = V/I`, or use an ohmmeter / multimeter. Plotting a full [[IV-Characteristic]] reveals whether resistance is constant (ohmic) or varies (filament lamp, diode, thermistor).
+Measure p.d. (voltmeter in parallel) and current (ammeter in series) and compute $R = V/I$, or use an ohmmeter / multimeter. Plotting a full [[IV-Characteristic]] reveals whether resistance is constant (ohmic) or varies (filament lamp, diode, thermistor).
 
 ## Graphical Meaning
 
-On an [[IV-Characteristic]] (I vs V), resistance is the **reciprocal of the gradient** (`R = V/I`). A straight line through the origin indicates a constant resistance (ohmic behaviour); a curve indicates resistance that changes with current/temperature.
+On an [[IV-Characteristic]] (I vs V), resistance is the **reciprocal of the gradient** ($R = V/I$). A straight line through the origin indicates a constant resistance (ohmic behaviour); a curve indicates resistance that changes with current/temperature.
 
 ## Foundation Links
 

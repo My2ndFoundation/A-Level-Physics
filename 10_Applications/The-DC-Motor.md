@@ -32,8 +32,8 @@ A direct-current motor converts electrical energy into rotational mechanical ene
 
 ## Mathematical Tools
 
-- F = B I L sin θ (see [[Force-on-a-Current-Carrying-Conductor]])
-- Torque = F × perpendicular distance (couple on the coil)
+- $F = B I L \sin\theta$ (see [[Force-on-a-Current-Carrying-Conductor]])
+- $\text{Torque} = F \times \text{perpendicular distance}$ (couple on the coil)
 
 ## Typical Questions
 

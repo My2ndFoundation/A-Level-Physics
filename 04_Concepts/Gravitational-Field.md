@@ -31,7 +31,7 @@ up a field everywhere around it, and a second mass responds to the field at
 its own location. The strength of the field at a point is the
 [[Gravitational-Field-Strength]] g, defined as the force per unit mass:
 
-g = F / m
+$$g = F / m$$
 
 with g in N kg⁻¹ (equivalently m s⁻², since it is also the free-fall
 acceleration). Gravitational fields are always attractive, so field lines
@@ -41,11 +41,11 @@ For a point mass (or outside a uniform sphere) the field is **radial** and
 its magnitude follows an inverse-square law derived from
 [[Newtons-Law-of-Gravitation]]:
 
-g = G M / r²
+$$g = \frac{G M}{r^2}$$
 
-where G = 6.67 × 10⁻¹¹ N m² kg⁻² is the gravitational constant, M is the
+where $G = 6.67 \times 10^{-11}$ N m² kg⁻² is the gravitational constant, M is the
 source mass and r is the distance from its centre. Close to a large body the
-field is approximately **uniform**: near Earth's surface g ≈ 9.81 N kg⁻¹ and
+field is approximately **uniform**: near Earth's surface $g \approx 9.81$ N kg⁻¹ and
 the field lines are essentially parallel.
 
 ## Everyday Intuition
@@ -60,7 +60,7 @@ regardless of its mass.
 - [[Mass]]
 - [[Gravitational-Field-Strength]]
 
-At GCSE, weight is just W = m g with g a fixed number. A-Level shows g is a
+At GCSE, weight is just $W = m g$ with g a fixed number. A-Level shows g is a
 field quantity that varies with distance via an inverse-square law.
 
 ## Why It Matters
@@ -114,7 +114,7 @@ helping transfer reasoning between gravitation and electrostatics.
 
 ### Radial gravitational field around a point mass
 ![[_attachments/04_Concepts/Gravitational-Field--radial-field-lines.svg]]
-*Figure: All field lines point inward toward the central mass M. Closer spacing near M indicates a stronger field. The radial symmetry reflects the inverse-square law g = GM/r².*
+*Figure: All field lines point inward toward the central mass M. Closer spacing near M indicates a stronger field. The radial symmetry reflects the inverse-square law $g = GM/r^2$.*
 *Source: Authored for this vault (CC0). No external copyright.*
 
 ## Source Trace

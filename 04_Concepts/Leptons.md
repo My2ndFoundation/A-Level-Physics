@@ -30,7 +30,7 @@ Key properties:
 
 - The electron has charge −e and mass ≈ 9.11 × 10⁻³¹ kg.
 - Neutrinos are electrically neutral, almost massless, and interact only via the weak interaction, so they pass through matter easily.
-- **Lepton number** is conserved in all interactions. Each lepton has lepton number +1; each antilepton −1. This rule explains why beta-minus decay must emit an electron antineutrino: a neutron → proton + e⁻ + ν̄ₑ, keeping lepton number balanced (0 = 0 + 1 + (−1)).
+- **Lepton number** is conserved in all interactions. Each lepton has lepton number +1; each antilepton −1. This rule explains why beta-minus decay must emit an electron antineutrino: a neutron → proton + e⁻ + ν̄ₑ, keeping lepton number balanced ($0 = 0 + 1 + (-1)$).
 
 Leptons are believed to be truly fundamental — no internal quark structure.
 

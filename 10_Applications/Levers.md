@@ -35,7 +35,7 @@ for the [[Principle-of-Moments]].
 
 ## Mathematical Tools
 
-- Moment: M = F × d (perpendicular distance)
+- Moment: $M = F \times d$ (perpendicular distance)
 - Equilibrium condition: clockwise moments = anticlockwise moments
 
 ## Typical Questions
@@ -50,7 +50,7 @@ for the [[Principle-of-Moments]].
 2. Identify the pivot; take moments about it.
 3. Set total clockwise moments equal to total anticlockwise moments.
 4. Solve for the unknown effort, load, or distance.
-5. If needed, use [[Resultant-Force]] = 0 to find the pivot reaction.
+5. If needed, use [[Resultant-Force]] $= 0$ to find the pivot reaction.
 
 ## Assumptions
 

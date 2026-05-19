@@ -23,7 +23,7 @@ Every measurement carries some doubt. The **uncertainty** is the interval around
 
 ## Meaning
 
-A result is never just a number — it is a number *plus a range*. Writing a length as `l = 24.0 ± 0.5 cm` says the best estimate is 24.0 cm and the true value almost certainly falls between 23.5 cm and 24.5 cm. The `± 0.5 cm` is the **absolute uncertainty**.
+A result is never just a number — it is a number *plus a range*. Writing a length as $l = 24.0 \pm 0.5 \text{ cm}$ says the best estimate is 24.0 cm and the true value almost certainly falls between 23.5 cm and 24.5 cm. The ± 0.5 cm is the **absolute uncertainty**.
 
 At A-Level, uncertainty is **estimated from the characteristics of the equipment**, not derived from the statistical spread of repeats. It reflects both [[Systematic-and-Random-Errors|systematic and random errors]] but is reported as a single sensible interval rather than a formal standard deviation.
 

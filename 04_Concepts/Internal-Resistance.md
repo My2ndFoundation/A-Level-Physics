@@ -25,11 +25,11 @@ Internal resistance is the resistance to current flow inside a source of electro
 
 ## Meaning
 
-A real cell is not an ideal source of potential difference. The chemicals and electrodes inside it have their own resistance, denoted r. When current I flows, a voltage Ir is dissipated inside the cell — these are the "lost volts". The relationship is:
+A real cell is not an ideal source of potential difference. The chemicals and electrodes inside it have their own resistance, denoted r. When current I flows, a voltage $Ir$ is dissipated inside the cell — these are the "lost volts". The relationship is:
 
-EMF = terminal p.d. + lost volts, or ε = V + Ir = I(R + r),
+$$\text{EMF} = \text{terminal p.d.} + \text{lost volts}, \quad \text{or} \quad \varepsilon = V + Ir = I(R + r)$$
 
-where ε is the electromotive force, V the terminal potential difference across the external circuit, and R the external resistance. The EMF is the total energy given per unit charge by the source; the terminal p.d. is what is actually available to the external circuit, and it falls as current increases.
+where $\varepsilon$ is the electromotive force, V the terminal potential difference across the external circuit, and R the external resistance. The EMF is the total energy given per unit charge by the source; the terminal p.d. is what is actually available to the external circuit, and it falls as current increases.
 
 This is captured by the [[Internal-Resistance-Model]]: an ideal EMF source in series with a small resistor r. When the external resistance is very large (almost no current) the terminal p.d. is nearly equal to the EMF; under high current (small R) the lost volts become large and the terminal p.d. drops noticeably.
 
@@ -93,7 +93,7 @@ Internal resistance explains why terminal voltage depends on load, limits the ma
 
 ### Circuit model of a real cell with internal resistance
 ![[_attachments/04_Concepts/Internal-Resistance--circuit-diagram.svg]]
-*Figure: The dashed box represents a real cell modelled as an ideal EMF source ε in series with the internal resistance r. The terminal p.d. V = IR across the external load R is less than ε by the lost volts Ir. The full equation is ε = I(R + r).*
+*Figure: The dashed box represents a real cell modelled as an ideal EMF source ε in series with the internal resistance r. The terminal p.d. $V = IR$ across the external load R is less than ε by the lost volts $Ir$. The full equation is $\varepsilon = I(R + r)$.*
 *Source: Authored for this vault (CC0). No external copyright.*
 
 ## Source Trace

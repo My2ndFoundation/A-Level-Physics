@@ -50,7 +50,7 @@ Position therefore encodes both the star's current state and its mass.
 ## Gradient / Area / Intercepts
 
 Not a quantitative line graph, so gradient and area have no direct meaning.
-However, lines of constant radius run diagonally because L = 4πr²σT⁴
+However, lines of constant radius run diagonally because $L = 4\pi r^2\sigma T^4$
 ([[Stefans-Law]]): for fixed luminosity, cooler stars must be larger, which
 is why giants sit above and right of the main sequence.
 
@@ -80,7 +80,7 @@ is why giants sit above and right of the main sequence.
 ### H-R diagram: schematic with main sequence, giants, and white dwarfs
 
 ![[_attachments/08_Representations/hertzsprung-russell-diagram--schematic.svg]]
-*Figure: [[Luminosity]] (log scale, y-axis increasing upward) plotted against surface temperature (log scale, x-axis DECREASING leftward — hot blue-white O-stars at left, cool red M-stars at right). The main sequence (blue band) runs diagonally from hot-bright (upper left) to cool-faint (lower right). Red giants and supergiants (orange/yellow region) sit upper-right — cool but very luminous, so very large radii (from [[Stefans-Law]]: L = 4πr²σT⁴). White dwarfs (light-blue region) sit lower-left — hot but faint, so very small. The Sun (☉) lies on the main sequence at ~5 800 K and L = L☉.*
+*Figure: [[Luminosity]] (log scale, y-axis increasing upward) plotted against surface temperature (log scale, x-axis DECREASING leftward — hot blue-white O-stars at left, cool red M-stars at right). The main sequence (blue band) runs diagonally from hot-bright (upper left) to cool-faint (lower right). Red giants and supergiants (orange/yellow region) sit upper-right — cool but very luminous, so very large radii (from [[Stefans-Law]]: $L = 4\pi r^2\sigma T^4$). White dwarfs (light-blue region) sit lower-left — hot but faint, so very small. The Sun (☉) lies on the main sequence at ~5 800 K and $L = L_\odot$.*
 *Source: Authored for this vault (CC0). No external copyright.*
 
 ## Source Trace

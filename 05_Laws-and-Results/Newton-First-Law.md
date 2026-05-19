@@ -27,7 +27,7 @@ An object remains at rest, or continues to move in a straight line at constant v
 
 There is no defining equation. The law corresponds to the condition:
 
-`ΣF = 0  ⇒  a = 0  ⇒  v = constant`
+$$\Sigma F = 0 \implies a = 0 \implies v = \text{constant}$$
 
 ## Symbols and Units
 
@@ -57,7 +57,7 @@ At GCSE the idea is taught as "balanced forces mean steady speed or rest". A-Lev
 
 ## Derivation or Explanation
 
-The first law is a special case of [[Newton-Second-Law]] with zero resultant force: `F = ma` gives `a = 0` when `F = 0`. Historically it is stated separately because it *defines* inertial frames in which the second law applies.
+The first law is a special case of [[Newton-Second-Law]] with zero resultant force: $F = ma$ gives $a = 0$ when $F = 0$. Historically it is stated separately because it *defines* inertial frames in which the second law applies.
 
 ## Related Quantities
 

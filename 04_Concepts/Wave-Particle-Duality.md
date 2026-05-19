@@ -27,7 +27,7 @@ Wave-particle duality is the principle that both light and matter exhibit wave-l
 
 Classical physics treated light as a wave and electrons as particles. But the [[Photoelectric-Effect]] and the photon model show light behaving as discrete particles, while [[Interference]] and [[Diffraction]] show it behaving as a wave. Light is therefore both — its nature depends on the experiment.
 
-Louis de Broglie proposed that this duality is universal: any particle with momentum p has an associated wavelength given by the [[De-Broglie-Equation]] λ = h/p, where h is the Planck constant. This prediction was confirmed by electron diffraction: a beam of electrons passed through a thin crystal produces a diffraction pattern just like X-rays, demonstrating that matter has wave properties.
+Louis de Broglie proposed that this duality is universal: any particle with momentum $p$ has an associated wavelength given by the [[De-Broglie-Equation]] $\lambda = h/p$, where $h$ is the Planck constant. This prediction was confirmed by electron diffraction: a beam of electrons passed through a thin crystal produces a diffraction pattern just like X-rays, demonstrating that matter has wave properties.
 
 The de Broglie wavelength is extremely small for everyday objects (because their momentum is huge), which is why we never notice the wave nature of a thrown ball. It becomes significant only for very small particles such as electrons. Whether wave or particle behaviour shows up depends on the scale and the measurement — a deep idea that points towards quantum mechanics.
 
@@ -81,7 +81,7 @@ Duality is the conceptual gateway to quantum mechanics, explains the electron mi
 
 - Thinking an object is wave and particle at the same instant in the same measurement.
 - Applying the de Broglie wavelength to macroscopic objects expecting visible effects.
-- Confusing photon energy E = hf with de Broglie wavelength λ = h/p.
+- Confusing photon energy $E = hf$ with de Broglie wavelength $\lambda = h/p$.
 
 ## Visuals
 

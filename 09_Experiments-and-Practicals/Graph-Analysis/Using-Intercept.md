@@ -38,10 +38,10 @@ To extract a physical quantity from where a straight-line graph crosses an axis,
 
 ## Method
 
-1. Rearrange the physical equation into `y = mx + c`, so the y-intercept `c` represents the wanted quantity.
+1. Rearrange the physical equation into $y = mx + c$, so the y-intercept `c` represents the wanted quantity.
 2. Plot the data and draw the best-fit straight line.
-3. If the y-axis is drawn at `x = 0`, read the intercept directly where the line crosses it.
-4. If the origin is not shown, pick a point on the line `(x₁, y₁)`, find the gradient `m`, then compute `c = y₁ − m·x₁`.
+3. If the y-axis is drawn at $x = 0$, read the intercept directly where the line crosses it.
+4. If the origin is not shown, pick a point on the line $(x_1, y_1)$, find the gradient `m`, then compute $c = y_1 - m \cdot x_1$.
 5. Identify the physical meaning of `c` from the rearranged equation and quote it with units.
 
 ## Measurements
@@ -50,7 +50,7 @@ The coordinate where the best-fit line meets the axis, or a point on the line pl
 
 ## Data Processing
 
-Interpret the intercept physically: e.g. the y-intercept of a `1/v` against `1/u` lens graph gives `1/f`; the y-intercept of terminal pd against current gives the emf in [[Determining-Internal-Resistance]]; a non-zero intercept where theory predicts zero indicates a systematic (zero) error.
+Interpret the intercept physically: e.g. the y-intercept of a $1/v$ against $1/u$ lens graph gives $1/f$; the y-intercept of terminal pd against current gives the emf in [[Determining-Internal-Resistance]]; a non-zero intercept where theory predicts zero indicates a systematic (zero) error.
 
 ## Graph Use
 
@@ -90,7 +90,7 @@ xychart-beta
     y-axis "y (dependent variable)" 0 --> 16
     line [4, 6, 8, 10, 12, 14]
 ```
-*Figure: The y-intercept c is read where the best-fit line crosses the y-axis (at x = 0). Here c = 4, representing a non-zero baseline quantity (e.g. the emf ε in the V = ε − Ir graph, or a systematic offset). If the y-axis does not start at x = 0, the intercept must be calculated from a known point and the gradient.*
+*Figure: The y-intercept c is read where the best-fit line crosses the y-axis (at $x = 0$). Here $c = 4$, representing a non-zero baseline quantity (e.g. the emf ε in the $V = \varepsilon - Ir$ graph, or a systematic offset). If the y-axis does not start at $x = 0$, the intercept must be calculated from a known point and the gradient.*
 *Source: Authored for this vault (CC0). No external copyright.*
 
 ## Source Trace

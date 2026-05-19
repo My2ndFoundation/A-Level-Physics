@@ -41,13 +41,13 @@ Impulse is the product of a force and the time for which it acts; for a varying 
 
 ## Related Equations
 
-- `J = FΔt` — `J` = impulse (N s), `F` = (average) resultant force (N), `Δt` = time interval (s).
-- `J = Δp = mv − mu` — `m` = mass (kg), `u`, `v` = initial and final velocities (m s⁻¹).
-- For a varying force, `J =` area under the force–time graph.
+- $J = F\Delta t$ — `J` = impulse (N s), `F` = (average) resultant force (N), `Δt` = time interval (s).
+- $J = \Delta p = mv - mu$ — `m` = mass (kg), `u`, `v` = initial and final velocities (m s⁻¹).
+- For a varying force, $J =$ area under the force–time graph.
 
 ## How It Is Measured
 
-A force sensor records force against time during an impact; the area under the curve gives the impulse. Alternatively, measure mass and the change in velocity (before/after via light gates or video) and use `J = Δp`.
+A force sensor records force against time during an impact; the area under the curve gives the impulse. Alternatively, measure mass and the change in velocity (before/after via light gates or video) and use $J = \Delta p$.
 
 ## Graphical Meaning
 
@@ -81,7 +81,7 @@ On a **force–time graph**, impulse is the **area under the curve**. A tall, na
 
 - Treating impulse as a scalar and dropping direction
 - Forgetting impulse equals change in momentum, not momentum itself
-- Using peak force instead of average force in `J = FΔt`
+- Using peak force instead of average force in $J = F\Delta t$
 
 ## Visuals
 

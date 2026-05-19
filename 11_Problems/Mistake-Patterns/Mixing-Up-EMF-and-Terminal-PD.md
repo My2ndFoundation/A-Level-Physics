@@ -33,12 +33,12 @@ where internal resistance matters.
 
 A 1.5 V cell with internal resistance 0.5 Ω drives 2 A through an external
 circuit. A student writes the terminal voltage as 1.5 V. Correctly, the cell
-loses I·r = 2 × 0.5 = 1.0 V internally, so the terminal pd is only
-1.5 − 1.0 = 0.5 V. Using 1.5 V overestimates the power delivered to the load.
+loses $I r = 2 \times 0.5 = 1.0\ \text{V}$ internally, so the terminal pd is only
+$1.5 - 1.0 = 0.5\ \text{V}$. Using 1.5 V overestimates the power delivered to the load.
 
 ## Correct Approach
 
-Use ε = I(R + r), so terminal pd V = ε − I·r. The EMF is the total energy per
+Use $\varepsilon = I(R + r)$, so terminal pd $V = \varepsilon - I r$. The EMF is the total energy per
 coulomb supplied; the terminal pd is what is left for the external circuit
 after the internal "lost volts".
 
@@ -58,7 +58,7 @@ source of voltage.
 
 ## Related Methods
 
-- Applying ε = I(R + r) and finding "lost volts" I·r
+- Applying $\varepsilon = I(R + r)$ and finding "lost volts" $I r$
 
 ## Related Problem Types
 

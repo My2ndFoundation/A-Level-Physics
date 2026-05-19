@@ -65,7 +65,7 @@ Everything around you — air, water, your own body — is made of atoms far too
 
 ## Bridge to A-Level
 
-At A-Level, the model is refined into discrete energy levels that explain line spectra, the nucleus is studied quantitatively through nuclear equations, binding energy and E = mc², radioactive decay is treated with the exponential decay law and half-life, and the substructure of protons and neutrons (quarks) is introduced in particle physics. See the A-Level nuclear and particle physics pages for the formal treatment.
+At A-Level, the model is refined into discrete energy levels that explain line spectra, the nucleus is studied quantitatively through nuclear equations, binding energy and $E = mc^2$, radioactive decay is treated with the exponential decay law and half-life, and the substructure of protons and neutrons (quarks) is introduced in particle physics. See the A-Level nuclear and particle physics pages for the formal treatment.
 
 ## Source Trace
 

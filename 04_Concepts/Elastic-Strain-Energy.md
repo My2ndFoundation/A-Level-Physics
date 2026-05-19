@@ -97,7 +97,7 @@ xychart-beta
   line [0, 10, 20, 30, 40, 50]
 ```
 
-*Figure: For a spring obeying Hooke's Law, F is proportional to x (straight line through origin, gradient = k). The elastic strain energy E = ½kx² equals the triangular area under the line — not the full rectangle F×x.*
+*Figure: For a spring obeying Hooke's Law, F is proportional to x (straight line through origin, gradient = k). The elastic strain energy $E = \tfrac{1}{2}kx^2$ equals the triangular area under the line — not the full rectangle $F \times x$.*
 *Source: Authored for this vault (CC0). No external copyright.*
 
 ## Source Trace

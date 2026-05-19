@@ -42,15 +42,15 @@ Charge is a conserved physical property that determines the electromagnetic forc
 
 ## Related Equations
 
-- `Q = It` — `Q` = charge (C), `I` = current (A), `t` = time (s).
-- `Q = ne` — `n` = number of elementary charges, `e` = 1.60 × 10⁻¹⁹ C.
-- `W = QV` — energy transferred (J), `V` = potential difference (V).
-- Capacitor: `Q = CV` — `C` = capacitance (F). See [[Capacitance]].
+- $Q = It$ — `Q` = charge (C), `I` = current (A), `t` = time (s).
+- $Q = ne$ — `n` = number of elementary charges, `e` = 1.60 × 10⁻¹⁹ C.
+- $W = QV$ — energy transferred (J), `V` = potential difference (V).
+- Capacitor: $Q = CV$ — `C` = capacitance (F). See [[Capacitance]].
 - Force between charges: see [[Coulombs-Law]].
 
 ## How It Is Measured
 
-Indirectly: charge = current × time (ammeter and timer), or from `Q = CV` using a capacitor of known capacitance, or with a coulombmeter. In the Millikan-type context, charge is inferred from force balance on droplets.
+Indirectly: charge = current × time (ammeter and timer), or from $Q = CV$ using a capacitor of known capacitance, or with a coulombmeter. In the Millikan-type context, charge is inferred from force balance on droplets.
 
 ## Graphical Meaning
 

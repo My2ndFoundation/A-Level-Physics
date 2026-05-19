@@ -25,9 +25,9 @@ A potential divider is a circuit of two or more resistors in series across a sup
 
 ## Meaning
 
-Because resistors in series carry the same current, the supply voltage is shared between them in the ratio of their resistances. For two resistors R₁ and R₂ in series across a supply Vₛ, the voltage across R₂ is:
+Because resistors in series carry the same current, the supply voltage is shared between them in the ratio of their resistances. For two resistors $R_1$ and $R_2$ in series across a supply $V_\text{s}$, the voltage across $R_2$ is:
 
-V_out = Vₛ × R₂ / (R₁ + R₂).
+$$V_\text{out} = V_\text{s} \times \frac{R_2}{R_1 + R_2}$$
 
 By choosing the resistor ratio, any output between zero and the full supply can be produced. This is the basis of the [[Potential-Divider-Model]]. Replacing one resistor with a variable resistor or a sensor (a thermistor or light-dependent resistor) makes the output voltage respond automatically to temperature or light, which is how sensing circuits generate a control signal.
 

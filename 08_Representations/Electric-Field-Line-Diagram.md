@@ -38,11 +38,11 @@ Not a graph. Components:
 
 ## Physical Meaning
 
-The pattern shows both the direction of the electrostatic force on a positive charge (tangent to the line) and the relative strength (line density). A radial pattern indicates an inverse-square point-charge field; uniformly spaced parallel lines indicate a uniform field, as between capacitor plates where `E = V/d`.
+The pattern shows both the direction of the electrostatic force on a positive charge (tangent to the line) and the relative strength (line density). A radial pattern indicates an inverse-square point-charge field; uniformly spaced parallel lines indicate a uniform field, as between capacitor plates where $E = V/d$.
 
 ## Gradient / Area / Intercepts
 
-Not applicable to the diagram itself. The associated relationships are `E = F/Q` (force per unit charge) and, for a uniform field, `E = V/d`.
+Not applicable to the diagram itself. The associated relationships are $E = F/Q$ (force per unit charge) and, for a uniform field, $E = V/d$.
 
 ## Converts To / From
 
@@ -56,7 +56,7 @@ Not applicable to the diagram itself. The associated relationships are `E = F/Q`
 ## Related Methods
 
 - Comparing line density to compare field strength
-- Relating `E = V/d` for a uniform field
+- Relating $E = V/d$ for a uniform field
 
 ## Common Mistakes
 
@@ -69,7 +69,7 @@ Not applicable to the diagram itself. The associated relationships are `E = F/Q`
 ### Electric field lines: point charge and parallel plates
 
 ![[_attachments/08_Representations/electric-field-line-diagram--point-charge-and-uniform.svg]]
-*Figure: Left — radial lines spreading outward from a positive point charge; line density decreases with distance, consistent with the inverse-square field (E ∝ 1/r²). Right — uniform field between oppositely charged parallel plates; parallel, equally spaced vertical lines with arrows pointing from + plate to − plate represent the constant [[Electric-Field-Strength]] E = V/d. Lines never cross.*
+*Figure: Left — radial lines spreading outward from a positive point charge; line density decreases with distance, consistent with the inverse-square field ($E \propto 1/r^2$). Right — uniform field between oppositely charged parallel plates; parallel, equally spaced vertical lines with arrows pointing from + plate to − plate represent the constant [[Electric-Field-Strength]] $E = V/d$. Lines never cross.*
 *Source: Authored for this vault (CC0). No external copyright.*
 
 ## Source Trace

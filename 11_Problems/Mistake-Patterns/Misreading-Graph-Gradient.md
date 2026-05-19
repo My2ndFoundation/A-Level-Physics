@@ -27,11 +27,11 @@ Graphs in early work often have simple unit axes through the origin, so dividing
 
 ## Example
 
-On a velocity–time graph a student reads the gradient at the point (4 s, 12 m/s) as 12 ÷ 4 = 3 m/s². If the line does not pass through the origin, the acceleration is the change in velocity divided by the change in time over an interval, not the ratio of one point's coordinates.
+On a velocity–time graph a student reads the gradient at the point $(4\ \text{s}, 12\ \text{m s}^{-1})$ as $12 / 4 = 3\ \text{m s}^{-2}$. If the line does not pass through the origin, the acceleration is the change in velocity divided by the change in time over an interval, not the ratio of one point's coordinates.
 
 ## Correct Approach
 
-Choose two widely separated points on the line, take the differences Δy and Δx, and divide. Include axis multipliers and unit prefixes. State what the gradient means physically (for example, acceleration on a velocity–time graph) and check its units.
+Choose two widely separated points on the line, take the differences $\Delta y$ and $\Delta x$, and divide. Include axis multipliers and unit prefixes. State what the gradient means physically (for example, acceleration on a velocity–time graph) and check its units.
 
 ## Foundation Link
 

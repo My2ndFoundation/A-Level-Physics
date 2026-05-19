@@ -35,13 +35,13 @@ A line graph with time on the horizontal axis and velocity on the vertical axis.
 
 ## Physical Meaning
 
-The vertical position is how fast and in which direction the object moves at that instant. A line returning to and crossing `v = 0` marks the moment the object is momentarily at rest and then reverses direction — the classic signature of a ball thrown upward.
+The vertical position is how fast and in which direction the object moves at that instant. A line returning to and crossing $v = 0$ marks the moment the object is momentarily at rest and then reverses direction — the classic signature of a ball thrown upward.
 
 ## Gradient / Area / Intercepts
 
 - **Gradient** = change in velocity ÷ change in time = [[Acceleration]]. A positive gradient is acceleration in the positive direction; a negative gradient is deceleration (or acceleration in the negative direction). Use [[Finding-Gradient-from-a-Graph]] over a large triangle for accuracy.
 - **Area under the graph** = [[Displacement]] (not distance). Area above the time axis is positive displacement; area below counts as negative and partly cancels — so total displacement can be less than total distance travelled. For curves, estimate area by counting squares or the trapezium rule.
-- **y-intercept** = the initial velocity `u` at `t = 0`.
+- **y-intercept** = the initial velocity `u` at $t = 0$.
 - **x-intercept** = the instant the object is momentarily at rest.
 
 ## Converts To / From

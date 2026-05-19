@@ -26,9 +26,9 @@ When a charged capacitor discharges through a resistor, its charge, voltage, and
 
 ## Equation
 
-`Q = Q₀ e^(−t / RC)`
+$$Q = Q_0 e^{-t / RC}$$
 
-with `V = V₀ e^(−t/RC)` and `I = I₀ e^(−t/RC)` (same time constant)
+with $V = V_0 e^{-t/RC}$ and $I = I_0 e^{-t/RC}$ (same time constant)
 
 ## Symbols and Units
 
@@ -44,11 +44,11 @@ with `V = V₀ e^(−t/RC)` and `I = I₀ e^(−t/RC)` (same time constant)
 
 - The resistor is ohmic and `R`, `C` are constant.
 - No emf source in the discharge loop (pure discharge).
-- The time constant `τ = RC`; after one `τ` the charge falls to about 37% (`1/e`) of its initial value.
+- The time constant $\tau = RC$; after one `τ` the charge falls to about 37% (`1/e`) of its initial value.
 
 ## Physical Meaning
 
-As the capacitor discharges, the current depends on the remaining charge (through `V = Q/C` and [[Ohms-Law]]), so the more it discharges the slower it discharges — a self-limiting process that gives exponential decay. The same exponential form, with the same time constant, governs charge, voltage, and current. The time constant sets the natural timescale of the circuit.
+As the capacitor discharges, the current depends on the remaining charge (through $V = Q/C$ and [[Ohms-Law]]), so the more it discharges the slower it discharges — a self-limiting process that gives exponential decay. The same exponential form, with the same time constant, governs charge, voltage, and current. The time constant sets the natural timescale of the circuit.
 
 ## Foundation Link
 
@@ -58,12 +58,12 @@ GCSE introduces capacitors as charge stores. A-Level adds the exponential discha
 
 1. Identify `R`, `C`, and the initial value (`Q₀`, `V₀`, or `I₀`).
 2. Substitute into the exponential equation for the chosen quantity.
-3. To find `RC` from data, plot `ln(Q)` against `t`; the gradient is `−1/RC`.
-4. Use `τ = RC` to estimate how long the circuit takes to "settle".
+3. To find `RC` from data, plot $\ln(Q)$ against `t`; the gradient is $-1/RC$.
+4. Use $\tau = RC$ to estimate how long the circuit takes to "settle".
 
 ## Derivation or Explanation
 
-For the discharge loop, `Q/C = IR` and `I = −dQ/dt`, giving `dQ/dt = −Q/RC`. Solving this first-order equation yields `Q = Q₀ e^(−t/RC)`.
+For the discharge loop, $Q/C = IR$ and $I = -\frac{dQ}{dt}$, giving $\frac{dQ}{dt} = -\frac{Q}{RC}$. Solving this first-order equation yields $Q = Q_0 e^{-t/RC}$.
 
 ## Related Quantities
 
@@ -88,7 +88,7 @@ For the discharge loop, `Q/C = IR` and `I = −dQ/dt`, giving `dQ/dt = −Q/RC`.
 
 ## Common Mistakes
 
-- Confusing the time constant with a half-life (they differ by a factor of `ln 2`)
+- Confusing the time constant with a half-life (they differ by a factor of $\ln 2$)
 - Forgetting that `V` and `I` decay with the same `RC` as `Q`
 - Plotting `Q` vs `t` and expecting a straight line instead of using `ln Q`
 

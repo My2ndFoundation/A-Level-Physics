@@ -31,7 +31,7 @@ A student writes that an astronaut "weighs 80 kg on the Moon." Mass is the same 
 
 ## Correct Approach
 
-State mass in kilograms and weight in newtons. Compute weight from `W = mg`, where `g` is the local gravitational field strength. Mass is an invariant property of the object; weight is the gravitational force acting on it and depends on location. When a problem says "weight," expect a force in newtons.
+State mass in kilograms and weight in newtons. Compute weight from $W = mg$, where `g` is the local gravitational field strength. Mass is an invariant property of the object; weight is the gravitational force acting on it and depends on location. When a problem says "weight," expect a force in newtons.
 
 ## Foundation Link
 

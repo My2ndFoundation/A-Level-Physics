@@ -25,11 +25,11 @@ Binding energy is the energy that would be needed to completely separate a nucle
 
 A bound nucleus has less mass than the sum of its separate nucleons — this missing mass is the [[Mass-Defect]] Δm. By [[Mass-Energy-Equivalence]], the binding energy is:
 
-E_b = Δm c²
+$$E_b = \Delta m\, c^2$$
 
-where c = 3.00 × 10⁸ m s⁻¹. Binding energies are large, so they are usually quoted in MeV (1 MeV = 1.60 × 10⁻¹³ J), and masses in atomic mass units (1 u → 931.5 MeV).
+where $c = 3.00 \times 10^8\ \text{m s}^{-1}$. Binding energies are large, so they are usually quoted in MeV (1 MeV = 1.60 × 10⁻¹³ J), and masses in atomic mass units (1 u → 931.5 MeV).
 
-The most useful quantity is **binding energy per nucleon**, E_b / A. Plotted against nucleon number A, this curve rises steeply for light nuclei, peaks near iron-56 (≈ 8.8 MeV per nucleon — the most stable region), then falls slowly for heavy nuclei.
+The most useful quantity is **binding energy per nucleon**, $E_b / A$. Plotted against nucleon number A, this curve rises steeply for light nuclei, peaks near iron-56 (≈ 8.8 MeV per nucleon — the most stable region), then falls slowly for heavy nuclei.
 
 - Moving toward the peak releases energy.
 - Light nuclei joining → [[Nuclear-Fusion]] releases energy.

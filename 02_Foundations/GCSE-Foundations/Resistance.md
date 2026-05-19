@@ -27,7 +27,7 @@ GCSE
 
 ## Meaning
 
-At GCSE, resistance is the opposition to current in a circuit, measured in ohms (Ω). It is defined through the relationship resistance = potential difference ÷ current. For a fixed voltage, a higher resistance means a smaller current; for a fixed resistance, increasing the voltage increases the current in proportion.
+At GCSE, resistance is the opposition to current in a circuit, measured in ohms (Ω). It is defined through the relationship $\text{resistance} = \text{potential difference} / \text{current}$. For a fixed voltage, a higher resistance means a smaller current; for a fixed resistance, increasing the voltage increases the current in proportion.
 
 As charges move through a resistive component, they collide with the vibrating atoms of the material and transfer energy to them, which is why resistors warm up. This is the basis of heating elements in kettles, toasters and filament lamps.
 
@@ -37,7 +37,7 @@ In series, resistances add up; in parallel, the total resistance is less than th
 
 ## Why It Matters for A-Level Physics
 
-Resistance is central to A-Level electricity: [[Ohms-Law]] and ohmic versus non-ohmic behaviour, I–V characteristics, resistivity and its temperature dependence, series and parallel combinations, potential dividers, and internal resistance of sources. The GCSE definition R = V/I carries directly into the A-Level work.
+Resistance is central to A-Level electricity: [[Ohms-Law]] and ohmic versus non-ohmic behaviour, I–V characteristics, resistivity and its temperature dependence, series and parallel combinations, potential dividers, and internal resistance of sources. The GCSE definition $R = V/I$ carries directly into the A-Level work.
 
 ## Everyday Intuition
 
@@ -68,7 +68,7 @@ Resistance is like a narrow or rough section of a water pipe: it makes it harder
 
 ## Bridge to A-Level
 
-At A-Level, resistance is studied through I–V characteristics, the distinction between ohmic and non-ohmic conductors, and resistivity ρ via R = ρL/A, including how resistivity changes with temperature. It is combined with [[Voltage]] and [[Electric-Current]] in [[Ohms-Law]], potential dividers and internal-resistance analysis. See the A-Level [[Resistance]] physical-quantity page for the formal treatment.
+At A-Level, resistance is studied through I–V characteristics, the distinction between ohmic and non-ohmic conductors, and resistivity $\rho$ via $R = \rho L / A$, including how resistivity changes with temperature. It is combined with [[Voltage]] and [[Electric-Current]] in [[Ohms-Law]], potential dividers and internal-resistance analysis. See the A-Level [[Resistance]] physical-quantity page for the formal treatment.
 
 ## Source Trace
 

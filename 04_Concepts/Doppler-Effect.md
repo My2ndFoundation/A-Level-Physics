@@ -32,11 +32,11 @@ wavelength stretches and frequency falls.
 For light from a distant astronomical source moving with radial speed v much
 smaller than the speed of light c, the fractional shift is:
 
-Δλ / λ ≈ Δf / f ≈ v / c
+$$\frac{\Delta\lambda}{\lambda} \approx \frac{\Delta f}{f} \approx \frac{v}{c}$$
 
-Symbols: λ = emitted wavelength (m), Δλ = change in wavelength (m),
-f = frequency (Hz), Δf = change in frequency (Hz), v = radial speed of source
-(m s⁻¹), c = 3.00 × 10⁸ m s⁻¹. By convention Δλ is positive (longer
+Symbols: $\lambda$ = emitted wavelength (m), $\Delta\lambda$ = change in wavelength (m),
+$f$ = frequency (Hz), $\Delta f$ = change in frequency (Hz), $v$ = radial speed of source
+(m s⁻¹), $c = 3.00 \times 10^8$ m s⁻¹. By convention Δλ is positive (longer
 wavelength) when the source recedes — this is [[Redshift]] — and negative
 (shorter wavelength, blueshift) when it approaches.
 
@@ -54,7 +54,7 @@ as it moves away. The same physics applies to light from stars and galaxies.
 - [[Wavelength]]
 
 GCSE introduces the siren example and red-shift qualitatively. A-Level adds
-the Δλ/λ = v/c relationship for light.
+the $\Delta\lambda/\lambda = v/c$ relationship for light.
 
 ## Why It Matters
 
@@ -97,7 +97,7 @@ galaxies, detect binary stars and exoplanets, and — through galactic
 ## Common Mistakes
 
 - Thinking the wave's emitted frequency changes (only the observed value does)
-- Using Δλ/λ = v/c when v is comparable to c
+- Using $\Delta\lambda/\lambda = v/c$ when v is comparable to c
 - Confusing blueshift (approach) with redshift (recession)
 
 ## Visuals
@@ -113,7 +113,7 @@ flowchart LR
     Red --> Astro["Galactic redshift\nΔλ/λ = v/c\n→ Hubble's Law"]
 ```
 
-*Figure: A source moving toward an observer compresses wavefronts (blueshift); moving away stretches them (redshift). For astronomical light: Δλ/λ ≈ v/c for v << c.*
+*Figure: A source moving toward an observer compresses wavefronts (blueshift); moving away stretches them (redshift). For astronomical light: $\Delta\lambda/\lambda \approx v/c$ for $v \ll c$.*
 *Source: Authored for this vault (CC0). No external copyright.*
 
 ## Source Trace

@@ -30,7 +30,7 @@ The object is reduced to a point or a simple box. Each force is drawn as an arro
 ## Axes / Labels / Components
 
 - The object: a dot or small box (the "free body").
-- Weight: `W = mg` arrow pointing vertically down from the centre.
+- Weight: $W = mg$ arrow pointing vertically down from the centre.
 - Normal contact force: arrow perpendicular to and away from the surface.
 - Tension / thrust: along strings, rods or springs.
 - Friction or drag: along the surface or fluid, opposing relative motion.
@@ -72,7 +72,7 @@ Not applicable — this is a diagram, not a graph. The analytic step is **resolv
 ### Free-body diagram: block on a surface
 
 ![[_attachments/08_Representations/free-body-diagram--block-on-slope.svg]]
-*Figure: A block (the free body) with four forces labelled and drawn as arrows: weight W = mg downward from the centre, normal contact force N perpendicular upward from the surface, friction f opposing motion (leftward), and an applied force F (rightward). Only forces acting ON the block are shown — the Newton's third-law reaction pair acts on different bodies and is excluded.*
+*Figure: A block (the free body) with four forces labelled and drawn as arrows: weight $W = mg$ downward from the centre, normal contact force N perpendicular upward from the surface, friction f opposing motion (leftward), and an applied force F (rightward). Only forces acting ON the block are shown — the Newton's third-law reaction pair acts on different bodies and is excluded.*
 *Source: Authored for this vault (CC0). No external copyright.*
 
 ## Source Trace

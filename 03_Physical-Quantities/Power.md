@@ -45,14 +45,14 @@ Power is the rate of doing work, equivalently the rate of energy transfer.
 
 ## Related Equations
 
-- `P = W / t` or `P = ΔE / t` — `P` = power (W), `W` = work (J), `ΔE` = energy transferred (J), `t` = time (s).
-- `P = Fv` — `F` = force (N), `v` = speed (m s⁻¹) (force along the motion).
-- Electrical: `P = IV = I²R = V²/R` — `I` = current (A), `V` = p.d. (V), `R` = resistance (Ω).
-- Efficiency: `efficiency = useful power output / total power input`.
+- $P = W / t$ or $P = \Delta E / t$ — `P` = power (W), `W` = work (J), `ΔE` = energy transferred (J), `t` = time (s).
+- $P = Fv$ — `F` = force (N), `v` = speed (m s⁻¹) (force along the motion).
+- Electrical: $P = IV = I^2 R = V^2/R$ — `I` = current (A), `V` = p.d. (V), `R` = resistance (Ω).
+- Efficiency: $\text{efficiency} = \dfrac{\text{useful power output}}{\text{total power input}}$.
 
 ## How It Is Measured
 
-Mechanically: measure energy transferred (or force and speed) and the time. Electrically: measure current and potential difference (joulemeter or `P = IV`).
+Mechanically: measure energy transferred (or force and speed) and the time. Electrically: measure current and potential difference (joulemeter or $P = IV$).
 
 ## Graphical Meaning
 

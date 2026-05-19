@@ -23,7 +23,7 @@ An object moving in a circle at constant speed is still accelerating, because it
 
 ## Meaning
 
-In uniform circular motion the speed |v| is constant but the [[Velocity]] vector changes direction every instant, always tangent to the circle. A changing velocity means an [[Acceleration]] — here the [[Centripetal-Acceleration]] a = v²/r = ω²r, directed radially inward. By [[Newton-Second-Law]] there must be a resultant inward [[Centripetal-Force]] F = mv²/r = mω²r. There is no outward "centrifugal" real force; the inward force is provided by tension, gravity, friction, normal contact, or a combination.
+In uniform circular motion the speed |v| is constant but the [[Velocity]] vector changes direction every instant, always tangent to the circle. A changing velocity means an [[Acceleration]] — here the [[Centripetal-Acceleration]] $a = v^2/r = \omega^2 r$, directed radially inward. By [[Newton-Second-Law]] there must be a resultant inward [[Centripetal-Force]] $F = mv^2/r = m\omega^2 r$. There is no outward "centrifugal" real force; the inward force is provided by tension, gravity, friction, normal contact, or a combination.
 
 ## Everyday Intuition
 

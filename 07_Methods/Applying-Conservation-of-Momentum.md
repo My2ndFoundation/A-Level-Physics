@@ -33,7 +33,7 @@ Use it for collisions (elastic or inelastic), explosions, recoil, and any intera
 ## Method
 
 1. Define the system (all interacting bodies) and a positive direction.
-2. Write each body's momentum before the interaction: *p = mv* with correct signs.
+2. Write each body's momentum before the interaction: $p = mv$ with correct signs.
 3. Write each body's momentum after the interaction.
 4. Set total momentum before = total momentum after.
 5. Solve for the unknown velocity or mass.
@@ -41,7 +41,7 @@ Use it for collisions (elastic or inelastic), explosions, recoil, and any intera
 
 ## Worked Example
 
-A 2.0 kg trolley moving at 3.0 m s⁻¹ collides with a stationary 1.0 kg trolley and they stick together. Before: total momentum = 2.0 × 3.0 + 0 = 6.0 kg m s⁻¹. After: (2.0 + 1.0)v = 6.0, so *v = 2.0 m s⁻¹*. Kinetic energy falls (9.0 J → 6.0 J), confirming an inelastic collision.
+A 2.0 kg trolley moving at 3.0 m s⁻¹ collides with a stationary 1.0 kg trolley and they stick together. Before: total momentum $= 2.0 \times 3.0 + 0 = 6.0 \text{ kg m s}^{-1}$. After: $(2.0 + 1.0)v = 6.0$, so $v = 2.0 \text{ m s}^{-1}$. Kinetic energy falls ($9.0 \text{ J} \rightarrow 6.0 \text{ J}$), confirming an inelastic collision.
 
 ## Why It Works
 

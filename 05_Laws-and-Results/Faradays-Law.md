@@ -24,9 +24,9 @@ The magnitude of the induced electromotive force (e.m.f.) in a circuit is direct
 
 ## Equation
 
-ε = −d(NΦ)/dt
+$$\varepsilon = -\frac{d(N\Phi)}{dt}$$
 
-The magnitude is |ε| = |Δ(NΦ)/Δt| for an average over a time interval.
+The magnitude is $|\varepsilon| = \left| \frac{\Delta(N\Phi)}{\Delta t} \right|$ for an average over a time interval.
 
 ## Symbols and Units
 
@@ -52,11 +52,11 @@ Builds on the GCSE generator effect (moving a wire in a field induces a voltage)
 
 ## How to Use
 
-Express NΦ = B A N cos θ; differentiate (or take Δ over Δt) the quantity that changes — B, A, or θ; the result's magnitude is the induced e.m.f. See [[Applying-Faradays-Law]].
+Express $N\Phi = B A N \cos\theta$; differentiate (or take Δ over Δt) the quantity that changes — B, A, or θ; the result's magnitude is the induced e.m.f. See [[Applying-Faradays-Law]].
 
 ## Derivation or Explanation
 
-For a conductor of length L moving at speed v perpendicular to a field B, the area swept per second is Lv, so dΦ/dt = BLv and ε = BLv — consistent with the motional e.m.f. picture and with [[Force-on-a-Moving-Charge]] acting on carriers in the rod.
+For a conductor of length L moving at speed v perpendicular to a field B, the area swept per second is $Lv$, so $\frac{d\Phi}{dt} = BLv$ and $\varepsilon = BLv$ — consistent with the motional e.m.f. picture and with [[Force-on-a-Moving-Charge]] acting on carriers in the rod.
 
 ## Related Quantities
 

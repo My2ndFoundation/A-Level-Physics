@@ -37,19 +37,19 @@ The decay constant measures how likely a given unstable nucleus is to decay per 
 
 The decay constant λ is the probability per unit time that an individual nucleus will decay. For a large number N of nuclei, the rate of decay is proportional to N:
 
-ΔN/Δt = −λN
+$$\Delta N/\Delta t = -\lambda N$$
 
-This is the basis of the [[Radioactive-Decay-Law]], whose solution is N = N₀ e^(−λt).
+This is the basis of the [[Radioactive-Decay-Law]], whose solution is $N = N_0 e^{-\lambda t}$.
 
 ## Related Equations
 
-- A = λN  (links to [[Activity]])
-- t₁/₂ = ln 2 / λ  (links to [[Half-Life]])
-- N = N₀ e^(−λt)
+- $A = \lambda N$  (links to [[Activity]])
+- $t_{1/2} = \ln 2 / \lambda$  (links to [[Half-Life]])
+- $N = N_0 e^{-\lambda t}$
 
 ## How It Is Measured
 
-Measure [[Activity]] A and number of nuclei N (or measure how activity falls with time) and use λ = A/N, or determine [[Half-Life]] from a decay curve and compute λ = ln 2 / t₁/₂.
+Measure [[Activity]] A and number of nuclei N (or measure how activity falls with time) and use $\lambda = A/N$, or determine [[Half-Life]] from a decay curve and compute $\lambda = \ln 2 / t_{1/2}$.
 
 ## Graphical Meaning
 
@@ -80,7 +80,7 @@ On a graph of ln N (or ln A) against time, the line is straight with gradient �
 
 - Confusing λ (probability per unit time) with [[Half-Life]] (a time)
 - Using inconsistent time units between λ and t
-- Forgetting the minus sign in ΔN/Δt = −λN
+- Forgetting the minus sign in $\Delta N/\Delta t = -\lambda N$
 
 ## Visuals
 

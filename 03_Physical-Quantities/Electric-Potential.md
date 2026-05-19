@@ -36,23 +36,23 @@ Electric potential is the electric potential energy per unit positive charge at 
 
 The electric potential at a point is the work done per unit positive charge in bringing a small test charge from infinity to that point:
 
-- V = W / Q
+- $V = W / Q$
   - V = electric potential, volts (V)
   - W = work done from infinity, joules (J)
   - Q = test charge, coulombs (C)
 
 For an isolated point charge Q, the potential at distance r is:
 
-- V = (1 / 4πε₀) · Q / r
+- $V = \frac{1}{4\pi\varepsilon_0} \cdot \frac{Q}{r}$
 
 Potential is positive near a positive charge and negative near a negative charge, and tends to zero at infinity. Note the 1/r dependence, in contrast to the 1/r² dependence of field strength.
 
 ## Related Equations
 
-- E_p = QV (links to [[Electric-Potential-Energy]])
-- W = QΔV (work done moving charge Q through potential difference ΔV)
-- E = −ΔV/Δr (field strength is the negative potential gradient)
-- For a [[Uniform-Electric-Field]]: V = E d
+- $E_p = QV$ (links to [[Electric-Potential-Energy]])
+- $W = Q\Delta V$ (work done moving charge Q through potential difference ΔV)
+- $E = -\Delta V/\Delta r$ (field strength is the negative potential gradient)
+- For a [[Uniform-Electric-Field]]: $V = E d$
 
 ## How It Is Measured
 

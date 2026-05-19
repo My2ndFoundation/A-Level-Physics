@@ -31,7 +31,7 @@ The projectile motion model treats two-dimensional flight under gravity as two i
 
 ## Quantities Involved
 
-- Launch speed and angle → components *uₓ = u cosθ*, *u_y = u sinθ*
+- Launch speed and angle → components $u_x = u \cos\theta$, $u_y = u \sin\theta$
 - [[Velocity]] components (m s⁻¹, vector)
 - [[Acceleration]] *g* (m s⁻² , vertical)
 - Time of flight *t* (s)
@@ -39,8 +39,8 @@ The projectile motion model treats two-dimensional flight under gravity as two i
 
 ## Key Equations
 
-- Horizontal: *x = uₓ t*
-- Vertical: *y = u_y t − ½g t²* and *v_y = u_y − g t*
+- Horizontal: $x = u_x t$
+- Vertical: $y = u_y t - \frac{1}{2}g t^2$ and $v_y = u_y - g t$
 - See [[Using-SUVAT-Equations]].
 
 ## When to Use

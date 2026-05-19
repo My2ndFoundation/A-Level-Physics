@@ -24,7 +24,7 @@ The moment of a force is its turning effect about a pivot, equal to the force mu
 
 ## Meaning
 
-Moment = force × perpendicular distance from the pivot to the line of action. Its unit is the newton metre (N m). The moment depends not only on how big the force is but on where and in what direction it is applied: a force whose line of action passes through the pivot has zero moment.
+Moment $=$ force $\times$ perpendicular distance from the pivot to the line of action. Its unit is the newton metre (N m). The moment depends not only on how big the force is but on where and in what direction it is applied: a force whose line of action passes through the pivot has zero moment.
 
 Moments have a sense — clockwise or anticlockwise. The principle of moments states that for a body in rotational [[Equilibrium]] the total clockwise moment about any point equals the total anticlockwise moment about that point. Two equal, opposite, parallel forces that do not share a line of action form a couple, whose moment (torque of the couple) equals one force times the perpendicular separation, producing pure rotation with no resultant force.
 

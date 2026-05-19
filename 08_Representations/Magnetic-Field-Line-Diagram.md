@@ -42,7 +42,7 @@ Not applicable in the graph sense. The analogous readable feature is **line spac
 ## Converts To / From
 
 - From: a physical field measured with a plotting compass, iron filings, or a Hall probe.
-- To: numerical values via [[Magnetic-Flux]] Φ = B A cos θ over a chosen area.
+- To: numerical values via [[Magnetic-Flux]] $\Phi = B A \cos\theta$ over a chosen area.
 
 ## Related Quantities
 

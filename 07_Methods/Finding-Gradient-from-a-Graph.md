@@ -36,17 +36,17 @@ Use it whenever a relationship is plotted as a straight line (or you take the ta
 2. For a straight line, draw the line of best fit through the data.
 3. Choose two points on the *line* (not raw data points) far apart for accuracy.
 4. Read their coordinates carefully, including units.
-5. Gradient = (change in y) / (change in x) = Δy / Δx.
+5. Gradient $= \dfrac{\text{change in } y}{\text{change in } x} = \Delta y / \Delta x$.
 6. Attach the correct units (y-units per x-unit) and interpret the physical meaning.
 7. For a curve, draw a tangent at the point of interest and find its gradient instead.
 
 ## Worked Example
 
-On a velocity–time graph, the line passes through (1.0 s, 2.0 m s⁻¹) and (5.0 s, 14 m s⁻¹). Gradient = (14 − 2.0) / (5.0 − 1.0) = 12 / 4.0 = 3.0 m s⁻². This is the acceleration.
+On a velocity–time graph, the line passes through (1.0 s, 2.0 m s⁻¹) and (5.0 s, 14 m s⁻¹). Gradient $= (14 - 2.0) / (5.0 - 1.0) = 12 / 4.0 = 3.0 \text{ m s}^{-2}$. This is the acceleration.
 
 ## Why It Works
 
-For a linear relationship *y = mx + c*, the gradient *m* is exactly the constant of proportionality between the plotted quantities. Using a best-fit line averages out random measurement scatter.
+For a linear relationship $y = mx + c$, the gradient *m* is exactly the constant of proportionality between the plotted quantities. Using a best-fit line averages out random measurement scatter.
 
 ## Common Mistakes
 
@@ -72,7 +72,7 @@ For a linear relationship *y = mx + c*, the gradient *m* is exactly the constant
 
 ### Reading gradient from a best-fit line
 ![[_attachments/07_Methods/finding-gradient-from-a-graph--best-fit-triangle.svg]]
-*Figure: Velocity–time graph with best-fit line. Two points on the line (not data points) define the triangle: Δx = 4 s, Δy = 12 m s⁻¹, giving gradient = 3.0 m s⁻² (the acceleration). Use widely separated points for accuracy.*
+*Figure: Velocity–time graph with best-fit line. Two points on the line (not data points) define the triangle: $\Delta x = 4 \text{ s}$, $\Delta y = 12 \text{ m s}^{-1}$, giving gradient $= 3.0 \text{ m s}^{-2}$ (the acceleration). Use widely separated points for accuracy.*
 *Source: Authored for this vault (CC0). No external copyright.*
 
 ## Source Trace

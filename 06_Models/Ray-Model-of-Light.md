@@ -37,8 +37,8 @@ The ray model represents light as straight lines (rays) showing the direction in
 ## Key Equations
 
 - Law of reflection: angle in = angle out
-- [[Snell-Law]]: *n₁ sinθ₁ = n₂ sinθ₂*
-- *n = c/v*
+- [[Snell-Law]]: $n_1 \sin\theta_1 = n_2 \sin\theta_2$
+- $n = c/v$
 
 ## When to Use
 

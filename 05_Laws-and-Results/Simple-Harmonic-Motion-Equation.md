@@ -27,14 +27,14 @@ A body undergoes simple harmonic motion when its acceleration is directly propor
 
 Defining condition:
 
-a = −ω² x
+$$a = -\omega^2 x$$
 
 Solutions and related results:
 
-- x = A cos(ωt)  (released from maximum displacement) or x = A sin(ωt) (released from equilibrium)
-- v = ±ω √(A² − x²);  v_max = ωA
-- a = −ω² x;  a_max = ω² A
-- ω = 2π f = 2π / T
+- $x = A \cos(\omega t)$  (released from maximum displacement) or $x = A \sin(\omega t)$ (released from equilibrium)
+- $v = \pm\omega \sqrt{A^2 - x^2}$;  $v_{max} = \omega A$
+- $a = -\omega^2 x$;  $a_{max} = \omega^2 A$
+- $\omega = 2\pi f = \frac{2\pi}{T}$
 
 ## Symbols and Units
 
@@ -48,7 +48,7 @@ Solutions and related results:
 
 ## Conditions
 
-- Restoring influence proportional to displacement (e.g. [[Hookes-Law]] spring; pendulum at small angles where sin θ ≈ θ in [[Radian]]).
+- Restoring influence proportional to displacement (e.g. [[Hookes-Law]] spring; pendulum at small angles where $\sin\theta \approx \theta$ in [[Radian]]).
 - No (or negligible) [[Damping]] for the constant-amplitude solutions.
 - Period is independent of amplitude (isochronous).
 
@@ -58,15 +58,15 @@ The negative sign means the acceleration is always a *restoring* effect pulling 
 
 ## Foundation Link
 
-Builds on [[Hookes-Law]] (force ∝ extension) and Newton's second law: combining F = −kx with F = ma gives a = −(k/m)x, i.e. ω² = k/m.
+Builds on [[Hookes-Law]] (force ∝ extension) and Newton's second law: combining $F = -kx$ with $F = ma$ gives $a = -\frac{k}{m}x$, i.e. $\omega^2 = \frac{k}{m}$.
 
 ## How to Use
 
-Identify the restoring relationship, extract ω² as the constant of proportionality between a and −x, then use ω = 2π/T to find period or frequency and the v/a equations for speeds and accelerations. See [[Solving-SHM-Problems]].
+Identify the restoring relationship, extract $\omega^2$ as the constant of proportionality between a and −x, then use $\omega = \frac{2\pi}{T}$ to find period or frequency and the v/a equations for speeds and accelerations. See [[Solving-SHM-Problems]].
 
 ## Derivation or Explanation
 
-For a mass–spring system, [[Hookes-Law]] gives restoring force F = −kx. Newton's second law gives ma = −kx, so a = −(k/m)x. Comparing with a = −ω²x gives ω = √(k/m) and T = 2π√(m/k). For a simple pendulum of length L, T = 2π√(L/g).
+For a mass–spring system, [[Hookes-Law]] gives restoring force $F = -kx$. Newton's second law gives $ma = -kx$, so $a = -\frac{k}{m}x$. Comparing with $a = -\omega^2 x$ gives $\omega = \sqrt{\frac{k}{m}}$ and $T = 2\pi\sqrt{\frac{m}{k}}$. For a simple pendulum of length L, $T = 2\pi\sqrt{\frac{L}{g}}$.
 
 ## Related Quantities
 

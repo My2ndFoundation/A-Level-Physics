@@ -27,7 +27,7 @@ The half-life of a radioactive isotope is the average time taken for half of the
 
 Because [[Radioactive-Decay]] is exponential, the number of undecayed nuclei does not fall by a fixed amount each second but by a fixed fraction. The time for any sample of a given isotope to halve is constant, no matter how much you start with — this constant time is the half-life, T½.
 
-After one half-life, half the original nuclei remain; after two half-lives a quarter remain; after three, an eighth, and so on. The activity (count rate) follows the same pattern because activity is proportional to the number of undecayed nuclei. Half-life is linked to the decay constant λ by T½ = ln 2 / λ, where λ is the probability per second that a given nucleus decays. A short half-life means a high decay constant and a highly active but quickly fading source.
+After one half-life, half the original nuclei remain; after two half-lives a quarter remain; after three, an eighth, and so on. The activity (count rate) follows the same pattern because activity is proportional to the number of undecayed nuclei. Half-life is linked to the decay constant λ by $T_{1/2} = \ln 2 / \lambda$, where λ is the probability per second that a given nucleus decays. A short half-life means a high decay constant and a highly active but quickly fading source.
 
 Half-lives range enormously: from fractions of a second to billions of years. This wide range is what makes different isotopes suitable for medical tracers (short half-life, low lingering dose) or for dating ancient rocks (long half-life).
 

@@ -36,8 +36,8 @@ The free body model isolates a single object from its surroundings and represent
 
 ## Key Equations
 
-- ΣF = resultant force
-- [[Newton-Second-Law]]: *ΣF = ma*
+- $\Sigma F$ = resultant force
+- [[Newton-Second-Law]]: $\Sigma F = ma$
 
 ## When to Use
 

@@ -50,7 +50,7 @@ Main scale reading + thimble scale reading, corrected for zero error, in millime
 
 ## Data Processing
 
-Mean of repeated readings (taken at different points to average out non-uniformity). Convert to metres for use in calculations such as cross-sectional area `A = πd²/4`.
+Mean of repeated readings (taken at different points to average out non-uniformity). Convert to metres for use in calculations such as cross-sectional area $A = \frac{\pi d^2}{4}$.
 
 ## Graph Use
 

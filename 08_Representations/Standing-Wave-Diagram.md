@@ -42,7 +42,7 @@ The pattern forms from two identical waves travelling in opposite directions sup
 
 ## Gradient / Area / Intercepts
 
-Not applicable. The key measurable is the node-to-node spacing = half a wavelength, used with `v = fλ` to find wave speed.
+Not applicable. The key measurable is the node-to-node spacing = half a wavelength, used with $v = f\lambda$ to find wave speed.
 
 ## Converts To / From
 
@@ -69,7 +69,7 @@ Not applicable. The key measurable is the node-to-node spacing = half a waveleng
 ### Standing-wave diagrams: fundamental and harmonics on a fixed string
 
 ![[_attachments/08_Representations/standing-wave-diagram--fundamental-and-harmonics.svg]]
-*Figure: Three harmonics for a string fixed at both ends (both ends are nodes N). n = 1 (fundamental): one loop, L = λ/2. n = 2 (2nd harmonic): two loops, L = λ, with a node at the midpoint. n = 3 (3rd harmonic): three loops, L = 3λ/2. Dashed lines show the two extreme waveform positions of the oscillation envelope. Node-to-node spacing = λ/2 in each case.*
+*Figure: Three harmonics for a string fixed at both ends (both ends are nodes N). $n = 1$ (fundamental): one loop, $L = \lambda/2$. $n = 2$ (2nd harmonic): two loops, $L = \lambda$, with a node at the midpoint. $n = 3$ (3rd harmonic): three loops, $L = 3\lambda/2$. Dashed lines show the two extreme waveform positions of the oscillation envelope. Node-to-node spacing $= \lambda/2$ in each case.*
 *Source: Authored for this vault (CC0). No external copyright.*
 
 ## Source Trace

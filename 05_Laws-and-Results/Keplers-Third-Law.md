@@ -25,9 +25,9 @@ period is proportional to the cube of the orbital radius.
 
 ## Equation
 
-T² = (4π² / G M) r³
+$$T^2 = \frac{4\pi^2}{G M} r^3$$
 
-equivalently T² ∝ r³ for a fixed central mass M.
+equivalently $T^2 \propto r^3$ for a fixed central mass M.
 
 ## Symbols and Units
 
@@ -56,14 +56,14 @@ made quantitative through [[Circular-Motion]] and [[Newtons-Law-of-Gravitation]]
 
 ## How to Use
 
-Equate gravitational force to centripetal force, GMm/r² = mv²/r, substitute
-v = 2πr/T, and rearrange to T² = (4π²/GM) r³. Use it to find M from an orbit,
-or to compare two orbits with T₁²/r₁³ = T₂²/r₂³.
+Equate gravitational force to centripetal force, $\frac{GMm}{r^2} = \frac{mv^2}{r}$, substitute
+$v = \frac{2\pi r}{T}$, and rearrange to $T^2 = \frac{4\pi^2}{GM} r^3$. Use it to find M from an orbit,
+or to compare two orbits with $\frac{T_1^2}{r_1^3} = \frac{T_2^2}{r_2^3}$.
 
 ## Derivation or Explanation
 
-From GMm/r² = mω²r with ω = 2π/T: GM/r² = (4π²/T²) r, giving
-T² = (4π²/GM) r³. The mass m cancels, which is why the law is universal for
+From $\frac{GMm}{r^2} = m\omega^2 r$ with $\omega = \frac{2\pi}{T}$: $\frac{GM}{r^2} = \frac{4\pi^2}{T^2} r$, giving
+$T^2 = \frac{4\pi^2}{GM} r^3$. The mass m cancels, which is why the law is universal for
 all satellites of the same central body.
 
 ## Related Quantities

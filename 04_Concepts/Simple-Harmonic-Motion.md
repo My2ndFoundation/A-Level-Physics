@@ -25,9 +25,9 @@ Simple harmonic motion is oscillation in which the acceleration is always direct
 
 The defining condition is:
 
-a = −ω² x
+$$a = -\omega^2 x$$
 
-where x is displacement from equilibrium, a acceleration, and ω the angular frequency (ω = 2πf = 2π/T). The minus sign makes the acceleration a *restoring* effect, always pointing back to equilibrium. Solving this gives sinusoidal motion x = A cos(ωt) or x = A sin(ωt) with [[Amplitude]] A, [[Period]] T and [[Frequency]] f. Velocity is maximum (v_max = ωA) at the centre and zero at the extremes; acceleration is maximum (a_max = ω²A) at the extremes and zero at the centre. A key feature: T is independent of amplitude (isochronous).
+where $x$ is displacement from equilibrium, $a$ acceleration, and $\omega$ the angular frequency ($\omega = 2\pi f = 2\pi/T$). The minus sign makes the acceleration a *restoring* effect, always pointing back to equilibrium. Solving this gives sinusoidal motion $x = A\cos(\omega t)$ or $x = A\sin(\omega t)$ with [[Amplitude]] $A$, [[Period]] $T$ and [[Frequency]] $f$. Velocity is maximum ($v_\text{max} = \omega A$) at the centre and zero at the extremes; acceleration is maximum ($a_\text{max} = \omega^2 A$) at the extremes and zero at the centre. A key feature: $T$ is independent of amplitude (isochronous).
 
 See [[Simple-Harmonic-Motion-Equation]] for the full equation set.
 

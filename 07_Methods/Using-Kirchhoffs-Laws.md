@@ -42,7 +42,7 @@ Use it for multi-loop circuits, circuits with more than one source, or networks 
 
 ## Worked Example
 
-Two cells of emf 6.0 V and 2.0 V drive current through a shared 4.0 Ω resistor. Suppose the first law gives the resistor current as the sum of two branch currents, and the loop equations give 6.0 = 4.0 I₁ + ... Solving the simultaneous set yields each branch current; a negative value simply reverses that branch's assumed direction.
+Two cells of emf 6.0 V and 2.0 V drive current through a shared 4.0 Ω resistor. Suppose the first law gives the resistor current as the sum of two branch currents, and the loop equations give $6.0 = 4.0\, I_1 + \ldots$ Solving the simultaneous set yields each branch current; a negative value simply reverses that branch's assumed direction.
 
 ## Why It Works
 

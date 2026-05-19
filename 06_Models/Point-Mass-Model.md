@@ -38,8 +38,8 @@ The point mass model treats an object as a single point that carries all of the 
 
 ## Key Equations
 
-- [[Newton-Second-Law]]: *F = ma*
-- *p = mv* (see [[Momentum]])
+- [[Newton-Second-Law]]: $F = ma$
+- $p = mv$ (see [[Momentum]])
 
 ## When to Use
 

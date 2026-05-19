@@ -20,11 +20,11 @@ sources: []
 
 ## Core Idea
 
-The simple harmonic oscillator model describes any system where the restoring force (or acceleration) is directly proportional to displacement from equilibrium and always directed back toward it: *a = −ω²x*. This single condition produces sinusoidal motion with a period independent of amplitude (isochronous). A mass on an [[Ideal-Spring-Model|ideal spring]] and a small-angle pendulum are the canonical examples. The model is powerful because vastly different physical systems share the same mathematics once they satisfy the *a ∝ −x* condition.
+The simple harmonic oscillator model describes any system where the restoring force (or acceleration) is directly proportional to displacement from equilibrium and always directed back toward it: $a = -\omega^2 x$. This single condition produces sinusoidal motion with a period independent of amplitude (isochronous). A mass on an [[Ideal-Spring-Model|ideal spring]] and a small-angle pendulum are the canonical examples. The model is powerful because vastly different physical systems share the same mathematics once they satisfy the $a \propto -x$ condition.
 
 ## Assumptions
 
-- Restoring force is proportional to displacement: *F = −kx*, hence *a = −ω²x*.
+- Restoring force is proportional to displacement: $F = -kx$, hence $a = -\omega^2 x$.
 - No damping (no energy lost to friction or drag).
 - Oscillation amplitude is small enough that the linear restoring law holds (e.g. small-angle pendulum).
 - The system has a single, well-defined equilibrium position.
@@ -38,9 +38,9 @@ The simple harmonic oscillator model describes any system where the restoring fo
 
 ## Key Equations
 
-- *a = −ω²x*
-- *x = A cos(ωt)*, *v_max = ωA*, *a_max = ω²A*
-- *T = 2π√(m/k)* (spring), *T = 2π√(L/g)* (pendulum)
+- $a = -\omega^2 x$
+- $x = A \cos(\omega t)$, $v_{max} = \omega A$, $a_{max} = \omega^2 A$
+- $T = 2\pi\sqrt{\frac{m}{k}}$ (spring), $T = 2\pi\sqrt{\frac{L}{g}}$ (pendulum)
 - Total energy constant (see [[Conservation-of-Energy]])
 
 ## When to Use
@@ -70,7 +70,7 @@ This extends the everyday observation of repeating back-and-forth motion (swings
 
 ## Common Mistakes
 
-- Assuming SHM without checking *a ∝ −x*.
+- Assuming SHM without checking $a \propto -x$.
 - Thinking period depends on amplitude.
 - Ignoring damping in real systems.
 

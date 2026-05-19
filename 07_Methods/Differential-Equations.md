@@ -34,13 +34,13 @@ Whenever a rate of change is proportional to the current amount (exponential cha
 
 ## Method
 
-1. Recognise the form: `dN/dt = −λN` → exponential decay; `a = −ω²x` → SHM.
-2. Quote the standard solution: `N = N₀e^(−λt)`; `x = A cos(ωt)`.
+1. Recognise the form: $\frac{dN}{dt} = -\lambda N$ → exponential decay; $a = -\omega^2 x$ → SHM.
+2. Quote the standard solution: $N = N_0 e^{-\lambda t}$; $x = A \cos(\omega t)$.
 3. Substitute the physical constants and read off the behaviour.
 
 ## Worked Example
 
-Capacitor discharge obeys `dQ/dt = −Q/(RC)`, solved by `Q = Q₀e^(−t/RC)`. See [[Capacitor-Discharge-Equation]] and [[Radioactive-Decay-Law]].
+Capacitor discharge obeys $\frac{dQ}{dt} = -Q/(RC)$, solved by $Q = Q_0 e^{-t/RC}$. See [[Capacitor-Discharge-Equation]] and [[Radioactive-Decay-Law]].
 
 ## Why It Works
 

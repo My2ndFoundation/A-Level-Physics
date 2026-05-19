@@ -43,9 +43,9 @@ Two classic real-world contexts where a real force is engineered to supply the c
 
 ## Method Outline
 
-1. **Banked track**: with no friction the normal contact force N is tilted by angle θ. Vertical: N cos θ = mg. Horizontal (towards centre): N sin θ = m v²/r. Dividing gives tan θ = v²/(r g) — the ideal speed needs no friction.
-2. Convert any rev min⁻¹ to ω = 2π × (rev s⁻¹) before using a = ω² r.
-3. **Centrifuge**: contents pressed outward in the rotating frame; in the lab frame the tube wall provides the inward [[Centripetal-Force]]. Effective field a = ω² r, often quoted as a/g (the "g-force"), drives denser particles outward fastest.
+1. **Banked track**: with no friction the normal contact force N is tilted by angle θ. Vertical: $N \cos\theta = mg$. Horizontal (towards centre): $N \sin\theta = \frac{m v^2}{r}$. Dividing gives $\tan\theta = \frac{v^2}{r g}$ — the ideal speed needs no friction.
+2. Convert any rev min⁻¹ to $\omega = 2\pi \times (\text{rev s}^{-1})$ before using $a = \omega^2 r$.
+3. **Centrifuge**: contents pressed outward in the rotating frame; in the lab frame the tube wall provides the inward [[Centripetal-Force]]. Effective field $a = \omega^2 r$, often quoted as a/g (the "g-force"), drives denser particles outward fastest.
 4. Solve for the requested unknown and sanity-check the inward direction.
 
 ## Assumptions
@@ -56,7 +56,7 @@ Two classic real-world contexts where a real force is engineered to supply the c
 
 ## Links to Other Subjects
 
-- Mathematics: resolving vectors, trigonometry (tan θ = v²/rg), unit conversion.
+- Mathematics: resolving vectors, trigonometry ($\tan\theta = \frac{v^2}{rg}$), unit conversion.
 - Computer Science: numerical modelling of cornering dynamics and separation times.
 
 ## Frontier Links

@@ -103,7 +103,7 @@ xychart-beta
   y-axis "Number of molecules (relative)" 0 --> 5
   line [0, 2.5, 4.5, 3.5, 1.8, 0.7, 0.2, 0.05, 0.01]
 ```
-*Figure: Qualitative Maxwell–Boltzmann distribution at lower temperature T₁. At higher T₂ the peak shifts right (higher most probable speed), the curve flattens, and the high-speed tail grows. Mean KE per molecule = ³⁄₂ kT.*
+*Figure: Qualitative Maxwell–Boltzmann distribution at lower temperature T₁. At higher T₂ the peak shifts right (higher most probable speed), the curve flattens, and the high-speed tail grows. Mean KE per molecule $= \tfrac{3}{2} kT$.*
 *Source: Authored for this vault (CC0). No external copyright.*
 
 ## Source Trace
