@@ -130,13 +130,25 @@ def process_with_override(rel_path, article):
             except Exception as e:
                 print(f"  [dl-fail] {filename}: {e}", file=sys.stderr)
                 continue
-            if ext in {"jpg", "jpeg", "png", "gif", "webp"}:
+            # Skip GIFs (sips flattens animation to one frame) and only
+            # resample other rasters when they exceed the cap (sips would
+            # otherwise upsample small images). See main script for context.
+            if ext in {"jpg", "jpeg", "png", "webp"}:
                 import subprocess
                 try:
-                    subprocess.run(
-                        ["sips", "-Z", "1600", str(out_path)],
-                        capture_output=True, timeout=30,
+                    probe = subprocess.run(
+                        ["sips", "-g", "pixelWidth", "-g", "pixelHeight",
+                         str(out_path)],
+                        capture_output=True, text=True, timeout=10,
                     )
+                    dims = re.findall(
+                        r"pixel(?:Width|Height):\s+(\d+)", probe.stdout
+                    )
+                    if dims and max(int(x) for x in dims) > 1600:
+                        subprocess.run(
+                            ["sips", "-Z", "1600", str(out_path)],
+                            capture_output=True, timeout=30,
+                        )
                 except Exception:
                     pass
 

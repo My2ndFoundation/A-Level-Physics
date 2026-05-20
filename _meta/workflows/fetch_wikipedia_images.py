@@ -505,14 +505,27 @@ def process_page(md_path, folder, dry_run=False):
             except Exception as e:
                 print(f"  [dl-fail] {filename}: {e}", file=sys.stderr)
                 continue
-            # Downscale large rasters in place (macOS sips). SVGs untouched.
-            if ext in {"jpg", "jpeg", "png", "gif", "webp"}:
+            # Downscale large rasters in place. SVGs untouched. GIFs skipped
+            # entirely: macOS `sips` re-encodes animated GIFs as static GIF87a,
+            # losing all frames after the first. For JPG/PNG/WebP, only resample
+            # when the image actually exceeds the cap — `sips -Z` will otherwise
+            # upsample small images (e.g. a 360x240 GIF becomes 1600x1066).
+            if ext in {"jpg", "jpeg", "png", "webp"}:
                 import subprocess
                 try:
-                    subprocess.run(
-                        ["sips", "-Z", "1600", str(out_path)],
-                        capture_output=True, timeout=30,
+                    probe = subprocess.run(
+                        ["sips", "-g", "pixelWidth", "-g", "pixelHeight",
+                         str(out_path)],
+                        capture_output=True, text=True, timeout=10,
                     )
+                    dims = re.findall(
+                        r"pixel(?:Width|Height):\s+(\d+)", probe.stdout
+                    )
+                    if dims and max(int(x) for x in dims) > 1600:
+                        subprocess.run(
+                            ["sips", "-Z", "1600", str(out_path)],
+                            capture_output=True, timeout=30,
+                        )
                 except Exception:
                     pass
 
