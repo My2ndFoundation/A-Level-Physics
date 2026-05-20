@@ -87,6 +87,28 @@ graph LR
 *Figure: The photon model links radiation frequency to discrete energy packets; intensity means more photons per second, not more energy per photon.*
 *Source: Authored for this vault (CC0). No external copyright.*
 
+### From Wikipedia
+
+<!-- wiki-images: yes -->
+
+#### Bohr-atom-PAR
+
+![[_attachments/06_Models/Photon-Model--wiki-bohr-atom-par.svg]]
+*Figure: from Wikipedia article "Photon".*
+*Source: Wikimedia Commons — [Bohr-atom-PAR.svg](https://commons.wikimedia.org/wiki/File:Bohr-atom-PAR.svg). Retrieved 2026-05-20.*
+
+#### Bohr atom model
+
+![[_attachments/06_Models/Photon-Model--wiki-bohr-atom-model.svg]]
+*Figure: from Wikipedia article "Photon".*
+*Source: Wikimedia Commons — [Bohr atom model.svg](https://commons.wikimedia.org/wiki/File:Bohr_atom_model.svg). Retrieved 2026-05-20.*
+
+#### Electron-scattering
+
+![[_attachments/06_Models/Photon-Model--wiki-electron-scattering.svg]]
+*Figure: from Wikipedia article "Photon".*
+*Source: Wikimedia Commons — [Electron-scattering.svg](https://commons.wikimedia.org/wiki/File:Electron-scattering.svg). Retrieved 2026-05-20.*
+
 ## Source Trace
 
 - Source: OpenStax College Physics; The Physics Classroom; Isaac Physics — paraphrased, no copied text.

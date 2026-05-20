@@ -96,6 +96,28 @@ xychart-beta
 *Figure: Temperature θ rises linearly with energy supplied $E = VIt$ for a well-insulated block. The gradient equals $\frac{1}{mc}$, so the specific heat capacity $c = \frac{1}{m \times \text{gradient}}$. The slight curve at the start reflects warm-up of the heater; using the gradient of the best-fit line averages this out.*
 *Source: Authored for this vault (CC0). No external copyright.*
 
+### From Wikipedia
+
+<!-- wiki-images: yes -->
+
+#### Carnot heat engine 2
+
+![[_attachments/09_Experiments-and-Practicals/Measuring-Specific-Heat-Capacity--wiki-carnot-heat-engine-2.svg]]
+*Figure: from Wikipedia article "Specific heat capacity".*
+*Source: Wikimedia Commons — [Carnot_heat_engine_2.svg](https://commons.wikimedia.org/wiki/File:Carnot_heat_engine_2.svg). Retrieved 2026-05-20.*
+
+#### Black Joseph (cropped)
+
+![[_attachments/09_Experiments-and-Practicals/Measuring-Specific-Heat-Capacity--wiki-black-joseph-cropped.jpg]]
+*Figure: from Wikipedia article "Specific heat capacity".*
+*Source: Wikimedia Commons — [Black Joseph (cropped).jpg](https://commons.wikimedia.org/wiki/File:Black_Joseph_(cropped).jpg). Retrieved 2026-05-20.*
+
+#### Carnot heat engine 2
+
+![[_attachments/09_Experiments-and-Practicals/Measuring-Specific-Heat-Capacity--wiki-carnot-heat-engine-2.svg]]
+*Figure: from Wikipedia article "Specific heat capacity".*
+*Source: Wikimedia Commons — [Carnot heat engine 2.svg](https://commons.wikimedia.org/wiki/File:Carnot_heat_engine_2.svg). Retrieved 2026-05-20.*
+
 ## Source Trace
 
 - Source: OpenStax College Physics; HyperPhysics; The Physics Classroom — paraphrased, no copied text

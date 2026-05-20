@@ -82,6 +82,28 @@ This extends the [[Constant-Acceleration-Model]] from one dimension to two, usin
 *Figure: Parabolic path resolved into independent horizontal (constant u cosθ) and vertical (accelerating at g) components; the two share only time t.*
 *Source: Authored for this vault (CC0). No external copyright.*
 
+### From Wikipedia
+
+<!-- wiki-images: yes -->
+
+#### ParabolicWaterTrajectory
+
+![[_attachments/06_Models/Projectile-Motion-Model--wiki-parabolicwatertrajectory.jpg]]
+*Figure: from Wikipedia article "Projectile motion".*
+*Source: Wikimedia Commons — [ParabolicWaterTrajectory.jpg](https://commons.wikimedia.org/wiki/File:ParabolicWaterTrajectory.jpg). Retrieved 2026-05-20.*
+
+#### Ballistic-trajectories-planet2
+
+![[_attachments/06_Models/Projectile-Motion-Model--wiki-ballistic-trajectories-planet2.svg]]
+*Figure: from Wikipedia article "Projectile motion".*
+*Source: Wikimedia Commons — [Ballistic-trajectories-planet2.svg](https://commons.wikimedia.org/wiki/File:Ballistic-trajectories-planet2.svg). Retrieved 2026-05-20.*
+
+#### Ballistic trajectories
+
+![[_attachments/06_Models/Projectile-Motion-Model--wiki-ballistic-trajectories.svg]]
+*Figure: from Wikipedia article "Projectile motion".*
+*Source: Wikimedia Commons — [Ballistic trajectories.svg](https://commons.wikimedia.org/wiki/File:Ballistic_trajectories.svg). Retrieved 2026-05-20.*
+
 ## Source Trace
 
 - Source: OpenStax College Physics; The Physics Classroom; Isaac Physics — paraphrased, no copied text.

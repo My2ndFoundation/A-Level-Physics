@@ -106,6 +106,28 @@ flowchart LR
 *Figure: Power P branches into mechanical (P = Fv) and electrical (P = IV) forms; multiplied by time it gives total energy transferred.*
 *Source: Authored for this vault (CC0). No external copyright.*
 
+### From Wikipedia
+
+<!-- wiki-images: yes -->
+
+#### Ansel Adams - National Archives 79-AAB-02
+
+![[_attachments/03_Physical-Quantities/Power--wiki-ansel-adams-national-archives-79-aab-02.jpg]]
+*Figure: from Wikipedia article "Power (physics)".*
+*Source: Wikimedia Commons — [Ansel Adams - National Archives 79-AAB-02.jpg](https://commons.wikimedia.org/wiki/File:Ansel_Adams_-_National_Archives_79-AAB-02.jpg). Retrieved 2026-05-20.*
+
+#### Horsepower plain
+
+![[_attachments/03_Physical-Quantities/Power--wiki-horsepower-plain.svg]]
+*Figure: from Wikipedia article "Power (physics)".*
+*Source: Wikimedia Commons — [Horsepower plain.svg](https://commons.wikimedia.org/wiki/File:Horsepower_plain.svg). Retrieved 2026-05-20.*
+
+#### Peak-power-average-power-tau-T
+
+![[_attachments/03_Physical-Quantities/Power--wiki-peak-power-average-power-tau-t.png]]
+*Figure: from Wikipedia article "Power (physics)".*
+*Source: Wikimedia Commons — [Peak-power-average-power-tau-T.png](https://commons.wikimedia.org/wiki/File:Peak-power-average-power-tau-T.png). Retrieved 2026-05-20.*
+
 ## Source Trace
 
 - Source: OpenStax College Physics; The Physics Classroom; HyperPhysics (paraphrased, no copied text)

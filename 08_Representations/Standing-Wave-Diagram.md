@@ -72,6 +72,28 @@ Not applicable. The key measurable is the node-to-node spacing = half a waveleng
 *Figure: Three harmonics for a string fixed at both ends (both ends are nodes N). $n = 1$ (fundamental): one loop, $L = \lambda/2$. $n = 2$ (2nd harmonic): two loops, $L = \lambda$, with a node at the midpoint. $n = 3$ (3rd harmonic): three loops, $L = 3\lambda/2$. Dashed lines show the two extreme waveform positions of the oscillation envelope. Node-to-node spacing $= \lambda/2$ in each case.*
 *Source: Authored for this vault (CC0). No external copyright.*
 
+### From Wikipedia
+
+<!-- wiki-images: yes -->
+
+#### SWR-Verlauf an der 7MHz HB9XBG-Antenne
+
+![[_attachments/08_Representations/Standing-Wave-Diagram--wiki-swr-verlauf-an-der-7mhz-hb9xbg-antenne.jpg]]
+*Figure: from Wikipedia article "Standing wave ratio".*
+*Source: Wikimedia Commons — [SWR-Verlauf_an_der_7MHz_HB9XBG-Antenne.jpg](https://commons.wikimedia.org/wiki/File:SWR-Verlauf_an_der_7MHz_HB9XBG-Antenne.jpg). Retrieved 2026-05-20.*
+
+#### SWR-Verlauf an der 7MHz HB9XBG-Antenne
+
+![[_attachments/08_Representations/Standing-Wave-Diagram--wiki-swr-verlauf-an-der-7mhz-hb9xbg-antenne.jpg]]
+*Figure: from Wikipedia article "Standing wave ratio".*
+*Source: Wikimedia Commons — [SWR-Verlauf an der 7MHz HB9XBG-Antenne.jpg](https://commons.wikimedia.org/wiki/File:SWR-Verlauf_an_der_7MHz_HB9XBG-Antenne.jpg). Retrieved 2026-05-20.*
+
+#### Slotted line
+
+![[_attachments/08_Representations/Standing-Wave-Diagram--wiki-slotted-line.png]]
+*Figure: from Wikipedia article "Standing wave ratio".*
+*Source: Wikimedia Commons — [Slotted line.png](https://commons.wikimedia.org/wiki/File:Slotted_line.png). Retrieved 2026-05-20.*
+
 ## Source Trace
 
 - Source: OCR Practical Skills Handbook; The Physics Classroom; IOPSpark; OpenStax

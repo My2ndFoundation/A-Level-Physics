@@ -90,6 +90,28 @@ only hints at superposition.
 *Figure: The IBM Quantum System One, encased in a cylindrical dilution refrigerator that keeps superconducting qubits near absolute zero to maintain their quantum states.*
 *Source: IBM Quantum System One — OJB Quantum — CC BY 4.0 — https://commons.wikimedia.org/wiki/File:IBM_Quantum_System_One.jpg. Retrieved 2026-05-19.*
 
+### From Wikipedia
+
+<!-- wiki-images: yes -->
+
+#### Bloch sphere
+
+![[_attachments/12_Frontier-Maps/Quantum-Computing-Map--wiki-bloch-sphere.svg]]
+*Figure: from Wikipedia article "Quantum computing".*
+*Source: Wikimedia Commons — [Bloch_sphere.svg](https://commons.wikimedia.org/wiki/File:Bloch_sphere.svg). Retrieved 2026-05-20.*
+
+#### A Wafer of the Latest D-Wave Quantum Computers (39188583425)
+
+![[_attachments/12_Frontier-Maps/Quantum-Computing-Map--wiki-a-wafer-of-the-latest-d-wave-quantum-com.jpg]]
+*Figure: from Wikipedia article "Quantum computing".*
+*Source: Wikimedia Commons — [A Wafer of the Latest D-Wave Quantum Computers (39188583425).jpg](https://commons.wikimedia.org/wiki/File:A_Wafer_of_the_Latest_D-Wave_Quantum_Computers_(39188583425).jpg). Retrieved 2026-05-20.*
+
+#### BQP complexity class diagram
+
+![[_attachments/12_Frontier-Maps/Quantum-Computing-Map--wiki-bqp-complexity-class-diagram.svg]]
+*Figure: from Wikipedia article "Quantum computing".*
+*Source: Wikimedia Commons — [BQP complexity class diagram.svg](https://commons.wikimedia.org/wiki/File:BQP_complexity_class_diagram.svg). Retrieved 2026-05-20.*
+
 ## Source Trace
 
 - Source: [[IOP-Explore-Physics]]; Institute of Physics — Explore Physics; Wikipedia (navigation)

@@ -79,6 +79,28 @@ Bridges, beams and supporting cables must carry loads without breaking or deflec
 *Figure: Golden Gate Bridge from Marshall's Beach. The main cables carry tension; the deck hangers transfer the load to the cables; the towers carry compression into the foundations. Stress in every member must remain within the material's elastic limit under all design loads.*
 *Source: Golden Gate Bridge as seen from Marshall's Beach, March 2018 — Dietmar Rabich — CC BY-SA 4.0 — https://commons.wikimedia.org/wiki/File:Golden_Gate_Bridge_as_seen_from_Marshall%E2%80%99s_Beach,_March_2018.jpg. Retrieved 2026-05-19.*
 
+### From Wikipedia
+
+<!-- wiki-images: yes -->
+
+#### Ahmaskoski road bridge
+
+![[_attachments/10_Applications/Bridge-and-Beam-Loading--wiki-ahmaskoski-road-bridge.jpg]]
+*Figure: from Wikipedia article "Beam (structure)".*
+*Source: Wikimedia Commons — [Ahmaskoski road bridge.JPG](https://commons.wikimedia.org/wiki/File:Ahmaskoski_road_bridge.JPG). Retrieved 2026-05-20.*
+
+#### BeamDiagram
+
+![[_attachments/10_Applications/Bridge-and-Beam-Loading--wiki-beamdiagram.svg]]
+*Figure: from Wikipedia article "Beam (structure)".*
+*Source: Wikimedia Commons — [BeamDiagram.svg](https://commons.wikimedia.org/wiki/File:BeamDiagram.svg). Retrieved 2026-05-20.*
+
+#### Parallam support beam
+
+![[_attachments/10_Applications/Bridge-and-Beam-Loading--wiki-parallam-support-beam.jpg]]
+*Figure: from Wikipedia article "Beam (structure)".*
+*Source: Wikimedia Commons — [Parallam support beam.jpg](https://commons.wikimedia.org/wiki/File:Parallam_support_beam.jpg). Retrieved 2026-05-20.*
+
 ## Source Trace
 
 - Source: OpenStax College Physics; IOPSpark; Isaac Physics; OCR examiner reports (general) — no copied text

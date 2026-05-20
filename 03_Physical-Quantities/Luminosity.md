@@ -108,6 +108,28 @@ flowchart LR
 ```
 *Source: Authored for this vault (CC0). No external copyright.*
 
+### From Wikipedia
+
+<!-- wiki-images: yes -->
+
+#### The Sun in white light
+
+![[_attachments/03_Physical-Quantities/Luminosity--wiki-the-sun-in-white-light.jpg]]
+*Figure: from Wikipedia article "Luminosity".*
+*Source: Wikimedia Commons — [The_Sun_in_white_light.jpg](https://commons.wikimedia.org/wiki/File:The_Sun_in_white_light.jpg). Retrieved 2026-05-20.*
+
+#### Crab Nebula
+
+![[_attachments/03_Physical-Quantities/Luminosity--wiki-crab-nebula.jpg]]
+*Figure: from Wikipedia article "Luminosity".*
+*Source: Wikimedia Commons — [Crab Nebula.jpg](https://commons.wikimedia.org/wiki/File:Crab_Nebula.jpg). Retrieved 2026-05-20.*
+
+#### Earth-moon
+
+![[_attachments/03_Physical-Quantities/Luminosity--wiki-earth-moon.jpg]]
+*Figure: from Wikipedia article "Luminosity".*
+*Source: Wikimedia Commons — [Earth-moon.jpg](https://commons.wikimedia.org/wiki/File:Earth-moon.jpg). Retrieved 2026-05-20.*
+
 ## Source Trace
 
 - Source: OpenStax College Physics; HyperPhysics; NASA educational material — no copied text

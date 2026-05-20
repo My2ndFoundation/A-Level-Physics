@@ -86,6 +86,28 @@ Never look directly into the laser or its specular reflections; keep the beam be
 *Figure: A reflective diffraction grating showing the ruled grooves that split incident light into its component wavelengths at different angles — the same geometry applies to transmission gratings used in the A-Level practical.*
 *Source: Diffraction grating — original uploader Deglr6328 at English Wikipedia — Public domain — https://commons.wikimedia.org/wiki/File:Diffraction_grating.jpg. Retrieved 2026-05-19.*
 
+### From Wikipedia
+
+<!-- wiki-images: yes -->
+
+#### Laser Interference
+
+![[_attachments/09_Experiments-and-Practicals/Investigating-Diffraction-with-a-Grating--wiki-laser-interference.jpg]]
+*Figure: from Wikipedia article "Diffraction".*
+*Source: Wikimedia Commons — [Laser_Interference.JPG](https://commons.wikimedia.org/wiki/File:Laser_Interference.JPG). Retrieved 2026-05-20.*
+
+#### Airy-pattern
+
+![[_attachments/09_Experiments-and-Practicals/Investigating-Diffraction-with-a-Grating--wiki-airy-pattern.svg]]
+*Figure: from Wikipedia article "Diffraction".*
+*Source: Wikimedia Commons — [Airy-pattern.svg](https://commons.wikimedia.org/wiki/File:Airy-pattern.svg). Retrieved 2026-05-20.*
+
+#### Blue laser single slit diffraction photo
+
+![[_attachments/09_Experiments-and-Practicals/Investigating-Diffraction-with-a-Grating--wiki-blue-laser-single-slit-diffraction-photo.jpg]]
+*Figure: from Wikipedia article "Diffraction".*
+*Source: Wikimedia Commons — [Blue laser single slit diffraction photo.jpg](https://commons.wikimedia.org/wiki/File:Blue_laser_single_slit_diffraction_photo.jpg). Retrieved 2026-05-20.*
+
 ## Source Trace
 
 - Source: OpenStax College Physics; HyperPhysics; IOPSpark

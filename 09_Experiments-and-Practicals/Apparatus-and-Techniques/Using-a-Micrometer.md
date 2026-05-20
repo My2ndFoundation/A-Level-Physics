@@ -90,6 +90,28 @@ Low risk. Do not over-tighten — it damages both gauge and sample and biases th
 *Figure: A micrometer screw gauge — note the anvil and spindle (where the sample sits), the main scale on the sleeve, the rotating thimble scale, and the ratchet knob at the end used to apply a consistent closing force.*
 *Source: Micrometer (screw gauge).jpg — Riaz — CC BY-SA 4.0 — https://commons.wikimedia.org/wiki/File:Micrometer_(screw_gauge).jpg. Retrieved 2026-05-19.*
 
+### From Wikipedia
+
+<!-- wiki-images: yes -->
+
+#### Micrometers
+
+![[_attachments/09_Experiments-and-Practicals/Using-a-Micrometer--wiki-micrometers.jpg]]
+*Figure: from Wikipedia article "Micrometer (device)".*
+*Source: Wikimedia Commons — [Micrometers.jpg](https://commons.wikimedia.org/wiki/File:Micrometers.jpg). Retrieved 2026-05-20.*
+
+#### 276inch-micrometer
+
+![[_attachments/09_Experiments-and-Practicals/Using-a-Micrometer--wiki-276inch-micrometer.jpg]]
+*Figure: from Wikipedia article "Micrometer (device)".*
+*Source: Wikimedia Commons — [276inch-micrometer.jpg](https://commons.wikimedia.org/wiki/File:276inch-micrometer.jpg). Retrieved 2026-05-20.*
+
+#### 5783metric-micrometer
+
+![[_attachments/09_Experiments-and-Practicals/Using-a-Micrometer--wiki-5783metric-micrometer.jpg]]
+*Figure: from Wikipedia article "Micrometer (device)".*
+*Source: Wikimedia Commons — [5783metric-micrometer.jpg](https://commons.wikimedia.org/wiki/File:5783metric-micrometer.jpg). Retrieved 2026-05-20.*
+
 ## Source Trace
 
 - Source: OCR Practical Skills Handbook; The Physics Classroom; IOPSpark; OpenStax

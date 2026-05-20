@@ -101,6 +101,28 @@ xychart-beta
 *Figure: Hotter stars peak at shorter wavelengths (blue-white); cooler stars peak at longer wavelengths (red). The Sun (~5800 K) peaks near 500 nm (visible green).*
 *Source: Authored for this vault (CC0). No external copyright.*
 
+### From Wikipedia
+
+<!-- wiki-images: yes -->
+
+#### Wiens law
+
+![[_attachments/05_Laws-and-Results/Wiens-Displacement-Law--wiki-wiens-law.svg]]
+*Figure: from Wikipedia article "Wien's displacement law".*
+*Source: Wikimedia Commons — [Wiens_law.svg](https://commons.wikimedia.org/wiki/File:Wiens_law.svg). Retrieved 2026-05-20.*
+
+#### 230617T161650planckParam6000
+
+![[_attachments/05_Laws-and-Results/Wiens-Displacement-Law--wiki-230617t161650planckparam6000.svg]]
+*Figure: from Wikipedia article "Wien's displacement law".*
+*Source: Wikimedia Commons — [230617T161650planckParam6000.svg](https://commons.wikimedia.org/wiki/File:230617T161650planckParam6000.svg). Retrieved 2026-05-20.*
+
+#### Blacksmith at work02
+
+![[_attachments/05_Laws-and-Results/Wiens-Displacement-Law--wiki-blacksmith-at-work02.jpg]]
+*Figure: from Wikipedia article "Wien's displacement law".*
+*Source: Wikimedia Commons — [Blacksmith at work02.jpg](https://commons.wikimedia.org/wiki/File:Blacksmith_at_work02.jpg). Retrieved 2026-05-20.*
+
 ## Source Trace
 
 - Source: OpenStax College Physics; HyperPhysics; NASA educational material — no copied text

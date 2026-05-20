@@ -94,6 +94,28 @@ From the drift model, $I = nAvq$; for a metal `n` and the scattering rate are ro
 *Figure: For an ohmic conductor at constant temperature, the I–V graph is a straight line through the origin. The gradient equals 1/R.*
 *Source: Authored for this vault (CC0). No external copyright.*
 
+### From Wikipedia
+
+<!-- wiki-images: yes -->
+
+#### Electrona in crystallo fluentia
+
+![[_attachments/05_Laws-and-Results/Ohms-Law--wiki-electrona-in-crystallo-fluentia.svg]]
+*Figure: from Wikipedia article "Ohm's law".*
+*Source: Wikimedia Commons — [Electrona in crystallo fluentia.svg](https://commons.wikimedia.org/wiki/File:Electrona_in_crystallo_fluentia.svg). Retrieved 2026-05-20.*
+
+#### FourIVcurves
+
+![[_attachments/05_Laws-and-Results/Ohms-Law--wiki-fourivcurves.svg]]
+*Figure: from Wikipedia article "Ohm's law".*
+*Source: Wikimedia Commons — [FourIVcurves.svg](https://commons.wikimedia.org/wiki/File:FourIVcurves.svg). Retrieved 2026-05-20.*
+
+#### Ohm3
+
+![[_attachments/05_Laws-and-Results/Ohms-Law--wiki-ohm3.gif]]
+*Figure: from Wikipedia article "Ohm's law".*
+*Source: Wikimedia Commons — [Ohm3.gif](https://commons.wikimedia.org/wiki/File:Ohm3.gif). Retrieved 2026-05-20.*
+
 ## Source Trace
 
 - Source: OpenStax College Physics; HyperPhysics; Physics LibreTexts — paraphrased, no copied text

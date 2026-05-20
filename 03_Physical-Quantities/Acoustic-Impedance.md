@@ -98,6 +98,28 @@ flowchart LR
 *Figure: When a wave crosses from medium 1 to medium 2, the fraction of intensity reflected depends on the impedance mismatch. A large mismatch (e.g. tissue-to-air) reflects most energy; a small mismatch transmits most.*
 *Source: Authored for this vault (CC0). No external copyright.*
 
+### From Wikipedia
+
+<!-- wiki-images: yes -->
+
+#### Thoth08BigasDrumEvansChalmette
+
+![[_attachments/03_Physical-Quantities/Acoustic-Impedance--wiki-thoth08bigasdrumevanschalmette.jpg]]
+*Figure: from Wikipedia article "Sound".*
+*Source: Wikimedia Commons — [Thoth08BigasDrumEvansChalmette.jpg](https://commons.wikimedia.org/wiki/File:Thoth08BigasDrumEvansChalmette.jpg). Retrieved 2026-05-20.*
+
+#### Duration perception
+
+![[_attachments/03_Physical-Quantities/Acoustic-Impedance--wiki-duration-perception.png]]
+*Figure: from Wikipedia article "Sound".*
+*Source: Wikimedia Commons — [Duration perception.png](https://commons.wikimedia.org/wiki/File:Duration_perception.png). Retrieved 2026-05-20.*
+
+#### FA-18 Hornet breaking sound barrier (7 July 1999) - filtered
+
+![[_attachments/03_Physical-Quantities/Acoustic-Impedance--wiki-fa-18-hornet-breaking-sound-barrier-7-ju.jpg]]
+*Figure: from Wikipedia article "Sound".*
+*Source: Wikimedia Commons — [FA-18 Hornet breaking sound barrier (7 July 1999) - filtered.jpg](https://commons.wikimedia.org/wiki/File:FA-18_Hornet_breaking_sound_barrier_(7_July_1999)_-_filtered.jpg). Retrieved 2026-05-20.*
+
 ## Source Trace
 
 - Source: OpenStax College Physics; HyperPhysics; IOPSpark

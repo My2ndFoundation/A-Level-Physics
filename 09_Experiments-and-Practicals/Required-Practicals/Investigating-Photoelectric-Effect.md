@@ -88,6 +88,28 @@ UV sources can harm eyes and skin — never look directly at UV; use shielding. 
 *Figure: Diagram of the photoelectric effect showing a photon of energy hf striking a metal surface and ejecting an electron (photoelectron) with maximum kinetic energy $E_k = hf - \varphi$, where φ is the work function. The threshold frequency $f_0$ is the minimum frequency that can eject an electron.*
 *Source: Photoelectric effect — Wolfmankurd — CC BY-SA 3.0 — https://commons.wikimedia.org/wiki/File:Photoelectric_effect.svg. Retrieved 2026-05-19.*
 
+### From Wikipedia
+
+<!-- wiki-images: yes -->
+
+#### Photoelectric effect in a solid - diagram
+
+![[_attachments/09_Experiments-and-Practicals/Investigating-Photoelectric-Effect--wiki-photoelectric-effect-in-a-solid-diagram.svg]]
+*Figure: from Wikipedia article "Photoelectric effect".*
+*Source: Wikimedia Commons — [Photoelectric_effect_in_a_solid_-_diagram.svg](https://commons.wikimedia.org/wiki/File:Photoelectric_effect_in_a_solid_-_diagram.svg). Retrieved 2026-05-20.*
+
+#### ARPES setup - ultraviolet source - sample holder - electron analyzer
+
+![[_attachments/09_Experiments-and-Practicals/Investigating-Photoelectric-Effect--wiki-arpes-setup-ultraviolet-source-sample-ho.svg]]
+*Figure: from Wikipedia article "Photoelectric effect".*
+*Source: Wikimedia Commons — [ARPES setup - ultraviolet source - sample holder - electron analyzer.svg](https://commons.wikimedia.org/wiki/File:ARPES_setup_-_ultraviolet_source_-_sample_holder_-_electron_analyzer.svg). Retrieved 2026-05-20.*
+
+#### Dominant Photon-Matter Interaction
+
+![[_attachments/09_Experiments-and-Practicals/Investigating-Photoelectric-Effect--wiki-dominant-photon-matter-interaction.svg]]
+*Figure: from Wikipedia article "Photoelectric effect".*
+*Source: Wikimedia Commons — [Dominant Photon-Matter Interaction.svg](https://commons.wikimedia.org/wiki/File:Dominant_Photon-Matter_Interaction.svg). Retrieved 2026-05-20.*
+
 ## Source Trace
 
 - Source: OCR Practical Skills Handbook; The Physics Classroom; IOPSpark; OpenStax

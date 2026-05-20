@@ -105,6 +105,28 @@ graph LR
 *Figure: de Broglie equation: wavelength shortens as momentum increases. Diffraction is only observable when λ is comparable to the gap or crystal spacing.*
 *Source: Authored for this vault (CC0). No external copyright.*
 
+### From Wikipedia
+
+<!-- wiki-images: yes -->
+
+#### A565 G P Thomson Electron Diffraction
+
+![[_attachments/05_Laws-and-Results/De-Broglie-Equation--wiki-a565-g-p-thomson-electron-diffraction.jpg]]
+*Figure: from Wikipedia article "Matter wave".*
+*Source: Wikimedia Commons — [A565 G P Thomson Electron Diffraction.jpg](https://commons.wikimedia.org/wiki/File:A565_G_P_Thomson_Electron_Diffraction.jpg). Retrieved 2026-05-20.*
+
+#### Electron buildup movie from "Controlled double-slit electron diffraction" Roger Bach et al 2013 New J. Phys. 15 033018
+
+![[_attachments/05_Laws-and-Results/De-Broglie-Equation--wiki-electron-buildup-movie-from-controlled-d.gif]]
+*Figure: from Wikipedia article "Matter wave".*
+*Source: Wikimedia Commons — [Electron buildup movie from "Controlled double-slit electron diffraction" Roger Bach et al 2013 New J. Phys. 15 033018.gif](https://commons.wikimedia.org/wiki/File:Electron_buildup_movie_from_"Controlled_double-slit_electron_diffraction"_Roger_Bach_et_al_2013_New_J._Phys._15_033018.gif). Retrieved 2026-05-20.*
+
+#### Guassian Dispersion
+
+![[_attachments/05_Laws-and-Results/De-Broglie-Equation--wiki-guassian-dispersion.gif]]
+*Figure: from Wikipedia article "Matter wave".*
+*Source: Wikimedia Commons — [Guassian Dispersion.gif](https://commons.wikimedia.org/wiki/File:Guassian_Dispersion.gif). Retrieved 2026-05-20.*
+
 ## Source Trace
 
 - Source: OpenStax College Physics; HyperPhysics; Physics LibreTexts — paraphrased, no copied text

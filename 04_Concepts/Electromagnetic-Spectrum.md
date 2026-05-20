@@ -93,6 +93,28 @@ flowchart LR
 *Figure: All electromagnetic waves travel at c ≈ 3×10⁸ m s⁻¹ in vacuum. Frequency increases left to right; wavelength decreases. Photon energy E = hf increases with frequency. Above UV, radiation is ionising.*
 *Source: Authored for this vault (CC0). No external copyright.*
 
+### From Wikipedia
+
+<!-- wiki-images: yes -->
+
+#### EM Spectrum Properties edit
+
+![[_attachments/04_Concepts/Electromagnetic-Spectrum--wiki-em-spectrum-properties-edit.svg]]
+*Figure: from Wikipedia article "Electromagnetic spectrum".*
+*Source: Wikimedia Commons — [EM_Spectrum_Properties_edit.svg](https://commons.wikimedia.org/wiki/File:EM_Spectrum_Properties_edit.svg). Retrieved 2026-05-20.*
+
+#### 2013 Atmospheric absorption of electromagnetic waves
+
+![[_attachments/04_Concepts/Electromagnetic-Spectrum--wiki-2013-atmospheric-absorption-of-electroma.svg]]
+*Figure: from Wikipedia article "Electromagnetic spectrum".*
+*Source: Wikimedia Commons — [2013 Atmospheric absorption of electromagnetic waves.svg](https://commons.wikimedia.org/wiki/File:2013_Atmospheric_absorption_of_electromagnetic_waves.svg). Retrieved 2026-05-20.*
+
+#### Atmospheric electromagnetic opacity
+
+![[_attachments/04_Concepts/Electromagnetic-Spectrum--wiki-atmospheric-electromagnetic-opacity.svg]]
+*Figure: from Wikipedia article "Electromagnetic spectrum".*
+*Source: Wikimedia Commons — [Atmospheric electromagnetic opacity.svg](https://commons.wikimedia.org/wiki/File:Atmospheric_electromagnetic_opacity.svg). Retrieved 2026-05-20.*
+
 ## Source Trace
 
 - Source: OpenStax College Physics; HyperPhysics; IOPSpark

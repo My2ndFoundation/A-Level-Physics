@@ -102,6 +102,28 @@ flowchart LR
 *Figure: Resistivity ρ is extracted by measuring R for several wire lengths L (constant cross-section A). The gradient of the R–L graph equals ρ/A, so ρ = gradient × A.*
 *Source: Authored for this vault (CC0). No external copyright.*
 
+### From Wikipedia
+
+<!-- wiki-images: yes -->
+
+#### Lightning over Oradea Romania 3
+
+![[_attachments/03_Physical-Quantities/Resistivity--wiki-lightning-over-oradea-romania-3.jpg]]
+*Figure: from Wikipedia article "Electrical resistivity and conductivity".*
+*Source: Wikimedia Commons — [Lightning over Oradea Romania 3.jpg](https://commons.wikimedia.org/wiki/File:Lightning_over_Oradea_Romania_3.jpg). Retrieved 2026-05-20.*
+
+#### Resistivity geometry
+
+![[_attachments/03_Physical-Quantities/Resistivity--wiki-resistivity-geometry.png]]
+*Figure: from Wikipedia article "Electrical resistivity and conductivity".*
+*Source: Wikimedia Commons — [Resistivity geometry.png](https://commons.wikimedia.org/wiki/File:Resistivity_geometry.png). Retrieved 2026-05-20.*
+
+#### Superconductivity 1911
+
+![[_attachments/03_Physical-Quantities/Resistivity--wiki-superconductivity-1911.gif]]
+*Figure: from Wikipedia article "Electrical resistivity and conductivity".*
+*Source: Wikimedia Commons — [Superconductivity 1911.gif](https://commons.wikimedia.org/wiki/File:Superconductivity_1911.gif). Retrieved 2026-05-20.*
+
 ## Source Trace
 
 - Source: OpenStax College Physics; The Physics Classroom; HyperPhysics (paraphrased, no copied text)

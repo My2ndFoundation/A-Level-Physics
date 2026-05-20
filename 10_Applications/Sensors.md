@@ -67,6 +67,28 @@ A sensor converts a physical quantity (light, temperature, force, position) into
 
 _None yet — a thermistor/LDR potential-divider circuit would suit this page._
 
+### From Wikipedia
+
+<!-- wiki-images: yes -->
+
+#### Light sensor
+
+![[_attachments/10_Applications/Sensors--wiki-light-sensor.png]]
+*Figure: from Wikipedia article "Sensor".*
+*Source: Wikimedia Commons — [Light_sensor.png](https://commons.wikimedia.org/wiki/File:Light_sensor.png). Retrieved 2026-05-20.*
+
+#### Infrared Transceiver Circuit
+
+![[_attachments/10_Applications/Sensors--wiki-infrared-transceiver-circuit.jpg]]
+*Figure: from Wikipedia article "Sensor".*
+*Source: Wikimedia Commons — [Infrared Transceiver Circuit.jpg](https://commons.wikimedia.org/wiki/File:Infrared_Transceiver_Circuit.jpg). Retrieved 2026-05-20.*
+
+#### LiDAR Scanner and Back Camera of iPad Pro 2020 - 3
+
+![[_attachments/10_Applications/Sensors--wiki-lidar-scanner-and-back-camera-of-ipad-pr.jpg]]
+*Figure: from Wikipedia article "Sensor".*
+*Source: Wikimedia Commons — [LiDAR Scanner and Back Camera of iPad Pro 2020 - 3.jpg](https://commons.wikimedia.org/wiki/File:LiDAR_Scanner_and_Back_Camera_of_iPad_Pro_2020_-_3.jpg). Retrieved 2026-05-20.*
+
 ## External Resources
 
 - Isaac Physics — Sensing circuits: https://isaacphysics.org

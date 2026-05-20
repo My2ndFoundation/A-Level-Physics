@@ -103,6 +103,22 @@ flowchart LR
 *Figure: Strain ε = x/L (dimensionless) is the x-axis of the stress–strain graph. In the linear (Hookean) region the gradient equals the Young modulus E.*
 *Source: Authored for this vault (CC0). No external copyright.*
 
+### From Wikipedia
+
+<!-- wiki-images: yes -->
+
+#### 2D geometric strain
+
+![[_attachments/03_Physical-Quantities/Strain--wiki-2d-geometric-strain.svg]]
+*Figure: from Wikipedia article "Strain (mechanics)".*
+*Source: Wikimedia Commons — [2D geometric strain.svg](https://commons.wikimedia.org/wiki/File:2D_geometric_strain.svg). Retrieved 2026-05-20.*
+
+#### Approximation volume deformation
+
+![[_attachments/03_Physical-Quantities/Strain--wiki-approximation-volume-deformation.png]]
+*Figure: from Wikipedia article "Strain (mechanics)".*
+*Source: Wikimedia Commons — [Approximation volume deformation.png](https://commons.wikimedia.org/wiki/File:Approximation_volume_deformation.png). Retrieved 2026-05-20.*
+
 ## Source Trace
 
 - Source: OpenStax College Physics; The Physics Classroom; HyperPhysics (paraphrased, no copied text)

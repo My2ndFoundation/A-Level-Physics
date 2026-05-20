@@ -70,6 +70,28 @@ Not applicable — this is a geometric construction, not a plotted graph. The in
 *Figure: Vector A (red, horizontal) is drawn first. Vector B (green) is drawn starting from the tip of A. The resultant R (blue dashed) closes the triangle from the start of A to the tip of B. Arrow lengths are proportional to magnitudes; θ is the angle of R measured by protractor. For equilibrium, a third vector equal in magnitude to R but opposite in direction would close the triangle exactly.*
 *Source: Authored for this vault (CC0). No external copyright.*
 
+### From Wikipedia
+
+<!-- wiki-images: yes -->
+
+#### TriangleInequality
+
+![[_attachments/08_Representations/Vector-Triangle--wiki-triangleinequality.svg]]
+*Figure: from Wikipedia article "Triangle inequality".*
+*Source: Wikimedia Commons — [TriangleInequality.svg](https://commons.wikimedia.org/wiki/File:TriangleInequality.svg). Retrieved 2026-05-20.*
+
+#### Euclid triangle inequality
+
+![[_attachments/08_Representations/Vector-Triangle--wiki-euclid-triangle-inequality.svg]]
+*Figure: from Wikipedia article "Triangle inequality".*
+*Source: Wikimedia Commons — [Euclid triangle inequality.svg](https://commons.wikimedia.org/wiki/File:Euclid_triangle_inequality.svg). Retrieved 2026-05-20.*
+
+#### Isosceles triangle made of right triangles
+
+![[_attachments/08_Representations/Vector-Triangle--wiki-isosceles-triangle-made-of-right-triangl.svg]]
+*Figure: from Wikipedia article "Triangle inequality".*
+*Source: Wikimedia Commons — [Isosceles triangle made of right triangles.svg](https://commons.wikimedia.org/wiki/File:Isosceles_triangle_made_of_right_triangles.svg). Retrieved 2026-05-20.*
+
 ## Source Trace
 
 - Source: OpenStax College Physics; The Physics Classroom; HyperPhysics — no copied text

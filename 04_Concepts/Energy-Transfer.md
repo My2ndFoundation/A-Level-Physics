@@ -94,6 +94,22 @@ Energy transfer is the backbone of nearly every quantitative argument in mechani
 
 _None yet — a Sankey-diagram figure would suit this page._
 
+### From Wikipedia
+
+<!-- wiki-images: yes -->
+
+#### Energy Transfer Galaxy Plant aerial 20251003 (4)
+
+![[_attachments/04_Concepts/Energy-Transfer--wiki-energy-transfer-galaxy-plant-aerial-2025.jpg]]
+*Figure: from Wikipedia article "Energy Transfer".*
+*Source: Wikimedia Commons — [Energy Transfer Galaxy Plant aerial 20251003 (4).jpg](https://commons.wikimedia.org/wiki/File:Energy_Transfer_Galaxy_Plant_aerial_20251003_(4).jpg). Retrieved 2026-05-20.*
+
+#### Increase2
+
+![[_attachments/04_Concepts/Energy-Transfer--wiki-increase2.svg]]
+*Figure: from Wikipedia article "Energy Transfer".*
+*Source: Wikimedia Commons — [Increase2.svg](https://commons.wikimedia.org/wiki/File:Increase2.svg). Retrieved 2026-05-20.*
+
 ## Source Trace
 
 - Source: Vault baseline — synthesised from the existing Energy cluster ([[Energy-Quantity|Energy]], [[Work]], [[Power]], [[Conservation-of-Energy]]). No external copyrighted text.

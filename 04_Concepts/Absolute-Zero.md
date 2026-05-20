@@ -92,6 +92,28 @@ xychart-beta
 *Figure: Pressure of a fixed gas mass at constant volume plotted against Celsius temperature. The straight line, when extrapolated, reaches zero pressure at −273 °C — this intercept defines absolute zero (0 K).*
 *Source: Authored for this vault (CC0). No external copyright.*
 
+### From Wikipedia
+
+<!-- wiki-images: yes -->
+
+#### CelsiusKelvin
+
+![[_attachments/04_Concepts/Absolute-Zero--wiki-celsiuskelvin.svg]]
+*Figure: from Wikipedia article "Absolute zero".*
+*Source: Wikimedia Commons — [CelsiusKelvin.svg](https://commons.wikimedia.org/wiki/File:CelsiusKelvin.svg). Retrieved 2026-05-20.*
+
+#### Boomerang nebula
+
+![[_attachments/04_Concepts/Absolute-Zero--wiki-boomerang-nebula.jpg]]
+*Figure: from Wikipedia article "Absolute zero".*
+*Source: Wikimedia Commons — [Boomerang nebula.jpg](https://commons.wikimedia.org/wiki/File:Boomerang_nebula.jpg). Retrieved 2026-05-20.*
+
+#### Bose Einstein condensate
+
+![[_attachments/04_Concepts/Absolute-Zero--wiki-bose-einstein-condensate.png]]
+*Figure: from Wikipedia article "Absolute zero".*
+*Source: Wikimedia Commons — [Bose Einstein condensate.png](https://commons.wikimedia.org/wiki/File:Bose_Einstein_condensate.png). Retrieved 2026-05-20.*
+
 ## Source Trace
 
 - Source: OpenStax College Physics; HyperPhysics; The Physics Classroom — paraphrased, no copied text

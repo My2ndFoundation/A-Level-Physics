@@ -103,6 +103,28 @@ xychart-beta
 *Figure: Number of undecayed nuclei halves every half-life t½. The same exponential shape applies to activity A = A₀ e^(−λt).*
 *Source: Authored for this vault (CC0). No external copyright.*
 
+### From Wikipedia
+
+<!-- wiki-images: yes -->
+
+#### NuclearReaction
+
+![[_attachments/05_Laws-and-Results/Radioactive-Decay-Law--wiki-nuclearreaction.svg]]
+*Figure: from Wikipedia article "Radioactive decay".*
+*Source: Wikimedia Commons — [NuclearReaction.svg](https://commons.wikimedia.org/wiki/File:NuclearReaction.svg). Retrieved 2026-05-20.*
+
+#### Alfa beta gamma radiation
+
+![[_attachments/05_Laws-and-Results/Radioactive-Decay-Law--wiki-alfa-beta-gamma-radiation.svg]]
+*Figure: from Wikipedia article "Radioactive decay".*
+*Source: Wikimedia Commons — [Alfa beta gamma radiation.svg](https://commons.wikimedia.org/wiki/File:Alfa_beta_gamma_radiation.svg). Retrieved 2026-05-20.*
+
+#### Crookes tube xray experiment
+
+![[_attachments/05_Laws-and-Results/Radioactive-Decay-Law--wiki-crookes-tube-xray-experiment.jpg]]
+*Figure: from Wikipedia article "Radioactive decay".*
+*Source: Wikimedia Commons — [Crookes tube xray experiment.jpg](https://commons.wikimedia.org/wiki/File:Crookes_tube_xray_experiment.jpg). Retrieved 2026-05-20.*
+
 ## Source Trace
 
 - Source: OpenStax College Physics; HyperPhysics; Physics LibreTexts — paraphrased, no copied text

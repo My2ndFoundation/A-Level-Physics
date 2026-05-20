@@ -92,6 +92,28 @@ graph TD
 *Figure: The point mass reduces a real object to a mass at a point; forces, momentum, and Newton's second law apply without any turning effects.*
 *Source: Authored for this vault (CC0). No external copyright.*
 
+### From Wikipedia
+
+<!-- wiki-images: yes -->
+
+#### Collage of point particles
+
+![[_attachments/06_Models/Point-Mass-Model--wiki-collage-of-point-particles.png]]
+*Figure: from Wikipedia article "Point particle".*
+*Source: Wikimedia Commons — [Collage_of_point_particles.png](https://commons.wikimedia.org/wiki/File:Collage_of_point_particles.png). Retrieved 2026-05-20.*
+
+#### Collage of point particles
+
+![[_attachments/06_Models/Point-Mass-Model--wiki-collage-of-point-particles.png]]
+*Figure: from Wikipedia article "Point particle".*
+*Source: Wikimedia Commons — [Collage of point particles.png](https://commons.wikimedia.org/wiki/File:Collage_of_point_particles.png). Retrieved 2026-05-20.*
+
+#### Quark structure proton
+
+![[_attachments/06_Models/Point-Mass-Model--wiki-quark-structure-proton.svg]]
+*Figure: from Wikipedia article "Point particle".*
+*Source: Wikimedia Commons — [Quark structure proton.svg](https://commons.wikimedia.org/wiki/File:Quark_structure_proton.svg). Retrieved 2026-05-20.*
+
 ## Source Trace
 
 - Source: OpenStax College Physics; The Physics Classroom; Isaac Physics — paraphrased, no copied text.

@@ -88,6 +88,28 @@ Low-voltage circuit; main precaution is the series resistor to avoid burning out
 *Figure: A set of LEDs of different colours (red, amber, yellow, green, blue) — each emits light at a characteristic peak wavelength; the higher the frequency, the higher the threshold voltage required to turn the LED on, giving the V against $1/\lambda$ graph its upward slope with gradient $hc/e$.*
 *Source: Verschiedene LEDs — Afrank99 — CC BY-SA 2.0 — https://commons.wikimedia.org/wiki/File:Verschiedene_LEDs.jpg. Retrieved 2026-05-19. Downscaled from 3392×1193 to 1600×562 px.*
 
+### From Wikipedia
+
+<!-- wiki-images: yes -->
+
+#### Black body
+
+![[_attachments/09_Experiments-and-Practicals/Measuring-the-Planck-Constant--wiki-black-body.svg]]
+*Figure: from Wikipedia article "Planck constant".*
+*Source: Wikimedia Commons — [Black body.svg](https://commons.wikimedia.org/wiki/File:Black_body.svg). Retrieved 2026-05-20.*
+
+#### Bohr atom model
+
+![[_attachments/09_Experiments-and-Practicals/Measuring-the-Planck-Constant--wiki-bohr-atom-model.svg]]
+*Figure: from Wikipedia article "Planck constant".*
+*Source: Wikimedia Commons — [Bohr atom model.svg](https://commons.wikimedia.org/wiki/File:Bohr_atom_model.svg). Retrieved 2026-05-20.*
+
+#### Max Planck Wirkungsquantums 20050815
+
+![[_attachments/09_Experiments-and-Practicals/Measuring-the-Planck-Constant--wiki-max-planck-wirkungsquantums-20050815.jpg]]
+*Figure: from Wikipedia article "Planck constant".*
+*Source: Wikimedia Commons — [Max Planck Wirkungsquantums 20050815.jpg](https://commons.wikimedia.org/wiki/File:Max_Planck_Wirkungsquantums_20050815.jpg). Retrieved 2026-05-20.*
+
 ## Source Trace
 
 - Source: OpenStax College Physics; HyperPhysics; IOPSpark

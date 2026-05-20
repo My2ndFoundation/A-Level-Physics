@@ -109,6 +109,28 @@ graph TD
 *Figure: The nucleus is roughly 10⁵ times smaller than the atom in linear dimension; the atom is mostly empty space, explaining why most alpha particles pass straight through (Geiger–Marsden experiment).*
 *Source: Authored for this vault (CC0). No external copyright.*
 
+### From Wikipedia
+
+<!-- wiki-images: yes -->
+
+#### Nucleus drawing
+
+![[_attachments/06_Models/Nuclear-Model--wiki-nucleus-drawing.svg]]
+*Figure: from Wikipedia article "Atomic nucleus".*
+*Source: Wikimedia Commons — [Nucleus_drawing.svg](https://commons.wikimedia.org/wiki/File:Nucleus_drawing.svg). Retrieved 2026-05-20.*
+
+#### Helium atom QM
+
+![[_attachments/06_Models/Nuclear-Model--wiki-helium-atom-qm.svg]]
+*Figure: from Wikipedia article "Atomic nucleus".*
+*Source: Wikimedia Commons — [Helium atom QM.svg](https://commons.wikimedia.org/wiki/File:Helium_atom_QM.svg). Retrieved 2026-05-20.*
+
+#### NuclearReaction
+
+![[_attachments/06_Models/Nuclear-Model--wiki-nuclearreaction.svg]]
+*Figure: from Wikipedia article "Atomic nucleus".*
+*Source: Wikimedia Commons — [NuclearReaction.svg](https://commons.wikimedia.org/wiki/File:NuclearReaction.svg). Retrieved 2026-05-20.*
+
 ## Source Trace
 
 OpenStax College Physics; HyperPhysics; The Physics Classroom — no copied text.

@@ -83,6 +83,28 @@ is why giants sit above and right of the main sequence.
 *Figure: [[Luminosity]] (log scale, y-axis increasing upward) plotted against surface temperature (log scale, x-axis DECREASING leftward — hot blue-white O-stars at left, cool red M-stars at right). The main sequence (blue band) runs diagonally from hot-bright (upper left) to cool-faint (lower right). Red giants and supergiants (orange/yellow region) sit upper-right — cool but very luminous, so very large radii (from [[Stefans-Law]]: $L = 4\pi r^2\sigma T^4$). White dwarfs (light-blue region) sit lower-left — hot but faint, so very small. The Sun (☉) lies on the main sequence at ~5 800 K and $L = L_\odot$.*
 *Source: Authored for this vault (CC0). No external copyright.*
 
+### From Wikipedia
+
+<!-- wiki-images: yes -->
+
+#### HRDiagram
+
+![[_attachments/08_Representations/Hertzsprung-Russell-Diagram--wiki-hrdiagram.png]]
+*Figure: from Wikipedia article "Hertzsprung–Russell diagram".*
+*Source: Wikimedia Commons — [HRDiagram.png](https://commons.wikimedia.org/wiki/File:HRDiagram.png). Retrieved 2026-05-20.*
+
+#### Crab Nebula
+
+![[_attachments/08_Representations/Hertzsprung-Russell-Diagram--wiki-crab-nebula.jpg]]
+*Figure: from Wikipedia article "Hertzsprung–Russell diagram".*
+*Source: Wikimedia Commons — [Crab Nebula.jpg](https://commons.wikimedia.org/wiki/File:Crab_Nebula.jpg). Retrieved 2026-05-20.*
+
+#### Earth-moon
+
+![[_attachments/08_Representations/Hertzsprung-Russell-Diagram--wiki-earth-moon.jpg]]
+*Figure: from Wikipedia article "Hertzsprung–Russell diagram".*
+*Source: Wikimedia Commons — [Earth-moon.jpg](https://commons.wikimedia.org/wiki/File:Earth-moon.jpg). Retrieved 2026-05-20.*
+
 ## Source Trace
 
 - Source: OpenStax College Physics; HyperPhysics; NASA educational material — no copied text

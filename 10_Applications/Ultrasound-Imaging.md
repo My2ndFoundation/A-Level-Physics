@@ -71,6 +71,28 @@ Imaging soft tissue and monitoring blood flow safely (no ionising radiation) by 
 *Figure: A handheld piezoelectric ultrasound probe (transducer). The curved end is pressed against the patient's skin with coupling gel; it emits high-frequency sound pulses and detects returning echoes from tissue boundaries.*
 *Source: UltrasoundProbe2006a — Drickey — CC BY-SA 2.5 — https://commons.wikimedia.org/wiki/File:UltrasoundProbe2006a.jpg. Retrieved 2026-05-19.*
 
+### From Wikipedia
+
+<!-- wiki-images: yes -->
+
+#### Sonographer doing pediatric echocardiography
+
+![[_attachments/10_Applications/Ultrasound-Imaging--wiki-sonographer-doing-pediatric-echocardiogr.jpg]]
+*Figure: from Wikipedia article "Medical ultrasound".*
+*Source: Wikimedia Commons — [Sonographer_doing_pediatric_echocardiography.JPG](https://commons.wikimedia.org/wiki/File:Sonographer_doing_pediatric_echocardiography.JPG). Retrieved 2026-05-20.*
+
+#### A medical ultrasound linear array probe, scan head, transducer
+
+![[_attachments/10_Applications/Ultrasound-Imaging--wiki-a-medical-ultrasound-linear-array-probe-.jpg]]
+*Figure: from Wikipedia article "Medical ultrasound".*
+*Source: Wikimedia Commons — [A medical ultrasound linear array probe, scan head, transducer.jpg](https://commons.wikimedia.org/wiki/File:A_medical_ultrasound_linear_array_probe,_scan_head,_transducer.jpg). Retrieved 2026-05-20.*
+
+#### A modern medical ultrasound scanner
+
+![[_attachments/10_Applications/Ultrasound-Imaging--wiki-a-modern-medical-ultrasound-scanner.jpg]]
+*Figure: from Wikipedia article "Medical ultrasound".*
+*Source: Wikimedia Commons — [A modern medical ultrasound scanner.jpg](https://commons.wikimedia.org/wiki/File:A_modern_medical_ultrasound_scanner.jpg). Retrieved 2026-05-20.*
+
 ## Source Trace
 
 - Source: OpenStax College Physics; HyperPhysics; IOPSpark

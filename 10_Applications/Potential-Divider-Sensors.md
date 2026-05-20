@@ -81,6 +81,16 @@ flowchart TD
 *Figure: Potential divider circuit with a fixed resistor R₁ and a sensing component R₂ (thermistor or LDR) in series. The output voltage is taken across R₂. As the sensed quantity (temperature or light) changes R₂, the output voltage changes, crossing a threshold that triggers a switch.*
 *Source: Authored for this vault (CC0). No external copyright.*
 
+### From Wikipedia
+
+<!-- wiki-images: yes -->
+
+#### HighVoltageDividerProbe
+
+![[_attachments/10_Applications/Potential-Divider-Sensors--wiki-highvoltagedividerprobe.jpg]]
+*Figure: from Wikipedia article "Voltage divider".*
+*Source: Wikimedia Commons — [HighVoltageDividerProbe.jpg](https://commons.wikimedia.org/wiki/File:HighVoltageDividerProbe.jpg). Retrieved 2026-05-20.*
+
 ## Source Trace
 
 - Source: OpenStax College Physics; IOPSpark; Isaac Physics; OCR examiner reports (general) — no copied text

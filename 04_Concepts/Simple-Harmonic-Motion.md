@@ -96,6 +96,28 @@ xychart-beta
 *Figure: x (displacement) leads v (velocity) by 90°; a (acceleration) is antiphase with x. When x = +A (maximum displacement) velocity = 0 and a = −ω²A (maximum restoring).*
 *Source: Authored for this vault (CC0). No external copyright.*
 
+### From Wikipedia
+
+<!-- wiki-images: yes -->
+
+#### Simple Harmonic Motion Orbit
+
+![[_attachments/04_Concepts/Simple-Harmonic-Motion--wiki-simple-harmonic-motion-orbit.gif]]
+*Figure: from Wikipedia article "Simple harmonic motion".*
+*Source: Wikimedia Commons — [Simple_Harmonic_Motion_Orbit.gif](https://commons.wikimedia.org/wiki/File:Simple_Harmonic_Motion_Orbit.gif). Retrieved 2026-05-20.*
+
+#### Scotch yoke animation
+
+![[_attachments/04_Concepts/Simple-Harmonic-Motion--wiki-scotch-yoke-animation.gif]]
+*Figure: from Wikipedia article "Simple harmonic motion".*
+*Source: Wikimedia Commons — [Scotch yoke animation.gif](https://commons.wikimedia.org/wiki/File:Scotch_yoke_animation.gif). Retrieved 2026-05-20.*
+
+#### Simple Harmonic Motion Orbit
+
+![[_attachments/04_Concepts/Simple-Harmonic-Motion--wiki-simple-harmonic-motion-orbit.gif]]
+*Figure: from Wikipedia article "Simple harmonic motion".*
+*Source: Wikimedia Commons — [Simple Harmonic Motion Orbit.gif](https://commons.wikimedia.org/wiki/File:Simple_Harmonic_Motion_Orbit.gif). Retrieved 2026-05-20.*
+
 ## Source Trace
 
 - Source: OpenStax College Physics; HyperPhysics; The Physics Classroom — no copied text

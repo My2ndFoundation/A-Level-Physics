@@ -112,6 +112,28 @@ graph LR
 *Figure: Conservation of energy: energy transfers between stores; the total is unchanged in an isolated system.*
 *Source: Authored for this vault (CC0). No external copyright.*
 
+### From Wikipedia
+
+<!-- wiki-images: yes -->
+
+#### Daniel Bernoulli 001
+
+![[_attachments/05_Laws-and-Results/Conservation-of-Energy--wiki-daniel-bernoulli-001.jpg]]
+*Figure: from Wikipedia article "Conservation of energy".*
+*Source: Wikimedia Commons — [Daniel Bernoulli 001.jpg](https://commons.wikimedia.org/wiki/File:Daniel_Bernoulli_001.jpg). Retrieved 2026-05-20.*
+
+#### Emilie Chatelet portrait by Latour
+
+![[_attachments/05_Laws-and-Results/Conservation-of-Energy--wiki-emilie-chatelet-portrait-by-latour.jpg]]
+*Figure: from Wikipedia article "Conservation of energy".*
+*Source: Wikimedia Commons — [Emilie Chatelet portrait by Latour.jpg](https://commons.wikimedia.org/wiki/File:Emilie_Chatelet_portrait_by_Latour.jpg). Retrieved 2026-05-20.*
+
+#### Gaspard-Gustave de Coriolis
+
+![[_attachments/05_Laws-and-Results/Conservation-of-Energy--wiki-gaspard-gustave-de-coriolis.jpg]]
+*Figure: from Wikipedia article "Conservation of energy".*
+*Source: Wikimedia Commons — [Gaspard-Gustave de Coriolis.jpg](https://commons.wikimedia.org/wiki/File:Gaspard-Gustave_de_Coriolis.jpg). Retrieved 2026-05-20.*
+
 ## Source Trace
 
 - Source: OpenStax College Physics; HyperPhysics; Physics LibreTexts — paraphrased, no copied text

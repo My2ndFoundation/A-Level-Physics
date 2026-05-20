@@ -77,6 +77,28 @@ Stars are natural laboratories: their light tells us their temperature, composit
 *Figure: High-resolution absorption spectrum of Procyon (F5 IV–V star). Dark absorption lines correspond to wavelengths absorbed by specific elements in the star's atmosphere; their positions reveal composition and, via Doppler shift, recession or approach speed.*
 *Source: High resolution spectrum of Procyon (noao-procyon) — N.A. Sharp / NOIRLab / NSF / AURA — CC BY 4.0 — https://commons.wikimedia.org/wiki/File:High_resolution_spectrum_of_Procyon_(noao-procyon).jpg. Retrieved 2026-05-19.*
 
+### From Wikipedia
+
+<!-- wiki-images: yes -->
+
+#### NIEdot362
+
+![[_attachments/10_Applications/Stars-and-Cosmology--wiki-niedot362.jpg]]
+*Figure: from Wikipedia article "Astrophysics".*
+*Source: Wikimedia Commons — [NIEdot362.jpg](https://commons.wikimedia.org/wiki/File:NIEdot362.jpg). Retrieved 2026-05-20.*
+
+#### Crab Nebula
+
+![[_attachments/10_Applications/Stars-and-Cosmology--wiki-crab-nebula.jpg]]
+*Figure: from Wikipedia article "Astrophysics".*
+*Source: Wikimedia Commons — [Crab Nebula.jpg](https://commons.wikimedia.org/wiki/File:Crab_Nebula.jpg). Retrieved 2026-05-20.*
+
+#### Earth-moon
+
+![[_attachments/10_Applications/Stars-and-Cosmology--wiki-earth-moon.jpg]]
+*Figure: from Wikipedia article "Astrophysics".*
+*Source: Wikimedia Commons — [Earth-moon.jpg](https://commons.wikimedia.org/wiki/File:Earth-moon.jpg). Retrieved 2026-05-20.*
+
 ## Source Trace
 
 - Source: OpenStax College Physics; IOPSpark; Isaac Physics; OCR examiner reports (general) — no copied text

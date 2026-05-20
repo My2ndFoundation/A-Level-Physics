@@ -107,6 +107,28 @@ flowchart TD
 *Figure: Energy cannot be created or destroyed — only transferred between stores. The arrows show typical conversion routes. At each transfer the total energy is conserved, though thermal dissipation is often unavoidable.*
 *Source: Authored for this vault (CC0). No external copyright.*
 
+### From Wikipedia
+
+<!-- wiki-images: yes -->
+
+#### Plasma globe 60th
+
+![[_attachments/03_Physical-Quantities/Energy-Quantity--wiki-plasma-globe-60th.jpg]]
+*Figure: from Wikipedia article "Energy".*
+*Source: Wikimedia Commons — [Plasma_globe_60th.jpg](https://commons.wikimedia.org/wiki/File:Plasma_globe_60th.jpg). Retrieved 2026-05-20.*
+
+#### Carnot heat engine 2
+
+![[_attachments/03_Physical-Quantities/Energy-Quantity--wiki-carnot-heat-engine-2.svg]]
+*Figure: from Wikipedia article "Energy".*
+*Source: Wikimedia Commons — [Carnot heat engine 2.svg](https://commons.wikimedia.org/wiki/File:Carnot_heat_engine_2.svg). Retrieved 2026-05-20.*
+
+#### Energy and life
+
+![[_attachments/03_Physical-Quantities/Energy-Quantity--wiki-energy-and-life.svg]]
+*Figure: from Wikipedia article "Energy".*
+*Source: Wikimedia Commons — [Energy and life.svg](https://commons.wikimedia.org/wiki/File:Energy_and_life.svg). Retrieved 2026-05-20.*
+
 ## Source Trace
 
 - Source: OpenStax College Physics; The Physics Classroom; HyperPhysics (paraphrased, no copied text)

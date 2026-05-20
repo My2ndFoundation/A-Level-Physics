@@ -113,6 +113,28 @@ flowchart LR
 *Figure: In parallel, capacitances add directly (larger effective plate area). In series, reciprocals add (larger effective gap) — giving a total capacitance smaller than any individual capacitor.*
 *Source: Authored for this vault (CC0). No external copyright.*
 
+### From Wikipedia
+
+<!-- wiki-images: yes -->
+
+#### Capacitors in parallel
+
+![[_attachments/04_Concepts/Capacitors-in-Series-and-Parallel--wiki-capacitors-in-parallel.svg]]
+*Figure: from Wikipedia article "Series and parallel circuits".*
+*Source: Wikimedia Commons — [Capacitors in parallel.svg](https://commons.wikimedia.org/wiki/File:Capacitors_in_parallel.svg). Retrieved 2026-05-20.*
+
+#### Capacitors in series
+
+![[_attachments/04_Concepts/Capacitors-in-Series-and-Parallel--wiki-capacitors-in-series.svg]]
+*Figure: from Wikipedia article "Series and parallel circuits".*
+*Source: Wikimedia Commons — [Capacitors in series.svg](https://commons.wikimedia.org/wiki/File:Capacitors_in_series.svg). Retrieved 2026-05-20.*
+
+#### Inductors in series
+
+![[_attachments/04_Concepts/Capacitors-in-Series-and-Parallel--wiki-inductors-in-series.svg]]
+*Figure: from Wikipedia article "Series and parallel circuits".*
+*Source: Wikimedia Commons — [Inductors in series.svg](https://commons.wikimedia.org/wiki/File:Inductors_in_series.svg). Retrieved 2026-05-20.*
+
 ## Source Trace
 
 - Source: OpenStax College Physics; HyperPhysics; Physics LibreTexts — no copied text

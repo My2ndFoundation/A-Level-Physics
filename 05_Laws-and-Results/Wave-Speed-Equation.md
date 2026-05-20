@@ -105,6 +105,28 @@ graph TD
 *Figure: Wave speed equation — v = fλ. Frequency is fixed by the source; wavelength adjusts when the wave enters a new medium.*
 *Source: Authored for this vault (CC0). No external copyright.*
 
+### From Wikipedia
+
+<!-- wiki-images: yes -->
+
+#### 1d wave equation animation
+
+![[_attachments/05_Laws-and-Results/Wave-Speed-Equation--wiki-1d-wave-equation-animation.gif]]
+*Figure: from Wikipedia article "Wave equation".*
+*Source: Wikimedia Commons — [1d wave equation animation.gif](https://commons.wikimedia.org/wiki/File:1d_wave_equation_animation.gif). Retrieved 2026-05-20.*
+
+#### 2D Wave Function resize
+
+![[_attachments/05_Laws-and-Results/Wave-Speed-Equation--wiki-2d-wave-function-resize.gif]]
+*Figure: from Wikipedia article "Wave equation".*
+*Source: Wikimedia Commons — [2D Wave Function resize.gif](https://commons.wikimedia.org/wiki/File:2D_Wave_Function_resize.gif). Retrieved 2026-05-20.*
+
+#### Leonhard Euler 2
+
+![[_attachments/05_Laws-and-Results/Wave-Speed-Equation--wiki-leonhard-euler-2.jpg]]
+*Figure: from Wikipedia article "Wave equation".*
+*Source: Wikimedia Commons — [Leonhard Euler 2.jpg](https://commons.wikimedia.org/wiki/File:Leonhard_Euler_2.jpg). Retrieved 2026-05-20.*
+
 ## Source Trace
 
 - Source: OpenStax College Physics; HyperPhysics; Physics LibreTexts — paraphrased, no copied text

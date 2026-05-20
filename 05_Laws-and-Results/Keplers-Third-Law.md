@@ -106,6 +106,28 @@ xychart-beta
 *Figure: A plot of T² against r³ for planets orbiting the same star is a straight line through the origin. The gradient equals 4π²/(GM).*
 *Source: Authored for this vault (CC0). No external copyright.*
 
+### From Wikipedia
+
+<!-- wiki-images: yes -->
+
+#### Kepler laws diagram
+
+![[_attachments/05_Laws-and-Results/Keplers-Third-Law--wiki-kepler-laws-diagram.svg]]
+*Figure: from Wikipedia article "Kepler's laws of planetary motion".*
+*Source: Wikimedia Commons — [Kepler_laws_diagram.svg](https://commons.wikimedia.org/wiki/File:Kepler_laws_diagram.svg). Retrieved 2026-05-20.*
+
+#### Circular orbit of planet with (eccentricty of 0.0)
+
+![[_attachments/05_Laws-and-Results/Keplers-Third-Law--wiki-circular-orbit-of-planet-with-eccentrict.gif]]
+*Figure: from Wikipedia article "Kepler's laws of planetary motion".*
+*Source: Wikimedia Commons — [Circular orbit of planet with (eccentricty of 0.0).gif](https://commons.wikimedia.org/wiki/File:Circular_orbit_of_planet_with_(eccentricty_of_0.0).gif). Retrieved 2026-05-20.*
+
+#### Crab Nebula
+
+![[_attachments/05_Laws-and-Results/Keplers-Third-Law--wiki-crab-nebula.jpg]]
+*Figure: from Wikipedia article "Kepler's laws of planetary motion".*
+*Source: Wikimedia Commons — [Crab Nebula.jpg](https://commons.wikimedia.org/wiki/File:Crab_Nebula.jpg). Retrieved 2026-05-20.*
+
 ## Source Trace
 
 - Source: OpenStax College Physics; HyperPhysics; NASA educational material — no copied text

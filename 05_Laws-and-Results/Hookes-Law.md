@@ -101,6 +101,28 @@ xychart-beta
 *Figure: Linear region of a force–extension graph. The gradient equals the spring constant k. Beyond the limit of proportionality the line curves.*
 *Source: Authored for this vault (CC0). No external copyright.*
 
+### From Wikipedia
+
+<!-- wiki-images: yes -->
+
+#### Hookes-law-springs
+
+![[_attachments/05_Laws-and-Results/Hookes-Law--wiki-hookes-law-springs.png]]
+*Figure: from Wikipedia article "Hooke's law".*
+*Source: Wikimedia Commons — [Hookes-law-springs.png](https://commons.wikimedia.org/wiki/File:Hookes-law-springs.png). Retrieved 2026-05-20.*
+
+#### Balancier avec ressort spiral
+
+![[_attachments/05_Laws-and-Results/Hookes-Law--wiki-balancier-avec-ressort-spiral.png]]
+*Figure: from Wikipedia article "Hooke's law".*
+*Source: Wikimedia Commons — [Balancier avec ressort spiral.png](https://commons.wikimedia.org/wiki/File:Balancier_avec_ressort_spiral.png). Retrieved 2026-05-20.*
+
+#### Hooke's Law wikipedia
+
+![[_attachments/05_Laws-and-Results/Hookes-Law--wiki-hookes-law-wikipedia.png]]
+*Figure: from Wikipedia article "Hooke's law".*
+*Source: Wikimedia Commons — [Hooke's Law wikipedia.png](https://commons.wikimedia.org/wiki/File:Hooke's_Law_wikipedia.png). Retrieved 2026-05-20.*
+
 ## Source Trace
 
 - Source: OpenStax College Physics; HyperPhysics; Physics LibreTexts — paraphrased, no copied text

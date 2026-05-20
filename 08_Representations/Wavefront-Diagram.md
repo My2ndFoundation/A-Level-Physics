@@ -70,6 +70,28 @@ Not applicable. The geometry conveys wavelength (front spacing), speed change (s
 *Figure: Left — a plane wave: vertical wavefronts equally spaced by one wavelength λ, propagating rightward; horizontal arrows show the direction of energy travel (perpendicular to the wavefronts). Right — a point source: concentric circular wavefronts, each one wavelength apart, spreading outward; a radial arrow shows the ray direction. Closer wavefront spacing means shorter wavelength; when a wave enters a denser medium the spacing decreases and the wave changes direction (refraction).*
 *Source: Authored for this vault (CC0). No external copyright.*
 
+### From Wikipedia
+
+<!-- wiki-images: yes -->
+
+#### Feynman Diagram Gluon Radiation
+
+![[_attachments/08_Representations/Wavefront-Diagram--wiki-feynman-diagram-gluon-radiation.svg]]
+*Figure: from Wikipedia article "Feynman diagram".*
+*Source: Wikimedia Commons — [Feynman_Diagram_Gluon_Radiation.svg](https://commons.wikimedia.org/wiki/File:Feynman_Diagram_Gluon_Radiation.svg). Retrieved 2026-05-20.*
+
+#### Feynman-diagram-ee-scattering
+
+![[_attachments/08_Representations/Wavefront-Diagram--wiki-feynman-diagram-ee-scattering.png]]
+*Figure: from Wikipedia article "Feynman diagram".*
+*Source: Wikimedia Commons — [Feynman-diagram-ee-scattering.png](https://commons.wikimedia.org/wiki/File:Feynman-diagram-ee-scattering.png). Retrieved 2026-05-20.*
+
+#### Feynman Diagram Gluon Radiation
+
+![[_attachments/08_Representations/Wavefront-Diagram--wiki-feynman-diagram-gluon-radiation.svg]]
+*Figure: from Wikipedia article "Feynman diagram".*
+*Source: Wikimedia Commons — [Feynman Diagram Gluon Radiation.svg](https://commons.wikimedia.org/wiki/File:Feynman_Diagram_Gluon_Radiation.svg). Retrieved 2026-05-20.*
+
 ## Source Trace
 
 - Source: OCR Practical Skills Handbook; The Physics Classroom; IOPSpark; OpenStax

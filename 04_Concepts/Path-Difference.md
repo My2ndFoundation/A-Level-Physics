@@ -80,6 +80,28 @@ Path difference underlies two-source interference, the [[Diffraction-Grating]], 
 *Figure: Sources S₁ and S₂ are separated by d. A wave from S₁ travels distance r₁ and from S₂ distance r₂ to reach point P. The path difference Δx = r₂ − r₁ ≈ d sinθ. When Δx = nλ the waves arrive in phase (constructive); when Δx = (n+½)λ they cancel (destructive).*
 *Source: Authored for this vault (CC0). No external copyright.*
 
+### From Wikipedia
+
+<!-- wiki-images: yes -->
+
+#### Interfering surface waves on a lake
+
+![[_attachments/04_Concepts/Path-Difference--wiki-interfering-surface-waves-on-a-lake.jpg]]
+*Figure: from Wikipedia article "Wave interference".*
+*Source: Wikimedia Commons — [Interfering_surface_waves_on_a_lake.jpg](https://commons.wikimedia.org/wiki/File:Interfering_surface_waves_on_a_lake.jpg). Retrieved 2026-05-20.*
+
+#### Dieselrainbow
+
+![[_attachments/04_Concepts/Path-Difference--wiki-dieselrainbow.jpg]]
+*Figure: from Wikipedia article "Wave interference".*
+*Source: Wikimedia Commons — [Dieselrainbow.jpg](https://commons.wikimedia.org/wiki/File:Dieselrainbow.jpg). Retrieved 2026-05-20.*
+
+#### Interference colours in soap film 1
+
+![[_attachments/04_Concepts/Path-Difference--wiki-interference-colours-in-soap-film-1.jpg]]
+*Figure: from Wikipedia article "Wave interference".*
+*Source: Wikimedia Commons — [Interference colours in soap film 1.jpg](https://commons.wikimedia.org/wiki/File:Interference_colours_in_soap_film_1.jpg). Retrieved 2026-05-20.*
+
 ## Source Trace
 
 - Source: OpenStax College Physics; HyperPhysics; IOPSpark

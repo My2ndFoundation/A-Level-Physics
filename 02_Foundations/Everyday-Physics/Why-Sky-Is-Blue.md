@@ -53,6 +53,30 @@ A common wrong intuition is that the sky is blue because it reflects the blue se
 
 This page gives the scattering intuition only. It does not present the wavelength-dependence relationship for scattering, the physics of Rayleigh scattering quantitatively, or the detailed response of the human eye.
 
+## Visuals
+
+### From Wikipedia
+
+<!-- wiki-images: yes -->
+
+#### Arctic Sunset
+
+![[_attachments/02_Foundations/Why-Sky-Is-Blue--wiki-arctic-sunset.jpg]]
+*Figure: from Wikipedia article "Rayleigh scattering".*
+*Source: Wikimedia Commons — [Arctic_Sunset.jpg](https://commons.wikimedia.org/wiki/File:Arctic_Sunset.jpg). Retrieved 2026-05-20.*
+
+#### Arctic Sunset
+
+![[_attachments/02_Foundations/Why-Sky-Is-Blue--wiki-arctic-sunset.jpg]]
+*Figure: from Wikipedia article "Rayleigh scattering".*
+*Source: Wikimedia Commons — [Arctic Sunset.jpg](https://commons.wikimedia.org/wiki/File:Arctic_Sunset.jpg). Retrieved 2026-05-20.*
+
+#### CircularPolarizer
+
+![[_attachments/02_Foundations/Why-Sky-Is-Blue--wiki-circularpolarizer.jpg]]
+*Figure: from Wikipedia article "Rayleigh scattering".*
+*Source: Wikimedia Commons — [CircularPolarizer.jpg](https://commons.wikimedia.org/wiki/File:CircularPolarizer.jpg). Retrieved 2026-05-20.*
+
 ## Source Trace
 
 - Source: BBC Bitesize GCSE Physics; IOPSpark; NASA educational material on light and atmosphere

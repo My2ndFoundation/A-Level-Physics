@@ -104,6 +104,28 @@ flowchart TD
 *Figure: Momentum is conserved in all collisions. Elastic: KE also conserved. Inelastic: KE decreases. Perfectly inelastic: maximum KE loss, objects move together after.*
 *Source: Authored for this vault (CC0). No external copyright.*
 
+### From Wikipedia
+
+<!-- wiki-images: yes -->
+
+#### Translational motion
+
+![[_attachments/04_Concepts/Elastic-and-Inelastic-Collisions--wiki-translational-motion.gif]]
+*Figure: from Wikipedia article "Elastic collision".*
+*Source: Wikimedia Commons — [Translational_motion.gif](https://commons.wikimedia.org/wiki/File:Translational_motion.gif). Retrieved 2026-05-20.*
+
+#### Elastischer stoß 2D
+
+![[_attachments/04_Concepts/Elastic-and-Inelastic-Collisions--wiki-elastischer-sto-2d.gif]]
+*Figure: from Wikipedia article "Elastic collision".*
+*Source: Wikimedia Commons — [Elastischer stoß 2D.gif](https://commons.wikimedia.org/wiki/File:Elastischer_stoß_2D.gif). Retrieved 2026-05-20.*
+
+#### Translational motion
+
+![[_attachments/04_Concepts/Elastic-and-Inelastic-Collisions--wiki-translational-motion.gif]]
+*Figure: from Wikipedia article "Elastic collision".*
+*Source: Wikimedia Commons — [Translational motion.gif](https://commons.wikimedia.org/wiki/File:Translational_motion.gif). Retrieved 2026-05-20.*
+
 ## Source Trace
 
 - Source: OpenStax College Physics; The Physics Classroom; HyperPhysics — no copied text

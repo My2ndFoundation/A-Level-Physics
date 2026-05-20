@@ -77,6 +77,28 @@ Polarisation distinguishes transverse from longitudinal waves (sound, being long
 *Figure: Unpolarised light (all oscillation planes) passes through a polariser and emerges with oscillations in one plane only (approximately half the intensity). A second polaroid (analyser) aligned at 0° transmits maximum intensity; rotated to 90° (crossed) it transmits zero intensity.*
 *Source: Authored for this vault (CC0). No external copyright.*
 
+### From Wikipedia
+
+<!-- wiki-images: yes -->
+
+#### Polarizacio
+
+![[_attachments/04_Concepts/Polarisation--wiki-polarizacio.jpg]]
+*Figure: from Wikipedia article "Polarization (waves)".*
+*Source: Wikimedia Commons — [Polarizacio.jpg](https://commons.wikimedia.org/wiki/File:Polarizacio.jpg). Retrieved 2026-05-20.*
+
+#### Birefringence
+
+![[_attachments/04_Concepts/Polarisation--wiki-birefringence.svg]]
+*Figure: from Wikipedia article "Polarization (waves)".*
+*Source: Wikimedia Commons — [Birefringence.svg](https://commons.wikimedia.org/wiki/File:Birefringence.svg). Retrieved 2026-05-20.*
+
+#### Birefringence Stress Plastic
+
+![[_attachments/04_Concepts/Polarisation--wiki-birefringence-stress-plastic.jpg]]
+*Figure: from Wikipedia article "Polarization (waves)".*
+*Source: Wikimedia Commons — [Birefringence Stress Plastic.JPG](https://commons.wikimedia.org/wiki/File:Birefringence_Stress_Plastic.JPG). Retrieved 2026-05-20.*
+
 ## Source Trace
 
 - Source: OpenStax College Physics; HyperPhysics; IOPSpark

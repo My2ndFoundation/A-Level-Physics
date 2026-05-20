@@ -91,6 +91,28 @@ Refraction is the working principle of lenses, the eye, cameras, prisms and opti
 *Figure: Light passing from a less dense medium (n₁) into a denser medium (n₂ > n₁) slows down and bends toward the normal (θ₂ < θ₁). Snell's Law: n₁ sin θ₁ = n₂ sin θ₂. Frequency stays constant; wavelength and speed change.*
 *Source: Authored for this vault (CC0). No external copyright.*
 
+### From Wikipedia
+
+<!-- wiki-images: yes -->
+
+#### Refraction photo
+
+![[_attachments/04_Concepts/Wave-Refraction--wiki-refraction-photo.png]]
+*Figure: from Wikipedia article "Refraction".*
+*Source: Wikimedia Commons — [Refraction_photo.png](https://commons.wikimedia.org/wiki/File:Refraction_photo.png). Retrieved 2026-05-20.*
+
+#### 66599 , Tupton
+
+![[_attachments/04_Concepts/Wave-Refraction--wiki-66599-tupton.jpg]]
+*Figure: from Wikipedia article "Refraction".*
+*Source: Wikimedia Commons — [66599 , Tupton.jpg](https://commons.wikimedia.org/wiki/File:66599_,_Tupton.jpg). Retrieved 2026-05-20.*
+
+#### Beach and waves (2784111859)
+
+![[_attachments/04_Concepts/Wave-Refraction--wiki-beach-and-waves-2784111859.jpg]]
+*Figure: from Wikipedia article "Refraction".*
+*Source: Wikimedia Commons — [Beach and waves (2784111859).jpg](https://commons.wikimedia.org/wiki/File:Beach_and_waves_(2784111859).jpg). Retrieved 2026-05-20.*
+
 ## Source Trace
 
 - Source: OpenStax College Physics; The Physics Classroom; IOPSpark; Physics LibreTexts — paraphrased, no copied text.

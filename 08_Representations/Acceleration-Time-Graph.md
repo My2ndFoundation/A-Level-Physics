@@ -79,6 +79,28 @@ xychart-beta
 *Figure: A horizontal line at $a = 9.81 \text{ m s}^{-2}$ represents constant downward acceleration during free fall (the [[Gravitational-Field-Strength]] near Earth's surface). The line drops to zero at $t = 3 \text{ s}$, representing an object that has landed and is no longer accelerating. The area (rectangle) over any interval equals the change in [[Velocity]] during that interval.*
 *Source: Authored for this vault (CC0). No external copyright.*
 
+### From Wikipedia
+
+<!-- wiki-images: yes -->
+
+#### Gravity gravita grave
+
+![[_attachments/08_Representations/Acceleration-Time-Graph--wiki-gravity-gravita-grave.gif]]
+*Figure: from Wikipedia article "Acceleration".*
+*Source: Wikimedia Commons — [Gravity_gravita_grave.gif](https://commons.wikimedia.org/wiki/File:Gravity_gravita_grave.gif). Retrieved 2026-05-20.*
+
+#### 1-D kinematics
+
+![[_attachments/08_Representations/Acceleration-Time-Graph--wiki-1-d-kinematics.svg]]
+*Figure: from Wikipedia article "Acceleration".*
+*Source: Wikimedia Commons — [1-D kinematics.svg](https://commons.wikimedia.org/wiki/File:1-D_kinematics.svg). Retrieved 2026-05-20.*
+
+#### Acceleration as derivative of velocity along trajectory
+
+![[_attachments/08_Representations/Acceleration-Time-Graph--wiki-acceleration-as-derivative-of-velocity-a.svg]]
+*Figure: from Wikipedia article "Acceleration".*
+*Source: Wikimedia Commons — [Acceleration as derivative of velocity along trajectory.svg](https://commons.wikimedia.org/wiki/File:Acceleration_as_derivative_of_velocity_along_trajectory.svg). Retrieved 2026-05-20.*
+
 ## Source Trace
 
 - Source: OCR Practical Skills Handbook; The Physics Classroom; IOPSpark; OpenStax

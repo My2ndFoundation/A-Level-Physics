@@ -106,6 +106,28 @@ xychart-beta
 *Figure: SHM displacement varies as a cosine. Velocity is 90° ahead (maximum at centre, zero at extremes) and acceleration is 180° ahead (maximum and opposing at extremes).*
 *Source: Authored for this vault (CC0). No external copyright.*
 
+### From Wikipedia
+
+<!-- wiki-images: yes -->
+
+#### Simple Harmonic Motion Orbit
+
+![[_attachments/05_Laws-and-Results/Simple-Harmonic-Motion-Equation--wiki-simple-harmonic-motion-orbit.gif]]
+*Figure: from Wikipedia article "Simple harmonic motion".*
+*Source: Wikimedia Commons — [Simple_Harmonic_Motion_Orbit.gif](https://commons.wikimedia.org/wiki/File:Simple_Harmonic_Motion_Orbit.gif). Retrieved 2026-05-20.*
+
+#### Scotch yoke animation
+
+![[_attachments/05_Laws-and-Results/Simple-Harmonic-Motion-Equation--wiki-scotch-yoke-animation.gif]]
+*Figure: from Wikipedia article "Simple harmonic motion".*
+*Source: Wikimedia Commons — [Scotch yoke animation.gif](https://commons.wikimedia.org/wiki/File:Scotch_yoke_animation.gif). Retrieved 2026-05-20.*
+
+#### Simple Harmonic Motion Orbit
+
+![[_attachments/05_Laws-and-Results/Simple-Harmonic-Motion-Equation--wiki-simple-harmonic-motion-orbit.gif]]
+*Figure: from Wikipedia article "Simple harmonic motion".*
+*Source: Wikimedia Commons — [Simple Harmonic Motion Orbit.gif](https://commons.wikimedia.org/wiki/File:Simple_Harmonic_Motion_Orbit.gif). Retrieved 2026-05-20.*
+
 ## Source Trace
 
 - Source: OpenStax College Physics; HyperPhysics; The Physics Classroom — no copied text

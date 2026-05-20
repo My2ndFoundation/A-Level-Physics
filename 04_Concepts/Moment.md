@@ -88,6 +88,22 @@ Moments underpin levers, balances, beams, bridges, gears and the whole analysis 
 *Figure: Two downward forces act on a horizontal beam pivoted at the centre. Moment = force × perpendicular distance from pivot. In rotational equilibrium the anticlockwise moment F₁d₁ equals the clockwise moment F₂d₂.*
 *Source: Authored for this vault (CC0). No external copyright.*
 
+### From Wikipedia
+
+<!-- wiki-images: yes -->
+
+#### Lever Principle 3D
+
+![[_attachments/04_Concepts/Moment--wiki-lever-principle-3d.png]]
+*Figure: from Wikipedia article "Moment (physics)".*
+*Source: Wikimedia Commons — [Lever Principle 3D.png](https://commons.wikimedia.org/wiki/File:Lever_Principle_3D.png). Retrieved 2026-05-20.*
+
+#### Stylised atom with three Bohr model orbits and stylised nucleus
+
+![[_attachments/04_Concepts/Moment--wiki-stylised-atom-with-three-bohr-model-orbi.svg]]
+*Figure: from Wikipedia article "Moment (physics)".*
+*Source: Wikimedia Commons — [Stylised atom with three Bohr model orbits and stylised nucleus.svg](https://commons.wikimedia.org/wiki/File:Stylised_atom_with_three_Bohr_model_orbits_and_stylised_nucleus.svg). Retrieved 2026-05-20.*
+
 ## Source Trace
 
 - Source: OpenStax College Physics; The Physics Classroom; IOPSpark; Physics LibreTexts — paraphrased, no copied text.

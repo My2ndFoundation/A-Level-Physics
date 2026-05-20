@@ -98,6 +98,28 @@ Capacitors smooth rectified voltages, provide timing in [[Capacitor-Timing-Circu
 *Figure: Two conducting plates carry equal and opposite charges (+Q and −Q). Uniform electric field lines run from + to − plate. Capacitance $C = \varepsilon A/d$; charge $Q = CV$ with $Q$ proportional to $V$.*
 *Source: Authored for this vault (CC0). No external copyright.*
 
+### From Wikipedia
+
+<!-- wiki-images: yes -->
+
+#### Capacitors (7189597135)
+
+![[_attachments/04_Concepts/Capacitor--wiki-capacitors-7189597135.jpg]]
+*Figure: from Wikipedia article "Capacitor".*
+*Source: Wikimedia Commons — [Capacitors_(7189597135).jpg](https://commons.wikimedia.org/wiki/File:Capacitors_(7189597135).jpg). Retrieved 2026-05-20.*
+
+#### 24 Million Watt high speed flash through welding lens
+
+![[_attachments/04_Concepts/Capacitor--wiki-24-million-watt-high-speed-flash-through.jpg]]
+*Figure: from Wikipedia article "Capacitor".*
+*Source: Wikimedia Commons — [24 Million Watt high speed flash through welding lens.jpg](https://commons.wikimedia.org/wiki/File:24_Million_Watt_high_speed_flash_through_welding_lens.jpg). Retrieved 2026-05-20.*
+
+#### Axial electrolytic capacitors
+
+![[_attachments/04_Concepts/Capacitor--wiki-axial-electrolytic-capacitors.jpg]]
+*Figure: from Wikipedia article "Capacitor".*
+*Source: Wikimedia Commons — [Axial electrolytic capacitors.jpg](https://commons.wikimedia.org/wiki/File:Axial_electrolytic_capacitors.jpg). Retrieved 2026-05-20.*
+
 ## Source Trace
 
 - Source: OpenStax College Physics; HyperPhysics; Physics LibreTexts — no copied text

@@ -92,6 +92,28 @@ Interference confirms the wave model of light, enables precise wavelength and di
 *Figure: Coherent sources S₁ and S₂ (separation s) are a distance D from the screen. Point P receives waves whose path lengths differ by a whole number of wavelengths (constructive — bright fringe). Point Q has a half-wavelength path difference (destructive — dark fringe). Fringe spacing $w = \lambda D/s$.*
 *Source: Authored for this vault (CC0). No external copyright.*
 
+### From Wikipedia
+
+<!-- wiki-images: yes -->
+
+#### Interfering surface waves on a lake
+
+![[_attachments/04_Concepts/Interference--wiki-interfering-surface-waves-on-a-lake.jpg]]
+*Figure: from Wikipedia article "Wave interference".*
+*Source: Wikimedia Commons — [Interfering_surface_waves_on_a_lake.jpg](https://commons.wikimedia.org/wiki/File:Interfering_surface_waves_on_a_lake.jpg). Retrieved 2026-05-20.*
+
+#### Dieselrainbow
+
+![[_attachments/04_Concepts/Interference--wiki-dieselrainbow.jpg]]
+*Figure: from Wikipedia article "Wave interference".*
+*Source: Wikimedia Commons — [Dieselrainbow.jpg](https://commons.wikimedia.org/wiki/File:Dieselrainbow.jpg). Retrieved 2026-05-20.*
+
+#### Interference colours in soap film 1
+
+![[_attachments/04_Concepts/Interference--wiki-interference-colours-in-soap-film-1.jpg]]
+*Figure: from Wikipedia article "Wave interference".*
+*Source: Wikimedia Commons — [Interference colours in soap film 1.jpg](https://commons.wikimedia.org/wiki/File:Interference_colours_in_soap_film_1.jpg). Retrieved 2026-05-20.*
+
 ## Source Trace
 
 - Source: OpenStax College Physics; The Physics Classroom; IOPSpark; Physics LibreTexts — paraphrased, no copied text.

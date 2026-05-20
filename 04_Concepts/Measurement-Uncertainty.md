@@ -87,6 +87,28 @@ flowchart LR
 *Figure: Uncertainty flows from an individual measurement through percentage form into a combined uncertainty for the final calculated result. The number of significant figures in the result should match the uncertainty.*
 *Source: Authored for this vault (CC0). No external copyright.*
 
+### From Wikipedia
+
+<!-- wiki-images: yes -->
+
+#### Blank Fork
+
+![[_attachments/04_Concepts/Measurement-Uncertainty--wiki-blank-fork.png]]
+*Figure: from Wikipedia article "Uncertainty".*
+*Source: Wikimedia Commons — [Blank_Fork.png](https://commons.wikimedia.org/wiki/File:Blank_Fork.png). Retrieved 2026-05-20.*
+
+#### Blank Fork
+
+![[_attachments/04_Concepts/Measurement-Uncertainty--wiki-blank-fork.png]]
+*Figure: from Wikipedia article "Uncertainty".*
+*Source: Wikimedia Commons — [Blank Fork.png](https://commons.wikimedia.org/wiki/File:Blank_Fork.png). Retrieved 2026-05-20.*
+
+#### Uncertainty
+
+![[_attachments/04_Concepts/Measurement-Uncertainty--wiki-uncertainty.svg]]
+*Figure: from Wikipedia article "Uncertainty".*
+*Source: Wikimedia Commons — [Uncertainty.svg](https://commons.wikimedia.org/wiki/File:Uncertainty.svg). Retrieved 2026-05-20.*
+
 ## Source Trace
 
 - Source: [[OCR-Physics-Practical-Skills-Handbook]]

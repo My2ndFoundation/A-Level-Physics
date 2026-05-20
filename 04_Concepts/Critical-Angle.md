@@ -81,6 +81,28 @@ The critical angle sets the acceptance condition for light to stay trapped in an
 *Figure: An incident ray inside a denser medium hits the boundary at exactly the critical angle θ_c. The refracted ray grazes the boundary at 90°. For angles greater than θ_c, total internal reflection occurs and no light escapes.*
 *Source: Authored for this vault (CC0). No external copyright.*
 
+### From Wikipedia
+
+<!-- wiki-images: yes -->
+
+#### Total internal reflection by fluorescence
+
+![[_attachments/04_Concepts/Critical-Angle--wiki-total-internal-reflection-by-fluorescenc.jpg]]
+*Figure: from Wikipedia article "Total internal reflection".*
+*Source: Wikimedia Commons — [Total_internal_reflection_by_fluorescence.jpg](https://commons.wikimedia.org/wiki/File:Total_internal_reflection_by_fluorescence.jpg). Retrieved 2026-05-20.*
+
+#### Aquarium total internal reflection
+
+![[_attachments/04_Concepts/Critical-Angle--wiki-aquarium-total-internal-reflection.jpg]]
+*Figure: from Wikipedia article "Total internal reflection".*
+*Source: Wikimedia Commons — [Aquarium total internal reflection.jpg](https://commons.wikimedia.org/wiki/File:Aquarium_total_internal_reflection.jpg). Retrieved 2026-05-20.*
+
+#### Augustin Fresnel
+
+![[_attachments/04_Concepts/Critical-Angle--wiki-augustin-fresnel.jpg]]
+*Figure: from Wikipedia article "Total internal reflection".*
+*Source: Wikimedia Commons — [Augustin Fresnel.jpg](https://commons.wikimedia.org/wiki/File:Augustin_Fresnel.jpg). Retrieved 2026-05-20.*
+
 ## Source Trace
 
 - Source: OpenStax College Physics; HyperPhysics; IOPSpark

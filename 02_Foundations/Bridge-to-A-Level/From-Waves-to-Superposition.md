@@ -76,6 +76,30 @@ Two stones dropped into a pond send out ripples that cross: where two crests mee
 
 At A-Level, the single-wave GCSE description is extended with phase, phase difference, path difference and coherence, and the principle of [[Superposition]] is applied to interference, [[Diffraction]] and standing waves both qualitatively and quantitatively. See [[Waves-GCSE|Waves]] and the A-Level waves pages for the formal treatment.
 
+## Visuals
+
+### From Wikipedia
+
+<!-- wiki-images: yes -->
+
+#### Anas platyrhynchos with ducklings reflecting water
+
+![[_attachments/02_Foundations/From-Waves-to-Superposition--wiki-anas-platyrhynchos-with-ducklings-reflec.jpg]]
+*Figure: from Wikipedia article "Superposition principle".*
+*Source: Wikimedia Commons — [Anas_platyrhynchos_with_ducklings_reflecting_water.jpg](https://commons.wikimedia.org/wiki/File:Anas_platyrhynchos_with_ducklings_reflecting_water.jpg). Retrieved 2026-05-20.*
+
+#### Anas platyrhynchos with ducklings reflecting water
+
+![[_attachments/02_Foundations/From-Waves-to-Superposition--wiki-anas-platyrhynchos-with-ducklings-reflec.jpg]]
+*Figure: from Wikipedia article "Superposition principle".*
+*Source: Wikimedia Commons — [Anas platyrhynchos with ducklings reflecting water.jpg](https://commons.wikimedia.org/wiki/File:Anas_platyrhynchos_with_ducklings_reflecting_water.jpg). Retrieved 2026-05-20.*
+
+#### Rolling animation
+
+![[_attachments/02_Foundations/From-Waves-to-Superposition--wiki-rolling-animation.gif]]
+*Figure: from Wikipedia article "Superposition principle".*
+*Source: Wikimedia Commons — [Rolling animation.gif](https://commons.wikimedia.org/wiki/File:Rolling_animation.gif). Retrieved 2026-05-20.*
+
 ## Source Trace
 
 - Source: BBC Bitesize GCSE/A-Level Physics (waves, superposition); IOPSpark; The Physics Classroom (wave interference)

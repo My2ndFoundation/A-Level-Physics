@@ -100,6 +100,28 @@ flowchart LR
 *Figure: E = mL — the energy needed to change state depends only on mass and the type of latent heat (fusion or vaporisation). Temperature does not change during the process; the energy raises the potential energy of the molecules, not their kinetic energy.*
 *Source: Authored for this vault (CC0). No external copyright.*
 
+### From Wikipedia
+
+<!-- wiki-images: yes -->
+
+#### Enthalpies of melting and boiling for pure elements versus temperatures of transition
+
+![[_attachments/03_Physical-Quantities/Specific-Latent-Heat--wiki-enthalpies-of-melting-and-boiling-for-pu.svg]]
+*Figure: from Wikipedia article "Enthalpy of fusion".*
+*Source: Wikimedia Commons — [Enthalpies_of_melting_and_boiling_for_pure_elements_versus_temperatures_of_transition.svg](https://commons.wikimedia.org/wiki/File:Enthalpies_of_melting_and_boiling_for_pure_elements_versus_temperatures_of_transition.svg). Retrieved 2026-05-20.*
+
+#### Enthalpies of melting and boiling for pure elements versus temperatures of transition
+
+![[_attachments/03_Physical-Quantities/Specific-Latent-Heat--wiki-enthalpies-of-melting-and-boiling-for-pu.svg]]
+*Figure: from Wikipedia article "Enthalpy of fusion".*
+*Source: Wikimedia Commons — [Enthalpies of melting and boiling for pure elements versus temperatures of transition.svg](https://commons.wikimedia.org/wiki/File:Enthalpies_of_melting_and_boiling_for_pure_elements_versus_temperatures_of_transition.svg). Retrieved 2026-05-20.*
+
+#### Enthalpy of Fusion period three
+
+![[_attachments/03_Physical-Quantities/Specific-Latent-Heat--wiki-enthalpy-of-fusion-period-three.png]]
+*Figure: from Wikipedia article "Enthalpy of fusion".*
+*Source: Wikimedia Commons — [Enthalpy of Fusion period three.PNG](https://commons.wikimedia.org/wiki/File:Enthalpy_of_Fusion_period_three.PNG). Retrieved 2026-05-20.*
+
 ## Source Trace
 
 - Source: OpenStax College Physics; HyperPhysics; The Physics Classroom — paraphrased, no copied text

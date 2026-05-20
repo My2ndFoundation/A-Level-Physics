@@ -101,6 +101,28 @@ flowchart TD
 *Figure: At A-Level, u, d, and s quarks are priority. Baryons are three-quark composites; mesons are quark–antiquark pairs. Quarks never appear in isolation (confinement).*
 *Source: Authored for this vault (CC0). No external copyright.*
 
+### From Wikipedia
+
+<!-- wiki-images: yes -->
+
+#### Quark structure proton
+
+![[_attachments/04_Concepts/Quarks--wiki-quark-structure-proton.svg]]
+*Figure: from Wikipedia article "Quark".*
+*Source: Wikimedia Commons — [Quark_structure_proton.svg](https://commons.wikimedia.org/wiki/File:Quark_structure_proton.svg). Retrieved 2026-05-20.*
+
+#### Beta Negative Decay
+
+![[_attachments/04_Concepts/Quarks--wiki-beta-negative-decay.svg]]
+*Figure: from Wikipedia article "Quark".*
+*Source: Wikimedia Commons — [Beta Negative Decay.svg](https://commons.wikimedia.org/wiki/File:Beta_Negative_Decay.svg). Retrieved 2026-05-20.*
+
+#### Charmed-dia-w
+
+![[_attachments/04_Concepts/Quarks--wiki-charmed-dia-w.png]]
+*Figure: from Wikipedia article "Quark".*
+*Source: Wikimedia Commons — [Charmed-dia-w.png](https://commons.wikimedia.org/wiki/File:Charmed-dia-w.png). Retrieved 2026-05-20.*
+
 ## Source Trace
 
 - Source: OpenStax College Physics; HyperPhysics; CERN educational material — no copied text

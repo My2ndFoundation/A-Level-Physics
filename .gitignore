@@ -51,3 +51,6 @@ $RECYCLE.BIN/
 
 # Note: .state/ and raw/ are intentionally tracked.
 # .state/ is the ingestion ledger; raw/ is immutable source input.
+
+# Claude Code runtime locks
+.claude/scheduled_tasks.lock

@@ -94,6 +94,28 @@ xychart-beta
 *Figure: Terminal pd V plotted against current I gives a straight line with negative gradient $-r$ (the internal resistance) and y-intercept ε (the emf). Here $\varepsilon = 1.8\ \text{V}$ and $r = \frac{1.8 - 0.8}{1.0} = 1.0\ \Omega$. The line must not be forced through the origin.*
 *Source: Authored for this vault (CC0). No external copyright.*
 
+### From Wikipedia
+
+<!-- wiki-images: yes -->
+
+#### Members of the Maquis in La Tresorerie
+
+![[_attachments/09_Experiments-and-Practicals/Determining-Internal-Resistance--wiki-members-of-the-maquis-in-la-tresorerie.jpg]]
+*Figure: from Wikipedia article "French Resistance".*
+*Source: Wikimedia Commons — [Members_of_the_Maquis_in_La_Tresorerie.jpg](https://commons.wikimedia.org/wiki/File:Members_of_the_Maquis_in_La_Tresorerie.jpg). Retrieved 2026-05-20.*
+
+#### "Nicole" a French Partisan Who Captured 25 Nazis in the Chartres Area, in Addition to Liquidating Others, Poses with... - NARA - 5957431 - cropped
+
+![[_attachments/09_Experiments-and-Practicals/Determining-Internal-Resistance--wiki-nicole-a-french-partisan-who-captured-25.jpg]]
+*Figure: from Wikipedia article "French Resistance".*
+*Source: Wikimedia Commons — ["Nicole" a French Partisan Who Captured 25 Nazis in the Chartres Area, in Addition to Liquidating Others, Poses with... - NARA - 5957431 - cropped.jpg](https://commons.wikimedia.org/wiki/File:"Nicole"_a_French_Partisan_Who_Captured_25_Nazis_in_the_Chartres_Area,_in_Addition_to_Liquidating_Others,_Poses_with..._-_NARA_-_5957431_-_cropped.jpg). Retrieved 2026-05-20.*
+
+#### 1944 French propaganda poster - 1939-1944
+
+![[_attachments/09_Experiments-and-Practicals/Determining-Internal-Resistance--wiki-1944-french-propaganda-poster-1939-1944.jpg]]
+*Figure: from Wikipedia article "French Resistance".*
+*Source: Wikimedia Commons — [1944 French propaganda poster - 1939-1944.jpg](https://commons.wikimedia.org/wiki/File:1944_French_propaganda_poster_-_1939-1944.jpg). Retrieved 2026-05-20.*
+
 ## Source Trace
 
 - Source: OCR Practical Skills Handbook; The Physics Classroom; IOPSpark; OpenStax

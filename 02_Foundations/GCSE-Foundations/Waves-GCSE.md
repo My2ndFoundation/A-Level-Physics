@@ -72,6 +72,30 @@ Dropping a stone in a pond sends ripples outward: the energy spreads across the 
 
 At A-Level, the wave model is made precise: phase and phase difference, the principle of [[Superposition]], path difference and coherence, two-source and single-slit [[Diffraction]], standing waves and resonance, and polarisation. The qualitative GCSE behaviours become quantitative. See [[From-Waves-to-Superposition]] and the A-Level waves pages for the formal treatment.
 
+## Visuals
+
+### From Wikipedia
+
+<!-- wiki-images: yes -->
+
+#### 2006-01-14 Surface waves
+
+![[_attachments/02_Foundations/Waves-GCSE--wiki-2006-01-14-surface-waves.jpg]]
+*Figure: from Wikipedia article "Wave".*
+*Source: Wikimedia Commons — [2006-01-14_Surface_waves.jpg](https://commons.wikimedia.org/wiki/File:2006-01-14_Surface_waves.jpg). Retrieved 2026-05-20.*
+
+#### 2006-01-14 Surface waves
+
+![[_attachments/02_Foundations/Waves-GCSE--wiki-2006-01-14-surface-waves.jpg]]
+*Figure: from Wikipedia article "Wave".*
+*Source: Wikimedia Commons — [2006-01-14 Surface waves.jpg](https://commons.wikimedia.org/wiki/File:2006-01-14_Surface_waves.jpg). Retrieved 2026-05-20.*
+
+#### Amplitudemodulation
+
+![[_attachments/02_Foundations/Waves-GCSE--wiki-amplitudemodulation.gif]]
+*Figure: from Wikipedia article "Wave".*
+*Source: Wikimedia Commons — [Amplitudemodulation.gif](https://commons.wikimedia.org/wiki/File:Amplitudemodulation.gif). Retrieved 2026-05-20.*
+
 ## Source Trace
 
 - Source: BBC Bitesize GCSE Physics (waves, electromagnetic spectrum); IOPSpark; The Physics Classroom (waves)

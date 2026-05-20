@@ -101,6 +101,28 @@ flowchart LR
 *Figure: Period T is the reciprocal of frequency f; it connects to angular frequency ω and to the SHM formulas for a pendulum and a mass–spring system.*
 *Source: Authored for this vault (CC0). No external copyright.*
 
+### From Wikipedia
+
+<!-- wiki-images: yes -->
+
+#### ลูกตุ้มธรรมชาติ
+
+![[_attachments/03_Physical-Quantities/Period--wiki-img.gif]]
+*Figure: from Wikipedia article "Frequency".*
+*Source: Wikimedia Commons — [ลูกตุ้มธรรมชาติ.gif](https://commons.wikimedia.org/wiki/File:ลูกตุ้มธรรมชาติ.gif). Retrieved 2026-05-20.*
+
+#### Czestosciomierz-49.9Hz
+
+![[_attachments/03_Physical-Quantities/Period--wiki-czestosciomierz-499hz.jpg]]
+*Figure: from Wikipedia article "Frequency".*
+*Source: Wikimedia Commons — [Czestosciomierz-49.9Hz.jpg](https://commons.wikimedia.org/wiki/File:Czestosciomierz-49.9Hz.jpg). Retrieved 2026-05-20.*
+
+#### EM spectrum
+
+![[_attachments/03_Physical-Quantities/Period--wiki-em-spectrum.svg]]
+*Figure: from Wikipedia article "Frequency".*
+*Source: Wikimedia Commons — [EM spectrum.svg](https://commons.wikimedia.org/wiki/File:EM_spectrum.svg). Retrieved 2026-05-20.*
+
 ## Source Trace
 
 - Source: OpenStax College Physics; The Physics Classroom; HyperPhysics (paraphrased, no copied text)

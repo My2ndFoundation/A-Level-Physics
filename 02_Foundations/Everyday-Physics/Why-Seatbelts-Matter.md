@@ -58,6 +58,30 @@ A common wrong intuition is that the seatbelt "stops the crash" or absorbs the i
 
 This page builds physical intuition only. It does not calculate impulse, force, or stopping distance numerically, and it does not cover the detailed engineering of restraint systems. The quantitative treatment belongs on the A-Level momentum and impulse pages.
 
+## Visuals
+
+### From Wikipedia
+
+<!-- wiki-images: yes -->
+
+#### Female driver buckling seatbelt
+
+![[_attachments/02_Foundations/Why-Seatbelts-Matter--wiki-female-driver-buckling-seatbelt.jpg]]
+*Figure: from Wikipedia article "Seat belt".*
+*Source: Wikimedia Commons — [Female_driver_buckling_seatbelt.jpg](https://commons.wikimedia.org/wiki/File:Female_driver_buckling_seatbelt.jpg). Retrieved 2026-05-20.*
+
+#### 1990 Honda Civic DX interior
+
+![[_attachments/02_Foundations/Why-Seatbelts-Matter--wiki-1990-honda-civic-dx-interior.jpg]]
+*Figure: from Wikipedia article "Seat belt".*
+*Source: Wikimedia Commons — [1990 Honda Civic DX interior.JPG](https://commons.wikimedia.org/wiki/File:1990_Honda_Civic_DX_interior.JPG). Retrieved 2026-05-20.*
+
+#### Aircraft Safety Belt
+
+![[_attachments/02_Foundations/Why-Seatbelts-Matter--wiki-aircraft-safety-belt.png]]
+*Figure: from Wikipedia article "Seat belt".*
+*Source: Wikimedia Commons — [Aircraft Safety Belt.png](https://commons.wikimedia.org/wiki/File:Aircraft_Safety_Belt.png). Retrieved 2026-05-20.*
+
 ## Source Trace
 
 - Source: BBC Bitesize GCSE Physics (forces and braking); IOPSpark; The Physics Classroom (momentum and collisions)

@@ -101,6 +101,28 @@ flowchart LR
 *Figure: Only electrons transfer; protons stay fixed in nuclei. Charge is conserved: total charge on A + B is unchanged after transfer.*
 *Source: Authored for this vault (CC0). No external copyright.*
 
+### From Wikipedia
+
+<!-- wiki-images: yes -->
+
+#### Static on the playground (48616367)
+
+![[_attachments/04_Concepts/Static-Electricity--wiki-static-on-the-playground-48616367.jpg]]
+*Figure: from Wikipedia article "Static electricity".*
+*Source: Wikimedia Commons — [Static_on_the_playground_(48616367).jpg](https://commons.wikimedia.org/wiki/File:Static_on_the_playground_(48616367).jpg). Retrieved 2026-05-20.*
+
+#### Airbus A321-231 - British Airways - G-EUXH - EHAM (5)
+
+![[_attachments/04_Concepts/Static-Electricity--wiki-airbus-a321-231-british-airways-g-euxh-e.jpg]]
+*Figure: from Wikipedia article "Static electricity".*
+*Source: Wikimedia Commons — [Airbus A321-231 - British Airways - G-EUXH - EHAM (5).jpg](https://commons.wikimedia.org/wiki/File:Airbus_A321-231_-_British_Airways_-_G-EUXH_-_EHAM_(5).jpg). Retrieved 2026-05-20.*
+
+#### AntiStatic-Wrist-Guard
+
+![[_attachments/04_Concepts/Static-Electricity--wiki-antistatic-wrist-guard.jpg]]
+*Figure: from Wikipedia article "Static electricity".*
+*Source: Wikimedia Commons — [AntiStatic-Wrist-Guard.jpg](https://commons.wikimedia.org/wiki/File:AntiStatic-Wrist-Guard.jpg). Retrieved 2026-05-20.*
+
 ## Source Trace
 
 OpenStax College Physics; HyperPhysics; The Physics Classroom — no copied text.

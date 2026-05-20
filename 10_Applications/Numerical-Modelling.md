@@ -68,6 +68,28 @@ Numerical modelling approximates the solution of a physics problem by stepping f
 
 _None yet — an Euler-step vs exact decay-curve figure would suit this page._
 
+### From Wikipedia
+
+<!-- wiki-images: yes -->
+
+#### AtmosphericModelSchematic
+
+![[_attachments/10_Applications/Numerical-Modelling--wiki-atmosphericmodelschematic.png]]
+*Figure: from Wikipedia article "Numerical weather prediction".*
+*Source: Wikimedia Commons — [AtmosphericModelSchematic.png](https://commons.wikimedia.org/wiki/File:AtmosphericModelSchematic.png). Retrieved 2026-05-20.*
+
+#### GFS 850 MB
+
+![[_attachments/10_Applications/Numerical-Modelling--wiki-gfs-850-mb.png]]
+*Figure: from Wikipedia article "Numerical weather prediction".*
+*Source: Wikimedia Commons — [GFS 850 MB.PNG](https://commons.wikimedia.org/wiki/File:GFS_850_MB.PNG). Retrieved 2026-05-20.*
+
+#### GoldenMedows
+
+![[_attachments/10_Applications/Numerical-Modelling--wiki-goldenmedows.jpg]]
+*Figure: from Wikipedia article "Numerical weather prediction".*
+*Source: Wikimedia Commons — [GoldenMedows.jpg](https://commons.wikimedia.org/wiki/File:GoldenMedows.jpg). Retrieved 2026-05-20.*
+
 ## External Resources
 
 - Isaac Physics — Modelling techniques: https://isaacphysics.org

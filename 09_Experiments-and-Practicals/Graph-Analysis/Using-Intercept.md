@@ -93,6 +93,22 @@ xychart-beta
 *Figure: The y-intercept c is read where the best-fit line crosses the y-axis (at $x = 0$). Here $c = 4$, representing a non-zero baseline quantity (e.g. the emf ε in the $V = \varepsilon - Ir$ graph, or a systematic offset). If the y-axis does not start at $x = 0$, the intercept must be calculated from a known point and the gradient.*
 *Source: Authored for this vault (CC0). No external copyright.*
 
+### From Wikipedia
+
+<!-- wiki-images: yes -->
+
+#### Y-intercept
+
+![[_attachments/09_Experiments-and-Practicals/Using-Intercept--wiki-y-intercept.svg]]
+*Figure: from Wikipedia article "Y-intercept".*
+*Source: Wikimedia Commons — [Y-intercept.svg](https://commons.wikimedia.org/wiki/File:Y-intercept.svg). Retrieved 2026-05-20.*
+
+#### E-to-the-i-pi
+
+![[_attachments/09_Experiments-and-Practicals/Using-Intercept--wiki-e-to-the-i-pi.svg]]
+*Figure: from Wikipedia article "Y-intercept".*
+*Source: Wikimedia Commons — [E-to-the-i-pi.svg](https://commons.wikimedia.org/wiki/File:E-to-the-i-pi.svg). Retrieved 2026-05-20.*
+
 ## Source Trace
 
 - Source: OCR Practical Skills Handbook; The Physics Classroom; IOPSpark; OpenStax

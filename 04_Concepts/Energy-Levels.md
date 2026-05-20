@@ -93,6 +93,28 @@ Energy levels explain emission and absorption spectra, how lasers and fluorescen
 *Figure: Electrons occupy discrete energy levels (horizontal lines). A downward transition from n = 3 to n = 1 releases a photon with energy $\Delta E = hf$ — exactly the level difference. Only certain frequencies are emitted, producing a line spectrum unique to each element.*
 *Source: Authored for this vault (CC0). No external copyright.*
 
+### From Wikipedia
+
+<!-- wiki-images: yes -->
+
+#### Energy levels
+
+![[_attachments/04_Concepts/Energy-Levels--wiki-energy-levels.svg]]
+*Figure: from Wikipedia article "Energy level".*
+*Source: Wikimedia Commons — [Energy_levels.svg](https://commons.wikimedia.org/wiki/File:Energy_levels.svg). Retrieved 2026-05-20.*
+
+#### Atomic Absorption (hv corrected)
+
+![[_attachments/04_Concepts/Energy-Levels--wiki-atomic-absorption-hv-corrected.svg]]
+*Figure: from Wikipedia article "Energy level".*
+*Source: Wikimedia Commons — [Atomic Absorption (hv corrected).svg](https://commons.wikimedia.org/wiki/File:Atomic_Absorption_(hv_corrected).svg). Retrieved 2026-05-20.*
+
+#### Energy levels
+
+![[_attachments/04_Concepts/Energy-Levels--wiki-energy-levels.svg]]
+*Figure: from Wikipedia article "Energy level".*
+*Source: Wikimedia Commons — [Energy levels.svg](https://commons.wikimedia.org/wiki/File:Energy_levels.svg). Retrieved 2026-05-20.*
+
 ## Source Trace
 
 - Source: OpenStax College Physics; The Physics Classroom; IOPSpark; Physics LibreTexts — paraphrased, no copied text.

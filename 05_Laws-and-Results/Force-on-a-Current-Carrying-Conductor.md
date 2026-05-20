@@ -91,6 +91,28 @@ A single charge q drifting at speed v feels force $F = Bqv \sin\theta$. In lengt
 *Figure: A horizontal wire carrying current I in a field B directed into the page experiences an upward force F = BIL. Fleming's left-hand rule gives the force direction.*
 *Source: Authored for this vault (CC0). No external copyright.*
 
+### From Wikipedia
+
+<!-- wiki-images: yes -->
+
+#### Electrical wires near Putim
+
+![[_attachments/05_Laws-and-Results/Force-on-a-Current-Carrying-Conductor--wiki-electrical-wires-near-putim.jpg]]
+*Figure: from Wikipedia article "Electrical conductor".*
+*Source: Wikimedia Commons — [Electrical_wires_near_Putim.jpg](https://commons.wikimedia.org/wiki/File:Electrical_wires_near_Putim.jpg). Retrieved 2026-05-20.*
+
+#### Electrical wires near Putim
+
+![[_attachments/05_Laws-and-Results/Force-on-a-Current-Carrying-Conductor--wiki-electrical-wires-near-putim.jpg]]
+*Figure: from Wikipedia article "Electrical conductor".*
+*Source: Wikimedia Commons — [Electrical wires near Putim.jpg](https://commons.wikimedia.org/wiki/File:Electrical_wires_near_Putim.jpg). Retrieved 2026-05-20.*
+
+#### Resistivity geometry
+
+![[_attachments/05_Laws-and-Results/Force-on-a-Current-Carrying-Conductor--wiki-resistivity-geometry.png]]
+*Figure: from Wikipedia article "Electrical conductor".*
+*Source: Wikimedia Commons — [Resistivity geometry.png](https://commons.wikimedia.org/wiki/File:Resistivity_geometry.png). Retrieved 2026-05-20.*
+
 ## Source Trace
 
 OpenStax College Physics; HyperPhysics; Physics LibreTexts — no copied text.

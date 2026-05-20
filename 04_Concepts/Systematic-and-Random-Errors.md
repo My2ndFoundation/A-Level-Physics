@@ -89,6 +89,16 @@ flowchart TD
 *Figure: Systematic error cannot be averaged away; random error can. Knowing which type is present tells you whether to average more or fix the procedure.*
 *Source: Authored for this vault (CC0). No external copyright.*
 
+### From Wikipedia
+
+<!-- wiki-images: yes -->
+
+#### Measurement distribution with systematic and random errors
+
+![[_attachments/04_Concepts/Systematic-and-Random-Errors--wiki-measurement-distribution-with-systematic.svg]]
+*Figure: from Wikipedia article "Observational error".*
+*Source: Wikimedia Commons — [Measurement distribution with systematic and random errors.svg](https://commons.wikimedia.org/wiki/File:Measurement_distribution_with_systematic_and_random_errors.svg). Retrieved 2026-05-20.*
+
 ## Source Trace
 
 - Source: [[OCR-Physics-Practical-Skills-Handbook]]

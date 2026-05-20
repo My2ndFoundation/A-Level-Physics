@@ -93,6 +93,28 @@ flowchart LR
 *Figure: The Kelvin scale is the SI thermodynamic temperature. A change of 1 K equals a change of 1 °C. Energy flows from higher T to lower T until equilibrium.*
 *Source: Authored for this vault (CC0). No external copyright.*
 
+### From Wikipedia
+
+<!-- wiki-images: yes -->
+
+#### Thermally Agitated Molecule
+
+![[_attachments/04_Concepts/Temperature--wiki-thermally-agitated-molecule.gif]]
+*Figure: from Wikipedia article "Temperature".*
+*Source: Wikimedia Commons — [Thermally_Agitated_Molecule.gif](https://commons.wikimedia.org/wiki/File:Thermally_Agitated_Molecule.gif). Retrieved 2026-05-20.*
+
+#### A Guide to Cosmic Temperatures (SVS14374 - Cosmic Temperatures Infographic Final Full)
+
+![[_attachments/04_Concepts/Temperature--wiki-a-guide-to-cosmic-temperatures-svs14374-.jpg]]
+*Figure: from Wikipedia article "Temperature".*
+*Source: Wikimedia Commons — [A Guide to Cosmic Temperatures (SVS14374 - Cosmic Temperatures Infographic Final Full).jpg](https://commons.wikimedia.org/wiki/File:A_Guide_to_Cosmic_Temperatures_(SVS14374_-_Cosmic_Temperatures_Infographic_Final_Full).jpg). Retrieved 2026-05-20.*
+
+#### Body Temp Variation
+
+![[_attachments/04_Concepts/Temperature--wiki-body-temp-variation.svg]]
+*Figure: from Wikipedia article "Temperature".*
+*Source: Wikimedia Commons — [Body Temp Variation.svg](https://commons.wikimedia.org/wiki/File:Body_Temp_Variation.svg). Retrieved 2026-05-20.*
+
 ## Source Trace
 
 - Source: OpenStax College Physics; HyperPhysics; The Physics Classroom — paraphrased, no copied text

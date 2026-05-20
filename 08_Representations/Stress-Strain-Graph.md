@@ -80,6 +80,28 @@ xychart-beta
 *Figure: The steep straight region from the origin to ~0.002 represents the elastic region; its gradient is the [[Young-Modulus]] $E = \sigma/\varepsilon$. Beyond the limit of proportionality the curve rounds off at the yield region; the peak is the ultimate tensile stress (UTS); beyond this the material necks and fractures. The area under the curve up to any point equals the strain energy stored per unit volume.*
 *Source: Authored for this vault (CC0). No external copyright.*
 
+### From Wikipedia
+
+<!-- wiki-images: yes -->
+
+#### Stress strain ductile
+
+![[_attachments/08_Representations/Stress-Strain-Graph--wiki-stress-strain-ductile.svg]]
+*Figure: from Wikipedia article "Stress–strain curve".*
+*Source: Wikimedia Commons — [Stress_strain_ductile.svg](https://commons.wikimedia.org/wiki/File:Stress_strain_ductile.svg). Retrieved 2026-05-20.*
+
+#### Stress strain comparison brittle ductile
+
+![[_attachments/08_Representations/Stress-Strain-Graph--wiki-stress-strain-comparison-brittle-ductile.svg]]
+*Figure: from Wikipedia article "Stress–strain curve".*
+*Source: Wikimedia Commons — [Stress strain comparison brittle ductile.svg](https://commons.wikimedia.org/wiki/File:Stress_strain_comparison_brittle_ductile.svg). Retrieved 2026-05-20.*
+
+#### Stress strain ductile
+
+![[_attachments/08_Representations/Stress-Strain-Graph--wiki-stress-strain-ductile.svg]]
+*Figure: from Wikipedia article "Stress–strain curve".*
+*Source: Wikimedia Commons — [Stress strain ductile.svg](https://commons.wikimedia.org/wiki/File:Stress_strain_ductile.svg). Retrieved 2026-05-20.*
+
 ## Source Trace
 
 - Source: OCR Practical Skills Handbook; The Physics Classroom; IOPSpark; OpenStax

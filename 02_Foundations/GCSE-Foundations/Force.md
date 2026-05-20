@@ -70,6 +70,30 @@ Pushing a shopping trolley harder makes it speed up faster. A heavier trolley is
 
 At A-Level the everyday "push or pull" becomes a precise vector quantity. Forces are resolved into components, combined using vector addition, and represented on free-body diagrams. Force is tied to [[Acceleration]] through Newton's second law in the form $F = ma$, and extended into rates of change of [[Momentum]]. See [[From-Speed-to-Velocity]] and the A-Level [[Force]] physical-quantity page for the more formal treatment.
 
+## Visuals
+
+### From Wikipedia
+
+<!-- wiki-images: yes -->
+
+#### Force examples
+
+![[_attachments/02_Foundations/Force--wiki-force-examples.svg]]
+*Figure: from Wikipedia article "Force".*
+*Source: Wikimedia Commons — [Force_examples.svg](https://commons.wikimedia.org/wiki/File:Force_examples.svg). Retrieved 2026-05-20.*
+
+#### Addition av vektorer 003
+
+![[_attachments/02_Foundations/Force--wiki-addition-av-vektorer-003.jpg]]
+*Figure: from Wikipedia article "Force".*
+*Source: Wikimedia Commons — [Addition av vektorer 003.jpg](https://commons.wikimedia.org/wiki/File:Addition_av_vektorer_003.jpg). Retrieved 2026-05-20.*
+
+#### Aristoteles Louvre2
+
+![[_attachments/02_Foundations/Force--wiki-aristoteles-louvre2.jpg]]
+*Figure: from Wikipedia article "Force".*
+*Source: Wikimedia Commons — [Aristoteles Louvre2.jpg](https://commons.wikimedia.org/wiki/File:Aristoteles_Louvre2.jpg). Retrieved 2026-05-20.*
+
 ## Source Trace
 
 - Source: BBC Bitesize GCSE Physics (forces); IOPSpark; The Physics Classroom (Newton's laws and forces)

@@ -75,6 +75,28 @@ Total internal reflection guides light along optical fibres with almost no loss,
 *Figure: Left — angle below critical angle: partial refraction and partial reflection. Centre — angle equals critical angle: refracted ray grazes the boundary. Right — angle exceeds critical angle: total internal reflection (all light stays in dense medium). Angles measured from the normal.*
 *Source: Authored for this vault (CC0). No external copyright.*
 
+### From Wikipedia
+
+<!-- wiki-images: yes -->
+
+#### Total internal reflection by fluorescence
+
+![[_attachments/04_Concepts/Total-Internal-Reflection--wiki-total-internal-reflection-by-fluorescenc.jpg]]
+*Figure: from Wikipedia article "Total internal reflection".*
+*Source: Wikimedia Commons — [Total_internal_reflection_by_fluorescence.jpg](https://commons.wikimedia.org/wiki/File:Total_internal_reflection_by_fluorescence.jpg). Retrieved 2026-05-20.*
+
+#### Aquarium total internal reflection
+
+![[_attachments/04_Concepts/Total-Internal-Reflection--wiki-aquarium-total-internal-reflection.jpg]]
+*Figure: from Wikipedia article "Total internal reflection".*
+*Source: Wikimedia Commons — [Aquarium total internal reflection.jpg](https://commons.wikimedia.org/wiki/File:Aquarium_total_internal_reflection.jpg). Retrieved 2026-05-20.*
+
+#### Augustin Fresnel
+
+![[_attachments/04_Concepts/Total-Internal-Reflection--wiki-augustin-fresnel.jpg]]
+*Figure: from Wikipedia article "Total internal reflection".*
+*Source: Wikimedia Commons — [Augustin Fresnel.jpg](https://commons.wikimedia.org/wiki/File:Augustin_Fresnel.jpg). Retrieved 2026-05-20.*
+
 ## Source Trace
 
 - Source: OpenStax College Physics; HyperPhysics; IOPSpark

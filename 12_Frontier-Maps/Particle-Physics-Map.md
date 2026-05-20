@@ -85,6 +85,28 @@ particles — a small chart of building blocks plus the "glue" between them.
 *Figure: The ATLAS detector at CERN — one of the world's largest scientific instruments, used to detect and measure the particles produced in LHC collisions, including the 2012 discovery of the Higgs boson.*
 *Source: CERN LHC ATLAS Detector — SimonWaldherr — CC BY-SA 4.0 — https://commons.wikimedia.org/wiki/File:CERN_LHC_ATLAS_Detector.jpg. Retrieved 2026-05-19.*
 
+### From Wikipedia
+
+<!-- wiki-images: yes -->
+
+#### Standard Model of Elementary Particles
+
+![[_attachments/12_Frontier-Maps/Particle-Physics-Map--wiki-standard-model-of-elementary-particles.svg]]
+*Figure: from Wikipedia article "Particle physics".*
+*Source: Wikimedia Commons — [Standard_Model_of_Elementary_Particles.svg](https://commons.wikimedia.org/wiki/File:Standard_Model_of_Elementary_Particles.svg). Retrieved 2026-05-20.*
+
+#### 02 Fermilab - Fermi National Accelerator Laboratory - American particle accelerator Fermilab near Chicago Illinois
+
+![[_attachments/12_Frontier-Maps/Particle-Physics-Map--wiki-02-fermilab-fermi-national-accelerator-l.jpg]]
+*Figure: from Wikipedia article "Particle physics".*
+*Source: Wikimedia Commons — [02 Fermilab - Fermi National Accelerator Laboratory - American particle accelerator Fermilab near Chicago Illinois.jpg](https://commons.wikimedia.org/wiki/File:02_Fermilab_-_Fermi_National_Accelerator_Laboratory_-_American_particle_accelerator_Fermilab_near_Chicago_Illinois.jpg). Retrieved 2026-05-20.*
+
+#### Beta Negative Decay
+
+![[_attachments/12_Frontier-Maps/Particle-Physics-Map--wiki-beta-negative-decay.svg]]
+*Figure: from Wikipedia article "Particle physics".*
+*Source: Wikimedia Commons — [Beta Negative Decay.svg](https://commons.wikimedia.org/wiki/File:Beta_Negative_Decay.svg). Retrieved 2026-05-20.*
+
 ## Source Trace
 
 - Source: [[CERN-Science]]

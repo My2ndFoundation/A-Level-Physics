@@ -87,6 +87,16 @@ Almost every mechanics problem involving a supported object needs the normal for
 *Figure: A block rests on an incline at angle θ. Weight W acts vertically downward. The normal contact force N acts perpendicular to the slope surface (N = mg cos θ). The component mg sin θ acts parallel to the slope (tending to cause sliding). N is NOT equal to mg unless the slope is horizontal.*
 *Source: Authored for this vault (CC0). No external copyright.*
 
+### From Wikipedia
+
+<!-- wiki-images: yes -->
+
+#### Friction relative to normal force (diagram)
+
+![[_attachments/04_Concepts/Normal-Contact-Force--wiki-friction-relative-to-normal-force-diagra.png]]
+*Figure: from Wikipedia article "Normal force".*
+*Source: Wikimedia Commons — [Friction relative to normal force (diagram).png](https://commons.wikimedia.org/wiki/File:Friction_relative_to_normal_force_(diagram).png). Retrieved 2026-05-20.*
+
 ## Source Trace
 
 - Source: OpenStax College Physics; The Physics Classroom; HyperPhysics — no copied text

@@ -72,6 +72,28 @@ Not applicable to the diagram itself. The associated relationships are $E = F/Q$
 *Figure: Left — radial lines spreading outward from a positive point charge; line density decreases with distance, consistent with the inverse-square field ($E \propto 1/r^2$). Right — uniform field between oppositely charged parallel plates; parallel, equally spaced vertical lines with arrows pointing from + plate to − plate represent the constant [[Electric-Field-Strength]] $E = V/d$. Lines never cross.*
 *Source: Authored for this vault (CC0). No external copyright.*
 
+### From Wikipedia
+
+<!-- wiki-images: yes -->
+
+#### Electric Field Lines
+
+![[_attachments/08_Representations/Electric-Field-Line-Diagram--wiki-electric-field-lines.svg]]
+*Figure: from Wikipedia article "Field line".*
+*Source: Wikimedia Commons — [Electric_Field_Lines.svg](https://commons.wikimedia.org/wiki/File:Electric_Field_Lines.svg). Retrieved 2026-05-20.*
+
+#### Camposcargas
+
+![[_attachments/08_Representations/Electric-Field-Line-Diagram--wiki-camposcargas.svg]]
+*Figure: from Wikipedia article "Field line".*
+*Source: Wikimedia Commons — [Camposcargas.svg](https://commons.wikimedia.org/wiki/File:Camposcargas.svg). Retrieved 2026-05-20.*
+
+#### Electric Field Lines
+
+![[_attachments/08_Representations/Electric-Field-Line-Diagram--wiki-electric-field-lines.svg]]
+*Figure: from Wikipedia article "Field line".*
+*Source: Wikimedia Commons — [Electric Field Lines.svg](https://commons.wikimedia.org/wiki/File:Electric_Field_Lines.svg). Retrieved 2026-05-20.*
+
 ## Source Trace
 
 - Source: OCR Practical Skills Handbook; The Physics Classroom; IOPSpark; OpenStax

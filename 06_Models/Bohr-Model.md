@@ -107,6 +107,28 @@ graph TD
 *Figure: Electron transitions between discrete energy levels; each arrow represents absorption or emission of a photon with energy exactly equal to the level difference.*
 *Source: Authored for this vault (CC0). No external copyright.*
 
+### From Wikipedia
+
+<!-- wiki-images: yes -->
+
+#### Bohr atom model
+
+![[_attachments/06_Models/Bohr-Model--wiki-bohr-atom-model.svg]]
+*Figure: from Wikipedia article "Bohr model".*
+*Source: Wikimedia Commons — [Bohr_atom_model.svg](https://commons.wikimedia.org/wiki/File:Bohr_atom_model.svg). Retrieved 2026-05-20.*
+
+#### Blausen 0342 ElectronEnergyLevels
+
+![[_attachments/06_Models/Bohr-Model--wiki-blausen-0342-electronenergylevels.png]]
+*Figure: from Wikipedia article "Bohr model".*
+*Source: Wikimedia Commons — [Blausen 0342 ElectronEnergyLevels.png](https://commons.wikimedia.org/wiki/File:Blausen_0342_ElectronEnergyLevels.png). Retrieved 2026-05-20.*
+
+#### Bohr atom model
+
+![[_attachments/06_Models/Bohr-Model--wiki-bohr-atom-model.svg]]
+*Figure: from Wikipedia article "Bohr model".*
+*Source: Wikimedia Commons — [Bohr atom model.svg](https://commons.wikimedia.org/wiki/File:Bohr_atom_model.svg). Retrieved 2026-05-20.*
+
 ## Source Trace
 
 OpenStax College Physics; HyperPhysics; The Physics Classroom — no copied text.

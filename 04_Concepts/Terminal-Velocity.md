@@ -96,6 +96,28 @@ flowchart TD
 *Figure: The velocity–time graph rises steeply then curves to a horizontal line at terminal velocity. The gradient (acceleration) starts at g and falls smoothly to zero.*
 *Source: Authored for this vault (CC0). No external copyright.*
 
+### From Wikipedia
+
+<!-- wiki-images: yes -->
+
+#### Terminal velocity
+
+![[_attachments/04_Concepts/Terminal-Velocity--wiki-terminal-velocity.svg]]
+*Figure: from Wikipedia article "Terminal velocity".*
+*Source: Wikimedia Commons — [Terminal_velocity.svg](https://commons.wikimedia.org/wiki/File:Terminal_velocity.svg). Retrieved 2026-05-20.*
+
+#### Graph of velocity versus time of a skydiver reaching a terminal velocity
+
+![[_attachments/04_Concepts/Terminal-Velocity--wiki-graph-of-velocity-versus-time-of-a-skydi.svg]]
+*Figure: from Wikipedia article "Terminal velocity".*
+*Source: Wikimedia Commons — [Graph of velocity versus time of a skydiver reaching a terminal velocity.svg](https://commons.wikimedia.org/wiki/File:Graph_of_velocity_versus_time_of_a_skydiver_reaching_a_terminal_velocity.svg). Retrieved 2026-05-20.*
+
+#### Settling velocity quartz
+
+![[_attachments/04_Concepts/Terminal-Velocity--wiki-settling-velocity-quartz.png]]
+*Figure: from Wikipedia article "Terminal velocity".*
+*Source: Wikimedia Commons — [Settling velocity quartz.png](https://commons.wikimedia.org/wiki/File:Settling_velocity_quartz.png). Retrieved 2026-05-20.*
+
 ## Source Trace
 
 - Source: OpenStax College Physics; The Physics Classroom; IOPSpark; Physics LibreTexts — paraphrased, no copied text.

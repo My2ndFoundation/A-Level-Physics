@@ -99,6 +99,28 @@ flowchart TD
 *Figure: Quarks bind into hadrons (baryons or mesons); leptons remain fundamental and do not feel the strong interaction. This tree shows how the particles relevant to OCR H556 fit together.*
 *Source: Authored for this vault (CC0). No external copyright.*
 
+### From Wikipedia
+
+<!-- wiki-images: yes -->
+
+#### Standard Model of Elementary Particles
+
+![[_attachments/04_Concepts/Fundamental-Particles--wiki-standard-model-of-elementary-particles.svg]]
+*Figure: from Wikipedia article "Elementary particle".*
+*Source: Wikimedia Commons — [Standard_Model_of_Elementary_Particles.svg](https://commons.wikimedia.org/wiki/File:Standard_Model_of_Elementary_Particles.svg). Retrieved 2026-05-20.*
+
+#### Standard Model of Elementary Particles
+
+![[_attachments/04_Concepts/Fundamental-Particles--wiki-standard-model-of-elementary-particles.svg]]
+*Figure: from Wikipedia article "Elementary particle".*
+*Source: Wikimedia Commons — [Standard Model of Elementary Particles.svg](https://commons.wikimedia.org/wiki/File:Standard_Model_of_Elementary_Particles.svg). Retrieved 2026-05-20.*
+
+#### Stylised atom with three Bohr model orbits and stylised nucleus
+
+![[_attachments/04_Concepts/Fundamental-Particles--wiki-stylised-atom-with-three-bohr-model-orbi.svg]]
+*Figure: from Wikipedia article "Elementary particle".*
+*Source: Wikimedia Commons — [Stylised atom with three Bohr model orbits and stylised nucleus.svg](https://commons.wikimedia.org/wiki/File:Stylised_atom_with_three_Bohr_model_orbits_and_stylised_nucleus.svg). Retrieved 2026-05-20.*
+
 ## Source Trace
 
 - Source: OpenStax College Physics; HyperPhysics; CERN educational material — no copied text

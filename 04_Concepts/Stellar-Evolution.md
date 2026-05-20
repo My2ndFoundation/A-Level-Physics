@@ -121,6 +121,28 @@ flowchart TD
 *Figure: A star's final state depends on its initial mass. The main sequence is a stable phase, not a time-ordered stage. Supernovae disperse heavy elements seeding future stars.*
 *Source: Authored for this vault (CC0). No external copyright.*
 
+### From Wikipedia
+
+<!-- wiki-images: yes -->
+
+#### Triangle of everything - Stellar Evolution
+
+![[_attachments/04_Concepts/Stellar-Evolution--wiki-triangle-of-everything-stellar-evolution.png]]
+*Figure: from Wikipedia article "Stellar evolution".*
+*Source: Wikimedia Commons — [Triangle_of_everything_-_Stellar_Evolution.png](https://commons.wikimedia.org/wiki/File:Triangle_of_everything_-_Stellar_Evolution.png). Retrieved 2026-05-20.*
+
+#### Black hole - Messier 87
+
+![[_attachments/04_Concepts/Stellar-Evolution--wiki-black-hole-messier-87.jpg]]
+*Figure: from Wikipedia article "Stellar evolution".*
+*Source: Wikimedia Commons — [Black hole - Messier 87.jpg](https://commons.wikimedia.org/wiki/File:Black_hole_-_Messier_87.jpg). Retrieved 2026-05-20.*
+
+#### Crab Nebula
+
+![[_attachments/04_Concepts/Stellar-Evolution--wiki-crab-nebula.jpg]]
+*Figure: from Wikipedia article "Stellar evolution".*
+*Source: Wikimedia Commons — [Crab Nebula.jpg](https://commons.wikimedia.org/wiki/File:Crab_Nebula.jpg). Retrieved 2026-05-20.*
+
 ## Source Trace
 
 - Source: OpenStax College Physics; HyperPhysics; NASA educational material — no copied text

@@ -56,6 +56,30 @@ The common wrong intuition is that the metal is genuinely colder than the wood. 
 
 This page explains the conduction intuition only. It does not give the conduction equation, thermal conductivity values, or a microscopic model of lattice vibrations and electron transport in detail.
 
+## Visuals
+
+### From Wikipedia
+
+<!-- wiki-images: yes -->
+
+#### Convection-snapshot
+
+![[_attachments/02_Foundations/Why-Metal-Feels-Colder-Than-Wood--wiki-convection-snapshot.png]]
+*Figure: from Wikipedia article "Heat transfer".*
+*Source: Wikimedia Commons — [Convection-snapshot.png](https://commons.wikimedia.org/wiki/File:Convection-snapshot.png). Retrieved 2026-05-20.*
+
+#### Air cooler
+
+![[_attachments/02_Foundations/Why-Metal-Feels-Colder-Than-Wood--wiki-air-cooler.jpg]]
+*Figure: from Wikipedia article "Heat transfer".*
+*Source: Wikimedia Commons — [Air cooler.jpg](https://commons.wikimedia.org/wiki/File:Air_cooler.jpg). Retrieved 2026-05-20.*
+
+#### Appareil Ingenhousz
+
+![[_attachments/02_Foundations/Why-Metal-Feels-Colder-Than-Wood--wiki-appareil-ingenhousz.jpg]]
+*Figure: from Wikipedia article "Heat transfer".*
+*Source: Wikimedia Commons — [Appareil Ingenhousz.JPG](https://commons.wikimedia.org/wiki/File:Appareil_Ingenhousz.JPG). Retrieved 2026-05-20.*
+
 ## Source Trace
 
 - Source: BBC Bitesize GCSE Physics (energy transfer, conduction); IOPSpark; The Physics Classroom (thermal physics)

@@ -87,6 +87,28 @@ Low risk. Keep feet clear of the falling ball and trapdoor. The free-fall (no ai
 *Figure: Diagram of an object in free fall showing the distance h fallen from rest under gravitational acceleration g with no air resistance — the ball accelerates uniformly downward, illustrating the $h = \frac{1}{2}gt^2$ relationship used to determine g from the gradient of an h against $t^2$ graph.*
 *Source: Free fall — Pieter Kuiper — Public domain — https://commons.wikimedia.org/wiki/File:Free_fall.svg. Retrieved 2026-05-19.*
 
+### From Wikipedia
+
+<!-- wiki-images: yes -->
+
+#### Gravity anomalies on Earth
+
+![[_attachments/09_Experiments-and-Practicals/Measuring-Acceleration-Due-to-Gravity--wiki-gravity-anomalies-on-earth.jpg]]
+*Figure: from Wikipedia article "Gravity of Earth".*
+*Source: Wikimedia Commons — [Gravity_anomalies_on_Earth.jpg](https://commons.wikimedia.org/wiki/File:Gravity_anomalies_on_Earth.jpg). Retrieved 2026-05-20.*
+
+#### Earth-G-force
+
+![[_attachments/09_Experiments-and-Practicals/Measuring-Acceleration-Due-to-Gravity--wiki-earth-g-force.png]]
+*Figure: from Wikipedia article "Gravity of Earth".*
+*Source: Wikimedia Commons — [Earth-G-force.png](https://commons.wikimedia.org/wiki/File:Earth-G-force.png). Retrieved 2026-05-20.*
+
+#### EarthGravityPREM
+
+![[_attachments/09_Experiments-and-Practicals/Measuring-Acceleration-Due-to-Gravity--wiki-earthgravityprem.svg]]
+*Figure: from Wikipedia article "Gravity of Earth".*
+*Source: Wikimedia Commons — [EarthGravityPREM.svg](https://commons.wikimedia.org/wiki/File:EarthGravityPREM.svg). Retrieved 2026-05-20.*
+
 ## Source Trace
 
 - Source: OCR Practical Skills Handbook; The Physics Classroom; IOPSpark; OpenStax

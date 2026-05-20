@@ -101,6 +101,28 @@ flowchart LR
 *Figure: Speed is the scalar magnitude of velocity. On a distance–time graph the gradient gives speed; on a speed–time graph the gradient gives acceleration and the area gives distance.*
 *Source: Authored for this vault (CC0). No external copyright.*
 
+### From Wikipedia
+
+<!-- wiki-images: yes -->
+
+#### Motorcyclist in Midtown Manhattan-L1002704
+
+![[_attachments/03_Physical-Quantities/Speed--wiki-motorcyclist-in-midtown-manhattan-l10027.jpg]]
+*Figure: from Wikipedia article "Speed".*
+*Source: Wikimedia Commons — [Motorcyclist_in_Midtown_Manhattan-L1002704.jpg](https://commons.wikimedia.org/wiki/File:Motorcyclist_in_Midtown_Manhattan-L1002704.jpg). Retrieved 2026-05-20.*
+
+#### 20230703 Average speed of bowling ball versus travel time
+
+![[_attachments/03_Physical-Quantities/Speed--wiki-20230703-average-speed-of-bowling-ball-v.svg]]
+*Figure: from Wikipedia article "Speed".*
+*Source: Wikimedia Commons — [20230703 Average speed of bowling ball versus travel time.svg](https://commons.wikimedia.org/wiki/File:20230703_Average_speed_of_bowling_ball_versus_travel_time.svg). Retrieved 2026-05-20.*
+
+#### Motorcyclist in Midtown Manhattan-L1002704
+
+![[_attachments/03_Physical-Quantities/Speed--wiki-motorcyclist-in-midtown-manhattan-l10027.jpg]]
+*Figure: from Wikipedia article "Speed".*
+*Source: Wikimedia Commons — [Motorcyclist in Midtown Manhattan-L1002704.jpg](https://commons.wikimedia.org/wiki/File:Motorcyclist_in_Midtown_Manhattan-L1002704.jpg). Retrieved 2026-05-20.*
+
 ## Source Trace
 
 - Source: OpenStax College Physics; The Physics Classroom; HyperPhysics (paraphrased, no copied text)

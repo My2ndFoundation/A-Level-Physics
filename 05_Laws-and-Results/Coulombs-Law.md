@@ -97,6 +97,28 @@ The law is empirical (from torsion-balance experiments). Combined with the defin
 *Figure: Two like charges separated by distance r repel each other with equal and opposite forces. The force follows an inverse-square law.*
 *Source: Authored for this vault (CC0). No external copyright.*
 
+### From Wikipedia
+
+<!-- wiki-images: yes -->
+
+#### CoulombsLaw scal
+
+![[_attachments/05_Laws-and-Results/Coulombs-Law--wiki-coulombslaw-scal.svg]]
+*Figure: from Wikipedia article "Coulomb's law".*
+*Source: Wikimedia Commons — [CoulombsLaw_scal.svg](https://commons.wikimedia.org/wiki/File:CoulombsLaw_scal.svg). Retrieved 2026-05-20.*
+
+#### Bcoulomb
+
+![[_attachments/05_Laws-and-Results/Coulombs-Law--wiki-bcoulomb.png]]
+*Figure: from Wikipedia article "Coulomb's law".*
+*Source: Wikimedia Commons — [Bcoulomb.png](https://commons.wikimedia.org/wiki/File:Bcoulomb.png). Retrieved 2026-05-20.*
+
+#### Coulomb
+
+![[_attachments/05_Laws-and-Results/Coulombs-Law--wiki-coulomb.jpg]]
+*Figure: from Wikipedia article "Coulomb's law".*
+*Source: Wikimedia Commons — [Coulomb.jpg](https://commons.wikimedia.org/wiki/File:Coulomb.jpg). Retrieved 2026-05-20.*
+
 ## Source Trace
 
 - Source: OpenStax College Physics; HyperPhysics; Physics LibreTexts — paraphrased, no copied text

@@ -1,0 +1,179 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+<svg
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   version="1.0"
+   width="924"
+   height="713"
+   id="svg2440">
+  <defs
+     id="defs2443">
+    <marker
+       refX="0"
+       refY="0"
+       orient="auto"
+       id="DistanceStart"
+       style="overflow:visible">
+      <g
+         id="g2300">
+        <path
+           d="M 0,0 L 2,0"
+           id="path2306"
+           style="fill:none;stroke:#ffffff;stroke-width:1.14999998;stroke-linecap:square" />
+        <path
+           d="M 0,0 L 13,4 L 9,0 L 13,-4 L 0,0 z"
+           id="path2302"
+           style="fill:#000000;fill-rule:evenodd;stroke:none" />
+        <path
+           d="M 0,-4 L 0,40"
+           id="path2304"
+           style="fill:none;stroke:#000000;stroke-width:1;stroke-linecap:square" />
+      </g>
+    </marker>
+    <marker
+       refX="0"
+       refY="0"
+       orient="auto"
+       id="DistanceEnd"
+       style="overflow:visible">
+      <g
+         id="g3844">
+        <path
+           d="M 0,0 L -2,0"
+           id="path2316"
+           style="fill:none;stroke:#ffffff;stroke-width:1.14999998;stroke-linecap:square" />
+        <path
+           d="M 0,0 L -13,4 L -9,0 L -13,-4 L 0,0 z"
+           id="path2312"
+           style="fill:#000000;fill-rule:evenodd;stroke:none" />
+        <path
+           d="M 0,-4 L 0,40"
+           id="path2314"
+           style="fill:none;stroke:#000000;stroke-width:1;stroke-linecap:square" />
+      </g>
+    </marker>
+  </defs>
+  <path
+     d="M 117.5,349 C 117.5,361.972 106.972,372.5 94.000003,372.5 C 81.028001,372.5 70.5,361.972 70.5,349 C 70.5,336.028 81.028001,325.5 94.000003,325.5 C 106.972,325.5 117.5,336.028 117.5,349 z M 835.5,349 C 835.5,361.972 824.972,372.5 812,372.5 C 799.028,372.5 788.5,361.972 788.5,349 C 788.5,336.028 799.028,325.5 812,325.5 C 824.972,325.5 835.5,336.028 835.5,349 z"
+     id="path2451"
+     style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:1.52490461;stroke-miterlimit:4;stroke-dashoffset:0;stroke-opacity:1" />
+  <path
+     d="M 118,350 L 788,350"
+     id="path3225"
+     style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:8, 2, 1, 2;stroke-dashoffset:0;stroke-opacity:1" />
+  <path
+     d="M 656,228 L 656,468 M 704,228 L 704,468"
+     id="path3230"
+     style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+  <path
+     d="M 150,228 L 390,228 L 390,468 L 150,468 L 150,228 z M 560,108 L 800,108 L 800,228 L 560,228 L 560,108 z M 560,468 L 800,468 L 800,588 L 560,588 L 560,468 z"
+     id="rect3234"
+     style="fill:#cccccc;fill-opacity:1;stroke:none;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:8, 2, 1, 2;stroke-dashoffset:0;stroke-opacity:1" />
+  <text
+     x="244.5625"
+     y="173"
+     id="text3240"
+     xml:space="preserve"
+     style="font-size:56px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:Bitstream Vera Sans"><tspan
+       x="244.5625"
+       y="173"
+       id="tspan3242">A</tspan></text>
+  <text
+     x="664.50391"
+     y="63"
+     id="text3244"
+     xml:space="preserve"
+     style="font-size:56px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:Bitstream Vera Sans"><tspan
+       x="664.50391"
+       y="63"
+       id="tspan3246">B</tspan></text>
+  <text
+     x="-0.16015625"
+     y="356.63638"
+     id="text3248"
+     xml:space="preserve"
+     style="font-size:28px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:Bitstream Vera Sans"><tspan
+       x="-0.16015625"
+       y="356.63638"
+       id="tspan3250">5.00</tspan></text>
+  <text
+     x="838.92383"
+     y="356.63635"
+     id="text3252"
+     xml:space="preserve"
+     style="font-size:28px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:Bitstream Vera Sans"><tspan
+       x="838.92383"
+       y="356.63635"
+       id="tspan3254">15.00</tspan></text>
+  <text
+     x="84.625"
+     y="357"
+     id="text3256"
+     xml:space="preserve"
+     style="font-size:32px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:Bitstream Vera Sans"><tspan
+       x="84.625"
+       y="357"
+       id="tspan3258">z</tspan></text>
+  <text
+     x="803.625"
+     y="357"
+     id="text3260"
+     xml:space="preserve"
+     style="font-size:32px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:Bitstream Vera Sans"><tspan
+       x="803.625"
+       y="357"
+       id="tspan3262">z</tspan></text>
+  <text
+     x="151.07422"
+     y="697.43359"
+     id="text3264"
+     xml:space="preserve"
+     style="font-size:40px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:Bitstream Vera Sans"><tspan
+       x="151.07422"
+       y="697.43359"
+       id="tspan3266">Izz ≅ 5  ≅ 25</tspan></text>
+  <text
+     x="536.07422"
+     y="697.43359"
+     id="text3270"
+     xml:space="preserve"
+     style="font-size:40px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:Bitstream Vera Sans"><tspan
+       x="536.07422"
+       y="697.43359"
+       id="tspan3272">Izz ≅ 15  ≅ 225</tspan></text>
+  <path
+     d="M 32,330 L 32,288"
+     id="path3274"
+     style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;marker-end:url(#DistanceEnd);stroke-opacity:1" />
+  <path
+     d="M 32,408 L 32,366"
+     id="path5647"
+     style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;marker-start:url(#DistanceStart);stroke-opacity:1" />
+  <path
+     d="M 884,168 L 884,328"
+     id="path6734"
+     style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;marker-start:url(#DistanceStart);stroke-opacity:1" />
+  <path
+     d="M 884,368 L 884,528"
+     id="path7275"
+     style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;marker-end:url(#DistanceEnd);stroke-opacity:1" />
+  <text
+     x="289.24219"
+     y="680"
+     id="text2416"
+     xml:space="preserve"
+     style="font-size:24px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:Bitstream Vera Sans"><tspan
+       x="289.24219"
+       y="680"
+       id="tspan2418">2</tspan></text>
+  <text
+     x="700.24219"
+     y="680"
+     id="text2420"
+     xml:space="preserve"
+     style="font-size:24px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:Bitstream Vera Sans"><tspan
+       x="700.24219"
+       y="680"
+       id="tspan2422">2</tspan></text>
+</svg>

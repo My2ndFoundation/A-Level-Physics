@@ -87,6 +87,28 @@ flowchart LR
 *Figure: The work function φ is the minimum energy to remove one electron. Any photon energy above φ appears as electron kinetic energy. φ = hf₀ where f₀ is the threshold frequency.*
 *Source: Authored for this vault (CC0). No external copyright.*
 
+### From Wikipedia
+
+<!-- wiki-images: yes -->
+
+#### Photoelectric effect in a solid - diagram
+
+![[_attachments/04_Concepts/Work-Function--wiki-photoelectric-effect-in-a-solid-diagram.svg]]
+*Figure: from Wikipedia article "Photoelectric effect".*
+*Source: Wikimedia Commons — [Photoelectric_effect_in_a_solid_-_diagram.svg](https://commons.wikimedia.org/wiki/File:Photoelectric_effect_in_a_solid_-_diagram.svg). Retrieved 2026-05-20.*
+
+#### ARPES setup - ultraviolet source - sample holder - electron analyzer
+
+![[_attachments/04_Concepts/Work-Function--wiki-arpes-setup-ultraviolet-source-sample-ho.svg]]
+*Figure: from Wikipedia article "Photoelectric effect".*
+*Source: Wikimedia Commons — [ARPES setup - ultraviolet source - sample holder - electron analyzer.svg](https://commons.wikimedia.org/wiki/File:ARPES_setup_-_ultraviolet_source_-_sample_holder_-_electron_analyzer.svg). Retrieved 2026-05-20.*
+
+#### Dominant Photon-Matter Interaction
+
+![[_attachments/04_Concepts/Work-Function--wiki-dominant-photon-matter-interaction.svg]]
+*Figure: from Wikipedia article "Photoelectric effect".*
+*Source: Wikimedia Commons — [Dominant Photon-Matter Interaction.svg](https://commons.wikimedia.org/wiki/File:Dominant_Photon-Matter_Interaction.svg). Retrieved 2026-05-20.*
+
 ## Source Trace
 
 - Source: OpenStax College Physics; HyperPhysics; IOPSpark

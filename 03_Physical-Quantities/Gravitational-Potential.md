@@ -111,6 +111,28 @@ xychart-beta
 *Figure: Gravitational potential V_grav = −GM/r is always negative and approaches zero only at infinity (r → ∞). The gradient at any point equals −g (field strength). The curve is a negative 1/r hyperbola; compare with electric potential, which uses the same form but can be positive or negative depending on charge sign.*
 *Source: Authored for this vault (CC0). No external copyright.*
 
+### From Wikipedia
+
+<!-- wiki-images: yes -->
+
+#### Crab Nebula
+
+![[_attachments/03_Physical-Quantities/Gravitational-Potential--wiki-crab-nebula.jpg]]
+*Figure: from Wikipedia article "Gravitational potential".*
+*Source: Wikimedia Commons — [Crab Nebula.jpg](https://commons.wikimedia.org/wiki/File:Crab_Nebula.jpg). Retrieved 2026-05-20.*
+
+#### Earth-moon
+
+![[_attachments/03_Physical-Quantities/Gravitational-Potential--wiki-earth-moon.jpg]]
+*Figure: from Wikipedia article "Gravitational potential".*
+*Source: Wikimedia Commons — [Earth-moon.jpg](https://commons.wikimedia.org/wiki/File:Earth-moon.jpg). Retrieved 2026-05-20.*
+
+#### Mass distribution line segment
+
+![[_attachments/03_Physical-Quantities/Gravitational-Potential--wiki-mass-distribution-line-segment.svg]]
+*Figure: from Wikipedia article "Gravitational potential".*
+*Source: Wikimedia Commons — [Mass distribution line segment.svg](https://commons.wikimedia.org/wiki/File:Mass_distribution_line_segment.svg). Retrieved 2026-05-20.*
+
 ## Source Trace
 
 - Source: OpenStax College Physics; HyperPhysics; NASA educational material — no copied text

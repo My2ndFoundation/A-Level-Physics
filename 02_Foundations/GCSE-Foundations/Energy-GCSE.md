@@ -67,6 +67,30 @@ A moving ball can knock something over, transferring its movement energy. A stre
 
 At A-Level the qualitative store-and-transfer picture becomes quantitative: kinetic energy as $\frac{1}{2}mv^2$, gravitational potential energy as $mgh$ near Earth, work done as force $\times$ distance moved in the direction of the force, and [[Power]] as the rate of energy transfer. Energy methods are combined with [[Conservation-of-Energy]] and force analysis to solve problems that would be hard using forces alone. See the A-Level [[Energy-Quantity|Energy]] physical-quantity page for the formal treatment.
 
+## Visuals
+
+### From Wikipedia
+
+<!-- wiki-images: yes -->
+
+#### Plasma globe 60th
+
+![[_attachments/02_Foundations/Energy-GCSE--wiki-plasma-globe-60th.jpg]]
+*Figure: from Wikipedia article "Energy".*
+*Source: Wikimedia Commons — [Plasma_globe_60th.jpg](https://commons.wikimedia.org/wiki/File:Plasma_globe_60th.jpg). Retrieved 2026-05-20.*
+
+#### Carnot heat engine 2
+
+![[_attachments/02_Foundations/Energy-GCSE--wiki-carnot-heat-engine-2.svg]]
+*Figure: from Wikipedia article "Energy".*
+*Source: Wikimedia Commons — [Carnot heat engine 2.svg](https://commons.wikimedia.org/wiki/File:Carnot_heat_engine_2.svg). Retrieved 2026-05-20.*
+
+#### Energy and life
+
+![[_attachments/02_Foundations/Energy-GCSE--wiki-energy-and-life.svg]]
+*Figure: from Wikipedia article "Energy".*
+*Source: Wikimedia Commons — [Energy and life.svg](https://commons.wikimedia.org/wiki/File:Energy_and_life.svg). Retrieved 2026-05-20.*
+
 ## Source Trace
 
 - Source: BBC Bitesize GCSE Physics (energy stores and transfers); IOPSpark; The Physics Classroom (energy)

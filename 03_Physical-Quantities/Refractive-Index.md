@@ -91,6 +91,28 @@ A graph of $\sin\theta_{\text{incidence}}$ (in air) against $\sin\theta_{\text{r
 *Figure: A ray passes from air (n₁ ≈ 1.00) into glass (n₂ ≈ 1.5). It bends toward the normal because it slows down. Snell's Law n₁ sinθ₁ = n₂ sinθ₂ relates the angles; the refractive index equals c/v for each medium.*
 *Source: Authored for this vault (CC0). No external copyright.*
 
+### From Wikipedia
+
+<!-- wiki-images: yes -->
+
+#### Refraction photo
+
+![[_attachments/03_Physical-Quantities/Refractive-Index--wiki-refraction-photo.png]]
+*Figure: from Wikipedia article "Refractive index".*
+*Source: Wikimedia Commons — [Refraction_photo.png](https://commons.wikimedia.org/wiki/File:Refraction_photo.png). Retrieved 2026-05-20.*
+
+#### Amethyst sceptre2
+
+![[_attachments/03_Physical-Quantities/Refractive-Index--wiki-amethyst-sceptre2.jpg]]
+*Figure: from Wikipedia article "Refractive index".*
+*Source: Wikimedia Commons — [Amethyst sceptre2.jpg](https://commons.wikimedia.org/wiki/File:Amethyst_sceptre2.jpg). Retrieved 2026-05-20.*
+
+#### Améthystre sceptre2
+
+![[_attachments/03_Physical-Quantities/Refractive-Index--wiki-amethystre-sceptre2.jpg]]
+*Figure: from Wikipedia article "Refractive index".*
+*Source: Wikimedia Commons — [Améthystre sceptre2.jpg](https://commons.wikimedia.org/wiki/File:Améthystre_sceptre2.jpg). Retrieved 2026-05-20.*
+
 ## Source Trace
 
 - Source: OpenStax College Physics; HyperPhysics; IOPSpark

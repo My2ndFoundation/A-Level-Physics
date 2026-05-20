@@ -70,6 +70,28 @@ Not applicable to the diagram. The associated relationship is $g = F/m$ (force p
 *Figure: All lines point inward toward the planet (mass M) — gravity is always attractive with no repulsive counterpart. Eight radial arrows plus additional shorter arrows nearer the surface show that lines are more densely packed close in, consistent with the inverse-square law $g = GM/r^2$. Over a small region near the surface the lines are nearly parallel, giving the locally uniform field approximation $g \approx 9.81 \text{ N kg}^{-1}$.*
 *Source: Authored for this vault (CC0). No external copyright.*
 
+### From Wikipedia
+
+<!-- wiki-images: yes -->
+
+#### Electric Field Lines
+
+![[_attachments/08_Representations/Gravitational-Field-Line-Diagram--wiki-electric-field-lines.svg]]
+*Figure: from Wikipedia article "Field line".*
+*Source: Wikimedia Commons — [Electric_Field_Lines.svg](https://commons.wikimedia.org/wiki/File:Electric_Field_Lines.svg). Retrieved 2026-05-20.*
+
+#### Camposcargas
+
+![[_attachments/08_Representations/Gravitational-Field-Line-Diagram--wiki-camposcargas.svg]]
+*Figure: from Wikipedia article "Field line".*
+*Source: Wikimedia Commons — [Camposcargas.svg](https://commons.wikimedia.org/wiki/File:Camposcargas.svg). Retrieved 2026-05-20.*
+
+#### Electric Field Lines
+
+![[_attachments/08_Representations/Gravitational-Field-Line-Diagram--wiki-electric-field-lines.svg]]
+*Figure: from Wikipedia article "Field line".*
+*Source: Wikimedia Commons — [Electric Field Lines.svg](https://commons.wikimedia.org/wiki/File:Electric_Field_Lines.svg). Retrieved 2026-05-20.*
+
 ## Source Trace
 
 - Source: OCR Practical Skills Handbook; The Physics Classroom; IOPSpark; OpenStax

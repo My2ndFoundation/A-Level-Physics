@@ -96,6 +96,28 @@ flowchart LR
 *Figure: In β⁻ decay a neutron converts to a proton and an electron. An electron antineutrino is also emitted to conserve lepton number: the initial lepton number is 0, and the electron (+1) is balanced by the antineutrino (−1).*
 *Source: Authored for this vault (CC0). No external copyright.*
 
+### From Wikipedia
+
+<!-- wiki-images: yes -->
+
+#### Beta Negative Decay
+
+![[_attachments/04_Concepts/Leptons--wiki-beta-negative-decay.svg]]
+*Figure: from Wikipedia article "Lepton".*
+*Source: Wikimedia Commons — [Beta_Negative_Decay.svg](https://commons.wikimedia.org/wiki/File:Beta_Negative_Decay.svg). Retrieved 2026-05-20.*
+
+#### Beta Negative Decay
+
+![[_attachments/04_Concepts/Leptons--wiki-beta-negative-decay.svg]]
+*Figure: from Wikipedia article "Lepton".*
+*Source: Wikimedia Commons — [Beta Negative Decay.svg](https://commons.wikimedia.org/wiki/File:Beta_Negative_Decay.svg). Retrieved 2026-05-20.*
+
+#### Lepton-interaction-vertex-eeZ
+
+![[_attachments/04_Concepts/Leptons--wiki-lepton-interaction-vertex-eez.svg]]
+*Figure: from Wikipedia article "Lepton".*
+*Source: Wikimedia Commons — [Lepton-interaction-vertex-eeZ.svg](https://commons.wikimedia.org/wiki/File:Lepton-interaction-vertex-eeZ.svg). Retrieved 2026-05-20.*
+
 ## Source Trace
 
 - Source: OpenStax College Physics; HyperPhysics; CERN educational material — no copied text

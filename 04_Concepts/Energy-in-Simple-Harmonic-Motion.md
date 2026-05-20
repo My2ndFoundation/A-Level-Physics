@@ -97,6 +97,28 @@ xychart-beta
 *Figure: Potential energy $E_p = \tfrac{1}{2}m\omega^2 x^2$ is maximum at the extremes (x = ±A) and zero at the centre. Kinetic energy $E_k = E_\text{total} - E_p$ is zero at the extremes and maximum at the centre. Total energy $E \propto A^2$ remains constant.*
 *Source: Authored for this vault (CC0). No external copyright.*
 
+### From Wikipedia
+
+<!-- wiki-images: yes -->
+
+#### Simple Harmonic Motion Orbit
+
+![[_attachments/04_Concepts/Energy-in-Simple-Harmonic-Motion--wiki-simple-harmonic-motion-orbit.gif]]
+*Figure: from Wikipedia article "Simple harmonic motion".*
+*Source: Wikimedia Commons — [Simple_Harmonic_Motion_Orbit.gif](https://commons.wikimedia.org/wiki/File:Simple_Harmonic_Motion_Orbit.gif). Retrieved 2026-05-20.*
+
+#### Scotch yoke animation
+
+![[_attachments/04_Concepts/Energy-in-Simple-Harmonic-Motion--wiki-scotch-yoke-animation.gif]]
+*Figure: from Wikipedia article "Simple harmonic motion".*
+*Source: Wikimedia Commons — [Scotch yoke animation.gif](https://commons.wikimedia.org/wiki/File:Scotch_yoke_animation.gif). Retrieved 2026-05-20.*
+
+#### Simple Harmonic Motion Orbit
+
+![[_attachments/04_Concepts/Energy-in-Simple-Harmonic-Motion--wiki-simple-harmonic-motion-orbit.gif]]
+*Figure: from Wikipedia article "Simple harmonic motion".*
+*Source: Wikimedia Commons — [Simple Harmonic Motion Orbit.gif](https://commons.wikimedia.org/wiki/File:Simple_Harmonic_Motion_Orbit.gif). Retrieved 2026-05-20.*
+
 ## Source Trace
 
 - Source: OpenStax College Physics; HyperPhysics; The Physics Classroom — no copied text

@@ -91,6 +91,28 @@ graph LR
 *Figure: How molecular motion links to macroscopic quantities p, V, T through the ideal gas model and kinetic theory.*
 *Source: Authored for this vault (CC0). No external copyright.*
 
+### From Wikipedia
+
+<!-- wiki-images: yes -->
+
+#### Carnot heat engine 2
+
+![[_attachments/06_Models/Ideal-Gas-Model--wiki-carnot-heat-engine-2.svg]]
+*Figure: from Wikipedia article "Ideal gas".*
+*Source: Wikimedia Commons — [Carnot_heat_engine_2.svg](https://commons.wikimedia.org/wiki/File:Carnot_heat_engine_2.svg). Retrieved 2026-05-20.*
+
+#### Carnot heat engine 2
+
+![[_attachments/06_Models/Ideal-Gas-Model--wiki-carnot-heat-engine-2.svg]]
+*Figure: from Wikipedia article "Ideal gas".*
+*Source: Wikimedia Commons — [Carnot heat engine 2.svg](https://commons.wikimedia.org/wiki/File:Carnot_heat_engine_2.svg). Retrieved 2026-05-20.*
+
+#### Ideal gas law relationships
+
+![[_attachments/06_Models/Ideal-Gas-Model--wiki-ideal-gas-law-relationships.svg]]
+*Figure: from Wikipedia article "Ideal gas".*
+*Source: Wikimedia Commons — [Ideal gas law relationships.svg](https://commons.wikimedia.org/wiki/File:Ideal_gas_law_relationships.svg). Retrieved 2026-05-20.*
+
 ## Source Trace
 
 - Source: OpenStax College Physics; The Physics Classroom; Isaac Physics — paraphrased, no copied text.

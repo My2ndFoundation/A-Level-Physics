@@ -96,6 +96,16 @@ xychart-beta
 *Figure: Plotting I against 1/r² gives a straight line through the origin, confirming I = P/(4πr²) — the inverse-square law. The gradient equals P/4π. Plotting I against r would give a hyperbola; plotting I against 1/r² linearises the data for easier gradient measurement.*
 *Source: Authored for this vault (CC0). No external copyright.*
 
+### From Wikipedia
+
+<!-- wiki-images: yes -->
+
+#### OiintLaTeX
+
+![[_attachments/03_Physical-Quantities/Intensity--wiki-oiintlatex.svg]]
+*Figure: from Wikipedia article "Intensity (physics)".*
+*Source: Wikimedia Commons — [OiintLaTeX.svg](https://commons.wikimedia.org/wiki/File:OiintLaTeX.svg). Retrieved 2026-05-20.*
+
 ## Source Trace
 
 - Source: OpenStax College Physics; The Physics Classroom; HyperPhysics (paraphrased, no copied text)

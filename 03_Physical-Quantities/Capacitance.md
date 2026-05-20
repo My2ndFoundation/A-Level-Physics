@@ -98,6 +98,28 @@ xychart-beta
 *Figure: The gradient of the Q–V graph is the capacitance C = Q/V (here, gradient = 2 mC/V = 2 mF). The triangular area under the line is the energy stored E = ½QV = ½CV². Steeper gradient means larger capacitance.*
 *Source: Authored for this vault (CC0). No external copyright.*
 
+### From Wikipedia
+
+<!-- wiki-images: yes -->
+
+#### VFPt Solenoid correct2
+
+![[_attachments/03_Physical-Quantities/Capacitance--wiki-vfpt-solenoid-correct2.svg]]
+*Figure: from Wikipedia article "Capacitance".*
+*Source: Wikimedia Commons — [VFPt_Solenoid_correct2.svg](https://commons.wikimedia.org/wiki/File:VFPt_Solenoid_correct2.svg). Retrieved 2026-05-20.*
+
+#### AH2700 cap br
+
+![[_attachments/03_Physical-Quantities/Capacitance--wiki-ah2700-cap-br.jpg]]
+*Figure: from Wikipedia article "Capacitance".*
+*Source: Wikimedia Commons — [AH2700 cap br.jpg](https://commons.wikimedia.org/wiki/File:AH2700_cap_br.jpg). Retrieved 2026-05-20.*
+
+#### Cylindrical CapacitorII
+
+![[_attachments/03_Physical-Quantities/Capacitance--wiki-cylindrical-capacitorii.svg]]
+*Figure: from Wikipedia article "Capacitance".*
+*Source: Wikimedia Commons — [Cylindrical CapacitorII.svg](https://commons.wikimedia.org/wiki/File:Cylindrical_CapacitorII.svg). Retrieved 2026-05-20.*
+
 ## Source Trace
 
 - Source: OpenStax College Physics; The Physics Classroom; HyperPhysics (paraphrased, no copied text)

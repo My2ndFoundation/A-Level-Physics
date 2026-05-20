@@ -80,6 +80,28 @@ for the [[Principle-of-Moments]].
 *Figure: Diagram showing the three classes of lever with effort (E), load (L), and fulcrum (F) in different positions. The mechanical advantage equals the ratio of effort arm to load arm; class 1 (fulcrum between E and L) and class 2 give mechanical advantage > 1 in the useful configuration.*
 *Source: Lever mechanical advantage — Jimbowley — CC BY-SA 3.0 — https://commons.wikimedia.org/wiki/File:Lever_mechanical_advantage.svg. Retrieved 2026-05-19.*
 
+### From Wikipedia
+
+<!-- wiki-images: yes -->
+
+#### Palanca-ejemplo
+
+![[_attachments/10_Applications/Levers--wiki-palanca-ejemplo.jpg]]
+*Figure: from Wikipedia article "Lever".*
+*Source: Wikimedia Commons — [Palanca-ejemplo.jpg](https://commons.wikimedia.org/wiki/File:Palanca-ejemplo.jpg). Retrieved 2026-05-20.*
+
+#### Archimedes lever (Small)
+
+![[_attachments/10_Applications/Levers--wiki-archimedes-lever-small.jpg]]
+*Figure: from Wikipedia article "Lever".*
+*Source: Wikimedia Commons — [Archimedes lever (Small).jpg](https://commons.wikimedia.org/wiki/File:Archimedes_lever_(Small).jpg). Retrieved 2026-05-20.*
+
+#### Lever (PSF)
+
+![[_attachments/10_Applications/Levers--wiki-lever-psf.png]]
+*Figure: from Wikipedia article "Lever".*
+*Source: Wikimedia Commons — [Lever (PSF).png](https://commons.wikimedia.org/wiki/File:Lever_(PSF).png). Retrieved 2026-05-20.*
+
 ## Source Trace
 
 OpenStax College Physics; HyperPhysics; The Physics Classroom — no copied text.

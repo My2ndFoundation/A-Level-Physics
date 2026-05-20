@@ -100,6 +100,28 @@ xychart-beta
 *Figure: For a spring obeying Hooke's Law, F is proportional to x (straight line through origin, gradient = k). The elastic strain energy $E = \tfrac{1}{2}kx^2$ equals the triangular area under the line — not the full rectangle $F \times x$.*
 *Source: Authored for this vault (CC0). No external copyright.*
 
+### From Wikipedia
+
+<!-- wiki-images: yes -->
+
+#### Hookes-law-springs
+
+![[_attachments/04_Concepts/Elastic-Strain-Energy--wiki-hookes-law-springs.png]]
+*Figure: from Wikipedia article "Hooke's law".*
+*Source: Wikimedia Commons — [Hookes-law-springs.png](https://commons.wikimedia.org/wiki/File:Hookes-law-springs.png). Retrieved 2026-05-20.*
+
+#### Balancier avec ressort spiral
+
+![[_attachments/04_Concepts/Elastic-Strain-Energy--wiki-balancier-avec-ressort-spiral.png]]
+*Figure: from Wikipedia article "Hooke's law".*
+*Source: Wikimedia Commons — [Balancier avec ressort spiral.png](https://commons.wikimedia.org/wiki/File:Balancier_avec_ressort_spiral.png). Retrieved 2026-05-20.*
+
+#### Hooke's Law wikipedia
+
+![[_attachments/04_Concepts/Elastic-Strain-Energy--wiki-hookes-law-wikipedia.png]]
+*Figure: from Wikipedia article "Hooke's law".*
+*Source: Wikimedia Commons — [Hooke's Law wikipedia.png](https://commons.wikimedia.org/wiki/File:Hooke's_Law_wikipedia.png). Retrieved 2026-05-20.*
+
 ## Source Trace
 
 - Source: OpenStax College Physics; The Physics Classroom; HyperPhysics — no copied text

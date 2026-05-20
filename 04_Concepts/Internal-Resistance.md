@@ -96,6 +96,28 @@ Internal resistance explains why terminal voltage depends on load, limits the ma
 *Figure: The dashed box represents a real cell modelled as an ideal EMF source ε in series with the internal resistance r. The terminal p.d. $V = IR$ across the external load R is less than ε by the lost volts $Ir$. The full equation is $\varepsilon = I(R + r)$.*
 *Source: Authored for this vault (CC0). No external copyright.*
 
+### From Wikipedia
+
+<!-- wiki-images: yes -->
+
+#### VFPt Solenoid correct2
+
+![[_attachments/04_Concepts/Internal-Resistance--wiki-vfpt-solenoid-correct2.svg]]
+*Figure: from Wikipedia article "Electromotive force".*
+*Source: Wikimedia Commons — [VFPt_Solenoid_correct2.svg](https://commons.wikimedia.org/wiki/File:VFPt_Solenoid_correct2.svg). Retrieved 2026-05-20.*
+
+#### Galvanic cell labeled
+
+![[_attachments/04_Concepts/Internal-Resistance--wiki-galvanic-cell-labeled.svg]]
+*Figure: from Wikipedia article "Electromotive force".*
+*Source: Wikimedia Commons — [Galvanic cell labeled.svg](https://commons.wikimedia.org/wiki/File:Galvanic_cell_labeled.svg). Retrieved 2026-05-20.*
+
+#### Reaction path
+
+![[_attachments/04_Concepts/Internal-Resistance--wiki-reaction-path.jpg]]
+*Figure: from Wikipedia article "Electromotive force".*
+*Source: Wikimedia Commons — [Reaction path.JPG](https://commons.wikimedia.org/wiki/File:Reaction_path.JPG). Retrieved 2026-05-20.*
+
 ## Source Trace
 
 - Source: OpenStax College Physics; The Physics Classroom; IOPSpark; Physics LibreTexts — paraphrased, no copied text.

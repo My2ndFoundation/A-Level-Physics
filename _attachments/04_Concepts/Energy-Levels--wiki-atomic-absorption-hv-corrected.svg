@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" width="600" height="450" font-family="Liberation Serif,Times New Roman,Times,Times-Roman,serif" font-size="74.667" text-anchor="middle">
+  <defs>
+    <marker id="a" markerHeight=".5" markerWidth=".5" orient="auto-start-reverse" overflow="visible" preserveAspectRatio="xMidYMid" viewBox="0 0 1 1">
+      <path fill="context-stroke" fill-rule="evenodd" d="M-.148-2.874 4.348-.626a.7.7 0 0 1 0 1.252L-.148 2.874A.865.865 0 0 1-1.4 2.1v-4.2a.865.865 0 0 1 1.252-.774"/>
+    </marker>
+  </defs>
+  <g fill="red" stroke-width="10">
+    <path stroke="#000" d="m87.403 75.416 265.7.5"/>
+    <path stroke="#1313ff" marker-end="url(#a)" d="M219.76 339.62V114.87"/>
+    <path stroke="#000" d="M87.902 339.62h263.71"/>
+  </g>
+  <g fill="#1313ff" fill-opacity=".7">
+    <circle cx="220.26" cy="75.666" r="18"/>
+    <circle cx="219.76" cy="339.62" r="18"/>
+  </g>
+  <path fill="none" stroke="red" stroke-width="10" marker-end="url(#a)" d="M511.6 208.23c.783-11.119-10.519-30.241-35.006-30.402-17.627.874-35.813 11.689-34.867 28.575.98 17.52-18.338 31.059-33.719 31.176-19.91 1.204-37.124-13.945-37.112-29.349.014-16.395-11.099-28.857-32.184-30.048-26.138-2.531-37.696 15.303-38.54 28.639-10.578.5-37.483 0-37.483 0"/>
+  <text x="560.736" y="229.103" fill="red" font-style="italic">hν</text>
+  <text x="47.001" y="93.41" fill="#1313ff">E<tspan dy=".4em" font-size="65%">2</tspan></text>
+  <text x="51.243" y="367.767" fill="#1313ff">E<tspan dy=".4em" font-size="65%">1</tspan></text>
+</svg>

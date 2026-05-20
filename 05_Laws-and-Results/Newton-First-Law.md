@@ -100,6 +100,28 @@ graph TD
 *Figure: Newton's First Law decision tree: zero resultant force gives constant velocity; non-zero resultant force gives acceleration.*
 *Source: Authored for this vault (CC0). No external copyright.*
 
+### From Wikipedia
+
+<!-- wiki-images: yes -->
+
+#### Binary system orbit q=3 e=0
+
+![[_attachments/05_Laws-and-Results/Newton-First-Law--wiki-binary-system-orbit-q3-e0.gif]]
+*Figure: from Wikipedia article "Newton's laws of motion".*
+*Source: Wikimedia Commons — [Binary system orbit q=3 e=0.gif](https://commons.wikimedia.org/wiki/File:Binary_system_orbit_q=3_e=0.gif). Retrieved 2026-05-20.*
+
+#### Bouncing ball strobe edit
+
+![[_attachments/05_Laws-and-Results/Newton-First-Law--wiki-bouncing-ball-strobe-edit.jpg]]
+*Figure: from Wikipedia article "Newton's laws of motion".*
+*Source: Wikimedia Commons — [Bouncing ball strobe edit.jpg](https://commons.wikimedia.org/wiki/File:Bouncing_ball_strobe_edit.jpg). Retrieved 2026-05-20.*
+
+#### Breaking String
+
+![[_attachments/05_Laws-and-Results/Newton-First-Law--wiki-breaking-string.png]]
+*Figure: from Wikipedia article "Newton's laws of motion".*
+*Source: Wikimedia Commons — [Breaking String.PNG](https://commons.wikimedia.org/wiki/File:Breaking_String.PNG). Retrieved 2026-05-20.*
+
 ## Source Trace
 
 - Source: OpenStax College Physics; HyperPhysics; Physics LibreTexts — paraphrased, no copied text

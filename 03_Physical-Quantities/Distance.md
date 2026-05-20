@@ -81,6 +81,30 @@ On a speed–time graph the **area under the curve** gives distance travelled (a
 - Confusing distance with displacement on curved or return journeys
 - Forgetting that distance can only increase
 
+## Visuals
+
+### From Wikipedia
+
+<!-- wiki-images: yes -->
+
+#### Distance board in Vizag cropped
+
+![[_attachments/03_Physical-Quantities/Distance--wiki-distance-board-in-vizag-cropped.jpg]]
+*Figure: from Wikipedia article "Distance".*
+*Source: Wikimedia Commons — [Distance_board_in_Vizag_cropped.jpg](https://commons.wikimedia.org/wiki/File:Distance_board_in_Vizag_cropped.jpg). Retrieved 2026-05-20.*
+
+#### Distance between sets
+
+![[_attachments/03_Physical-Quantities/Distance--wiki-distance-between-sets.svg]]
+*Figure: from Wikipedia article "Distance".*
+*Source: Wikimedia Commons — [Distance between sets.svg](https://commons.wikimedia.org/wiki/File:Distance_between_sets.svg). Retrieved 2026-05-20.*
+
+#### Distance board in Vizag cropped
+
+![[_attachments/03_Physical-Quantities/Distance--wiki-distance-board-in-vizag-cropped.jpg]]
+*Figure: from Wikipedia article "Distance".*
+*Source: Wikimedia Commons — [Distance board in Vizag cropped.jpg](https://commons.wikimedia.org/wiki/File:Distance_board_in_Vizag_cropped.jpg). Retrieved 2026-05-20.*
+
 ## Source Trace
 
 - Source: OpenStax College Physics; The Physics Classroom; HyperPhysics (paraphrased, no copied text)

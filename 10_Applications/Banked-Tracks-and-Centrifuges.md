@@ -74,6 +74,28 @@ Two classic real-world contexts where a real force is engineered to supply the c
 *Figure: A medical-laboratory centrifuge with sample tubes loaded in the rotor. Spinning at high angular velocity provides a large centripetal acceleration (many multiples of g), driving denser components outward through the liquid faster than they would settle under gravity alone.*
 *Source: Laboratory Centrifuge — Frankincense Diala — CC0 — https://commons.wikimedia.org/wiki/File:Laboratory_Centrifuge.jpg. Retrieved 2026-05-19.*
 
+### From Wikipedia
+
+<!-- wiki-images: yes -->
+
+#### Tabletop centrifuge
+
+![[_attachments/10_Applications/Banked-Tracks-and-Centrifuges--wiki-tabletop-centrifuge.jpg]]
+*Figure: from Wikipedia article "Centrifuge".*
+*Source: Wikimedia Commons — [Tabletop_centrifuge.jpg](https://commons.wikimedia.org/wiki/File:Tabletop_centrifuge.jpg). Retrieved 2026-05-20.*
+
+#### 19thCentrifuge
+
+![[_attachments/10_Applications/Banked-Tracks-and-Centrifuges--wiki-19thcentrifuge.jpg]]
+*Figure: from Wikipedia article "Centrifuge".*
+*Source: Wikimedia Commons — [19thCentrifuge.JPG](https://commons.wikimedia.org/wiki/File:19thCentrifuge.JPG). Retrieved 2026-05-20.*
+
+#### 20G centrifuge
+
+![[_attachments/10_Applications/Banked-Tracks-and-Centrifuges--wiki-20g-centrifuge.jpg]]
+*Figure: from Wikipedia article "Centrifuge".*
+*Source: Wikimedia Commons — [20G centrifuge.jpg](https://commons.wikimedia.org/wiki/File:20G_centrifuge.jpg). Retrieved 2026-05-20.*
+
 ## Source Trace
 
 - Source: OpenStax College Physics; HyperPhysics; The Physics Classroom — no copied text

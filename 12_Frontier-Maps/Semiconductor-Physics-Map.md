@@ -89,6 +89,28 @@ heat or light can help electrons over.
 *Figure: A polished silicon wafer on which hundreds of integrated circuits will be etched — the physical basis of transistors, diodes, solar cells, and microchips.*
 *Source: Wafer 20110212 — Sangitiana Fararano — CC BY-SA 2.0 — https://commons.wikimedia.org/wiki/File:Wafer_20110212.jpg. Retrieved 2026-05-19.*
 
+### From Wikipedia
+
+<!-- wiki-images: yes -->
+
+#### 4-fach-NAND-C10
+
+![[_attachments/12_Frontier-Maps/Semiconductor-Physics-Map--wiki-4-fach-nand-c10.jpg]]
+*Figure: from Wikipedia article "Semiconductor".*
+*Source: Wikimedia Commons — [4-fach-NAND-C10.JPG](https://commons.wikimedia.org/wiki/File:4-fach-NAND-C10.JPG). Retrieved 2026-05-20.*
+
+#### Bardeen Shockley Brattain 1948
+
+![[_attachments/12_Frontier-Maps/Semiconductor-Physics-Map--wiki-bardeen-shockley-brattain-1948.jpg]]
+*Figure: from Wikipedia article "Semiconductor".*
+*Source: Wikimedia Commons — [Bardeen Shockley Brattain 1948.JPG](https://commons.wikimedia.org/wiki/File:Bardeen_Shockley_Brattain_1948.JPG). Retrieved 2026-05-20.*
+
+#### Ferdinand Braun
+
+![[_attachments/12_Frontier-Maps/Semiconductor-Physics-Map--wiki-ferdinand-braun.jpg]]
+*Figure: from Wikipedia article "Semiconductor".*
+*Source: Wikimedia Commons — [Ferdinand Braun.jpg](https://commons.wikimedia.org/wiki/File:Ferdinand_Braun.jpg). Retrieved 2026-05-20.*
+
 ## Source Trace
 
 - Source: [[IOP-Explore-Physics]]; Institute of Physics — Explore Physics; Wikipedia (navigation)

@@ -87,6 +87,28 @@ Reflection explains mirrors, echoes, ultrasound and radar, and is the boundary c
 *Figure: Both angles θᵢ (incidence) and θᵣ (reflection) are measured from the normal to the boundary surface. The law of reflection states θᵢ = θᵣ. Speed, wavelength and frequency are unchanged; only direction reverses.*
 *Source: Authored for this vault (CC0). No external copyright.*
 
+### From Wikipedia
+
+<!-- wiki-images: yes -->
+
+#### Mount Hood reflected in Mirror Lake, Oregon
+
+![[_attachments/04_Concepts/Wave-Reflection--wiki-mount-hood-reflected-in-mirror-lake-oreg.jpg]]
+*Figure: from Wikipedia article "Reflection (physics)".*
+*Source: Wikimedia Commons — [Mount_Hood_reflected_in_Mirror_Lake,_Oregon.jpg](https://commons.wikimedia.org/wiki/File:Mount_Hood_reflected_in_Mirror_Lake,_Oregon.jpg). Retrieved 2026-05-20.*
+
+#### Corner-reflector
+
+![[_attachments/04_Concepts/Wave-Reflection--wiki-corner-reflector.svg]]
+*Figure: from Wikipedia article "Reflection (physics)".*
+*Source: Wikimedia Commons — [Corner-reflector.svg](https://commons.wikimedia.org/wiki/File:Corner-reflector.svg). Retrieved 2026-05-20.*
+
+#### Diffuse reflection1
+
+![[_attachments/04_Concepts/Wave-Reflection--wiki-diffuse-reflection1.svg]]
+*Figure: from Wikipedia article "Reflection (physics)".*
+*Source: Wikimedia Commons — [Diffuse reflection1.svg](https://commons.wikimedia.org/wiki/File:Diffuse_reflection1.svg). Retrieved 2026-05-20.*
+
 ## Source Trace
 
 - Source: OpenStax College Physics; The Physics Classroom; IOPSpark; Physics LibreTexts — paraphrased, no copied text.

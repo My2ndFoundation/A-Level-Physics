@@ -98,6 +98,28 @@ xychart-beta
 *Figure: The curve rises linearly (Hooke's Law / elastic region), reaches the ultimate tensile stress (UTS, the peak), then falls as the sample necks before fracturing at the breaking stress (end of line). UTS and breaking stress are equal for brittle materials.*
 *Source: Authored for this vault (CC0). No external copyright.*
 
+### From Wikipedia
+
+<!-- wiki-images: yes -->
+
+#### Tensile testing on a coir composite
+
+![[_attachments/04_Concepts/Breaking-Stress--wiki-tensile-testing-on-a-coir-composite.jpg]]
+*Figure: from Wikipedia article "Ultimate tensile strength".*
+*Source: Wikimedia Commons — [Tensile_testing_on_a_coir_composite.jpg](https://commons.wikimedia.org/wiki/File:Tensile_testing_on_a_coir_composite.jpg). Retrieved 2026-05-20.*
+
+#### Al tensile test
+
+![[_attachments/04_Concepts/Breaking-Stress--wiki-al-tensile-test.jpg]]
+*Figure: from Wikipedia article "Ultimate tensile strength".*
+*Source: Wikimedia Commons — [Al tensile test.jpg](https://commons.wikimedia.org/wiki/File:Al_tensile_test.jpg). Retrieved 2026-05-20.*
+
+#### Aluminiumzugprobe 01
+
+![[_attachments/04_Concepts/Breaking-Stress--wiki-aluminiumzugprobe-01.jpg]]
+*Figure: from Wikipedia article "Ultimate tensile strength".*
+*Source: Wikimedia Commons — [Aluminiumzugprobe 01.jpg](https://commons.wikimedia.org/wiki/File:Aluminiumzugprobe_01.jpg). Retrieved 2026-05-20.*
+
 ## Source Trace
 
 - Source: OpenStax College Physics; The Physics Classroom; HyperPhysics — no copied text

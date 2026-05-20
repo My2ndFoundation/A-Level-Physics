@@ -95,6 +95,28 @@ xychart-beta
 *Figure: Load F plotted against extension x in the elastic region gives a straight line through the origin (Hooke's Law region). The Young modulus $E = \frac{\text{gradient} \times L}{A}$, where L is the original wire length and $A = \frac{\pi d^2}{4}$ is the cross-sectional area. Deviation from linearity above the elastic limit is not plotted here.*
 *Source: Authored for this vault (CC0). No external copyright.*
 
+### From Wikipedia
+
+<!-- wiki-images: yes -->
+
+#### Stress strain ductile
+
+![[_attachments/09_Experiments-and-Practicals/Measuring-Young-Modulus--wiki-stress-strain-ductile.svg]]
+*Figure: from Wikipedia article "Young's modulus".*
+*Source: Wikimedia Commons — [Stress_strain_ductile.svg](https://commons.wikimedia.org/wiki/File:Stress_strain_ductile.svg). Retrieved 2026-05-20.*
+
+#### SpiderGraph YoungMod
+
+![[_attachments/09_Experiments-and-Practicals/Measuring-Young-Modulus--wiki-spidergraph-youngmod.gif]]
+*Figure: from Wikipedia article "Young's modulus".*
+*Source: Wikimedia Commons — [SpiderGraph YoungMod.gif](https://commons.wikimedia.org/wiki/File:SpiderGraph_YoungMod.gif). Retrieved 2026-05-20.*
+
+#### Stress strain ductile
+
+![[_attachments/09_Experiments-and-Practicals/Measuring-Young-Modulus--wiki-stress-strain-ductile.svg]]
+*Figure: from Wikipedia article "Young's modulus".*
+*Source: Wikimedia Commons — [Stress strain ductile.svg](https://commons.wikimedia.org/wiki/File:Stress_strain_ductile.svg). Retrieved 2026-05-20.*
+
 ## Source Trace
 
 - Source: OCR Practical Skills Handbook; The Physics Classroom; IOPSpark; OpenStax

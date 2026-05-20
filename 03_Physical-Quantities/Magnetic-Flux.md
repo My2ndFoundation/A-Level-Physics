@@ -92,6 +92,28 @@ On a graph of flux linkage NΦ against time, the gradient gives the negative of 
 *Figure: Parallel field lines (B, green) pass through a coil of area A. Flux Φ = BA cosθ is greatest when B is perpendicular to the coil plane (θ = 0) and zero when B is parallel to it (θ = 90°).*
 *Source: Authored for this vault (CC0). No external copyright.*
 
+### From Wikipedia
+
+<!-- wiki-images: yes -->
+
+#### VFPt Solenoid correct2
+
+![[_attachments/03_Physical-Quantities/Magnetic-Flux--wiki-vfpt-solenoid-correct2.svg]]
+*Figure: from Wikipedia article "Magnetic flux".*
+*Source: Wikimedia Commons — [VFPt_Solenoid_correct2.svg](https://commons.wikimedia.org/wiki/File:VFPt_Solenoid_correct2.svg). Retrieved 2026-05-20.*
+
+#### OiintLaTeX
+
+![[_attachments/03_Physical-Quantities/Magnetic-Flux--wiki-oiintlatex.svg]]
+*Figure: from Wikipedia article "Magnetic flux".*
+*Source: Wikimedia Commons — [OiintLaTeX.svg](https://commons.wikimedia.org/wiki/File:OiintLaTeX.svg). Retrieved 2026-05-20.*
+
+#### Spulenflaeche
+
+![[_attachments/03_Physical-Quantities/Magnetic-Flux--wiki-spulenflaeche.jpg]]
+*Figure: from Wikipedia article "Magnetic flux".*
+*Source: Wikimedia Commons — [Spulenflaeche.jpg](https://commons.wikimedia.org/wiki/File:Spulenflaeche.jpg). Retrieved 2026-05-20.*
+
 ## Source Trace
 
 OpenStax College Physics; HyperPhysics; Physics LibreTexts — no copied text.

@@ -104,6 +104,28 @@ flowchart TD
 *Figure: The ionisation energy Eᵢ is the gap from the ground state (n = 1) up to the 0 eV line. Absorbed photons can excite the electron to higher levels (n = 2, 3…); a photon of exactly Eᵢ removes the electron entirely. Excess energy above Eᵢ becomes the freed electron's kinetic energy.*
 *Source: Authored for this vault (CC0). No external copyright.*
 
+### From Wikipedia
+
+<!-- wiki-images: yes -->
+
+#### BerylliumVsBoronElectronConfiguration
+
+![[_attachments/03_Physical-Quantities/Ionisation-Energy--wiki-berylliumvsboronelectronconfiguration.jpg]]
+*Figure: from Wikipedia article "Ionization energy".*
+*Source: Wikimedia Commons — [BerylliumVsBoronElectronConfiguration.jpg](https://commons.wikimedia.org/wiki/File:BerylliumVsBoronElectronConfiguration.jpg). Retrieved 2026-05-20.*
+
+#### Electron binding energy vs Z
+
+![[_attachments/03_Physical-Quantities/Ionisation-Energy--wiki-electron-binding-energy-vs-z.jpg]]
+*Figure: from Wikipedia article "Ionization energy".*
+*Source: Wikimedia Commons — [Electron binding energy vs Z.jpg](https://commons.wikimedia.org/wiki/File:Electron_binding_energy_vs_Z.jpg). Retrieved 2026-05-20.*
+
+#### Franck-Condon-diagram
+
+![[_attachments/03_Physical-Quantities/Ionisation-Energy--wiki-franck-condon-diagram.png]]
+*Figure: from Wikipedia article "Ionization energy".*
+*Source: Wikimedia Commons — [Franck-Condon-diagram.png](https://commons.wikimedia.org/wiki/File:Franck-Condon-diagram.png). Retrieved 2026-05-20.*
+
 ## Source Trace
 
 - Source: OpenStax College Physics; HyperPhysics; Physics LibreTexts — paraphrased, no copied text.

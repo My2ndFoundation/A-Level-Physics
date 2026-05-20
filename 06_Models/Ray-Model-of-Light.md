@@ -78,6 +78,28 @@ This formalises the everyday "light travels in straight lines / shadows have sha
 *Figure: Incident ray bends toward the normal on entering a denser medium (n₂ > n₁); angles θ₁ and θ₂ are measured from the normal, satisfying n₁ sinθ₁ = n₂ sinθ₂.*
 *Source: Authored for this vault (CC0). No external copyright.*
 
+### From Wikipedia
+
+<!-- wiki-images: yes -->
+
+#### 2015-05-25 0820Incoming parallel rays are focused by a convex lens into an inverted real image one focal length from the lens, on the far side of the
+
+![[_attachments/06_Models/Ray-Model-of-Light--wiki-2015-05-25-0820incoming-parallel-rays-ar.png]]
+*Figure: from Wikipedia article "Geometrical optics".*
+*Source: Wikimedia Commons — [2015-05-25 0820Incoming parallel rays are focused by a convex lens into an inverted real image one focal length from the lens, on the far side of the.png](https://commons.wikimedia.org/wiki/File:2015-05-25_0820Incoming_parallel_rays_are_focused_by_a_convex_lens_into_an_inverted_real_image_one_focal_length_from_the_lens,_on_the_far_side_of_the.png). Retrieved 2026-05-20.*
+
+#### 2015-05-25 0836With concave lenses, incoming parallel rays diverge after going through the lens, in such a way that they seem to have originated at an
+
+![[_attachments/06_Models/Ray-Model-of-Light--wiki-2015-05-25-0836with-concave-lenses-incom.png]]
+*Figure: from Wikipedia article "Geometrical optics".*
+*Source: Wikimedia Commons — [2015-05-25 0836With concave lenses, incoming parallel rays diverge after going through the lens, in such a way that they seem to have originated at an.png](https://commons.wikimedia.org/wiki/File:2015-05-25_0836With_concave_lenses,_incoming_parallel_rays_diverge_after_going_through_the_lens,_in_such_a_way_that_they_seem_to_have_originated_at_an.png). Retrieved 2026-05-20.*
+
+#### Lens3b
+
+![[_attachments/06_Models/Ray-Model-of-Light--wiki-lens3b.svg]]
+*Figure: from Wikipedia article "Geometrical optics".*
+*Source: Wikimedia Commons — [Lens3b.svg](https://commons.wikimedia.org/wiki/File:Lens3b.svg). Retrieved 2026-05-20.*
+
 ## Source Trace
 
 - Source: OpenStax College Physics; The Physics Classroom; Isaac Physics — paraphrased, no copied text.

@@ -75,6 +75,18 @@ At A-Level the words "balanced/unbalanced" are replaced by the precise
 statement that the vector sum of forces is zero or non-zero, and the net force
 is linked to acceleration through $F = ma$.
 
+## Visuals
+
+### From Wikipedia
+
+<!-- wiki-images: yes -->
+
+#### Strategy Concept
+
+![[_attachments/02_Foundations/Balanced-and-Unbalanced-Forces--wiki-strategy-concept.svg]]
+*Figure: from Wikipedia article "Balanced scorecard".*
+*Source: Wikimedia Commons — [Strategy Concept.svg](https://commons.wikimedia.org/wiki/File:Strategy_Concept.svg). Retrieved 2026-05-20.*
+
 ## Source Trace
 
 OpenStax College Physics; HyperPhysics; The Physics Classroom — no copied text.

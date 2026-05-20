@@ -115,6 +115,28 @@ flowchart LR
 *Figure: Chain from a receding source through the redshift definition to the cosmological evidence. Blueshift (z < 0) indicates approach and is seen in nearby galaxies.*
 *Source: Authored for this vault (CC0). No external copyright.*
 
+### From Wikipedia
+
+<!-- wiki-images: yes -->
+
+#### Redshift
+
+![[_attachments/04_Concepts/Redshift--wiki-redshift.svg]]
+*Figure: from Wikipedia article "Redshift".*
+*Source: Wikimedia Commons — [Redshift.svg](https://commons.wikimedia.org/wiki/File:Redshift.svg). Retrieved 2026-05-20.*
+
+#### 2dfgrs
+
+![[_attachments/04_Concepts/Redshift--wiki-2dfgrs.png]]
+*Figure: from Wikipedia article "Redshift".*
+*Source: Wikimedia Commons — [2dfgrs.png](https://commons.wikimedia.org/wiki/File:2dfgrs.png). Retrieved 2026-05-20.*
+
+#### Comoving distance and lookback time (Planck 2018)
+
+![[_attachments/04_Concepts/Redshift--wiki-comoving-distance-and-lookback-time-plan.png]]
+*Figure: from Wikipedia article "Redshift".*
+*Source: Wikimedia Commons — [Comoving distance and lookback time (Planck 2018).png](https://commons.wikimedia.org/wiki/File:Comoving_distance_and_lookback_time_(Planck_2018).png). Retrieved 2026-05-20.*
+
 ## Source Trace
 
 - Source: OpenStax College Physics; HyperPhysics; NASA educational material — no copied text

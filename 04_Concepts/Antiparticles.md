@@ -101,6 +101,28 @@ flowchart LR
 *Figure: Annihilation converts an electron–positron pair into two gamma photons (momentum conservation requires two); pair production is the reverse, requiring a photon of energy at least $2m_e c^2$.*
 *Source: Authored for this vault (CC0). No external copyright.*
 
+### From Wikipedia
+
+<!-- wiki-images: yes -->
+
+#### Particles and antiparticles
+
+![[_attachments/04_Concepts/Antiparticles--wiki-particles-and-antiparticles.svg]]
+*Figure: from Wikipedia article "Antiparticle".*
+*Source: Wikimedia Commons — [Particles_and_antiparticles.svg](https://commons.wikimedia.org/wiki/File:Particles_and_antiparticles.svg). Retrieved 2026-05-20.*
+
+#### ElectronPositronAnnihilation
+
+![[_attachments/04_Concepts/Antiparticles--wiki-electronpositronannihilation.svg]]
+*Figure: from Wikipedia article "Antiparticle".*
+*Source: Wikimedia Commons — [ElectronPositronAnnihilation.svg](https://commons.wikimedia.org/wiki/File:ElectronPositronAnnihilation.svg). Retrieved 2026-05-20.*
+
+#### Particles and antiparticles
+
+![[_attachments/04_Concepts/Antiparticles--wiki-particles-and-antiparticles.svg]]
+*Figure: from Wikipedia article "Antiparticle".*
+*Source: Wikimedia Commons — [Particles and antiparticles.svg](https://commons.wikimedia.org/wiki/File:Particles_and_antiparticles.svg). Retrieved 2026-05-20.*
+
 ## Source Trace
 
 - Source: OpenStax College Physics; HyperPhysics; CERN educational material — no copied text

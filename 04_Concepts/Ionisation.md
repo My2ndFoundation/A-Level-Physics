@@ -98,6 +98,28 @@ flowchart TB
 *Figure: Ionisation requires raising the electron from its current level all the way to the zero (free) level. Excitation only raises it to an intermediate level; the electron remains bound. Ionisation energy = energy needed to reach 0 eV from the ground state.*
 *Source: Authored for this vault (CC0). No external copyright.*
 
+### From Wikipedia
+
+<!-- wiki-images: yes -->
+
+#### Aurora in Abisko near Torneträsk
+
+![[_attachments/04_Concepts/Ionisation--wiki-aurora-in-abisko-near-tornetrask.jpg]]
+*Figure: from Wikipedia article "Ionization".*
+*Source: Wikimedia Commons — [Aurora_in_Abisko_near_Torneträsk.jpg](https://commons.wikimedia.org/wiki/File:Aurora_in_Abisko_near_Torneträsk.jpg). Retrieved 2026-05-20.*
+
+#### Aurora in Abisko near Torneträsk
+
+![[_attachments/04_Concepts/Ionisation--wiki-aurora-in-abisko-near-tornetrask.jpg]]
+*Figure: from Wikipedia article "Ionization".*
+*Source: Wikimedia Commons — [Aurora in Abisko near Torneträsk.jpg](https://commons.wikimedia.org/wiki/File:Aurora_in_Abisko_near_Torneträsk.jpg). Retrieved 2026-05-20.*
+
+#### Electron avalanche
+
+![[_attachments/04_Concepts/Ionisation--wiki-electron-avalanche.gif]]
+*Figure: from Wikipedia article "Ionization".*
+*Source: Wikimedia Commons — [Electron avalanche.gif](https://commons.wikimedia.org/wiki/File:Electron_avalanche.gif). Retrieved 2026-05-20.*
+
 ## Source Trace
 
 - Source: OpenStax College Physics; The Physics Classroom; IOPSpark; Physics LibreTexts — paraphrased, no copied text.

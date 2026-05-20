@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC '-//W3C//DTD SVG 1.0//EN'
+          'http://www.w3.org/TR/2001/REC-SVG-20010904/DTD/svg10.dtd'>
+<svg x="0" y="0" width="300" height="210" stroke-dasharray="none" shape-rendering="auto" 
+	xmlns="http://www.w3.org/2000/svg"
+	xmlns:xlink="http://www.w3.org/1999/xlink" 
+	font-family="&apos;Dialog&apos;" text-rendering="auto" fill-opacity="1" 
+	preserveAspectRatio="xMidYMid meet" 
+	fill="black" stroke="black" 
+	version="1.1"  stroke-width="1" font-weight="normal" stroke-opacity="1">
+<defs>
+<g id="gaugeboson" transform="translate(-16,-48)">
+	<path fill="none" d="M16 48 C21.6588 40 23.6745 40 29.3333 48 C34.9922 56 37.0078 56 42.6667 48 C48.3255 40 50.3412 40 56 48 C61.6588 56 63.6745 56 69.3333 48 C74.9922 40 77.0078 40 82.6667 48 C88.3255 56 90.3412 56 96 48 C101.6588 40 103.6745 40 109.3333 48 C114.9922 56 117.0078 56 122.6667 48"/>
+</g>
+<g id="antifermion">
+	<path fill="none" d="M0 0 l160 0"/>
+	<polyline points="75,-5 85,0 75,5 79,0" fill="black" />
+</g>
+<g id="fermion">
+	<path fill="none" d="M0 0 l160 0"/>
+	<polyline points="85,-5 75,0 85,5 81,0" fill="black" />
+</g>
+</defs>
+<g transform="translate(150,90)">
+<circle x="0" y="0" r="4"/>
+<use xlink:href="#fermion" transform="rotate(210)"/>
+<g transform="translate(-110,-25)">
+	<text x="0" y="0" font-size="32" font-style="italic" text-anchor="middle" stroke="none">e<tspan dx="0" dy="-12" font-size="24">−</tspan></text>
+</g>
+<use xlink:href="#antifermion" transform="rotate(-30)"/>
+<g transform="translate(110,-25)">
+	<text x="0" y="0" font-size="32" font-style="italic" text-anchor="middle" stroke="none">e<tspan dx="0" dy="-12" font-size="24">−</tspan></text>
+</g>
+<use xlink:href="#gaugeboson" transform="rotate(90)"/>
+<g transform="translate(10,75)">
+	<text x="0" y="0" font-size="32"  stroke="none">Z<tspan dx="0" dy="-12" font-size="24">0</tspan></text>
+</g>
+</g>
+</svg>

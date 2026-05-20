@@ -102,6 +102,28 @@ flowchart LR
 *Figure: Pressure p = F/A for a surface force, and p = hρg for a fluid column of depth h — both routes lead to the same unit Pa = N m⁻².*
 *Source: Authored for this vault (CC0). No external copyright.*
 
+### From Wikipedia
+
+<!-- wiki-images: yes -->
+
+#### Pressure exerted by collisions
+
+![[_attachments/03_Physical-Quantities/Pressure--wiki-pressure-exerted-by-collisions.svg]]
+*Figure: from Wikipedia article "Pressure".*
+*Source: Wikimedia Commons — [Pressure_exerted_by_collisions.svg](https://commons.wikimedia.org/wiki/File:Pressure_exerted_by_collisions.svg). Retrieved 2026-05-20.*
+
+#### 13-07-23-kienbaum-unterdruckkammer-33
+
+![[_attachments/03_Physical-Quantities/Pressure--wiki-13-07-23-kienbaum-unterdruckkammer-33.jpg]]
+*Figure: from Wikipedia article "Pressure".*
+*Source: Wikimedia Commons — [13-07-23-kienbaum-unterdruckkammer-33.jpg](https://commons.wikimedia.org/wiki/File:13-07-23-kienbaum-unterdruckkammer-33.jpg). Retrieved 2026-05-20.*
+
+#### Aluminium cylinder
+
+![[_attachments/03_Physical-Quantities/Pressure--wiki-aluminium-cylinder.jpg]]
+*Figure: from Wikipedia article "Pressure".*
+*Source: Wikimedia Commons — [Aluminium cylinder.jpg](https://commons.wikimedia.org/wiki/File:Aluminium_cylinder.jpg). Retrieved 2026-05-20.*
+
 ## Source Trace
 
 - Source: OpenStax College Physics; The Physics Classroom; HyperPhysics (paraphrased, no copied text)

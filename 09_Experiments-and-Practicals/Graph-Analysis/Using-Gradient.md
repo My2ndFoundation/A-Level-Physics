@@ -96,6 +96,28 @@ xychart-beta
 *Figure: A straight-line best-fit graph. The gradient is found by choosing two well-separated points on the line (not on raw data points), drawing a large triangle, and computing $m = \frac{\Delta y}{\Delta x}$. The units of the gradient equal the units of the y-axis divided by the units of the x-axis, and the physical quantity is identified from the rearranged equation.*
 *Source: Authored for this vault (CC0). No external copyright.*
 
+### From Wikipedia
+
+<!-- wiki-images: yes -->
+
+#### Wiki slope in 2d
+
+![[_attachments/09_Experiments-and-Practicals/Using-Gradient--wiki-wiki-slope-in-2d.svg]]
+*Figure: from Wikipedia article "Slope".*
+*Source: Wikimedia Commons — [Wiki_slope_in_2d.svg](https://commons.wikimedia.org/wiki/File:Wiki_slope_in_2d.svg). Retrieved 2026-05-20.*
+
+#### Gradient of a line in coordinates from -12x+2 to +12x+2
+
+![[_attachments/09_Experiments-and-Practicals/Using-Gradient--wiki-gradient-of-a-line-in-coordinates-from-1.gif]]
+*Figure: from Wikipedia article "Slope".*
+*Source: Wikimedia Commons — [Gradient of a line in coordinates from -12x+2 to +12x+2.gif](https://commons.wikimedia.org/wiki/File:Gradient_of_a_line_in_coordinates_from_-12x+2_to_+12x+2.gif). Retrieved 2026-05-20.*
+
+#### Missing square puzzle
+
+![[_attachments/09_Experiments-and-Practicals/Using-Gradient--wiki-missing-square-puzzle.svg]]
+*Figure: from Wikipedia article "Slope".*
+*Source: Wikimedia Commons — [Missing square puzzle.svg](https://commons.wikimedia.org/wiki/File:Missing_square_puzzle.svg). Retrieved 2026-05-20.*
+
 ## Source Trace
 
 - Source: OCR Practical Skills Handbook; The Physics Classroom; IOPSpark; OpenStax

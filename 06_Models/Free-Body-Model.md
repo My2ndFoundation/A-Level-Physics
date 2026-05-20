@@ -79,6 +79,28 @@ This makes precise the GCSE "force arrows on an object" picture, adding the stri
 *Figure: Three external forces on an isolated block — weight W (downward), normal contact force N (perpendicular to slope), and friction f (up the slope); no force the block exerts is shown.*
 *Source: Authored for this vault (CC0). No external copyright.*
 
+### From Wikipedia
+
+<!-- wiki-images: yes -->
+
+#### Free body diagram2
+
+![[_attachments/06_Models/Free-Body-Model--wiki-free-body-diagram2.svg]]
+*Figure: from Wikipedia article "Free body diagram".*
+*Source: Wikimedia Commons — [Free_body_diagram2.svg](https://commons.wikimedia.org/wiki/File:Free_body_diagram2.svg). Retrieved 2026-05-20.*
+
+#### Free body diagram2
+
+![[_attachments/06_Models/Free-Body-Model--wiki-free-body-diagram2.svg]]
+*Figure: from Wikipedia article "Free body diagram".*
+*Source: Wikimedia Commons — [Free body diagram2.svg](https://commons.wikimedia.org/wiki/File:Free_body_diagram2.svg). Retrieved 2026-05-20.*
+
+#### Kinetic diagram of inclined block
+
+![[_attachments/06_Models/Free-Body-Model--wiki-kinetic-diagram-of-inclined-block.svg]]
+*Figure: from Wikipedia article "Free body diagram".*
+*Source: Wikimedia Commons — [Kinetic diagram of inclined block.svg](https://commons.wikimedia.org/wiki/File:Kinetic_diagram_of_inclined_block.svg). Retrieved 2026-05-20.*
+
 ## Source Trace
 
 - Source: OpenStax College Physics; The Physics Classroom; Isaac Physics — paraphrased, no copied text.

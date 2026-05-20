@@ -75,6 +75,30 @@ At A-Level "non-contact force" is made precise through field strength
 are decomposed into normal and frictional components in equilibrium and
 dynamics problems.
 
+## Visuals
+
+### From Wikipedia
+
+<!-- wiki-images: yes -->
+
+#### Kontakt Spannungsoptik
+
+![[_attachments/02_Foundations/Contact-and-Non-Contact-Forces--wiki-kontakt-spannungsoptik.jpg]]
+*Figure: from Wikipedia article "Contact mechanics".*
+*Source: Wikimedia Commons — [Kontakt_Spannungsoptik.JPG](https://commons.wikimedia.org/wiki/File:Kontakt_Spannungsoptik.JPG). Retrieved 2026-05-20.*
+
+#### Contact sphere-plane
+
+![[_attachments/02_Foundations/Contact-and-Non-Contact-Forces--wiki-contact-sphere-plane.jpg]]
+*Figure: from Wikipedia article "Contact mechanics".*
+*Source: Wikimedia Commons — [Contact sphere-plane.jpg](https://commons.wikimedia.org/wiki/File:Contact_sphere-plane.jpg). Retrieved 2026-05-20.*
+
+#### Hertz
+
+![[_attachments/02_Foundations/Contact-and-Non-Contact-Forces--wiki-hertz.svg]]
+*Figure: from Wikipedia article "Contact mechanics".*
+*Source: Wikimedia Commons — [Hertz.svg](https://commons.wikimedia.org/wiki/File:Hertz.svg). Retrieved 2026-05-20.*
+
 ## Source Trace
 
 OpenStax College Physics; HyperPhysics; The Physics Classroom — no copied text.

@@ -80,6 +80,28 @@ xychart-beta
 *Figure: At $t = 0$ the full quantity N₀ is present. After each [[Half-Life]] interval the quantity halves (100 → 50 → 25 → 12.5 → 6.25). The curve approaches zero asymptotically, never reaching it. The y-intercept is N₀; the gradient at any point equals $-\lambda N$, where λ is the decay constant.*
 *Source: Authored for this vault (CC0). No external copyright.*
 
+### From Wikipedia
+
+<!-- wiki-images: yes -->
+
+#### Beta Negative Decay
+
+![[_attachments/08_Representations/Nuclear-Decay-Graph--wiki-beta-negative-decay.svg]]
+*Figure: from Wikipedia article "Beta decay".*
+*Source: Wikimedia Commons — [Beta Negative Decay.svg](https://commons.wikimedia.org/wiki/File:Beta_Negative_Decay.svg). Retrieved 2026-05-20.*
+
+#### Beta spectrum of RaE
+
+![[_attachments/08_Representations/Nuclear-Decay-Graph--wiki-beta-spectrum-of-rae.jpg]]
+*Figure: from Wikipedia article "Beta decay".*
+*Source: Wikimedia Commons — [Beta spectrum of RaE.jpg](https://commons.wikimedia.org/wiki/File:Beta_spectrum_of_RaE.jpg). Retrieved 2026-05-20.*
+
+#### Electron-capture
+
+![[_attachments/08_Representations/Nuclear-Decay-Graph--wiki-electron-capture.svg]]
+*Figure: from Wikipedia article "Beta decay".*
+*Source: Wikimedia Commons — [Electron-capture.svg](https://commons.wikimedia.org/wiki/File:Electron-capture.svg). Retrieved 2026-05-20.*
+
 ## Source Trace
 
 - Source: OCR Practical Skills Handbook; The Physics Classroom; IOPSpark; OpenStax

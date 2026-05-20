@@ -105,6 +105,28 @@ flowchart LR
 *Figure: Weight W = mg depends on the local gravitational field strength g, which varies with location. Mass m is constant; weight is not. Same mass, different weights on Earth, Moon, and in space.*
 *Source: Authored for this vault (CC0). No external copyright.*
 
+### From Wikipedia
+
+<!-- wiki-images: yes -->
+
+#### Mass versus weight in earth and mars
+
+![[_attachments/03_Physical-Quantities/Weight--wiki-mass-versus-weight-in-earth-and-mars.svg]]
+*Figure: from Wikipedia article "Weight".*
+*Source: Wikimedia Commons — [Mass_versus_weight_in_earth_and_mars.svg](https://commons.wikimedia.org/wiki/File:Mass_versus_weight_in_earth_and_mars.svg). Retrieved 2026-05-20.*
+
+#### Bascula 9
+
+![[_attachments/03_Physical-Quantities/Weight--wiki-bascula-9.jpg]]
+*Figure: from Wikipedia article "Weight".*
+*Source: Wikimedia Commons — [Bascula 9.jpg](https://commons.wikimedia.org/wiki/File:Bascula_9.jpg). Retrieved 2026-05-20.*
+
+#### Mass versus weight in earth and mars
+
+![[_attachments/03_Physical-Quantities/Weight--wiki-mass-versus-weight-in-earth-and-mars.svg]]
+*Figure: from Wikipedia article "Weight".*
+*Source: Wikimedia Commons — [Mass versus weight in earth and mars.svg](https://commons.wikimedia.org/wiki/File:Mass_versus_weight_in_earth_and_mars.svg). Retrieved 2026-05-20.*
+
 ## Source Trace
 
 - Source: OpenStax College Physics; The Physics Classroom; HyperPhysics (paraphrased, no copied text)

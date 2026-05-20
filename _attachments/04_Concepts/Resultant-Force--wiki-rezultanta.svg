@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="724" height="396" ffont-family="Liberation Serif,Times New Roman,Times,Times-Roman,serif" font-size="18.667">
+  <defs>
+    <marker id="b" markerHeight=".8" markerWidth=".8" orient="auto-start-reverse" overflow="visible" preserveAspectRatio="xMidYMid" viewBox="0 0 1 1">
+      <path fill="context-stroke" fill-rule="evenodd" stroke="context-stroke" stroke-width=".5pt" d="M2.885 0-1.44 2.5v-5z"/>
+    </marker>
+    <marker id="a" markerHeight=".6" markerWidth=".6" orient="auto-start-reverse" overflow="visible" preserveAspectRatio="xMidYMid" viewBox="0 0 1 1">
+      <path fill="context-stroke" fill-rule="evenodd" stroke="context-stroke" stroke-width=".5pt" d="M2.885 0-1.44 2.5v-5z"/>
+    </marker>
+  </defs>
+  <g fill="none">
+    <g stroke="#000">
+      <path stroke-width="1.5" d="M42.633 88.781c-.52-12.771 7.566-13.493 12.306-18.899l32.084-21.536c23.953-5.964 75.419 16.263 90.1 64.169 14.816 29.457-5.744 45.181-19.778 60.213-24.377 14.099-50.923 22.33-94.935-16.701-22.836-22.957-20.81-38.346-19.778-67.245zm237.437-.621c-.52-12.771 7.566-13.493 12.306-18.899l32.084-21.536c23.953-5.964 75.419 16.263 90.1 64.169 14.816 29.457-5.744 45.181-19.778 60.213-24.377 14.099-50.923 22.33-94.935-16.701-22.836-22.957-20.81-38.346-19.778-67.245zm258.57 49.72c-.52-12.771 7.566-13.493 12.306-18.899l32.084-21.536c23.953-5.964 75.419 16.263 90.1 64.169 14.816 29.457-5.744 45.181-19.778 60.213-24.377 14.099-50.923 22.33-94.935-16.701-22.836-22.957-20.81-38.346-19.778-67.245z"/>
+      <path stroke-dasharray="3,3" d="m100.69 17.404-14.221 134.63M82.628 34.282l65.487 104.16M90.539 39.556l26.371 77.794"/>
+    </g>
+    <path stroke="#62155a" stroke-width="3" marker-end="url(#a)" d="m148.55 139.33 79.112 127.9"/>
+    <path stroke="#0b00f8" stroke-width="3" marker-end="url(#a)" d="m86.584 149.87-7.911 79.991"/>
+    <g stroke="#000">
+      <path stroke-dasharray="19.5, 6" stroke-width="3" marker-end="url(#a)" d="m116.91 119.11 71.201 214.48"/>
+      <path stroke-dasharray="6, 3" stroke-width="1.5" d="m86.473 152.04 73.51 214.95"/>
+      <path stroke-dasharray="1.5, 1.5" stroke-width="1.5" marker-end="url(#b)" d="M77.354 236.9 159.103 367"/>
+      <path stroke-dasharray="3,3" d="m319.52 74.717 91.858 98.011M386.77 88.781l-90.979 98.451m92.739-45.272-93.616 38.677m89.216-60.647 92.297 97.132-93.176 38.677m93.179-38.679-92.297 99.33"/>
+      <path stroke-dasharray="19.5, 6" stroke-width="3" marker-end="url(#a)" d="M360.4 105.92v193.82"/>
+    </g>
+  </g>
+  <path fill="#0500f5" stroke="#0b00f8" stroke-width="3" marker-end="url(#a)" d="m308.1 141.52-.879 54.499"/>
+  <path fill="none" stroke="#750d6b" stroke-width="3" marker-end="url(#a)" d="m383.69 119.99.44 129.22"/>
+  <g fill="#0500f5">
+    <path stroke="#0b00f8" stroke-dasharray="1.5, 1.5" stroke-width="1.5" marker-end="url(#b)" d="m383.69 256.67.44 56.697"/>
+    <path stroke="#0b00f8" stroke-width="3" marker-end="url(#a)" d="m577.08 189.43-.44-133.17"/>
+    <path stroke="#750d6b" stroke-width="3" marker-end="url(#a)" d="M640.37 175.26v136.35"/>
+  </g>
+  <path fill="#fff" stroke="#750d6b" stroke-dasharray="4.5,4.5" stroke-width="1.5" d="m577.06 182.43 63.313-.155"/>
+  <g id="c" stroke-width=".8">
+    <path fill="none" stroke="#000" marker-end="url(#a)" d="m338.09 260.52 6.043-.11"/>
+    <text x="334.712" y="275.974" font-style="italic">F<tspan dy=".4em" font-size="65%">R</tspan></text>
+  </g>
+  <use xlink:href="#c" transform="translate(-143.68 42.085)"/>
+  <g id="d" stroke-width=".8">
+    <path fill="none" stroke="#000" marker-end="url(#a)" d="m338.09 260.52 6.043-.11" transform="translate(-47.86 -64.021)"/>
+    <text x="334.712" y="275.974" font-style="italic" transform="translate(-47.86 -64.021)">F<tspan dy=".4em" font-size="65%" font-style="normal">1</tspan></text>
+  </g>
+  <use xlink:href="#d" transform="translate(-226.87 2.486)"/>
+  <use xlink:href="#d" transform="translate(268.52 -123.07)"/>
+  <g id="e" stroke-width=".8">
+    <path fill="none" stroke="#000" marker-end="url(#a)" d="m338.09 260.52 6.043-.11" transform="translate(55.008 -60.913)"/>
+    <text x="334.712" y="275.974" font-style="italic" transform="translate(55.008 -60.913)">F<tspan dy=".4em" font-size="65%" font-style="normal">2</tspan></text>
+  </g>
+  <use xlink:href="#e" transform="translate(-180.56 9.013)"/>
+  <use xlink:href="#e" transform="translate(256.08 77.074)"/>
+  <text x="602.295" y="177.767" font-family="serif" font-style="italic">d</text>
+</svg>

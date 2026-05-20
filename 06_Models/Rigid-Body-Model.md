@@ -93,6 +93,28 @@ once turning effects and [[Moment]] enter the analysis.
 *Figure: A beam balanced on a pivot; moment M = F × d where d is the perpendicular distance from the pivot to the line of action; equilibrium requires clockwise moments = anticlockwise moments.*
 *Source: Authored for this vault (CC0). No external copyright.*
 
+### From Wikipedia
+
+<!-- wiki-images: yes -->
+
+#### Flight dynamics with text
+
+![[_attachments/06_Models/Rigid-Body-Model--wiki-flight-dynamics-with-text.svg]]
+*Figure: from Wikipedia article "Rigid body".*
+*Source: Wikimedia Commons — [Flight_dynamics_with_text.svg](https://commons.wikimedia.org/wiki/File:Flight_dynamics_with_text.svg). Retrieved 2026-05-20.*
+
+#### Flight dynamics with text
+
+![[_attachments/06_Models/Rigid-Body-Model--wiki-flight-dynamics-with-text.svg]]
+*Figure: from Wikipedia article "Rigid body".*
+*Source: Wikimedia Commons — [Flight dynamics with text.svg](https://commons.wikimedia.org/wiki/File:Flight_dynamics_with_text.svg). Retrieved 2026-05-20.*
+
+#### Stylised atom with three Bohr model orbits and stylised nucleus
+
+![[_attachments/06_Models/Rigid-Body-Model--wiki-stylised-atom-with-three-bohr-model-orbi.svg]]
+*Figure: from Wikipedia article "Rigid body".*
+*Source: Wikimedia Commons — [Stylised atom with three Bohr model orbits and stylised nucleus.svg](https://commons.wikimedia.org/wiki/File:Stylised_atom_with_three_Bohr_model_orbits_and_stylised_nucleus.svg). Retrieved 2026-05-20.*
+
 ## Source Trace
 
 OpenStax College Physics; HyperPhysics; The Physics Classroom — no copied text.

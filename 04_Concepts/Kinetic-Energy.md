@@ -97,6 +97,28 @@ xychart-beta
 *Figure: $E_k$ is linear in $v^2$ (gradient $= \tfrac{1}{2}m$). Doubling v multiplies $v^2$ by 4, so $E_k$ quadruples — this explains why stopping distances grow sharply with speed.*
 *Source: Authored for this vault (CC0). No external copyright.*
 
+### From Wikipedia
+
+<!-- wiki-images: yes -->
+
+#### Wooden roller coaster txgi
+
+![[_attachments/04_Concepts/Kinetic-Energy--wiki-wooden-roller-coaster-txgi.jpg]]
+*Figure: from Wikipedia article "Kinetic energy".*
+*Source: Wikimedia Commons — [Wooden_roller_coaster_txgi.jpg](https://commons.wikimedia.org/wiki/File:Wooden_roller_coaster_txgi.jpg). Retrieved 2026-05-20.*
+
+#### Emilie Chatelet portrait by Latour
+
+![[_attachments/04_Concepts/Kinetic-Energy--wiki-emilie-chatelet-portrait-by-latour.jpg]]
+*Figure: from Wikipedia article "Kinetic energy".*
+*Source: Wikimedia Commons — [Emilie Chatelet portrait by Latour.jpg](https://commons.wikimedia.org/wiki/File:Emilie_Chatelet_portrait_by_Latour.jpg). Retrieved 2026-05-20.*
+
+#### KEvsMOMENTUM
+
+![[_attachments/04_Concepts/Kinetic-Energy--wiki-kevsmomentum.png]]
+*Figure: from Wikipedia article "Kinetic energy".*
+*Source: Wikimedia Commons — [KEvsMOMENTUM.png](https://commons.wikimedia.org/wiki/File:KEvsMOMENTUM.png). Retrieved 2026-05-20.*
+
 ## Source Trace
 
 - Source: OpenStax College Physics; The Physics Classroom; HyperPhysics — no copied text

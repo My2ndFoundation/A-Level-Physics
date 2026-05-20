@@ -86,6 +86,28 @@ flowchart LR
 *Figure: The result of superposition depends entirely on the phase difference. In phase (Δφ = 0, 2π, …) gives constructive interference; antiphase (Δφ = π, 3π, …) gives destructive. Phase difference links to path difference via Δφ = (2π/λ)Δx.*
 *Source: Authored for this vault (CC0). No external copyright.*
 
+### From Wikipedia
+
+<!-- wiki-images: yes -->
+
+#### Oscillating sine wave
+
+![[_attachments/04_Concepts/Phase-Difference--wiki-oscillating-sine-wave.gif]]
+*Figure: from Wikipedia article "Phase (waves)".*
+*Source: Wikimedia Commons — [Oscillating_sine_wave.gif](https://commons.wikimedia.org/wiki/File:Oscillating_sine_wave.gif). Retrieved 2026-05-20.*
+
+#### Oscillating sine wave
+
+![[_attachments/04_Concepts/Phase-Difference--wiki-oscillating-sine-wave.gif]]
+*Figure: from Wikipedia article "Phase (waves)".*
+*Source: Wikimedia Commons — [Oscillating sine wave.gif](https://commons.wikimedia.org/wiki/File:Oscillating_sine_wave.gif). Retrieved 2026-05-20.*
+
+#### Out of phase AE
+
+![[_attachments/04_Concepts/Phase-Difference--wiki-out-of-phase-ae.gif]]
+*Figure: from Wikipedia article "Phase (waves)".*
+*Source: Wikimedia Commons — [Out of phase AE.gif](https://commons.wikimedia.org/wiki/File:Out_of_phase_AE.gif). Retrieved 2026-05-20.*
+
 ## Source Trace
 
 - Source: OpenStax College Physics; HyperPhysics; IOPSpark

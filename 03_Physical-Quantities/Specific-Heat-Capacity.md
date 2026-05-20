@@ -92,6 +92,28 @@ xychart-beta
 *Figure: Within a single state (solid or liquid) the graph is a straight line of gradient mc — steeper for materials with lower c. The flat plateau (constant temperature) is the change of state, where energy goes to specific latent heat L instead.*
 *Source: Authored for this vault (CC0). No external copyright.*
 
+### From Wikipedia
+
+<!-- wiki-images: yes -->
+
+#### Carnot heat engine 2
+
+![[_attachments/03_Physical-Quantities/Specific-Heat-Capacity--wiki-carnot-heat-engine-2.svg]]
+*Figure: from Wikipedia article "Specific heat capacity".*
+*Source: Wikimedia Commons — [Carnot_heat_engine_2.svg](https://commons.wikimedia.org/wiki/File:Carnot_heat_engine_2.svg). Retrieved 2026-05-20.*
+
+#### Black Joseph (cropped)
+
+![[_attachments/03_Physical-Quantities/Specific-Heat-Capacity--wiki-black-joseph-cropped.jpg]]
+*Figure: from Wikipedia article "Specific heat capacity".*
+*Source: Wikimedia Commons — [Black Joseph (cropped).jpg](https://commons.wikimedia.org/wiki/File:Black_Joseph_(cropped).jpg). Retrieved 2026-05-20.*
+
+#### Carnot heat engine 2
+
+![[_attachments/03_Physical-Quantities/Specific-Heat-Capacity--wiki-carnot-heat-engine-2.svg]]
+*Figure: from Wikipedia article "Specific heat capacity".*
+*Source: Wikimedia Commons — [Carnot heat engine 2.svg](https://commons.wikimedia.org/wiki/File:Carnot_heat_engine_2.svg). Retrieved 2026-05-20.*
+
 ## Source Trace
 
 - Source: OpenStax College Physics; HyperPhysics; The Physics Classroom — paraphrased, no copied text

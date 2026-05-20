@@ -107,6 +107,28 @@ flowchart TD
 *Figure: Five A-Level base units (kg, m, s, A, K) combine to give all derived units. Any derived unit can be re-expressed in base units for dimensional homogeneity checks.*
 *Source: Authored for this vault (CC0). No external copyright.*
 
+### From Wikipedia
+
+<!-- wiki-images: yes -->
+
+#### SI Illustration Base Units and Constants Colour Full
+
+![[_attachments/04_Concepts/SI-Units--wiki-si-illustration-base-units-and-constants.svg]]
+*Figure: from Wikipedia article "International System of Units".*
+*Source: Wikimedia Commons — [SI_Illustration_Base_Units_and_Constants_Colour_Full.svg](https://commons.wikimedia.org/wiki/File:SI_Illustration_Base_Units_and_Constants_Colour_Full.svg). Retrieved 2026-05-20.*
+
+#### Alter Grenzstein Pontebba 01
+
+![[_attachments/04_Concepts/SI-Units--wiki-alter-grenzstein-pontebba-01.jpg]]
+*Figure: from Wikipedia article "International System of Units".*
+*Source: Wikimedia Commons — [Alter Grenzstein Pontebba 01.jpg](https://commons.wikimedia.org/wiki/File:Alter_Grenzstein_Pontebba_01.jpg). Retrieved 2026-05-20.*
+
+#### CubeLitre
+
+![[_attachments/04_Concepts/SI-Units--wiki-cubelitre.svg]]
+*Figure: from Wikipedia article "International System of Units".*
+*Source: Wikimedia Commons — [CubeLitre.svg](https://commons.wikimedia.org/wiki/File:CubeLitre.svg). Retrieved 2026-05-20.*
+
 ## Source Trace
 
 - Source: OpenStax College Physics; The Physics Classroom; HyperPhysics — no copied text

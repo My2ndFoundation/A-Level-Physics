@@ -70,6 +70,28 @@ Not applicable. The analytic content is the geometry: equal angles for reflectio
 *Figure: An incident ray (orange) strikes a boundary between medium 1 (less dense, n₁) and medium 2 (more dense, n₂). The dashed normal is perpendicular to the boundary. The angle of incidence θ₁ and angle of refraction θ₂ are both measured from the normal, not the surface. Because $n_2 > n_1$, the refracted ray (blue) bends toward the normal ($\theta_2 < \theta_1$), consistent with [[Snell-Law|Snell's law]]: $n_1 \sin\theta_1 = n_2 \sin\theta_2$.*
 *Source: Authored for this vault (CC0). No external copyright.*
 
+### From Wikipedia
+
+<!-- wiki-images: yes -->
+
+#### HRDiagram
+
+![[_attachments/08_Representations/Ray-Diagram--wiki-hrdiagram.png]]
+*Figure: from Wikipedia article "Hertzsprung–Russell diagram".*
+*Source: Wikimedia Commons — [HRDiagram.png](https://commons.wikimedia.org/wiki/File:HRDiagram.png). Retrieved 2026-05-20.*
+
+#### Crab Nebula
+
+![[_attachments/08_Representations/Ray-Diagram--wiki-crab-nebula.jpg]]
+*Figure: from Wikipedia article "Hertzsprung–Russell diagram".*
+*Source: Wikimedia Commons — [Crab Nebula.jpg](https://commons.wikimedia.org/wiki/File:Crab_Nebula.jpg). Retrieved 2026-05-20.*
+
+#### Earth-moon
+
+![[_attachments/08_Representations/Ray-Diagram--wiki-earth-moon.jpg]]
+*Figure: from Wikipedia article "Hertzsprung–Russell diagram".*
+*Source: Wikimedia Commons — [Earth-moon.jpg](https://commons.wikimedia.org/wiki/File:Earth-moon.jpg). Retrieved 2026-05-20.*
+
 ## Source Trace
 
 - Source: OCR Practical Skills Handbook; The Physics Classroom; IOPSpark; OpenStax

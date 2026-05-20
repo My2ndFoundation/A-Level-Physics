@@ -103,6 +103,28 @@ flowchart LR
 *Figure: Stress σ = F/A (Pa) is the y-axis of the stress–strain graph. The initial gradient is the Young modulus; the stress at fracture is the ultimate tensile stress.*
 *Source: Authored for this vault (CC0). No external copyright.*
 
+### From Wikipedia
+
+<!-- wiki-images: yes -->
+
+#### Plastic Protractor Polarized 05375
+
+![[_attachments/03_Physical-Quantities/Stress--wiki-plastic-protractor-polarized-05375.jpg]]
+*Figure: from Wikipedia article "Stress (mechanics)".*
+*Source: Wikimedia Commons — [Plastic_Protractor_Polarized_05375.jpg](https://commons.wikimedia.org/wiki/File:Plastic_Protractor_Polarized_05375.jpg). Retrieved 2026-05-20.*
+
+#### Axial stress noavg
+
+![[_attachments/03_Physical-Quantities/Stress--wiki-axial-stress-noavg.svg]]
+*Figure: from Wikipedia article "Stress (mechanics)".*
+*Source: Wikimedia Commons — [Axial stress noavg.svg](https://commons.wikimedia.org/wiki/File:Axial_stress_noavg.svg). Retrieved 2026-05-20.*
+
+#### Cmec stress ball f02 t6
+
+![[_attachments/03_Physical-Quantities/Stress--wiki-cmec-stress-ball-f02-t6.png]]
+*Figure: from Wikipedia article "Stress (mechanics)".*
+*Source: Wikimedia Commons — [Cmec stress ball f02 t6.png](https://commons.wikimedia.org/wiki/File:Cmec_stress_ball_f02_t6.png). Retrieved 2026-05-20.*
+
 ## Source Trace
 
 - Source: OpenStax College Physics; The Physics Classroom; HyperPhysics (paraphrased, no copied text)

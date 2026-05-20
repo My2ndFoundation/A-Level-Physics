@@ -68,6 +68,30 @@ An astronaut's *mass* is the same on the Earth and the Moon, but their *weight* 
 
 At A-Level, gravitational field strength is defined formally as $g = F/m$ and linked to Newton's law of gravitation $g = GM/r^2$, giving the inverse-square variation with distance. It is connected to gravitational potential, potential energy and orbital motion, and treated in parallel with electric fields. See the A-Level [[Gravitational-Field-Strength]] page and the fields topic for the formal treatment.
 
+## Visuals
+
+### From Wikipedia
+
+<!-- wiki-images: yes -->
+
+#### NewtonsLawOfUniversalGravitation
+
+![[_attachments/02_Foundations/From-Weight-to-Gravitational-Field-Strength--wiki-newtonslawofuniversalgravitation.svg]]
+*Figure: from Wikipedia article "Gravitational constant".*
+*Source: Wikimedia Commons — [NewtonsLawOfUniversalGravitation.svg](https://commons.wikimedia.org/wiki/File:NewtonsLawOfUniversalGravitation.svg). Retrieved 2026-05-20.*
+
+#### Cavendish Torsion Balance Diagram
+
+![[_attachments/02_Foundations/From-Weight-to-Gravitational-Field-Strength--wiki-cavendish-torsion-balance-diagram.svg]]
+*Figure: from Wikipedia article "Gravitational constant".*
+*Source: Wikimedia Commons — [Cavendish Torsion Balance Diagram.svg](https://commons.wikimedia.org/wiki/File:Cavendish_Torsion_Balance_Diagram.svg). Retrieved 2026-05-20.*
+
+#### Gravitational constant historical
+
+![[_attachments/02_Foundations/From-Weight-to-Gravitational-Field-Strength--wiki-gravitational-constant-historical.png]]
+*Figure: from Wikipedia article "Gravitational constant".*
+*Source: Wikimedia Commons — [Gravitational constant historical.png](https://commons.wikimedia.org/wiki/File:Gravitational_constant_historical.png). Retrieved 2026-05-20.*
+
 ## Source Trace
 
 - Source: BBC Bitesize GCSE/A-Level Physics (forces, gravity, fields); IOPSpark; NASA educational material on gravity

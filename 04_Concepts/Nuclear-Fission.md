@@ -99,6 +99,28 @@ flowchart LR
 *Figure: Each fission releases 2–3 neutrons. In a controlled reactor, on average one neutron from each fission triggers the next, maintaining a critical chain reaction. Control rods absorb surplus neutrons.*
 *Source: Authored for this vault (CC0). No external copyright.*
 
+### From Wikipedia
+
+<!-- wiki-images: yes -->
+
+#### Nuclear fission
+
+![[_attachments/04_Concepts/Nuclear-Fission--wiki-nuclear-fission.svg]]
+*Figure: from Wikipedia article "Nuclear fission".*
+*Source: Wikimedia Commons — [Nuclear_fission.svg](https://commons.wikimedia.org/wiki/File:Nuclear_fission.svg). Retrieved 2026-05-20.*
+
+#### Binding energy curve - common isotopes
+
+![[_attachments/04_Concepts/Nuclear-Fission--wiki-binding-energy-curve-common-isotopes.svg]]
+*Figure: from Wikipedia article "Nuclear fission".*
+*Source: Wikimedia Commons — [Binding energy curve - common isotopes.svg](https://commons.wikimedia.org/wiki/File:Binding_energy_curve_-_common_isotopes.svg). Retrieved 2026-05-20.*
+
+#### Bucky1
+
+![[_attachments/04_Concepts/Nuclear-Fission--wiki-bucky1.gif]]
+*Figure: from Wikipedia article "Nuclear fission".*
+*Source: Wikimedia Commons — [Bucky1.gif](https://commons.wikimedia.org/wiki/File:Bucky1.gif). Retrieved 2026-05-20.*
+
 ## Source Trace
 
 - Source: OpenStax College Physics; The Physics Classroom; IOPSpark; Physics LibreTexts — paraphrased, no copied text.

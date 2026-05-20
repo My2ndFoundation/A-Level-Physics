@@ -86,6 +86,28 @@ flowchart LR
 *Figure: Each order n occurs where the path difference between adjacent slits equals n wavelengths. Different wavelengths diffract to different angles, producing spectra. Maximum order limited by sin θ ≤ 1.*
 *Source: Authored for this vault (CC0). No external copyright.*
 
+### From Wikipedia
+
+<!-- wiki-images: yes -->
+
+#### Metro ventilation grid, Alameda Afonso Henriques, Lisbon, Portugal julesvernex2
+
+![[_attachments/04_Concepts/Diffraction-Grating--wiki-metro-ventilation-grid-alameda-afonso-he.jpg]]
+*Figure: from Wikipedia article "Grating".*
+*Source: Wikimedia Commons — [Metro_ventilation_grid,_Alameda_Afonso_Henriques,_Lisbon,_Portugal_julesvernex2.jpg](https://commons.wikimedia.org/wiki/File:Metro_ventilation_grid,_Alameda_Afonso_Henriques,_Lisbon,_Portugal_julesvernex2.jpg). Retrieved 2026-05-20.*
+
+#### Grating at the historic John Street Roundhouse, Toronto
+
+![[_attachments/04_Concepts/Diffraction-Grating--wiki-grating-at-the-historic-john-street-roun.jpg]]
+*Figure: from Wikipedia article "Grating".*
+*Source: Wikimedia Commons — [Grating at the historic John Street Roundhouse, Toronto.jpg](https://commons.wikimedia.org/wiki/File:Grating_at_the_historic_John_Street_Roundhouse,_Toronto.jpg). Retrieved 2026-05-20.*
+
+#### Metro ventilation grid, Alameda Afonso Henriques, Lisbon, Portugal julesvernex2
+
+![[_attachments/04_Concepts/Diffraction-Grating--wiki-metro-ventilation-grid-alameda-afonso-he.jpg]]
+*Figure: from Wikipedia article "Grating".*
+*Source: Wikimedia Commons — [Metro ventilation grid, Alameda Afonso Henriques, Lisbon, Portugal julesvernex2.jpg](https://commons.wikimedia.org/wiki/File:Metro_ventilation_grid,_Alameda_Afonso_Henriques,_Lisbon,_Portugal_julesvernex2.jpg). Retrieved 2026-05-20.*
+
 ## Source Trace
 
 - Source: OpenStax College Physics; HyperPhysics; IOPSpark

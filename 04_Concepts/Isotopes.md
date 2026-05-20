@@ -98,6 +98,28 @@ flowchart LR
 *Figure: The three hydrogen isotopes share one proton (same element, same chemistry) but carry 0, 1, or 2 neutrons. Tritium is unstable (radioactive) because its neutron-to-proton ratio is too high.*
 *Source: Authored for this vault (CC0). No external copyright.*
 
+### From Wikipedia
+
+<!-- wiki-images: yes -->
+
+#### NuclearReaction
+
+![[_attachments/04_Concepts/Isotopes--wiki-nuclearreaction.svg]]
+*Figure: from Wikipedia article "Isotope".*
+*Source: Wikimedia Commons — [NuclearReaction.svg](https://commons.wikimedia.org/wiki/File:NuclearReaction.svg). Retrieved 2026-05-20.*
+
+#### Atomic number depiction
+
+![[_attachments/04_Concepts/Isotopes--wiki-atomic-number-depiction.svg]]
+*Figure: from Wikipedia article "Isotope".*
+*Source: Wikimedia Commons — [Atomic number depiction.svg](https://commons.wikimedia.org/wiki/File:Atomic_number_depiction.svg). Retrieved 2026-05-20.*
+
+#### Discovery of neon isotopes
+
+![[_attachments/04_Concepts/Isotopes--wiki-discovery-of-neon-isotopes.jpg]]
+*Figure: from Wikipedia article "Isotope".*
+*Source: Wikimedia Commons — [Discovery of neon isotopes.JPG](https://commons.wikimedia.org/wiki/File:Discovery_of_neon_isotopes.JPG). Retrieved 2026-05-20.*
+
 ## Source Trace
 
 - Source: OpenStax College Physics; HyperPhysics; CERN educational material — no copied text

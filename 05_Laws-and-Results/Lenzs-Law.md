@@ -105,6 +105,28 @@ graph TD
 *Figure: Lenz's Law in both cases — the induced effect always opposes the flux change, consistent with energy conservation.*
 *Source: Authored for this vault (CC0). No external copyright.*
 
+### From Wikipedia
+
+<!-- wiki-images: yes -->
+
+#### VFPt Solenoid correct2
+
+![[_attachments/05_Laws-and-Results/Lenzs-Law--wiki-vfpt-solenoid-correct2.svg]]
+*Figure: from Wikipedia article "Lenz's law".*
+*Source: Wikimedia Commons — [VFPt_Solenoid_correct2.svg](https://commons.wikimedia.org/wiki/File:VFPt_Solenoid_correct2.svg). Retrieved 2026-05-20.*
+
+#### Lenz law demonstration
+
+![[_attachments/05_Laws-and-Results/Lenzs-Law--wiki-lenz-law-demonstration.png]]
+*Figure: from Wikipedia article "Lenz's law".*
+*Source: Wikimedia Commons — [Lenz law demonstration.png](https://commons.wikimedia.org/wiki/File:Lenz_law_demonstration.png). Retrieved 2026-05-20.*
+
+#### VFPt Solenoid correct2
+
+![[_attachments/05_Laws-and-Results/Lenzs-Law--wiki-vfpt-solenoid-correct2.svg]]
+*Figure: from Wikipedia article "Lenz's law".*
+*Source: Wikimedia Commons — [VFPt Solenoid correct2.svg](https://commons.wikimedia.org/wiki/File:VFPt_Solenoid_correct2.svg). Retrieved 2026-05-20.*
+
 ## Source Trace
 
 OpenStax College Physics; HyperPhysics; Physics LibreTexts — no copied text.

@@ -91,6 +91,28 @@ For a point charge, an `E` against `r` graph falls off as an inverse-square curv
 *Figure: Left — radial field of a positive point charge +Q; field lines point outward (field strength falls as 1/r²). Right — uniform field between parallel plates; equally spaced vertical lines show constant E = V/d between the plates. Field lines always run from higher to lower potential.*
 *Source: Authored for this vault (CC0). No external copyright.*
 
+### From Wikipedia
+
+<!-- wiki-images: yes -->
+
+#### VFPt Solenoid correct2
+
+![[_attachments/03_Physical-Quantities/Electric-Field-Strength--wiki-vfpt-solenoid-correct2.svg]]
+*Figure: from Wikipedia article "Electric field".*
+*Source: Wikimedia Commons — [VFPt_Solenoid_correct2.svg](https://commons.wikimedia.org/wiki/File:VFPt_Solenoid_correct2.svg). Retrieved 2026-05-20.*
+
+#### Bremsstrahlung
+
+![[_attachments/03_Physical-Quantities/Electric-Field-Strength--wiki-bremsstrahlung.gif]]
+*Figure: from Wikipedia article "Electric field".*
+*Source: Wikimedia Commons — [Bremsstrahlung.gif](https://commons.wikimedia.org/wiki/File:Bremsstrahlung.gif). Retrieved 2026-05-20.*
+
+#### Cat demonstrating static cling with styrofoam peanuts
+
+![[_attachments/03_Physical-Quantities/Electric-Field-Strength--wiki-cat-demonstrating-static-cling-with-styr.jpg]]
+*Figure: from Wikipedia article "Electric field".*
+*Source: Wikimedia Commons — [Cat demonstrating static cling with styrofoam peanuts.jpg](https://commons.wikimedia.org/wiki/File:Cat_demonstrating_static_cling_with_styrofoam_peanuts.jpg). Retrieved 2026-05-20.*
+
 ## Source Trace
 
 - Source: OpenStax College Physics; The Physics Classroom; HyperPhysics (paraphrased, no copied text)

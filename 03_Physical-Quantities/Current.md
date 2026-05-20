@@ -100,6 +100,28 @@ flowchart LR
 *Figure: Current I is the rate of charge flow. It links upward to charge (Q = It) and laterally to p.d. via Ohm's law. The drift model I = nAvq shows how carrier density, cross-section, drift speed and charge determine macroscopic current.*
 *Source: Authored for this vault (CC0). No external copyright.*
 
+### From Wikipedia
+
+<!-- wiki-images: yes -->
+
+#### Current notation
+
+![[_attachments/03_Physical-Quantities/Current--wiki-current-notation.svg]]
+*Figure: from Wikipedia article "Electric current".*
+*Source: Wikimedia Commons — [Current notation.svg](https://commons.wikimedia.org/wiki/File:Current_notation.svg). Retrieved 2026-05-20.*
+
+#### Electromagnetic induction - solenoid to loop - animation
+
+![[_attachments/03_Physical-Quantities/Current--wiki-electromagnetic-induction-solenoid-to-lo.gif]]
+*Figure: from Wikipedia article "Electric current".*
+*Source: Wikimedia Commons — [Electromagnetic induction - solenoid to loop - animation.gif](https://commons.wikimedia.org/wiki/File:Electromagnetic_induction_-_solenoid_to_loop_-_animation.gif). Retrieved 2026-05-20.*
+
+#### Magnetic field produced by an electric current in a solenoid
+
+![[_attachments/03_Physical-Quantities/Current--wiki-magnetic-field-produced-by-an-electric-c.png]]
+*Figure: from Wikipedia article "Electric current".*
+*Source: Wikimedia Commons — [Magnetic field produced by an electric current in a solenoid.png](https://commons.wikimedia.org/wiki/File:Magnetic_field_produced_by_an_electric_current_in_a_solenoid.png). Retrieved 2026-05-20.*
+
 ## Source Trace
 
 - Source: OpenStax College Physics; The Physics Classroom; HyperPhysics (paraphrased, no copied text)

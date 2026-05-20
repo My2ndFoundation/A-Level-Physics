@@ -108,6 +108,28 @@ graph LR
 *Figure: Conservation of momentum follows from Newton's Third Law — internal forces cancel, leaving total momentum unchanged.*
 *Source: Authored for this vault (CC0). No external copyright.*
 
+### From Wikipedia
+
+<!-- wiki-images: yes -->
+
+#### Billard
+
+![[_attachments/05_Laws-and-Results/Conservation-of-Momentum--wiki-billard.jpg]]
+*Figure: from Wikipedia article "Momentum".*
+*Source: Wikimedia Commons — [Billard.JPG](https://commons.wikimedia.org/wiki/File:Billard.JPG). Retrieved 2026-05-20.*
+
+#### 1950 "Avicenna" stamp of Iran (cropped)
+
+![[_attachments/05_Laws-and-Results/Conservation-of-Momentum--wiki-1950-avicenna-stamp-of-iran-cropped.jpg]]
+*Figure: from Wikipedia article "Momentum".*
+*Source: Wikimedia Commons — [1950 "Avicenna" stamp of Iran (cropped).jpg](https://commons.wikimedia.org/wiki/File:1950_"Avicenna"_stamp_of_Iran_(cropped).jpg). Retrieved 2026-05-20.*
+
+#### Christiaan Huygens-painting (cropped)
+
+![[_attachments/05_Laws-and-Results/Conservation-of-Momentum--wiki-christiaan-huygens-painting-cropped.jpeg]]
+*Figure: from Wikipedia article "Momentum".*
+*Source: Wikimedia Commons — [Christiaan Huygens-painting (cropped).jpeg](https://commons.wikimedia.org/wiki/File:Christiaan_Huygens-painting_(cropped).jpeg). Retrieved 2026-05-20.*
+
 ## Source Trace
 
 - Source: OpenStax College Physics; HyperPhysics; Physics LibreTexts — paraphrased, no copied text

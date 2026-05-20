@@ -85,6 +85,28 @@ xychart-beta
 *Figure: A straight line through the origin confirms ohmic behaviour; resistance R = V/I = constant (not the gradient ΔI/ΔV, which equals 1/R).*
 *Source: Authored for this vault (CC0). No external copyright.*
 
+### From Wikipedia
+
+<!-- wiki-images: yes -->
+
+#### Electrona in crystallo fluentia
+
+![[_attachments/06_Models/Ohmic-Conductor-Model--wiki-electrona-in-crystallo-fluentia.svg]]
+*Figure: from Wikipedia article "Ohm's law".*
+*Source: Wikimedia Commons — [Electrona in crystallo fluentia.svg](https://commons.wikimedia.org/wiki/File:Electrona_in_crystallo_fluentia.svg). Retrieved 2026-05-20.*
+
+#### FourIVcurves
+
+![[_attachments/06_Models/Ohmic-Conductor-Model--wiki-fourivcurves.svg]]
+*Figure: from Wikipedia article "Ohm's law".*
+*Source: Wikimedia Commons — [FourIVcurves.svg](https://commons.wikimedia.org/wiki/File:FourIVcurves.svg). Retrieved 2026-05-20.*
+
+#### Ohm3
+
+![[_attachments/06_Models/Ohmic-Conductor-Model--wiki-ohm3.gif]]
+*Figure: from Wikipedia article "Ohm's law".*
+*Source: Wikimedia Commons — [Ohm3.gif](https://commons.wikimedia.org/wiki/File:Ohm3.gif). Retrieved 2026-05-20.*
+
 ## Source Trace
 
 - Source: OpenStax College Physics; The Physics Classroom; Isaac Physics — paraphrased, no copied text.

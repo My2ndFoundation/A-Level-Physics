@@ -102,6 +102,28 @@ On a [[Force-Extension-Graph]], gradient = spring constant and area = elastic st
 *Figure: A free-body diagram isolates the object (block of mass m) and shows all forces acting on it as arrows: weight W = mg downward (red), normal contact force N upward (blue), applied horizontal force F (orange), and friction f opposing motion (purple). The resultant of all four determines the acceleration via F = ma.*
 *Source: Authored for this vault (CC0). No external copyright.*
 
+### From Wikipedia
+
+<!-- wiki-images: yes -->
+
+#### Force examples
+
+![[_attachments/03_Physical-Quantities/Force--wiki-force-examples.svg]]
+*Figure: from Wikipedia article "Force".*
+*Source: Wikimedia Commons — [Force_examples.svg](https://commons.wikimedia.org/wiki/File:Force_examples.svg). Retrieved 2026-05-20.*
+
+#### Addition av vektorer 003
+
+![[_attachments/03_Physical-Quantities/Force--wiki-addition-av-vektorer-003.jpg]]
+*Figure: from Wikipedia article "Force".*
+*Source: Wikimedia Commons — [Addition av vektorer 003.jpg](https://commons.wikimedia.org/wiki/File:Addition_av_vektorer_003.jpg). Retrieved 2026-05-20.*
+
+#### Aristoteles Louvre2
+
+![[_attachments/03_Physical-Quantities/Force--wiki-aristoteles-louvre2.jpg]]
+*Figure: from Wikipedia article "Force".*
+*Source: Wikimedia Commons — [Aristoteles Louvre2.jpg](https://commons.wikimedia.org/wiki/File:Aristoteles_Louvre2.jpg). Retrieved 2026-05-20.*
+
 ## Source Trace
 
 - Source: OpenStax College Physics; The Physics Classroom; HyperPhysics (paraphrased, no copied text)

@@ -96,6 +96,28 @@ xychart-beta
 *Figure: Velocity increases at a constant rate equal to g ≈ 9.81 m s⁻². The straight line confirms constant acceleration regardless of the object's mass.*
 *Source: Authored for this vault (CC0). No external copyright.*
 
+### From Wikipedia
+
+<!-- wiki-images: yes -->
+
+#### Drop time
+
+![[_attachments/04_Concepts/Free-Fall--wiki-drop-time.jpg]]
+*Figure: from Wikipedia article "Free fall".*
+*Source: Wikimedia Commons — [Drop time.jpg](https://commons.wikimedia.org/wiki/File:Drop_time.jpg). Retrieved 2026-05-20.*
+
+#### Free-fall
+
+![[_attachments/04_Concepts/Free-Fall--wiki-free-fall.gif]]
+*Figure: from Wikipedia article "Free fall".*
+*Source: Wikimedia Commons — [Free-fall.gif](https://commons.wikimedia.org/wiki/File:Free-fall.gif). Retrieved 2026-05-20.*
+
+#### MeteorAccGraph
+
+![[_attachments/04_Concepts/Free-Fall--wiki-meteoraccgraph.jpg]]
+*Figure: from Wikipedia article "Free fall".*
+*Source: Wikimedia Commons — [MeteorAccGraph.jpg](https://commons.wikimedia.org/wiki/File:MeteorAccGraph.jpg). Retrieved 2026-05-20.*
+
 ## Source Trace
 
 - Source: OpenStax College Physics; The Physics Classroom; IOPSpark; Physics LibreTexts — paraphrased, no copied text.

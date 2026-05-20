@@ -92,6 +92,28 @@ Magnetic fields underpin electric motors, generators, transformers, loudspeakers
 *Figure: Field lines emerge from the north pole (N, red) and enter the south pole (S, blue) outside the magnet. Inside (dashed), lines run from S to N — field lines are continuous closed loops. Closer spacing near the poles shows a stronger field.*
 *Source: Authored for this vault (CC0). No external copyright.*
 
+### From Wikipedia
+
+<!-- wiki-images: yes -->
+
+#### Magnetic field around solenoid
+
+![[_attachments/04_Concepts/Magnetic-Field--wiki-magnetic-field-around-solenoid.jpg]]
+*Figure: from Wikipedia article "Magnetic field".*
+*Source: Wikimedia Commons — [Magnetic_field_around_solenoid.jpg](https://commons.wikimedia.org/wiki/File:Magnetic_field_around_solenoid.jpg). Retrieved 2026-05-20.*
+
+#### Circular toroidal inductor
+
+![[_attachments/04_Concepts/Magnetic-Field--wiki-circular-toroidal-inductor.svg]]
+*Figure: from Wikipedia article "Magnetic field".*
+*Source: Wikimedia Commons — [Circular toroidal inductor.svg](https://commons.wikimedia.org/wiki/File:Circular_toroidal_inductor.svg). Retrieved 2026-05-20.*
+
+#### CoaxPoyntingVector
+
+![[_attachments/04_Concepts/Magnetic-Field--wiki-coaxpoyntingvector.png]]
+*Figure: from Wikipedia article "Magnetic field".*
+*Source: Wikimedia Commons — [CoaxPoyntingVector.png](https://commons.wikimedia.org/wiki/File:CoaxPoyntingVector.png). Retrieved 2026-05-20.*
+
 ## Source Trace
 
 OpenStax College Physics; HyperPhysics; Physics LibreTexts — no copied text.

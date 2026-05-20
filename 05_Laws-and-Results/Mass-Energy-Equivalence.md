@@ -105,6 +105,28 @@ graph LR
 *Figure: Mass–energy equivalence in nuclear processes — the mass defect converts to released energy via E = Δmc².*
 *Source: Authored for this vault (CC0). No external copyright.*
 
+### From Wikipedia
+
+<!-- wiki-images: yes -->
+
+#### M87 jet
+
+![[_attachments/05_Laws-and-Results/Mass-Energy-Equivalence--wiki-m87-jet.jpg]]
+*Figure: from Wikipedia article "Mass–energy equivalence".*
+*Source: Wikimedia Commons — [M87_jet.jpg](https://commons.wikimedia.org/wiki/File:M87_jet.jpg). Retrieved 2026-05-20.*
+
+#### E=mc²-explication
+
+![[_attachments/05_Laws-and-Results/Mass-Energy-Equivalence--wiki-emc2-explication.svg]]
+*Figure: from Wikipedia article "Mass–energy equivalence".*
+*Source: Wikimedia Commons — [E=mc²-explication.svg](https://commons.wikimedia.org/wiki/File:E=mc²-explication.svg). Retrieved 2026-05-20.*
+
+#### Einstein - Time Magazine - July 1, 1946
+
+![[_attachments/05_Laws-and-Results/Mass-Energy-Equivalence--wiki-einstein-time-magazine-july-1-1946.jpg]]
+*Figure: from Wikipedia article "Mass–energy equivalence".*
+*Source: Wikimedia Commons — [Einstein - Time Magazine - July 1, 1946.jpg](https://commons.wikimedia.org/wiki/File:Einstein_-_Time_Magazine_-_July_1,_1946.jpg). Retrieved 2026-05-20.*
+
 ## Source Trace
 
 - Source: OpenStax College Physics; HyperPhysics; CERN educational material — no copied text

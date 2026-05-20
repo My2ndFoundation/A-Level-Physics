@@ -106,6 +106,28 @@ graph LR
 *Figure: Faraday's Law — the induced e.m.f. equals the rate of change of flux linkage NΦ. Any of B, A, N, or θ can be varied.*
 *Source: Authored for this vault (CC0). No external copyright.*
 
+### From Wikipedia
+
+<!-- wiki-images: yes -->
+
+#### Elementary generator
+
+![[_attachments/05_Laws-and-Results/Faradays-Law--wiki-elementary-generator.svg]]
+*Figure: from Wikipedia article "Faraday's law of induction".*
+*Source: Wikimedia Commons — [Elementary_generator.svg](https://commons.wikimedia.org/wiki/File:Elementary_generator.svg). Retrieved 2026-05-20.*
+
+#### Alternator 1
+
+![[_attachments/05_Laws-and-Results/Faradays-Law--wiki-alternator-1.svg]]
+*Figure: from Wikipedia article "Faraday's law of induction".*
+*Source: Wikimedia Commons — [Alternator 1.svg](https://commons.wikimedia.org/wiki/File:Alternator_1.svg). Retrieved 2026-05-20.*
+
+#### Electromagnetic induction - solenoid to loop - animation
+
+![[_attachments/05_Laws-and-Results/Faradays-Law--wiki-electromagnetic-induction-solenoid-to-lo.gif]]
+*Figure: from Wikipedia article "Faraday's law of induction".*
+*Source: Wikimedia Commons — [Electromagnetic induction - solenoid to loop - animation.gif](https://commons.wikimedia.org/wiki/File:Electromagnetic_induction_-_solenoid_to_loop_-_animation.gif). Retrieved 2026-05-20.*
+
 ## Source Trace
 
 OpenStax College Physics; HyperPhysics; Physics LibreTexts — no copied text.

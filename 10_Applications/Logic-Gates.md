@@ -67,6 +67,28 @@ Logic gates (AND, OR, NOT, NAND…) are electronic circuits that take binary inp
 
 _None yet — a truth-table / gate-symbol figure would suit this page._
 
+### From Wikipedia
+
+<!-- wiki-images: yes -->
+
+#### Four bit adder with carry lookahead
+
+![[_attachments/10_Applications/Logic-Gates--wiki-four-bit-adder-with-carry-lookahead.svg]]
+*Figure: from Wikipedia article "Logic gate".*
+*Source: Wikimedia Commons — [Four_bit_adder_with_carry_lookahead.svg](https://commons.wikimedia.org/wiki/File:Four_bit_adder_with_carry_lookahead.svg). Retrieved 2026-05-20.*
+
+#### CMOS inverter
+
+![[_attachments/10_Applications/Logic-Gates--wiki-cmos-inverter.svg]]
+*Figure: from Wikipedia article "Logic gate".*
+*Source: Wikimedia Commons — [CMOS inverter.svg](https://commons.wikimedia.org/wiki/File:CMOS_inverter.svg). Retrieved 2026-05-20.*
+
+#### Four bit adder with carry lookahead
+
+![[_attachments/10_Applications/Logic-Gates--wiki-four-bit-adder-with-carry-lookahead.svg]]
+*Figure: from Wikipedia article "Logic gate".*
+*Source: Wikimedia Commons — [Four bit adder with carry lookahead.svg](https://commons.wikimedia.org/wiki/File:Four_bit_adder_with_carry_lookahead.svg). Retrieved 2026-05-20.*
+
 ## External Resources
 
 - BBC Bitesize — Logic gates: https://www.bbc.co.uk/bitesize

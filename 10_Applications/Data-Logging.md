@@ -66,6 +66,22 @@ A data logger uses sensors and a computer to record measurements automatically a
 
 _None yet — a logged motion-sensor trace would suit this page._
 
+### From Wikipedia
+
+<!-- wiki-images: yes -->
+
+#### Datalogger
+
+![[_attachments/10_Applications/Data-Logging--wiki-datalogger.jpg]]
+*Figure: from Wikipedia article "Data logger".*
+*Source: Wikimedia Commons — [Datalogger.jpg](https://commons.wikimedia.org/wiki/File:Datalogger.jpg). Retrieved 2026-05-20.*
+
+#### Data logger application for weather station
+
+![[_attachments/10_Applications/Data-Logging--wiki-data-logger-application-for-weather-stat.jpg]]
+*Figure: from Wikipedia article "Data logger".*
+*Source: Wikimedia Commons — [Data logger application for weather station.jpg](https://commons.wikimedia.org/wiki/File:Data_logger_application_for_weather_station.jpg). Retrieved 2026-05-20.*
+
 ## External Resources
 
 - Isaac Physics — Practical skills: https://isaacphysics.org

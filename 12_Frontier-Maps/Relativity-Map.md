@@ -92,6 +92,28 @@ without being the real mathematics.
 *Figure: Artist's impression of two black holes merging and releasing gravitational waves — a prediction of general relativity first directly observed by LIGO in 2015.*
 *Source: Black Holes Collide — NASA/GSFC — Public Domain — https://images.nasa.gov/details/GSFC_20171208_Archive_e000415. Retrieved 2026-05-19.*
 
+### From Wikipedia
+
+<!-- wiki-images: yes -->
+
+#### Aleutian Islands with 180th meridian and International Date Line (cropped)
+
+![[_attachments/12_Frontier-Maps/Relativity-Map--wiki-aleutian-islands-with-180th-meridian-and.png]]
+*Figure: from Wikipedia article "Theory of relativity".*
+*Source: Wikimedia Commons — [Aleutian Islands with 180th meridian and International Date Line (cropped).png](https://commons.wikimedia.org/wiki/File:Aleutian_Islands_with_180th_meridian_and_International_Date_Line_(cropped).png). Retrieved 2026-05-20.*
+
+#### Crab Nebula
+
+![[_attachments/12_Frontier-Maps/Relativity-Map--wiki-crab-nebula.jpg]]
+*Figure: from Wikipedia article "Theory of relativity".*
+*Source: Wikimedia Commons — [Crab Nebula.jpg](https://commons.wikimedia.org/wiki/File:Crab_Nebula.jpg). Retrieved 2026-05-20.*
+
+#### Earth-moon
+
+![[_attachments/12_Frontier-Maps/Relativity-Map--wiki-earth-moon.jpg]]
+*Figure: from Wikipedia article "Theory of relativity".*
+*Source: Wikimedia Commons — [Earth-moon.jpg](https://commons.wikimedia.org/wiki/File:Earth-moon.jpg). Retrieved 2026-05-20.*
+
 ## Source Trace
 
 - Source: [[IOP-Explore-Physics]]; Institute of Physics — Explore Physics; NASA Astrophysics; Wikipedia (navigation)

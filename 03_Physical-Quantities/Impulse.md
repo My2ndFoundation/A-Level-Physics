@@ -98,6 +98,28 @@ xychart-beta
 *Figure: The area under the force–time curve equals the impulse J = Δp (change in momentum). A short, tall peak (hard collision) and a long, low hump (padded collision) can have the same area — the same impulse — but very different peak forces. Crumple zones and airbags extend the time to reduce peak force.*
 *Source: Authored for this vault (CC0). No external copyright.*
 
+### From Wikipedia
+
+<!-- wiki-images: yes -->
+
+#### Armedforces jeffery tee shot
+
+![[_attachments/03_Physical-Quantities/Impulse--wiki-armedforces-jeffery-tee-shot.jpg]]
+*Figure: from Wikipedia article "Impulse (physics)".*
+*Source: Wikimedia Commons — [Armedforces_jeffery_tee_shot.jpg](https://commons.wikimedia.org/wiki/File:Armedforces_jeffery_tee_shot.jpg). Retrieved 2026-05-20.*
+
+#### Armedforces jeffery tee shot
+
+![[_attachments/03_Physical-Quantities/Impulse--wiki-armedforces-jeffery-tee-shot.jpg]]
+*Figure: from Wikipedia article "Impulse (physics)".*
+*Source: Wikimedia Commons — [Armedforces jeffery tee shot.jpg](https://commons.wikimedia.org/wiki/File:Armedforces_jeffery_tee_shot.jpg). Retrieved 2026-05-20.*
+
+#### Stylised atom with three Bohr model orbits and stylised nucleus
+
+![[_attachments/03_Physical-Quantities/Impulse--wiki-stylised-atom-with-three-bohr-model-orbi.svg]]
+*Figure: from Wikipedia article "Impulse (physics)".*
+*Source: Wikimedia Commons — [Stylised atom with three Bohr model orbits and stylised nucleus.svg](https://commons.wikimedia.org/wiki/File:Stylised_atom_with_three_Bohr_model_orbits_and_stylised_nucleus.svg). Retrieved 2026-05-20.*
+
 ## Source Trace
 
 - Source: OpenStax College Physics; The Physics Classroom; HyperPhysics (paraphrased, no copied text)

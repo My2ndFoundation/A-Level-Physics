@@ -69,6 +69,28 @@ Not applicable in the graph sense. The analogous readable feature is **line spac
 *Figure: Closed loop field lines emerge from the N pole and enter the S pole outside the magnet (shown as curved arcs). Arrows indicate the direction of **B** (the direction a compass north would point). Lines are more tightly packed near the poles where [[Magnetic-Flux-Density]] is greatest; they fan out and space apart further away. Lines never cross.*
 *Source: Authored for this vault (CC0). No external copyright.*
 
+### From Wikipedia
+
+<!-- wiki-images: yes -->
+
+#### Electric Field Lines
+
+![[_attachments/08_Representations/Magnetic-Field-Line-Diagram--wiki-electric-field-lines.svg]]
+*Figure: from Wikipedia article "Field line".*
+*Source: Wikimedia Commons — [Electric_Field_Lines.svg](https://commons.wikimedia.org/wiki/File:Electric_Field_Lines.svg). Retrieved 2026-05-20.*
+
+#### Camposcargas
+
+![[_attachments/08_Representations/Magnetic-Field-Line-Diagram--wiki-camposcargas.svg]]
+*Figure: from Wikipedia article "Field line".*
+*Source: Wikimedia Commons — [Camposcargas.svg](https://commons.wikimedia.org/wiki/File:Camposcargas.svg). Retrieved 2026-05-20.*
+
+#### Electric Field Lines
+
+![[_attachments/08_Representations/Magnetic-Field-Line-Diagram--wiki-electric-field-lines.svg]]
+*Figure: from Wikipedia article "Field line".*
+*Source: Wikimedia Commons — [Electric Field Lines.svg](https://commons.wikimedia.org/wiki/File:Electric_Field_Lines.svg). Retrieved 2026-05-20.*
+
 ## Source Trace
 
 OpenStax College Physics; HyperPhysics; Physics LibreTexts — no copied text.

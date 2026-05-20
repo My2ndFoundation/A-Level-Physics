@@ -67,6 +67,30 @@ Everything around you — air, water, your own body — is made of atoms far too
 
 At A-Level, the model is refined into discrete energy levels that explain line spectra, the nucleus is studied quantitatively through nuclear equations, binding energy and $E = mc^2$, radioactive decay is treated with the exponential decay law and half-life, and the substructure of protons and neutrons (quarks) is introduced in particle physics. See the A-Level nuclear and particle physics pages for the formal treatment.
 
+## Visuals
+
+### From Wikipedia
+
+<!-- wiki-images: yes -->
+
+#### Helium atom QM
+
+![[_attachments/02_Foundations/Atoms--wiki-helium-atom-qm.svg]]
+*Figure: from Wikipedia article "Atom".*
+*Source: Wikimedia Commons — [Helium_atom_QM.svg](https://commons.wikimedia.org/wiki/File:Helium_atom_QM.svg). Retrieved 2026-05-20.*
+
+#### Atomic-orbital-clouds spdf m0
+
+![[_attachments/02_Foundations/Atoms--wiki-atomic-orbital-clouds-spdf-m0.png]]
+*Figure: from Wikipedia article "Atom".*
+*Source: Wikimedia Commons — [Atomic-orbital-clouds spdf m0.png](https://commons.wikimedia.org/wiki/File:Atomic-orbital-clouds_spdf_m0.png). Retrieved 2026-05-20.*
+
+#### Atomic orbital energy levels
+
+![[_attachments/02_Foundations/Atoms--wiki-atomic-orbital-energy-levels.svg]]
+*Figure: from Wikipedia article "Atom".*
+*Source: Wikimedia Commons — [Atomic orbital energy levels.svg](https://commons.wikimedia.org/wiki/File:Atomic_orbital_energy_levels.svg). Retrieved 2026-05-20.*
+
 ## Source Trace
 
 - Source: BBC Bitesize GCSE Physics (atomic structure); IOPSpark; CERN and NASA educational material on matter

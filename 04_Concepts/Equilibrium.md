@@ -95,6 +95,28 @@ Equilibrium underlies structural engineering, statics problems, and the principl
 *Figure: A hanging object in equilibrium with two cord tensions T₁ and T₂ and weight W. Both force balance ($\Sigma F = 0$) and moment balance ($\Sigma \tau = 0$) must hold. Three coplanar forces in equilibrium form a closed vector triangle.*
 *Source: Authored for this vault (CC0). No external copyright.*
 
+### From Wikipedia
+
+<!-- wiki-images: yes -->
+
+#### WeightNormal
+
+![[_attachments/04_Concepts/Equilibrium--wiki-weightnormal.svg]]
+*Figure: from Wikipedia article "Mechanical equilibrium".*
+*Source: Wikimedia Commons — [WeightNormal.svg](https://commons.wikimedia.org/wiki/File:WeightNormal.svg). Retrieved 2026-05-20.*
+
+#### Diagram of a ball placed in a stable equilibrium
+
+![[_attachments/04_Concepts/Equilibrium--wiki-diagram-of-a-ball-placed-in-a-stable-equ.svg]]
+*Figure: from Wikipedia article "Mechanical equilibrium".*
+*Source: Wikimedia Commons — [Diagram of a ball placed in a stable equilibrium.svg](https://commons.wikimedia.org/wiki/File:Diagram_of_a_ball_placed_in_a_stable_equilibrium.svg). Retrieved 2026-05-20.*
+
+#### Diagram of a ball placed in an unstable equilibrium
+
+![[_attachments/04_Concepts/Equilibrium--wiki-diagram-of-a-ball-placed-in-an-unstable-.svg]]
+*Figure: from Wikipedia article "Mechanical equilibrium".*
+*Source: Wikimedia Commons — [Diagram of a ball placed in an unstable equilibrium.svg](https://commons.wikimedia.org/wiki/File:Diagram_of_a_ball_placed_in_an_unstable_equilibrium.svg). Retrieved 2026-05-20.*
+
 ## Source Trace
 
 - Source: OpenStax College Physics; The Physics Classroom; IOPSpark; Physics LibreTexts — paraphrased, no copied text.

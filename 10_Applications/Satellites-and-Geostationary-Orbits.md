@@ -84,6 +84,28 @@ equator — the basis of satellite TV, communications and weather monitoring.
 *Figure: Full-disc Earth image taken from a geostationary satellite (GOES/Himawari). Because the satellite stays fixed above the equator at ~36,000 km, it captures the same face of Earth continuously — the basis of weather monitoring and communications.*
 *Source: Geostationary Satellite imagery — NOAA, JMA — Public Domain — https://commons.wikimedia.org/wiki/File:Geostationary_Satellite_imagery.png. Retrieved 2026-05-19.*
 
+### From Wikipedia
+
+<!-- wiki-images: yes -->
+
+#### Geostationaryjava3D
+
+![[_attachments/10_Applications/Satellites-and-Geostationary-Orbits--wiki-geostationaryjava3d.gif]]
+*Figure: from Wikipedia article "Geostationary orbit".*
+*Source: Wikimedia Commons — [Geostationaryjava3D.gif](https://commons.wikimedia.org/wiki/File:Geostationaryjava3D.gif). Retrieved 2026-05-20.*
+
+#### Animation of EchoStar XVII trajectory
+
+![[_attachments/10_Applications/Satellites-and-Geostationary-Orbits--wiki-animation-of-echostar-xvii-trajectory.gif]]
+*Figure: from Wikipedia article "Geostationary orbit".*
+*Source: Wikimedia Commons — [Animation of EchoStar XVII trajectory.gif](https://commons.wikimedia.org/wiki/File:Animation_of_EchoStar_XVII_trajectory.gif). Retrieved 2026-05-20.*
+
+#### Animation of EchoStar XVII trajectory Equatorial view
+
+![[_attachments/10_Applications/Satellites-and-Geostationary-Orbits--wiki-animation-of-echostar-xvii-trajectory-eq.gif]]
+*Figure: from Wikipedia article "Geostationary orbit".*
+*Source: Wikimedia Commons — [Animation of EchoStar XVII trajectory Equatorial view.gif](https://commons.wikimedia.org/wiki/File:Animation_of_EchoStar_XVII_trajectory_Equatorial_view.gif). Retrieved 2026-05-20.*
+
 ## Source Trace
 
 - Source: OpenStax College Physics; HyperPhysics; NASA educational material — no copied text

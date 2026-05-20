@@ -79,6 +79,28 @@ Car safety features — seatbelts, airbags, crumple zones — are an exam favour
 *Figure: Crash-test dummy restrained by a seatbelt with a fully deployed airbag during a controlled collision. The airbag extends the time over which the dummy's momentum changes, reducing the average force on the chest and head.*
 *Source: Crash-test-with-airbag-and-safty-belt — Transport For NSW — CC BY-SA 4.0 — https://commons.wikimedia.org/wiki/File:Crash-test-with-airbag-and-safty-belt.jpg. Retrieved 2026-05-19.*
 
+### From Wikipedia
+
+<!-- wiki-images: yes -->
+
+#### IIHS crash test dummy in Hyundai Tucson
+
+![[_attachments/10_Applications/Car-Safety--wiki-iihs-crash-test-dummy-in-hyundai-tucson.jpg]]
+*Figure: from Wikipedia article "Automotive safety".*
+*Source: Wikimedia Commons — [IIHS_crash_test_dummy_in_Hyundai_Tucson.jpg](https://commons.wikimedia.org/wiki/File:IIHS_crash_test_dummy_in_Hyundai_Tucson.jpg). Retrieved 2026-05-20.*
+
+#### 1994- Motor vehicle traffic deaths in road accidents, by country
+
+![[_attachments/10_Applications/Car-Safety--wiki-1994-motor-vehicle-traffic-deaths-in-roa.svg]]
+*Figure: from Wikipedia article "Automotive safety".*
+*Source: Wikimedia Commons — [1994- Motor vehicle traffic deaths in road accidents, by country.svg](https://commons.wikimedia.org/wiki/File:1994-_Motor_vehicle_traffic_deaths_in_road_accidents,_by_country.svg). Retrieved 2026-05-20.*
+
+#### Ferrari F430 dash at 2006 Chicago Auto Show
+
+![[_attachments/10_Applications/Car-Safety--wiki-ferrari-f430-dash-at-2006-chicago-auto-s.jpg]]
+*Figure: from Wikipedia article "Automotive safety".*
+*Source: Wikimedia Commons — [Ferrari F430 dash at 2006 Chicago Auto Show.jpg](https://commons.wikimedia.org/wiki/File:Ferrari_F430_dash_at_2006_Chicago_Auto_Show.jpg). Retrieved 2026-05-20.*
+
 ## Source Trace
 
 - Source: OpenStax College Physics; IOPSpark; Isaac Physics; OCR examiner reports (general) — no copied text

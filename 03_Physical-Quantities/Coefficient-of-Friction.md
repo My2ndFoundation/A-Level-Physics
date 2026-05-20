@@ -99,6 +99,28 @@ xychart-beta
 *Figure: The gradient of the friction force vs normal force graph is the coefficient of kinetic friction μₖ (here μₖ = 0.35). The line passes through the origin, confirming Ff = μN. The maximum static friction would sit on a steeper line (μₛ > μₖ).*
 *Source: Authored for this vault (CC0). No external copyright.*
 
+### From Wikipedia
+
+<!-- wiki-images: yes -->
+
+#### Friction Animation 2 Blocks
+
+![[_attachments/03_Physical-Quantities/Coefficient-of-Friction--wiki-friction-animation-2-blocks.gif]]
+*Figure: from Wikipedia article "Friction".*
+*Source: Wikimedia Commons — [Friction_Animation_2_Blocks.gif](https://commons.wikimedia.org/wiki/File:Friction_Animation_2_Blocks.gif). Retrieved 2026-05-20.*
+
+#### Asperities
+
+![[_attachments/03_Physical-Quantities/Coefficient-of-Friction--wiki-asperities.svg]]
+*Figure: from Wikipedia article "Friction".*
+*Source: Wikimedia Commons — [Asperities.svg](https://commons.wikimedia.org/wiki/File:Asperities.svg). Retrieved 2026-05-20.*
+
+#### Cone penetration test
+
+![[_attachments/03_Physical-Quantities/Coefficient-of-Friction--wiki-cone-penetration-test.svg]]
+*Figure: from Wikipedia article "Friction".*
+*Source: Wikimedia Commons — [Cone penetration test.svg](https://commons.wikimedia.org/wiki/File:Cone_penetration_test.svg). Retrieved 2026-05-20.*
+
 ## Source Trace
 
 - Source: OpenStax College Physics; The Physics Classroom; HyperPhysics — no copied text

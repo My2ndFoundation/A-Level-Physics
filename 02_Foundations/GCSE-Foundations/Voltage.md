@@ -72,6 +72,30 @@ If current is like the rate of water flow, voltage is like the pressure differen
 
 At A-Level, potential difference is defined precisely as the work done (energy transferred) per unit charge, $V = W/Q$, and is distinguished carefully from electromotive force. It is combined with [[Electric-Current]] and [[Resistance]] through [[Ohms-Law]], used in potential dividers, and generalised into electric potential and potential energy in fields. See the A-Level [[Potential-Difference]] physical-quantity page for the formal treatment.
 
+## Visuals
+
+### From Wikipedia
+
+<!-- wiki-images: yes -->
+
+#### AA AAA AAAA A23 battery comparison-1
+
+![[_attachments/02_Foundations/Voltage--wiki-aa-aaa-aaaa-a23-battery-comparison-1.jpg]]
+*Figure: from Wikipedia article "Voltage".*
+*Source: Wikimedia Commons — [AA_AAA_AAAA_A23_battery_comparison-1.jpg](https://commons.wikimedia.org/wiki/File:AA_AAA_AAAA_A23_battery_comparison-1.jpg). Retrieved 2026-05-20.*
+
+#### 9VBatteryWithMeter
+
+![[_attachments/02_Foundations/Voltage--wiki-9vbatterywithmeter.jpg]]
+*Figure: from Wikipedia article "Voltage".*
+*Source: Wikimedia Commons — [9VBatteryWithMeter.jpg](https://commons.wikimedia.org/wiki/File:9VBatteryWithMeter.jpg). Retrieved 2026-05-20.*
+
+#### AA AAA AAAA A23 battery comparison-1
+
+![[_attachments/02_Foundations/Voltage--wiki-aa-aaa-aaaa-a23-battery-comparison-1.jpg]]
+*Figure: from Wikipedia article "Voltage".*
+*Source: Wikimedia Commons — [AA AAA AAAA A23 battery comparison-1.jpg](https://commons.wikimedia.org/wiki/File:AA_AAA_AAAA_A23_battery_comparison-1.jpg). Retrieved 2026-05-20.*
+
 ## Source Trace
 
 - Source: BBC Bitesize GCSE Physics (potential difference, circuits); IOPSpark; The Physics Classroom (electric potential)

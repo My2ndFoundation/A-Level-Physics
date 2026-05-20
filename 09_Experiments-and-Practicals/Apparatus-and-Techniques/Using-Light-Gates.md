@@ -94,6 +94,28 @@ flowchart LR
 *Figure: Two-gate setup for measuring acceleration: the card of known width d blocks each beam for a short time, giving instantaneous speeds v₁ and v₂ at each gate; the data logger computes acceleration from the speed difference and the time interval between gates.*
 *Source: Authored for this vault (CC0). No external copyright.*
 
+### From Wikipedia
+
+<!-- wiki-images: yes -->
+
+#### RBG-LED
+
+![[_attachments/09_Experiments-and-Practicals/Using-Light-Gates--wiki-rbg-led.jpg]]
+*Figure: from Wikipedia article "Light-emitting diode".*
+*Source: Wikimedia Commons — [RBG-LED.jpg](https://commons.wikimedia.org/wiki/File:RBG-LED.jpg). Retrieved 2026-05-20.*
+
+#### 1 watt 9 volt SMD LED
+
+![[_attachments/09_Experiments-and-Practicals/Using-Light-Gates--wiki-1-watt-9-volt-smd-led.jpg]]
+*Figure: from Wikipedia article "Light-emitting diode".*
+*Source: Wikimedia Commons — [1 watt 9 volt SMD LED.jpg](https://commons.wikimedia.org/wiki/File:1_watt_9_volt_SMD_LED.jpg). Retrieved 2026-05-20.*
+
+#### 2007-07-24 High-power light emitting diodes (Luxeon, Lumiled)
+
+![[_attachments/09_Experiments-and-Practicals/Using-Light-Gates--wiki-2007-07-24-high-power-light-emitting-dio.jpg]]
+*Figure: from Wikipedia article "Light-emitting diode".*
+*Source: Wikimedia Commons — [2007-07-24 High-power light emitting diodes (Luxeon, Lumiled).jpg](https://commons.wikimedia.org/wiki/File:2007-07-24_High-power_light_emitting_diodes_(Luxeon,_Lumiled).jpg). Retrieved 2026-05-20.*
+
 ## Source Trace
 
 - Source: OCR Practical Skills Handbook; The Physics Classroom; IOPSpark; OpenStax

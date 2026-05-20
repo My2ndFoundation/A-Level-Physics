@@ -92,6 +92,28 @@ Secure clamp stand with a counterweight so falling masses cannot topple it; keep
 *Figure: A simple pendulum of length L displaced by angle θ from the vertical, showing the equilibrium position and the height gained $h = L(1 - \cos\theta)$. The restoring force acts toward the equilibrium; for small angles (< ~10°) the motion is simple harmonic.*
 *Source: Simple pendulum height — Krishnavedala — CC0 — https://commons.wikimedia.org/wiki/File:Simple_pendulum_height.svg. Retrieved 2026-05-19.*
 
+### From Wikipedia
+
+<!-- wiki-images: yes -->
+
+#### QuantumHarmonicOscillatorAnimation
+
+![[_attachments/09_Experiments-and-Practicals/Investigating-Simple-Harmonic-Motion--wiki-quantumharmonicoscillatoranimation.gif]]
+*Figure: from Wikipedia article "Quantum harmonic oscillator".*
+*Source: Wikimedia Commons — [QuantumHarmonicOscillatorAnimation.gif](https://commons.wikimedia.org/wiki/File:QuantumHarmonicOscillatorAnimation.gif). Retrieved 2026-05-20.*
+
+#### 2D Spherical Harmonic Orbitals
+
+![[_attachments/09_Experiments-and-Practicals/Investigating-Simple-Harmonic-Motion--wiki-2d-spherical-harmonic-orbitals.png]]
+*Figure: from Wikipedia article "Quantum harmonic oscillator".*
+*Source: Wikimedia Commons — [2D Spherical Harmonic Orbitals.png](https://commons.wikimedia.org/wiki/File:2D_Spherical_Harmonic_Orbitals.png). Retrieved 2026-05-20.*
+
+#### Aufenthaltswahrscheinlichkeit harmonischer Oszillator
+
+![[_attachments/09_Experiments-and-Practicals/Investigating-Simple-Harmonic-Motion--wiki-aufenthaltswahrscheinlichkeit-harmonisch.png]]
+*Figure: from Wikipedia article "Quantum harmonic oscillator".*
+*Source: Wikimedia Commons — [Aufenthaltswahrscheinlichkeit harmonischer Oszillator.png](https://commons.wikimedia.org/wiki/File:Aufenthaltswahrscheinlichkeit_harmonischer_Oszillator.png). Retrieved 2026-05-20.*
+
 ## Source Trace
 
 - Source: OCR practical skills handbook approach; The Physics Classroom; HyperPhysics — no copied text

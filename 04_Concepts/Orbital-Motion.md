@@ -124,6 +124,28 @@ xychart-beta
 *Figure: A graph of T² against r³ for circular orbits is a straight line through the origin with gradient 4π²/GM. The slope depends only on the central mass M, not on the satellite's mass — this allows M to be determined from orbital data.*
 *Source: Authored for this vault (CC0). No external copyright.*
 
+### From Wikipedia
+
+<!-- wiki-images: yes -->
+
+#### Animation of Orbital eccentricity
+
+![[_attachments/04_Concepts/Orbital-Motion--wiki-animation-of-orbital-eccentricity.gif]]
+*Figure: from Wikipedia article "Orbit".*
+*Source: Wikimedia Commons — [Animation_of_Orbital_eccentricity.gif](https://commons.wikimedia.org/wiki/File:Animation_of_Orbital_eccentricity.gif). Retrieved 2026-05-20.*
+
+#### Animation of Orbital eccentricity
+
+![[_attachments/04_Concepts/Orbital-Motion--wiki-animation-of-orbital-eccentricity.gif]]
+*Figure: from Wikipedia article "Orbit".*
+*Source: Wikimedia Commons — [Animation of Orbital eccentricity.gif](https://commons.wikimedia.org/wiki/File:Animation_of_Orbital_eccentricity.gif). Retrieved 2026-05-20.*
+
+#### Conic Sections
+
+![[_attachments/04_Concepts/Orbital-Motion--wiki-conic-sections.svg]]
+*Figure: from Wikipedia article "Orbit".*
+*Source: Wikimedia Commons — [Conic Sections.svg](https://commons.wikimedia.org/wiki/File:Conic_Sections.svg). Retrieved 2026-05-20.*
+
 ## Source Trace
 
 - Source: OpenStax College Physics; HyperPhysics; NASA educational material — no copied text

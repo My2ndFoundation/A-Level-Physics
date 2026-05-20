@@ -84,6 +84,28 @@ Identifying *which* real force provides the centripetal requirement is the key s
 *Figure: An object moving in a circle has velocity v tangent to the path. The centripetal force $F = mv^2/r$ (and centripetal acceleration) always points radially inward toward the centre. The force is perpendicular to v, so it does no work and speed is unchanged.*
 *Source: Authored for this vault (CC0). No external copyright.*
 
+### From Wikipedia
+
+<!-- wiki-images: yes -->
+
+#### Force acting as centripetal force
+
+![[_attachments/04_Concepts/Centripetal-Force--wiki-force-acting-as-centripetal-force.svg]]
+*Figure: from Wikipedia article "Centripetal force".*
+*Source: Wikimedia Commons — [Force_acting_as_centripetal_force.svg](https://commons.wikimedia.org/wiki/File:Force_acting_as_centripetal_force.svg). Retrieved 2026-05-20.*
+
+#### Acceleration vector plane polar coords
+
+![[_attachments/04_Concepts/Centripetal-Force--wiki-acceleration-vector-plane-polar-coords.svg]]
+*Figure: from Wikipedia article "Centripetal force".*
+*Source: Wikimedia Commons — [Acceleration vector plane polar coords.svg](https://commons.wikimedia.org/wiki/File:Acceleration_vector_plane_polar_coords.svg). Retrieved 2026-05-20.*
+
+#### Banked turn
+
+![[_attachments/04_Concepts/Centripetal-Force--wiki-banked-turn.svg]]
+*Figure: from Wikipedia article "Centripetal force".*
+*Source: Wikimedia Commons — [Banked turn.svg](https://commons.wikimedia.org/wiki/File:Banked_turn.svg). Retrieved 2026-05-20.*
+
 ## Source Trace
 
 - Source: OpenStax College Physics; HyperPhysics; The Physics Classroom — no copied text

@@ -74,6 +74,28 @@ Not applicable. The analytic operations are identifying series/parallel grouping
 *Figure: A basic measuring circuit. The cell (EMF symbol) drives current clockwise. The resistor R is in the main loop. The ammeter A is placed in series to measure [[Current]]; the voltmeter V is connected in parallel across R (dashed branch) to measure [[Potential-Difference]]. Junction dots mark where wires connect; the dashed voltmeter branch shows the high-resistance parallel path.*
 *Source: Authored for this vault (CC0). No external copyright.*
 
+### From Wikipedia
+
+<!-- wiki-images: yes -->
+
+#### Circuit diagram – pictorial and schematic
+
+![[_attachments/08_Representations/Circuit-Diagram--wiki-circuit-diagram-pictorial-and-schematic.png]]
+*Figure: from Wikipedia article "Circuit diagram".*
+*Source: Wikimedia Commons — [Circuit_diagram_–_pictorial_and_schematic.png](https://commons.wikimedia.org/wiki/File:Circuit_diagram_–_pictorial_and_schematic.png). Retrieved 2026-05-20.*
+
+#### 4 bit counter
+
+![[_attachments/08_Representations/Circuit-Diagram--wiki-4-bit-counter.svg]]
+*Figure: from Wikipedia article "Circuit diagram".*
+*Source: Wikimedia Commons — [4 bit counter.svg](https://commons.wikimedia.org/wiki/File:4_bit_counter.svg). Retrieved 2026-05-20.*
+
+#### Circuit diagram – pictorial and schematic
+
+![[_attachments/08_Representations/Circuit-Diagram--wiki-circuit-diagram-pictorial-and-schematic.png]]
+*Figure: from Wikipedia article "Circuit diagram".*
+*Source: Wikimedia Commons — [Circuit diagram – pictorial and schematic.png](https://commons.wikimedia.org/wiki/File:Circuit_diagram_–_pictorial_and_schematic.png). Retrieved 2026-05-20.*
+
 ## Source Trace
 
 - Source: OCR Practical Skills Handbook; The Physics Classroom; IOPSpark; OpenStax

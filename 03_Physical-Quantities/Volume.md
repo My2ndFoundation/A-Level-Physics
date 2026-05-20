@@ -102,6 +102,28 @@ flowchart LR
 *Figure: Volume V (m³) links to density via ρ = m/V and to gas behaviour via pV = nRT. Key formulae for common shapes avoid needing to measure 3-D space directly.*
 *Source: Authored for this vault (CC0). No external copyright.*
 
+### From Wikipedia
+
+<!-- wiki-images: yes -->
+
+#### Simple Measuring Cup
+
+![[_attachments/03_Physical-Quantities/Volume--wiki-simple-measuring-cup.jpg]]
+*Figure: from Wikipedia article "Volume".*
+*Source: Wikimedia Commons — [Simple_Measuring_Cup.jpg](https://commons.wikimedia.org/wiki/File:Simple_Measuring_Cup.jpg). Retrieved 2026-05-20.*
+
+#### "How to Measure" diagram, with graduated cylinder measuring fluid drams, 1926
+
+![[_attachments/03_Physical-Quantities/Volume--wiki-how-to-measure-diagram-with-graduated-cy.jpg]]
+*Figure: from Wikipedia article "Volume".*
+*Source: Wikimedia Commons — ["How to Measure" diagram, with graduated cylinder measuring fluid drams, 1926.jpg](https://commons.wikimedia.org/wiki/File:"How_to_Measure"_diagram,_with_graduated_cylinder_measuring_fluid_drams,_1926.jpg). Retrieved 2026-05-20.*
+
+#### Dolphin triangle mesh
+
+![[_attachments/03_Physical-Quantities/Volume--wiki-dolphin-triangle-mesh.png]]
+*Figure: from Wikipedia article "Volume".*
+*Source: Wikimedia Commons — [Dolphin triangle mesh.png](https://commons.wikimedia.org/wiki/File:Dolphin_triangle_mesh.png). Retrieved 2026-05-20.*
+
 ## Source Trace
 
 OpenStax College Physics; HyperPhysics; The Physics Classroom — no copied text.

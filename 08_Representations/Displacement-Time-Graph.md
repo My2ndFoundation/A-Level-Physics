@@ -79,6 +79,28 @@ xychart-beta
 *Figure: The straight rising section (t = 0 to 1) has a positive gradient equal to the constant [[Velocity]]; the flat section (t = 1 to 3) has zero gradient — the object is stationary; the falling section (t = 3 onwards) has a negative gradient — the object moves back toward (and past) the origin. The y-intercept (0 m) is the starting position.*
 *Source: Authored for this vault (CC0). No external copyright.*
 
+### From Wikipedia
+
+<!-- wiki-images: yes -->
+
+#### DeBruijn-3-2
+
+![[_attachments/08_Representations/Displacement-Time-Graph--wiki-debruijn-3-2.svg]]
+*Figure: from Wikipedia article "De Bruijn graph".*
+*Source: Wikimedia Commons — [DeBruijn-3-2.svg](https://commons.wikimedia.org/wiki/File:DeBruijn-3-2.svg). Retrieved 2026-05-20.*
+
+#### DeBruijn-as-line-digraph
+
+![[_attachments/08_Representations/Displacement-Time-Graph--wiki-debruijn-as-line-digraph.svg]]
+*Figure: from Wikipedia article "De Bruijn graph".*
+*Source: Wikimedia Commons — [DeBruijn-as-line-digraph.svg](https://commons.wikimedia.org/wiki/File:DeBruijn-as-line-digraph.svg). Retrieved 2026-05-20.*
+
+#### De Bruijn binary graph
+
+![[_attachments/08_Representations/Displacement-Time-Graph--wiki-de-bruijn-binary-graph.svg]]
+*Figure: from Wikipedia article "De Bruijn graph".*
+*Source: Wikimedia Commons — [De Bruijn binary graph.svg](https://commons.wikimedia.org/wiki/File:De_Bruijn_binary_graph.svg). Retrieved 2026-05-20.*
+
 ## Source Trace
 
 - Source: OCR Practical Skills Handbook; The Physics Classroom; IOPSpark; OpenStax

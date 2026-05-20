@@ -93,6 +93,16 @@ Potential dividers are the standard way to set reference voltages, build sensor 
 *Figure: Supply voltage Vₛ is shared between R₁ and R₂ in series. The output voltage V_out (dashed, across R₂) equals Vₛ × R₂/(R₁ + R₂). Increasing R₂ relative to R₁ raises V_out toward Vₛ; decreasing it lowers V_out toward 0.*
 *Source: Authored for this vault (CC0). No external copyright.*
 
+### From Wikipedia
+
+<!-- wiki-images: yes -->
+
+#### HighVoltageDividerProbe
+
+![[_attachments/04_Concepts/Potential-Divider--wiki-highvoltagedividerprobe.jpg]]
+*Figure: from Wikipedia article "Voltage divider".*
+*Source: Wikimedia Commons — [HighVoltageDividerProbe.jpg](https://commons.wikimedia.org/wiki/File:HighVoltageDividerProbe.jpg). Retrieved 2026-05-20.*
+
 ## Source Trace
 
 - Source: OpenStax College Physics; The Physics Classroom; IOPSpark; Physics LibreTexts — paraphrased, no copied text.

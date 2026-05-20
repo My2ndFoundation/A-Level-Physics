@@ -73,6 +73,28 @@ Optical fibres carry telephone, internet and television data as pulses of light 
 *Figure: Cut end of a multi-fibre optical cable showing many individual glass fibres bundled together. Each fibre consists of a high-refractive-index core surrounded by a lower-index cladding that keeps light trapped by total internal reflection.*
 *Source: Optical fiber cable-01ASD — Asurnipal — CC BY-SA 4.0 — https://commons.wikimedia.org/wiki/File:Optical_fiber_cable-01ASD.jpg. Retrieved 2026-05-19.*
 
+### From Wikipedia
+
+<!-- wiki-images: yes -->
+
+#### Fibreoptic
+
+![[_attachments/10_Applications/Optical-Fibres--wiki-fibreoptic.jpg]]
+*Figure: from Wikipedia article "Optical fiber".*
+*Source: Wikimedia Commons — [Fibreoptic.jpg](https://commons.wikimedia.org/wiki/File:Fibreoptic.jpg). Retrieved 2026-05-20.*
+
+#### Angular dependence of Rayleigh Scattering
+
+![[_attachments/10_Applications/Optical-Fibres--wiki-angular-dependence-of-rayleigh-scatterin.jpg]]
+*Figure: from Wikipedia article "Optical fiber".*
+*Source: Wikimedia Commons — [Angular dependence of Rayleigh Scattering.jpg](https://commons.wikimedia.org/wiki/File:Angular_dependence_of_Rayleigh_Scattering.jpg). Retrieved 2026-05-20.*
+
+#### DShaped1
+
+![[_attachments/10_Applications/Optical-Fibres--wiki-dshaped1.png]]
+*Figure: from Wikipedia article "Optical fiber".*
+*Source: Wikimedia Commons — [DShaped1.png](https://commons.wikimedia.org/wiki/File:DShaped1.png). Retrieved 2026-05-20.*
+
 ## Source Trace
 
 - Source: OpenStax College Physics; IOPSpark; Isaac Physics; OCR examiner reports (general) — no copied text

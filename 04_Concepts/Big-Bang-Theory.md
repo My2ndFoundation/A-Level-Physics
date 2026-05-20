@@ -118,6 +118,28 @@ flowchart LR
 *Figure: The Big Bang theory is supported by three independent lines of evidence: galactic redshift obeying Hubble's Law, the CMB black-body radiation, and the observed hydrogen/helium ratio from primordial nucleosynthesis.*
 *Source: Authored for this vault (CC0). No external copyright.*
 
+### From Wikipedia
+
+<!-- wiki-images: yes -->
+
+#### CMB Timeline300 no WMAP
+
+![[_attachments/04_Concepts/Big-Bang-Theory--wiki-cmb-timeline300-no-wmap.jpg]]
+*Figure: from Wikipedia article "Big Bang".*
+*Source: Wikimedia Commons — [CMB_Timeline300_no_WMAP.jpg](https://commons.wikimedia.org/wiki/File:CMB_Timeline300_no_WMAP.jpg). Retrieved 2026-05-20.*
+
+#### 2MASS LSS chart-NEW Nasa
+
+![[_attachments/04_Concepts/Big-Bang-Theory--wiki-2mass-lss-chart-new-nasa.jpg]]
+*Figure: from Wikipedia article "Big Bang".*
+*Source: Wikimedia Commons — [2MASS LSS chart-NEW Nasa.jpg](https://commons.wikimedia.org/wiki/File:2MASS_LSS_chart-NEW_Nasa.jpg). Retrieved 2026-05-20.*
+
+#### CMB Timeline300 no WMAP
+
+![[_attachments/04_Concepts/Big-Bang-Theory--wiki-cmb-timeline300-no-wmap.jpg]]
+*Figure: from Wikipedia article "Big Bang".*
+*Source: Wikimedia Commons — [CMB Timeline300 no WMAP.jpg](https://commons.wikimedia.org/wiki/File:CMB_Timeline300_no_WMAP.jpg). Retrieved 2026-05-20.*
+
 ## Source Trace
 
 - Source: OpenStax College Physics; HyperPhysics; NASA educational material — no copied text

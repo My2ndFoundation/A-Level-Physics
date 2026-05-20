@@ -82,6 +82,28 @@ Radian measure makes the small-angle approximation $\sin\theta \approx \theta$ v
 *Figure: One radian is subtended when the arc length s equals the radius r, so θ = s/r = 1. A full circle subtends 2π rad (≈ 6.28 radians). Because s and r share the same unit, θ is dimensionless.*
 *Source: Authored for this vault (CC0). No external copyright.*
 
+### From Wikipedia
+
+<!-- wiki-images: yes -->
+
+#### Circle radians
+
+![[_attachments/04_Concepts/Radian--wiki-circle-radians.gif]]
+*Figure: from Wikipedia article "Radian".*
+*Source: Wikimedia Commons — [Circle_radians.gif](https://commons.wikimedia.org/wiki/File:Circle_radians.gif). Retrieved 2026-05-20.*
+
+#### Circle radians
+
+![[_attachments/04_Concepts/Radian--wiki-circle-radians.gif]]
+*Figure: from Wikipedia article "Radian".*
+*Source: Wikimedia Commons — [Circle radians.gif](https://commons.wikimedia.org/wiki/File:Circle_radians.gif). Retrieved 2026-05-20.*
+
+#### Radian-common
+
+![[_attachments/04_Concepts/Radian--wiki-radian-common.svg]]
+*Figure: from Wikipedia article "Radian".*
+*Source: Wikimedia Commons — [Radian-common.svg](https://commons.wikimedia.org/wiki/File:Radian-common.svg). Retrieved 2026-05-20.*
+
 ## Source Trace
 
 - Source: OpenStax College Physics; HyperPhysics; The Physics Classroom — no copied text

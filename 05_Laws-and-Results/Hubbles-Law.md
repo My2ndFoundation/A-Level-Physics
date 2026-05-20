@@ -101,6 +101,28 @@ xychart-beta
 *Figure: Recession speed increases linearly with distance. The gradient of the best-fit line equals the Hubble constant H₀.*
 *Source: Authored for this vault (CC0). No external copyright.*
 
+### From Wikipedia
+
+<!-- wiki-images: yes -->
+
+#### Raisinbread
+
+![[_attachments/05_Laws-and-Results/Hubbles-Law--wiki-raisinbread.gif]]
+*Figure: from Wikipedia article "Hubble's law".*
+*Source: Wikimedia Commons — [Raisinbread.gif](https://commons.wikimedia.org/wiki/File:Raisinbread.gif). Retrieved 2026-05-20.*
+
+#### 1-s2.0-S221268642500158X-gr1 lrg
+
+![[_attachments/05_Laws-and-Results/Hubbles-Law--wiki-1-s20-s221268642500158x-gr1-lrg.jpg]]
+*Figure: from Wikipedia article "Hubble's law".*
+*Source: Wikimedia Commons — [1-s2.0-S221268642500158X-gr1 lrg.jpg](https://commons.wikimedia.org/wiki/File:1-s2.0-S221268642500158X-gr1_lrg.jpg). Retrieved 2026-05-20.*
+
+#### Bridge diagram showing different measurements of the Hubble constant (bridge-info CORRECTED4)
+
+![[_attachments/05_Laws-and-Results/Hubbles-Law--wiki-bridge-diagram-showing-different-measure.jpg]]
+*Figure: from Wikipedia article "Hubble's law".*
+*Source: Wikimedia Commons — [Bridge diagram showing different measurements of the Hubble constant (bridge-info CORRECTED4).jpg](https://commons.wikimedia.org/wiki/File:Bridge_diagram_showing_different_measurements_of_the_Hubble_constant_(bridge-info_CORRECTED4).jpg). Retrieved 2026-05-20.*
+
 ## Source Trace
 
 - Source: OpenStax College Physics; HyperPhysics; NASA educational material — no copied text

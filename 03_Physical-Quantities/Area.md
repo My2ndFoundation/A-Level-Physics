@@ -85,6 +85,30 @@ a measured surface.
 - Forgetting to square the unit (m² not m).
 - Using diameter instead of radius in $A = \pi r^2$.
 
+## Visuals
+
+### From Wikipedia
+
+<!-- wiki-images: yes -->
+
+#### Squaring the circle
+
+![[_attachments/03_Physical-Quantities/Area--wiki-squaring-the-circle.svg]]
+*Figure: from Wikipedia article "Area".*
+*Source: Wikimedia Commons — [Squaring_the_circle.svg](https://commons.wikimedia.org/wiki/File:Squaring_the_circle.svg). Retrieved 2026-05-20.*
+
+#### Archimedes sphere and cylinder
+
+![[_attachments/03_Physical-Quantities/Area--wiki-archimedes-sphere-and-cylinder.svg]]
+*Figure: from Wikipedia article "Area".*
+*Source: Wikimedia Commons — [Archimedes sphere and cylinder.svg](https://commons.wikimedia.org/wiki/File:Archimedes_sphere_and_cylinder.svg). Retrieved 2026-05-20.*
+
+#### Area conversion - square mm in a square cm
+
+![[_attachments/03_Physical-Quantities/Area--wiki-area-conversion-square-mm-in-a-square-cm.png]]
+*Figure: from Wikipedia article "Area".*
+*Source: Wikimedia Commons — [Area conversion - square mm in a square cm.png](https://commons.wikimedia.org/wiki/File:Area_conversion_-_square_mm_in_a_square_cm.png). Retrieved 2026-05-20.*
+
 ## Source Trace
 
 OpenStax College Physics; HyperPhysics; The Physics Classroom — no copied text.

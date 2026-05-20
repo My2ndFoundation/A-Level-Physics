@@ -125,6 +125,28 @@ xychart-beta
 *Figure: E_p is always negative (bound system) and rises toward zero at infinite separation. The steep well near the source shows that more energy is needed to escape from a close orbit than a distant one.*
 *Source: Authored for this vault (CC0). No external copyright.*
 
+### From Wikipedia
+
+<!-- wiki-images: yes -->
+
+#### Gravitational field Earth lines equipotentials
+
+![[_attachments/04_Concepts/Gravitational-Potential-Energy--wiki-gravitational-field-earth-lines-equipote.svg]]
+*Figure: from Wikipedia article "Gravitational energy".*
+*Source: Wikimedia Commons — [Gravitational_field_Earth_lines_equipotentials.svg](https://commons.wikimedia.org/wiki/File:Gravitational_field_Earth_lines_equipotentials.svg). Retrieved 2026-05-20.*
+
+#### Gravitational field Earth lines equipotentials
+
+![[_attachments/04_Concepts/Gravitational-Potential-Energy--wiki-gravitational-field-earth-lines-equipote.svg]]
+*Figure: from Wikipedia article "Gravitational energy".*
+*Source: Wikimedia Commons — [Gravitational field Earth lines equipotentials.svg](https://commons.wikimedia.org/wiki/File:Gravitational_field_Earth_lines_equipotentials.svg). Retrieved 2026-05-20.*
+
+#### Spacetime lattice analogy
+
+![[_attachments/04_Concepts/Gravitational-Potential-Energy--wiki-spacetime-lattice-analogy.svg]]
+*Figure: from Wikipedia article "Gravitational energy".*
+*Source: Wikimedia Commons — [Spacetime lattice analogy.svg](https://commons.wikimedia.org/wiki/File:Spacetime_lattice_analogy.svg). Retrieved 2026-05-20.*
+
 ## Source Trace
 
 - Source: OpenStax College Physics; HyperPhysics; NASA educational material — no copied text

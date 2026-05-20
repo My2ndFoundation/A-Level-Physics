@@ -80,6 +80,28 @@ xychart-beta
 *Figure: The straight section from the origin (x = 0 to 0.3 m) obeys [[Hookes-Law]]; its gradient is the spring constant $k = F/x$. Beyond the limit of proportionality the line curves and then flattens — the sample yields and extends with little extra force. The triangular area under the straight section equals the elastic strain energy stored ($\frac{1}{2}Fx = \frac{1}{2}kx^2$).*
 *Source: Authored for this vault (CC0). No external copyright.*
 
+### From Wikipedia
+
+<!-- wiki-images: yes -->
+
+#### Hookes-law-springs
+
+![[_attachments/08_Representations/Force-Extension-Graph--wiki-hookes-law-springs.png]]
+*Figure: from Wikipedia article "Hooke's law".*
+*Source: Wikimedia Commons — [Hookes-law-springs.png](https://commons.wikimedia.org/wiki/File:Hookes-law-springs.png). Retrieved 2026-05-20.*
+
+#### Balancier avec ressort spiral
+
+![[_attachments/08_Representations/Force-Extension-Graph--wiki-balancier-avec-ressort-spiral.png]]
+*Figure: from Wikipedia article "Hooke's law".*
+*Source: Wikimedia Commons — [Balancier avec ressort spiral.png](https://commons.wikimedia.org/wiki/File:Balancier_avec_ressort_spiral.png). Retrieved 2026-05-20.*
+
+#### Hooke's Law wikipedia
+
+![[_attachments/08_Representations/Force-Extension-Graph--wiki-hookes-law-wikipedia.png]]
+*Figure: from Wikipedia article "Hooke's law".*
+*Source: Wikimedia Commons — [Hooke's Law wikipedia.png](https://commons.wikimedia.org/wiki/File:Hooke's_Law_wikipedia.png). Retrieved 2026-05-20.*
+
 ## Source Trace
 
 - Source: OCR Practical Skills Handbook; The Physics Classroom; IOPSpark; OpenStax

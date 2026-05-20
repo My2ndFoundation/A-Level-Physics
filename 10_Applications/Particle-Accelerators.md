@@ -78,6 +78,28 @@ Particle accelerators speed charged particles to very high energies using electr
 *Figure: Inside the Large Hadron Collider tunnel at CERN, showing the superconducting dipole magnets that bend the proton beams in a circle. The blue cylinders are the magnet cryostats; the beam travels inside the narrow bore at the centre.*
 *Source: CERN LHC Tunnel — Nikolai Schwerg — CC BY-SA 3.0 — https://commons.wikimedia.org/wiki/File:CERN_LHC_Tunnel.JPG. Retrieved 2026-05-19.*
 
+### From Wikipedia
+
+<!-- wiki-images: yes -->
+
+#### Fermilab
+
+![[_attachments/10_Applications/Particle-Accelerators--wiki-fermilab.jpg]]
+*Figure: from Wikipedia article "Particle accelerator".*
+*Source: Wikimedia Commons — [Fermilab.jpg](https://commons.wikimedia.org/wiki/File:Fermilab.jpg). Retrieved 2026-05-20.*
+
+#### 2mv accelerator-MJC01
+
+![[_attachments/10_Applications/Particle-Accelerators--wiki-2mv-accelerator-mjc01.jpg]]
+*Figure: from Wikipedia article "Particle accelerator".*
+*Source: Wikimedia Commons — [2mv accelerator-MJC01.jpg](https://commons.wikimedia.org/wiki/File:2mv_accelerator-MJC01.jpg). Retrieved 2026-05-20.*
+
+#### Berkeley 60-inch cyclotron
+
+![[_attachments/10_Applications/Particle-Accelerators--wiki-berkeley-60-inch-cyclotron.jpg]]
+*Figure: from Wikipedia article "Particle accelerator".*
+*Source: Wikimedia Commons — [Berkeley 60-inch cyclotron.jpg](https://commons.wikimedia.org/wiki/File:Berkeley_60-inch_cyclotron.jpg). Retrieved 2026-05-20.*
+
 ## Source Trace
 
 - Source: OpenStax College Physics; IOPSpark; Isaac Physics; OCR examiner reports (general) — no copied text

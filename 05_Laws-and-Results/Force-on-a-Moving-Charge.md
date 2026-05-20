@@ -102,6 +102,28 @@ graph TD
 *Figure: A charge moving perpendicular to a uniform magnetic field follows a circle. The magnetic force provides centripetal acceleration without changing the speed.*
 *Source: Authored for this vault (CC0). No external copyright.*
 
+### From Wikipedia
+
+<!-- wiki-images: yes -->
+
+#### Lorentz force on charged particles in bubble chamber - HD.6D.635 (12000265314)
+
+![[_attachments/05_Laws-and-Results/Force-on-a-Moving-Charge--wiki-lorentz-force-on-charged-particles-in-bu.svg]]
+*Figure: from Wikipedia article "Lorentz force".*
+*Source: Wikimedia Commons — [Lorentz_force_on_charged_particles_in_bubble_chamber_-_HD.6D.635_(12000265314).svg](https://commons.wikimedia.org/wiki/File:Lorentz_force_on_charged_particles_in_bubble_chamber_-_HD.6D.635_(12000265314).svg). Retrieved 2026-05-20.*
+
+#### Aharonov–Bohm effect apparatus
+
+![[_attachments/05_Laws-and-Results/Force-on-a-Moving-Charge--wiki-aharonovbohm-effect-apparatus.svg]]
+*Figure: from Wikipedia article "Lorentz force".*
+*Source: Wikimedia Commons — [Aharonov–Bohm effect apparatus.svg](https://commons.wikimedia.org/wiki/File:Aharonov–Bohm_effect_apparatus.svg). Retrieved 2026-05-20.*
+
+#### Alternator 1
+
+![[_attachments/05_Laws-and-Results/Force-on-a-Moving-Charge--wiki-alternator-1.svg]]
+*Figure: from Wikipedia article "Lorentz force".*
+*Source: Wikimedia Commons — [Alternator 1.svg](https://commons.wikimedia.org/wiki/File:Alternator_1.svg). Retrieved 2026-05-20.*
+
 ## Source Trace
 
 OpenStax College Physics; HyperPhysics; Physics LibreTexts — no copied text.

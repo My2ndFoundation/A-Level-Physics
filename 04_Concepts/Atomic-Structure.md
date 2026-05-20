@@ -98,6 +98,28 @@ flowchart TD
 *Figure: Structure of an atom. Z (proton number) fixes the element; $A = Z + N$ is the nucleon number. The nucleus contains almost all the mass but is tiny compared with the atom.*
 *Source: Authored for this vault (CC0). No external copyright.*
 
+### From Wikipedia
+
+<!-- wiki-images: yes -->
+
+#### Helium atom QM
+
+![[_attachments/04_Concepts/Atomic-Structure--wiki-helium-atom-qm.svg]]
+*Figure: from Wikipedia article "Atom".*
+*Source: Wikimedia Commons — [Helium_atom_QM.svg](https://commons.wikimedia.org/wiki/File:Helium_atom_QM.svg). Retrieved 2026-05-20.*
+
+#### Atomic-orbital-clouds spdf m0
+
+![[_attachments/04_Concepts/Atomic-Structure--wiki-atomic-orbital-clouds-spdf-m0.png]]
+*Figure: from Wikipedia article "Atom".*
+*Source: Wikimedia Commons — [Atomic-orbital-clouds spdf m0.png](https://commons.wikimedia.org/wiki/File:Atomic-orbital-clouds_spdf_m0.png). Retrieved 2026-05-20.*
+
+#### Atomic orbital energy levels
+
+![[_attachments/04_Concepts/Atomic-Structure--wiki-atomic-orbital-energy-levels.svg]]
+*Figure: from Wikipedia article "Atom".*
+*Source: Wikimedia Commons — [Atomic orbital energy levels.svg](https://commons.wikimedia.org/wiki/File:Atomic_orbital_energy_levels.svg). Retrieved 2026-05-20.*
+
 ## Source Trace
 
 - Source: OpenStax College Physics; HyperPhysics; CERN educational material — no copied text

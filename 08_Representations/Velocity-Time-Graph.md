@@ -81,6 +81,22 @@ xychart-beta
 *Figure: A straight line of constant negative gradient. The y-intercept is the initial (upward) velocity `u`; the gradient is the constant [[Acceleration]] (here negative, i.e. gravity); the x-intercept marks the instant the ball is momentarily at rest; below the axis the line represents motion in the opposite (downward) direction. Area above the axis is positive [[Displacement]], area below is negative and partly cancels it.*
 *Source: Authored for this vault (CC0). No external copyright.*
 
+### From Wikipedia
+
+<!-- wiki-images: yes -->
+
+#### Acceleration
+
+![[_attachments/08_Representations/Velocity-Time-Graph--wiki-acceleration.svg]]
+*Figure: from Wikipedia article "Motion graphs and derivatives".*
+*Source: Wikimedia Commons — [Acceleration.svg](https://commons.wikimedia.org/wiki/File:Acceleration.svg). Retrieved 2026-05-20.*
+
+#### Velocity vs time graph
+
+![[_attachments/08_Representations/Velocity-Time-Graph--wiki-velocity-vs-time-graph.svg]]
+*Figure: from Wikipedia article "Motion graphs and derivatives".*
+*Source: Wikimedia Commons — [Velocity vs time graph.svg](https://commons.wikimedia.org/wiki/File:Velocity_vs_time_graph.svg). Retrieved 2026-05-20.*
+
 ## Source Trace
 
 - Source: OCR Practical Skills Handbook; The Physics Classroom; IOPSpark; OpenStax

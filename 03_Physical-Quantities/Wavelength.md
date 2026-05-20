@@ -89,6 +89,28 @@ On a displacement–position ("snapshot") graph, wavelength is the distance for 
 *Figure: Displacement–position snapshot of a transverse wave. Wavelength λ (red) spans one full cycle (crest to crest). Amplitude A (orange) is the maximum displacement from equilibrium. This is a position graph — on a time graph the corresponding quantity is period T.*
 *Source: Authored for this vault (CC0). No external copyright.*
 
+### From Wikipedia
+
+<!-- wiki-images: yes -->
+
+#### Sine wavelength
+
+![[_attachments/03_Physical-Quantities/Wavelength--wiki-sine-wavelength.svg]]
+*Figure: from Wikipedia article "Wavelength".*
+*Source: Wikimedia Commons — [Sine_wavelength.svg](https://commons.wikimedia.org/wiki/File:Sine_wavelength.svg). Retrieved 2026-05-20.*
+
+#### Double-slit diffraction pattern
+
+![[_attachments/03_Physical-Quantities/Wavelength--wiki-double-slit-diffraction-pattern.png]]
+*Figure: from Wikipedia article "Wavelength".*
+*Source: Wikimedia Commons — [Double-slit diffraction pattern.png](https://commons.wikimedia.org/wiki/File:Double-slit_diffraction_pattern.png). Retrieved 2026-05-20.*
+
+#### Interferometer path differences
+
+![[_attachments/03_Physical-Quantities/Wavelength--wiki-interferometer-path-differences.jpg]]
+*Figure: from Wikipedia article "Wavelength".*
+*Source: Wikimedia Commons — [Interferometer path differences.JPG](https://commons.wikimedia.org/wiki/File:Interferometer_path_differences.JPG). Retrieved 2026-05-20.*
+
 ## Source Trace
 
 - Source: OpenStax College Physics; The Physics Classroom; HyperPhysics (paraphrased, no copied text)

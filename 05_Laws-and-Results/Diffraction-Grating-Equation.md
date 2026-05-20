@@ -94,6 +94,28 @@ graph TD
 *Figure: A diffraction grating produces sharp maxima at angles given by d sin θ = nλ. Higher orders appear at larger angles.*
 *Source: Authored for this vault (CC0). No external copyright.*
 
+### From Wikipedia
+
+<!-- wiki-images: yes -->
+
+#### Diffraction grating
+
+![[_attachments/05_Laws-and-Results/Diffraction-Grating-Equation--wiki-diffraction-grating.jpg]]
+*Figure: from Wikipedia article "Diffraction grating".*
+*Source: Wikimedia Commons — [Diffraction_grating.jpg](https://commons.wikimedia.org/wiki/File:Diffraction_grating.jpg). Retrieved 2026-05-20.*
+
+#### "Lines made with light" - diffraction gratings at the UK ATC (15555795912)
+
+![[_attachments/05_Laws-and-Results/Diffraction-Grating-Equation--wiki-lines-made-with-light-diffraction-gratin.jpg]]
+*Figure: from Wikipedia article "Diffraction grating".*
+*Source: Wikimedia Commons — ["Lines made with light" - diffraction gratings at the UK ATC (15555795912).jpg](https://commons.wikimedia.org/wiki/File:"Lines_made_with_light"_-_diffraction_gratings_at_the_UK_ATC_(15555795912).jpg). Retrieved 2026-05-20.*
+
+#### An incandescent light-bulb viewed through a transmissive diffraction grating
+
+![[_attachments/05_Laws-and-Results/Diffraction-Grating-Equation--wiki-an-incandescent-light-bulb-viewed-throug.jpg]]
+*Figure: from Wikipedia article "Diffraction grating".*
+*Source: Wikimedia Commons — [An incandescent light-bulb viewed through a transmissive diffraction grating.jpg](https://commons.wikimedia.org/wiki/File:An_incandescent_light-bulb_viewed_through_a_transmissive_diffraction_grating.jpg). Retrieved 2026-05-20.*
+
 ## Source Trace
 
 - Source: OpenStax College Physics; HyperPhysics; IOPSpark

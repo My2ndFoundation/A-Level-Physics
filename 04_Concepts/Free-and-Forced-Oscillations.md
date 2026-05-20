@@ -94,6 +94,16 @@ xychart-beta
 *Figure: Amplitude is largest when driving frequency equals the natural frequency f₀ — this is resonance. Away from f₀ the amplitude falls rapidly.*
 *Source: Authored for this vault (CC0). No external copyright.*
 
+### From Wikipedia
+
+<!-- wiki-images: yes -->
+
+#### ArealVelocity
+
+![[_attachments/04_Concepts/Free-and-Forced-Oscillations--wiki-arealvelocity.svg]]
+*Figure: from Wikipedia article "Natural frequency".*
+*Source: Wikimedia Commons — [ArealVelocity.svg](https://commons.wikimedia.org/wiki/File:ArealVelocity.svg). Retrieved 2026-05-20.*
+
 ## Source Trace
 
 - Source: OpenStax College Physics; HyperPhysics; The Physics Classroom — no copied text

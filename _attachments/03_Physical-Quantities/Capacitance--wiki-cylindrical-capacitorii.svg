@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"  standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" 
+ "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="470" height="270" viewBox="0 0 470 270"
+    xmlns="http://www.w3.org/2000/svg" version="1.1"
+    xmlns:xlink="http://www.w3.org/1999/xlink" id="s1">
+  <title>Cylindrical Capacitor</title>
+  <desc>Manually edited diagram of cylindrical capacitor</desc>
+  <!--  <rect x="0" y="0" width="300" height="422" stroke="none" fill="#CFA"/>  -->
+  <defs id="df">
+    <linearGradient id="lg1" y2="0%" y1="100%" x1="50%" x2="50%" >
+      <stop offset="1%" stop-color="#777" />
+      <stop offset="25%" stop-color="#999" />
+      <stop offset="50%" stop-color="#BBB" />
+      <stop offset="80%" stop-color="#EEE" />
+      <stop offset="100%" stop-color="#999" />
+    </linearGradient>
+    <linearGradient id="lg2" x1="25%" x2="75%" y1="60%" y2="40%" >
+      <stop offset="1%" stop-color="#999" stop-opacity=".6"/>
+      <stop offset="25%" stop-color="#DDD" stop-opacity=".6"/>
+      <stop offset="50%" stop-color="#BBB" stop-opacity=".6"/>
+      <stop offset="80%" stop-color="#999" stop-opacity=".6"/>
+      <stop offset="100%" stop-color="#777" stop-opacity=".6" />
+    </linearGradient>
+    <path fill="#000" id="ahd" d="m-7,3 l1,-3 l-1,-3 l7,3z" />
+  </defs>
+<g id="g1" transform="translate(10,135)scale(1,1)" fill="none"
+    stroke="#000" stroke-width="2.0" stroke-linecap="butt">
+  <path fill="#999" d="M0,0 A80,125 1 1,1 0,1z " />
+  <path fill="#80A8D8" d="M8,0 A72,117 1 1,1 8,1z " />
+  <path fill="url(#lg1)" d="M80,-126 L370,-125 A80,125 0,0,1 370,125 L80,124 A80,125 0,0,0 80,-126" />
+  <path fill="#DA8" d="M53,0 A27,42 1 1,1 53,1z" />
+  <path stroke="none" fill="url(#lg2)" d="M53,0 A27,42 1 1,1 53,1z" />
+  <path d="M160,0 L450,0 M80,0 l20,30 M80,0 l49,-90" />
+  <path d="M161,0 l7,3 l0,-6 l-7,3z M449,0 l-7,3 l0,-6 l7,3z" />
+  <use xlink:href="#ahd" transform="translate(98,28)rotate(55)" />
+  <use xlink:href="#ahd" transform="translate(128,-89)rotate(-57)" />
+  <path stroke-dasharray="2 2" d="M82,43 h65 M82,-43 h65" />
+
+  <g style="fill:#000; stroke-width:0.30; font-family:Verdana; font-size:30pt; font-style:italic">
+    <text x="300" y="-8">l</text>
+    <text x="77" y="-78">R</text>
+    <text x="97" y="56" >R</text>
+    <text x="37" y="-45">&#949;</text>
+    <g font-size="18pt">
+      <text x="101" y="-70">2</text>
+      <text x="121" y="64" >1</text>
+    </g>
+  </g>
+</g>
+<!-- vim:nowrap:sw=2:so=2:et:ai -->
+</svg>

@@ -88,6 +88,28 @@ Drag governs the design of cars, aircraft, projectiles and parachutes, the exist
 *Figure: Weight $W = mg$ acts downward; drag $F_\text{drag}$ acts upward, opposing motion. As speed increases, drag grows until it equals weight — at this point resultant force is zero and the object reaches terminal velocity.*
 *Source: Authored for this vault (CC0). No external copyright.*
 
+### From Wikipedia
+
+<!-- wiki-images: yes -->
+
+#### Airfoil lift and drag
+
+![[_attachments/04_Concepts/Drag--wiki-airfoil-lift-and-drag.svg]]
+*Figure: from Wikipedia article "Drag (physics)".*
+*Source: Wikimedia Commons — [Airfoil_lift_and_drag.svg](https://commons.wikimedia.org/wiki/File:Airfoil_lift_and_drag.svg). Retrieved 2026-05-20.*
+
+#### Aerospatial Concorde (6018513515)
+
+![[_attachments/04_Concepts/Drag--wiki-aerospatial-concorde-6018513515.jpg]]
+*Figure: from Wikipedia article "Drag (physics)".*
+*Source: Wikimedia Commons — [Aerospatial Concorde (6018513515).jpg](https://commons.wikimedia.org/wiki/File:Aerospatial_Concorde_(6018513515).jpg). Retrieved 2026-05-20.*
+
+#### Airfoil lift and drag
+
+![[_attachments/04_Concepts/Drag--wiki-airfoil-lift-and-drag.svg]]
+*Figure: from Wikipedia article "Drag (physics)".*
+*Source: Wikimedia Commons — [Airfoil lift and drag.svg](https://commons.wikimedia.org/wiki/File:Airfoil_lift_and_drag.svg). Retrieved 2026-05-20.*
+
 ## Source Trace
 
 - Source: OpenStax College Physics; The Physics Classroom; IOPSpark; Physics LibreTexts — paraphrased, no copied text.

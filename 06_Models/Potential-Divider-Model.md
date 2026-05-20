@@ -80,6 +80,16 @@ This builds on the GCSE result that voltage is shared in a series circuit, makin
 *Figure: Two resistors R₁ and R₂ in series across supply V_in; the output V_out is taken across R₂ and equals V_in × R₂/(R₁ + R₂) when unloaded.*
 *Source: Authored for this vault (CC0). No external copyright.*
 
+### From Wikipedia
+
+<!-- wiki-images: yes -->
+
+#### HighVoltageDividerProbe
+
+![[_attachments/06_Models/Potential-Divider-Model--wiki-highvoltagedividerprobe.jpg]]
+*Figure: from Wikipedia article "Voltage divider".*
+*Source: Wikimedia Commons — [HighVoltageDividerProbe.jpg](https://commons.wikimedia.org/wiki/File:HighVoltageDividerProbe.jpg). Retrieved 2026-05-20.*
+
 ## Source Trace
 
 - Source: OpenStax College Physics; The Physics Classroom; Isaac Physics — paraphrased, no copied text.

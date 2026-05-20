@@ -80,6 +80,28 @@ xychart-beta
 *Figure: The straight line balances the scatter of the experimental points (bars), passing through the approximate centre of the spread. The gradient is read from a large triangle spanning most of the line: rise ÷ run gives the physical quantity encoded by the equation's $y = mx + c$ form. A non-zero intercept may indicate a systematic offset in the apparatus.*
 *Source: Authored for this vault (CC0). No external copyright.*
 
+### From Wikipedia
+
+<!-- wiki-images: yes -->
+
+#### Anscombe's quartet 3
+
+![[_attachments/08_Representations/Line-of-Best-Fit-Graph--wiki-anscombes-quartet-3.svg]]
+*Figure: from Wikipedia article "Linear regression".*
+*Source: Wikimedia Commons — [Anscombe's quartet 3.svg](https://commons.wikimedia.org/wiki/File:Anscombe's_quartet_3.svg). Retrieved 2026-05-20.*
+
+#### Galton's correlation diagram 1875
+
+![[_attachments/08_Representations/Line-of-Best-Fit-Graph--wiki-galtons-correlation-diagram-1875.jpg]]
+*Figure: from Wikipedia article "Linear regression".*
+*Source: Wikimedia Commons — [Galton's correlation diagram 1875.jpg](https://commons.wikimedia.org/wiki/File:Galton's_correlation_diagram_1875.jpg). Retrieved 2026-05-20.*
+
+#### Linear least squares example2
+
+![[_attachments/08_Representations/Line-of-Best-Fit-Graph--wiki-linear-least-squares-example2.svg]]
+*Figure: from Wikipedia article "Linear regression".*
+*Source: Wikimedia Commons — [Linear least squares example2.svg](https://commons.wikimedia.org/wiki/File:Linear_least_squares_example2.svg). Retrieved 2026-05-20.*
+
 ## Source Trace
 
 - Source: [[OCR-Physics-Practical-Skills-Handbook]]

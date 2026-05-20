@@ -97,6 +97,28 @@ Electric fields explain charging, sparks, the deflection of charged particles in
 *Figure: Field lines point radially outward from a positive charge. Their density represents field strength, which falls off as 1/r². For a negative charge the arrows would reverse (lines pointing inward).*
 *Source: Authored for this vault (CC0). No external copyright.*
 
+### From Wikipedia
+
+<!-- wiki-images: yes -->
+
+#### VFPt Solenoid correct2
+
+![[_attachments/04_Concepts/Electric-Field--wiki-vfpt-solenoid-correct2.svg]]
+*Figure: from Wikipedia article "Electric field".*
+*Source: Wikimedia Commons — [VFPt_Solenoid_correct2.svg](https://commons.wikimedia.org/wiki/File:VFPt_Solenoid_correct2.svg). Retrieved 2026-05-20.*
+
+#### Bremsstrahlung
+
+![[_attachments/04_Concepts/Electric-Field--wiki-bremsstrahlung.gif]]
+*Figure: from Wikipedia article "Electric field".*
+*Source: Wikimedia Commons — [Bremsstrahlung.gif](https://commons.wikimedia.org/wiki/File:Bremsstrahlung.gif). Retrieved 2026-05-20.*
+
+#### Cat demonstrating static cling with styrofoam peanuts
+
+![[_attachments/04_Concepts/Electric-Field--wiki-cat-demonstrating-static-cling-with-styr.jpg]]
+*Figure: from Wikipedia article "Electric field".*
+*Source: Wikimedia Commons — [Cat demonstrating static cling with styrofoam peanuts.jpg](https://commons.wikimedia.org/wiki/File:Cat_demonstrating_static_cling_with_styrofoam_peanuts.jpg). Retrieved 2026-05-20.*
+
 ## Source Trace
 
 - Source: OpenStax College Physics; HyperPhysics; Physics LibreTexts — no copied text

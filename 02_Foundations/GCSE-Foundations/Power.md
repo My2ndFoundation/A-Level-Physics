@@ -68,6 +68,30 @@ A powerful kettle boils water faster than a low-power one because it transfers e
 
 At A-Level, power becomes a precise derived quantity: $P = E/t$, $P = W/t$, $P = Fv$ for mechanical power, and $P = IV$ (with $P = I^2R$ and $P = V^2/R$) for electrical power. It is used in efficiency definitions and in analysing energy transfer in circuits and machines. See the A-Level [[Power]] physical-quantity page for the formal treatment.
 
+## Visuals
+
+### From Wikipedia
+
+<!-- wiki-images: yes -->
+
+#### Ansel Adams - National Archives 79-AAB-02
+
+![[_attachments/02_Foundations/Power--wiki-ansel-adams-national-archives-79-aab-02.jpg]]
+*Figure: from Wikipedia article "Power (physics)".*
+*Source: Wikimedia Commons — [Ansel Adams - National Archives 79-AAB-02.jpg](https://commons.wikimedia.org/wiki/File:Ansel_Adams_-_National_Archives_79-AAB-02.jpg). Retrieved 2026-05-20.*
+
+#### Horsepower plain
+
+![[_attachments/02_Foundations/Power--wiki-horsepower-plain.svg]]
+*Figure: from Wikipedia article "Power (physics)".*
+*Source: Wikimedia Commons — [Horsepower plain.svg](https://commons.wikimedia.org/wiki/File:Horsepower_plain.svg). Retrieved 2026-05-20.*
+
+#### Peak-power-average-power-tau-T
+
+![[_attachments/02_Foundations/Power--wiki-peak-power-average-power-tau-t.png]]
+*Figure: from Wikipedia article "Power (physics)".*
+*Source: Wikimedia Commons — [Peak-power-average-power-tau-T.png](https://commons.wikimedia.org/wiki/File:Peak-power-average-power-tau-T.png). Retrieved 2026-05-20.*
+
 ## Source Trace
 
 - Source: BBC Bitesize GCSE Physics (power, electrical power); IOPSpark; The Physics Classroom

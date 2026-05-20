@@ -99,6 +99,28 @@ flowchart TD
 *Figure: The weight of an object acts effectively through its centre of mass. Stability depends on whether the CoM lies over the base of support; if it moves outside, a toppling moment results.*
 *Source: Authored for this vault (CC0). No external copyright.*
 
+### From Wikipedia
+
+<!-- wiki-images: yes -->
+
+#### Bird toy showing center of gravity
+
+![[_attachments/04_Concepts/Centre-of-Mass--wiki-bird-toy-showing-center-of-gravity.jpg]]
+*Figure: from Wikipedia article "Center of mass".*
+*Source: Wikimedia Commons — [Bird_toy_showing_center_of_gravity.jpg](https://commons.wikimedia.org/wiki/File:Bird_toy_showing_center_of_gravity.jpg). Retrieved 2026-05-20.*
+
+#### Bird toy showing center of gravity
+
+![[_attachments/04_Concepts/Centre-of-Mass--wiki-bird-toy-showing-center-of-gravity.jpg]]
+*Figure: from Wikipedia article "Center of mass".*
+*Source: Wikimedia Commons — [Bird toy showing center of gravity.jpg](https://commons.wikimedia.org/wiki/File:Bird_toy_showing_center_of_gravity.jpg). Retrieved 2026-05-20.*
+
+#### Center gravity 2
+
+![[_attachments/04_Concepts/Centre-of-Mass--wiki-center-gravity-2.svg]]
+*Figure: from Wikipedia article "Center of mass".*
+*Source: Wikimedia Commons — [Center gravity 2.svg](https://commons.wikimedia.org/wiki/File:Center_gravity_2.svg). Retrieved 2026-05-20.*
+
 ## Source Trace
 
 - Source: OpenStax College Physics; The Physics Classroom; IOPSpark; Physics LibreTexts — paraphrased, no copied text.

@@ -105,6 +105,28 @@ graph LR
 *Figure: At any junction the current splits so that total current in equals total current out — conservation of charge.*
 *Source: Authored for this vault (CC0). No external copyright.*
 
+### From Wikipedia
+
+<!-- wiki-images: yes -->
+
+#### KCL - Kirchhoff's circuit laws
+
+![[_attachments/05_Laws-and-Results/Kirchhoffs-First-Law--wiki-kcl-kirchhoffs-circuit-laws.svg]]
+*Figure: from Wikipedia article "Kirchhoff's circuit laws".*
+*Source: Wikimedia Commons — [KCL - Kirchhoff's circuit laws.svg](https://commons.wikimedia.org/wiki/File:KCL_-_Kirchhoff's_circuit_laws.svg). Retrieved 2026-05-20.*
+
+#### Kirchhoff voltage law
+
+![[_attachments/05_Laws-and-Results/Kirchhoffs-First-Law--wiki-kirchhoff-voltage-law.svg]]
+*Figure: from Wikipedia article "Kirchhoff's circuit laws".*
+*Source: Wikimedia Commons — [Kirchhoff voltage law.svg](https://commons.wikimedia.org/wiki/File:Kirchhoff_voltage_law.svg). Retrieved 2026-05-20.*
+
+#### Kirshhoff-example
+
+![[_attachments/05_Laws-and-Results/Kirchhoffs-First-Law--wiki-kirshhoff-example.svg]]
+*Figure: from Wikipedia article "Kirchhoff's circuit laws".*
+*Source: Wikimedia Commons — [Kirshhoff-example.svg](https://commons.wikimedia.org/wiki/File:Kirshhoff-example.svg). Retrieved 2026-05-20.*
+
 ## Source Trace
 
 - Source: OpenStax College Physics; HyperPhysics; Physics LibreTexts — paraphrased, no copied text

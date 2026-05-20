@@ -100,6 +100,22 @@ xychart-beta
 *Figure: W = mg gives a straight line through the origin; the gradient is g ≈ 9.81 N kg⁻¹. This same gradient can be measured in a free-fall experiment. On the Moon or another planet the gradient changes because g is different there.*
 *Source: Authored for this vault (CC0). No external copyright.*
 
+### From Wikipedia
+
+<!-- wiki-images: yes -->
+
+#### Earth-moon-field
+
+![[_attachments/03_Physical-Quantities/Gravitational-Field-Strength--wiki-earth-moon-field.svg]]
+*Figure: from Wikipedia article "Gravitational acceleration".*
+*Source: Wikimedia Commons — [Earth-moon-field.svg](https://commons.wikimedia.org/wiki/File:Earth-moon-field.svg). Retrieved 2026-05-20.*
+
+#### Orbit3
+
+![[_attachments/03_Physical-Quantities/Gravitational-Field-Strength--wiki-orbit3.gif]]
+*Figure: from Wikipedia article "Gravitational acceleration".*
+*Source: Wikimedia Commons — [Orbit3.gif](https://commons.wikimedia.org/wiki/File:Orbit3.gif). Retrieved 2026-05-20.*
+
 ## Source Trace
 
 - Source: OpenStax College Physics; The Physics Classroom; HyperPhysics (paraphrased, no copied text)

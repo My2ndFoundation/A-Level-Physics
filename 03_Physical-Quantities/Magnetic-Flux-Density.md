@@ -91,6 +91,28 @@ A graph of force against current for a fixed wire length in a uniform field is a
 *Figure: A horizontal wire carrying current I (right) sits in an upward field B. The resulting force F = BIL acts perpendicular to both I and B (downward here), as given by the Left-Hand Rule.*
 *Source: Authored for this vault (CC0). No external copyright.*
 
+### From Wikipedia
+
+<!-- wiki-images: yes -->
+
+#### Magnetic field around solenoid
+
+![[_attachments/03_Physical-Quantities/Magnetic-Flux-Density--wiki-magnetic-field-around-solenoid.jpg]]
+*Figure: from Wikipedia article "Magnetic field".*
+*Source: Wikimedia Commons — [Magnetic_field_around_solenoid.jpg](https://commons.wikimedia.org/wiki/File:Magnetic_field_around_solenoid.jpg). Retrieved 2026-05-20.*
+
+#### Circular toroidal inductor
+
+![[_attachments/03_Physical-Quantities/Magnetic-Flux-Density--wiki-circular-toroidal-inductor.svg]]
+*Figure: from Wikipedia article "Magnetic field".*
+*Source: Wikimedia Commons — [Circular toroidal inductor.svg](https://commons.wikimedia.org/wiki/File:Circular_toroidal_inductor.svg). Retrieved 2026-05-20.*
+
+#### CoaxPoyntingVector
+
+![[_attachments/03_Physical-Quantities/Magnetic-Flux-Density--wiki-coaxpoyntingvector.png]]
+*Figure: from Wikipedia article "Magnetic field".*
+*Source: Wikimedia Commons — [CoaxPoyntingVector.png](https://commons.wikimedia.org/wiki/File:CoaxPoyntingVector.png). Retrieved 2026-05-20.*
+
 ## Source Trace
 
 - Source: OpenStax College Physics; The Physics Classroom; HyperPhysics (paraphrased, no copied text)

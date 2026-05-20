@@ -99,6 +99,16 @@ xychart-beta
 *Figure: Charge Q falls to Q₀/e ≈ 0.37 Q₀ after one time constant τ = RC. After 5τ less than 1% remains — the capacitor is regarded as fully discharged. The curve is exponential: Q = Q₀ e^(−t/τ).*
 *Source: Authored for this vault (CC0). No external copyright.*
 
+### From Wikipedia
+
+<!-- wiki-images: yes -->
+
+#### Tau uc lc
+
+![[_attachments/03_Physical-Quantities/Time-Constant--wiki-tau-uc-lc.svg]]
+*Figure: from Wikipedia article "Tau".*
+*Source: Wikimedia Commons — [Tau uc lc.svg](https://commons.wikimedia.org/wiki/File:Tau_uc_lc.svg). Retrieved 2026-05-20.*
+
 ## Source Trace
 
 - Source: OpenStax College Physics; HyperPhysics; Physics LibreTexts — no copied text

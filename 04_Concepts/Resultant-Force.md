@@ -91,6 +91,22 @@ Almost every mechanics problem begins by finding the resultant force. It is the 
 *Figure: Two forces F₁ (horizontal) and F₂ (vertical) acting on an object. Right: placing them tip-to-tail, the resultant F_R (purple) closes the triangle. Its magnitude is √(F₁²+F₂²) and its direction is tan⁻¹(F₂/F₁) from F₁.*
 *Source: Authored for this vault (CC0). No external copyright.*
 
+### From Wikipedia
+
+<!-- wiki-images: yes -->
+
+#### Rezultanta
+
+![[_attachments/04_Concepts/Resultant-Force--wiki-rezultanta.svg]]
+*Figure: from Wikipedia article "Resultant force".*
+*Source: Wikimedia Commons — [Rezultanta.svg](https://commons.wikimedia.org/wiki/File:Rezultanta.svg). Retrieved 2026-05-20.*
+
+#### Stylised atom with three Bohr model orbits and stylised nucleus
+
+![[_attachments/04_Concepts/Resultant-Force--wiki-stylised-atom-with-three-bohr-model-orbi.svg]]
+*Figure: from Wikipedia article "Resultant force".*
+*Source: Wikimedia Commons — [Stylised atom with three Bohr model orbits and stylised nucleus.svg](https://commons.wikimedia.org/wiki/File:Stylised_atom_with_three_Bohr_model_orbits_and_stylised_nucleus.svg). Retrieved 2026-05-20.*
+
 ## Source Trace
 
 - Source: OpenStax College Physics; The Physics Classroom; IOPSpark; Physics LibreTexts — paraphrased, no copied text.

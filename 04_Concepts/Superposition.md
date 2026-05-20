@@ -90,6 +90,28 @@ Superposition is the single principle from which interference, standing waves an
 *Figure: Top — two in-phase waves (A and A) superpose to give amplitude 2A (constructive). Bottom — two antiphase waves (+A and −A) cancel to give zero resultant (destructive). At each point the resultant is the algebraic sum.*
 *Source: Authored for this vault (CC0). No external copyright.*
 
+### From Wikipedia
+
+<!-- wiki-images: yes -->
+
+#### Anas platyrhynchos with ducklings reflecting water
+
+![[_attachments/04_Concepts/Superposition--wiki-anas-platyrhynchos-with-ducklings-reflec.jpg]]
+*Figure: from Wikipedia article "Superposition principle".*
+*Source: Wikimedia Commons — [Anas_platyrhynchos_with_ducklings_reflecting_water.jpg](https://commons.wikimedia.org/wiki/File:Anas_platyrhynchos_with_ducklings_reflecting_water.jpg). Retrieved 2026-05-20.*
+
+#### Anas platyrhynchos with ducklings reflecting water
+
+![[_attachments/04_Concepts/Superposition--wiki-anas-platyrhynchos-with-ducklings-reflec.jpg]]
+*Figure: from Wikipedia article "Superposition principle".*
+*Source: Wikimedia Commons — [Anas platyrhynchos with ducklings reflecting water.jpg](https://commons.wikimedia.org/wiki/File:Anas_platyrhynchos_with_ducklings_reflecting_water.jpg). Retrieved 2026-05-20.*
+
+#### Rolling animation
+
+![[_attachments/04_Concepts/Superposition--wiki-rolling-animation.gif]]
+*Figure: from Wikipedia article "Superposition principle".*
+*Source: Wikimedia Commons — [Rolling animation.gif](https://commons.wikimedia.org/wiki/File:Rolling_animation.gif). Retrieved 2026-05-20.*
+
 ## Source Trace
 
 - Source: OpenStax College Physics; The Physics Classroom; IOPSpark; Physics LibreTexts — paraphrased, no copied text.

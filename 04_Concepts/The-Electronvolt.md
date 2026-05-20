@@ -92,6 +92,16 @@ flowchart LR
 *Figure: The electronvolt is the energy gained by one electron charge e accelerated through 1 V. Always convert to joules (multiply by 1.60 × 10⁻¹⁹) before substituting into SI equations.*
 *Source: Authored for this vault (CC0). No external copyright.*
 
+### From Wikipedia
+
+<!-- wiki-images: yes -->
+
+#### Light spectrum
+
+![[_attachments/04_Concepts/The-Electronvolt--wiki-light-spectrum.svg]]
+*Figure: from Wikipedia article "Electronvolt".*
+*Source: Wikimedia Commons — [Light spectrum.svg](https://commons.wikimedia.org/wiki/File:Light_spectrum.svg). Retrieved 2026-05-20.*
+
 ## Source Trace
 
 - Source: OpenStax College Physics; HyperPhysics; IOPSpark

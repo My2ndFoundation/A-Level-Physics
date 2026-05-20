@@ -106,6 +106,28 @@ flowchart TD
 *Figure: Every particle also has a corresponding antiparticle. Gravity is NOT part of the Standard Model. QFT mathematics is out of scope at A-Level.*
 *Source: Authored for this vault (CC0). No external copyright.*
 
+### From Wikipedia
+
+<!-- wiki-images: yes -->
+
+#### Standard Model of Elementary Particles
+
+![[_attachments/04_Concepts/The-Standard-Model--wiki-standard-model-of-elementary-particles.svg]]
+*Figure: from Wikipedia article "Standard Model".*
+*Source: Wikimedia Commons — [Standard_Model_of_Elementary_Particles.svg](https://commons.wikimedia.org/wiki/File:Standard_Model_of_Elementary_Particles.svg). Retrieved 2026-05-20.*
+
+#### Fundamental Interactions
+
+![[_attachments/04_Concepts/The-Standard-Model--wiki-fundamental-interactions.png]]
+*Figure: from Wikipedia article "Standard Model".*
+*Source: Wikimedia Commons — [Fundamental Interactions.png](https://commons.wikimedia.org/wiki/File:Fundamental_Interactions.png). Retrieved 2026-05-20.*
+
+#### Standard Model of Elementary Particles
+
+![[_attachments/04_Concepts/The-Standard-Model--wiki-standard-model-of-elementary-particles.svg]]
+*Figure: from Wikipedia article "Standard Model".*
+*Source: Wikimedia Commons — [Standard Model of Elementary Particles.svg](https://commons.wikimedia.org/wiki/File:Standard_Model_of_Elementary_Particles.svg). Retrieved 2026-05-20.*
+
 ## Source Trace
 
 - Source: OpenStax College Physics; HyperPhysics; CERN educational material — no copied text

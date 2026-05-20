@@ -67,6 +67,28 @@ A simulation uses a computer to predict how a physical system evolves by repeate
 
 _None yet — a simulated vs analytic trajectory plot would suit this page._
 
+### From Wikipedia
+
+<!-- wiki-images: yes -->
+
+#### 3DiTeams percuss chest
+
+![[_attachments/10_Applications/Simulation--wiki-3diteams-percuss-chest.jpg]]
+*Figure: from Wikipedia article "Simulation".*
+*Source: Wikimedia Commons — [3DiTeams percuss chest.JPG](https://commons.wikimedia.org/wiki/File:3DiTeams_percuss_chest.JPG). Retrieved 2026-05-20.*
+
+#### Car racing simulator - SBR Racing, Construma, 2015.04.17
+
+![[_attachments/10_Applications/Simulation--wiki-car-racing-simulator-sbr-racing-construm.jpg]]
+*Figure: from Wikipedia article "Simulation".*
+*Source: Wikimedia Commons — [Car racing simulator - SBR Racing, Construma, 2015.04.17.JPG](https://commons.wikimedia.org/wiki/File:Car_racing_simulator_-_SBR_Racing,_Construma,_2015.04.17.JPG). Retrieved 2026-05-20.*
+
+#### Christer Fuglesang underwater EVA simulation for STS-116
+
+![[_attachments/10_Applications/Simulation--wiki-christer-fuglesang-underwater-eva-simula.jpg]]
+*Figure: from Wikipedia article "Simulation".*
+*Source: Wikimedia Commons — [Christer Fuglesang underwater EVA simulation for STS-116.jpg](https://commons.wikimedia.org/wiki/File:Christer_Fuglesang_underwater_EVA_simulation_for_STS-116.jpg). Retrieved 2026-05-20.*
+
 ## External Resources
 
 - Isaac Physics — Modelling: https://isaacphysics.org

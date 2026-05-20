@@ -91,6 +91,28 @@ flowchart LR
 *Figure: Moving right (solid → gas) adds potential energy (breaking bonds) — T does not rise during a change of state. Kinetic energy (and hence T) rises only within a single state.*
 *Source: Authored for this vault (CC0). No external copyright.*
 
+### From Wikipedia
+
+<!-- wiki-images: yes -->
+
+#### Bromine vial in acrylic cube
+
+![[_attachments/04_Concepts/States-of-Matter--wiki-bromine-vial-in-acrylic-cube.jpg]]
+*Figure: from Wikipedia article "State of matter".*
+*Source: Wikimedia Commons — [Bromine_vial_in_acrylic_cube.jpg](https://commons.wikimedia.org/wiki/File:Bromine_vial_in_acrylic_cube.jpg). Retrieved 2026-05-20.*
+
+#### Bose Einstein condensate
+
+![[_attachments/04_Concepts/States-of-Matter--wiki-bose-einstein-condensate.png]]
+*Figure: from Wikipedia article "State of matter".*
+*Source: Wikimedia Commons — [Bose Einstein condensate.png](https://commons.wikimedia.org/wiki/File:Bose_Einstein_condensate.png). Retrieved 2026-05-20.*
+
+#### Bromine vial in acrylic cube
+
+![[_attachments/04_Concepts/States-of-Matter--wiki-bromine-vial-in-acrylic-cube.jpg]]
+*Figure: from Wikipedia article "State of matter".*
+*Source: Wikimedia Commons — [Bromine vial in acrylic cube.jpg](https://commons.wikimedia.org/wiki/File:Bromine_vial_in_acrylic_cube.jpg). Retrieved 2026-05-20.*
+
 ## Source Trace
 
 - Source: OpenStax College Physics; HyperPhysics; The Physics Classroom — paraphrased, no copied text

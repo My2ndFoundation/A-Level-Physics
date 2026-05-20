@@ -108,6 +108,28 @@ flowchart LR
 *Figure: Mass m links force, acceleration, weight, and momentum through Newton's second law.*
 *Source: Authored for this vault (CC0). No external copyright.*
 
+### From Wikipedia
+
+<!-- wiki-images: yes -->
+
+#### Poids fonte 2 kg 03 (cropped)
+
+![[_attachments/03_Physical-Quantities/Mass--wiki-poids-fonte-2-kg-03-cropped.jpg]]
+*Figure: from Wikipedia article "Mass".*
+*Source: Wikimedia Commons — [Poids_fonte_2_kg_03_(cropped).jpg](https://commons.wikimedia.org/wiki/File:Poids_fonte_2_kg_03_(cropped).jpg). Retrieved 2026-05-20.*
+
+#### Cavendish Experiment
+
+![[_attachments/03_Physical-Quantities/Mass--wiki-cavendish-experiment.png]]
+*Figure: from Wikipedia article "Mass".*
+*Source: Wikimedia Commons — [Cavendish Experiment.png](https://commons.wikimedia.org/wiki/File:Cavendish_Experiment.png). Retrieved 2026-05-20.*
+
+#### El pesado del corazón en el Papiro de Hunefer
+
+![[_attachments/03_Physical-Quantities/Mass--wiki-el-pesado-del-corazon-en-el-papiro-de-hu.jpg]]
+*Figure: from Wikipedia article "Mass".*
+*Source: Wikimedia Commons — [El pesado del corazón en el Papiro de Hunefer.jpg](https://commons.wikimedia.org/wiki/File:El_pesado_del_corazón_en_el_Papiro_de_Hunefer.jpg). Retrieved 2026-05-20.*
+
 ## Source Trace
 
 - Source: OpenStax College Physics; The Physics Classroom; HyperPhysics (paraphrased, no copied text)

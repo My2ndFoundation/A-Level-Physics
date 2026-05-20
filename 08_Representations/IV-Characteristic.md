@@ -88,6 +88,28 @@ xychart-beta
 *Figure: The straight line through the origin represents an ohmic conductor; its constant gradient $= 1/R$ confirms constant [[Resistance]]. The curve (flattening at higher V) represents a filament lamp: as the filament heats up [[Resistance]] increases, so the gradient ($= 1/R$) decreases and the line curves away from the ohmic case.*
 *Source: Authored for this vault (CC0). No external copyright.*
 
+### From Wikipedia
+
+<!-- wiki-images: yes -->
+
+#### FourIVcurves
+
+![[_attachments/08_Representations/IV-Characteristic--wiki-fourivcurves.svg]]
+*Figure: from Wikipedia article "Current–voltage characteristic".*
+*Source: Wikimedia Commons — [FourIVcurves.svg](https://commons.wikimedia.org/wiki/File:FourIVcurves.svg). Retrieved 2026-05-20.*
+
+#### Gunn diode IV curve
+
+![[_attachments/08_Representations/IV-Characteristic--wiki-gunn-diode-iv-curve.svg]]
+*Figure: from Wikipedia article "Current–voltage characteristic".*
+*Source: Wikimedia Commons — [Gunn diode IV curve.svg](https://commons.wikimedia.org/wiki/File:Gunn_diode_IV_curve.svg). Retrieved 2026-05-20.*
+
+#### IvsV mosfet
+
+![[_attachments/08_Representations/IV-Characteristic--wiki-ivsv-mosfet.svg]]
+*Figure: from Wikipedia article "Current–voltage characteristic".*
+*Source: Wikimedia Commons — [IvsV mosfet.svg](https://commons.wikimedia.org/wiki/File:IvsV_mosfet.svg). Retrieved 2026-05-20.*
+
 ## Source Trace
 
 - Source: OCR Practical Skills Handbook; The Physics Classroom; IOPSpark; OpenStax

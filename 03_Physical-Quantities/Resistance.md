@@ -103,6 +103,28 @@ flowchart LR
 *Figure: Resistance R = V/I; for ohmic conductors R is constant (straight I–V line); for non-ohmic components R changes with current or temperature. Resistivity ρ describes the material independently of sample size.*
 *Source: Authored for this vault (CC0). No external copyright.*
 
+### From Wikipedia
+
+<!-- wiki-images: yes -->
+
+#### VFPt Solenoid correct2
+
+![[_attachments/03_Physical-Quantities/Resistance--wiki-vfpt-solenoid-correct2.svg]]
+*Figure: from Wikipedia article "Electrical resistance and conductance".*
+*Source: Wikimedia Commons — [VFPt_Solenoid_correct2.svg](https://commons.wikimedia.org/wiki/File:VFPt_Solenoid_correct2.svg). Retrieved 2026-05-20.*
+
+#### Cartridge-heater-hot
+
+![[_attachments/03_Physical-Quantities/Resistance--wiki-cartridge-heater-hot.jpg]]
+*Figure: from Wikipedia article "Electrical resistance and conductance".*
+*Source: Wikimedia Commons — [Cartridge-heater-hot.jpg](https://commons.wikimedia.org/wiki/File:Cartridge-heater-hot.jpg). Retrieved 2026-05-20.*
+
+#### DifferentialChordalResistance
+
+![[_attachments/03_Physical-Quantities/Resistance--wiki-differentialchordalresistance.svg]]
+*Figure: from Wikipedia article "Electrical resistance and conductance".*
+*Source: Wikimedia Commons — [DifferentialChordalResistance.svg](https://commons.wikimedia.org/wiki/File:DifferentialChordalResistance.svg). Retrieved 2026-05-20.*
+
 ## Source Trace
 
 - Source: OpenStax College Physics; The Physics Classroom; HyperPhysics (paraphrased, no copied text)

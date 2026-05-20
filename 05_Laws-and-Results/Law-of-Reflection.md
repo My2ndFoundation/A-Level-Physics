@@ -91,6 +91,28 @@ Using Huygens' wavefront construction: every point on the wavefront reaching the
 *Figure: Incident ray (blue) and reflected ray (red) make equal angles θᵢ and θᵣ with the normal. Angles are always measured from the normal, not the surface.*
 *Source: Authored for this vault (CC0). No external copyright.*
 
+### From Wikipedia
+
+<!-- wiki-images: yes -->
+
+#### Eiffel Tower under cloudy sky
+
+![[_attachments/05_Laws-and-Results/Law-of-Reflection--wiki-eiffel-tower-under-cloudy-sky.jpg]]
+*Figure: from Wikipedia article "Specular reflection".*
+*Source: Wikimedia Commons — [Eiffel Tower under cloudy sky.jpg](https://commons.wikimedia.org/wiki/File:Eiffel_Tower_under_cloudy_sky.jpg). Retrieved 2026-05-20.*
+
+#### Heart of the City water feature Sheffield - geograph.org.uk - 618552
+
+![[_attachments/05_Laws-and-Results/Law-of-Reflection--wiki-heart-of-the-city-water-feature-sheffiel.jpg]]
+*Figure: from Wikipedia article "Specular reflection".*
+*Source: Wikimedia Commons — [Heart of the City water feature Sheffield - geograph.org.uk - 618552.jpg](https://commons.wikimedia.org/wiki/File:Heart_of_the_City_water_feature_Sheffield_-_geograph.org.uk_-_618552.jpg). Retrieved 2026-05-20.*
+
+#### Marble ball - Kongens Have - Copenhagen - DSC07898
+
+![[_attachments/05_Laws-and-Results/Law-of-Reflection--wiki-marble-ball-kongens-have-copenhagen-dsc0.jpg]]
+*Figure: from Wikipedia article "Specular reflection".*
+*Source: Wikimedia Commons — [Marble ball - Kongens Have - Copenhagen - DSC07898.JPG](https://commons.wikimedia.org/wiki/File:Marble_ball_-_Kongens_Have_-_Copenhagen_-_DSC07898.JPG). Retrieved 2026-05-20.*
+
 ## Source Trace
 
 - Source: OpenStax College Physics; HyperPhysics; Physics LibreTexts — paraphrased, no copied text.

@@ -101,6 +101,28 @@ flowchart LR
 *Figure: Internal energy has two parts. During heating of a single phase both rise; during a change of state only PE changes (temperature stays constant — this is the physical meaning of specific latent heat).*
 *Source: Authored for this vault (CC0). No external copyright.*
 
+### From Wikipedia
+
+<!-- wiki-images: yes -->
+
+#### Carnot heat engine 2
+
+![[_attachments/04_Concepts/Internal-Energy--wiki-carnot-heat-engine-2.svg]]
+*Figure: from Wikipedia article "Internal energy".*
+*Source: Wikimedia Commons — [Carnot_heat_engine_2.svg](https://commons.wikimedia.org/wiki/File:Carnot_heat_engine_2.svg). Retrieved 2026-05-20.*
+
+#### Carnot heat engine 2
+
+![[_attachments/04_Concepts/Internal-Energy--wiki-carnot-heat-engine-2.svg]]
+*Figure: from Wikipedia article "Internal energy".*
+*Source: Wikimedia Commons — [Carnot heat engine 2.svg](https://commons.wikimedia.org/wiki/File:Carnot_heat_engine_2.svg). Retrieved 2026-05-20.*
+
+#### Green check
+
+![[_attachments/04_Concepts/Internal-Energy--wiki-green-check.svg]]
+*Figure: from Wikipedia article "Internal energy".*
+*Source: Wikimedia Commons — [Green check.svg](https://commons.wikimedia.org/wiki/File:Green_check.svg). Retrieved 2026-05-20.*
+
 ## Source Trace
 
 - Source: OpenStax College Physics; HyperPhysics; The Physics Classroom — paraphrased, no copied text

@@ -93,6 +93,28 @@ From the wave model, frequency is constant across the boundary while speed chang
 *Figure: Light bends toward the normal when entering a denser medium (n₂ > n₁), so θ₂ < θ₁. Frequency is unchanged; wavelength and speed scale together.*
 *Source: Authored for this vault (CC0). No external copyright.*
 
+### From Wikipedia
+
+<!-- wiki-images: yes -->
+
+#### Snells law2
+
+![[_attachments/05_Laws-and-Results/Snell-Law--wiki-snells-law2.svg]]
+*Figure: from Wikipedia article "Snell's law".*
+*Source: Wikimedia Commons — [Snells_law2.svg](https://commons.wikimedia.org/wiki/File:Snells_law2.svg). Retrieved 2026-05-20.*
+
+#### Huygens Refracted Waves
+
+![[_attachments/05_Laws-and-Results/Snell-Law--wiki-huygens-refracted-waves.png]]
+*Figure: from Wikipedia article "Snell's law".*
+*Source: Wikimedia Commons — [Huygens Refracted Waves.png](https://commons.wikimedia.org/wiki/File:Huygens_Refracted_Waves.png). Retrieved 2026-05-20.*
+
+#### Ibn Sahl manuscript
+
+![[_attachments/05_Laws-and-Results/Snell-Law--wiki-ibn-sahl-manuscript.jpg]]
+*Figure: from Wikipedia article "Snell's law".*
+*Source: Wikimedia Commons — [Ibn Sahl manuscript.jpg](https://commons.wikimedia.org/wiki/File:Ibn_Sahl_manuscript.jpg). Retrieved 2026-05-20.*
+
 ## Source Trace
 
 - Source: OpenStax College Physics; HyperPhysics; Physics LibreTexts — paraphrased, no copied text

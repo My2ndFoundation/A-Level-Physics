@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.0//EN" 
+              "http://www.w3.org/TR/2001/REC-SVG-20010904/DTD/svg10.dtd">
+
+<svg xmlns="http://www.w3.org/2000/svg"  width="445" height="470"> 
+
+<title>Kinematics along a straight line</title>
+
+<defs>
+	<marker id="mArrow" markerWidth="12" markerHeight="20" refX="1" refY="8" orient="auto">
+	<path d="M 0 2 L 8 8 L 0 14 Q 5,7 0,2 " style="fill: black; stroke: black;" />
+	</marker>
+</defs>
+
+<g id="position" transform="translate(30,100)" >
+<path d="M0,20 v-100" style="marker-end: url(#mArrow); fill:none; stroke:black; stroke-width=2;" />
+<path d="M 0,20 h400" style="marker-end: url(#mArrow); fill:none; stroke:black; stroke-width=2;" />
+<path d="M 0,0 h40 Q 60,0 80,-20 L 130,-70 Q 140,-80 150,-80  L 180,-80 Q200,-80 220,-70 L 350,-5 Q 355 -2.5 360 -2.5 L 380,-2.5 " stroke="green" stroke-width="4" fill="none" />
+<text x="390" y="40" style="text-anchor:middle;font-size:16pt;fill:black;">t</text>
+<text x="-10" y="-65" style="text-anchor:middle;font-size:16pt;fill:black;">s</text>
+</g>
+
+<g id="velocity" transform="translate(30,210)" >
+<path d="M0,50 v-100" style="marker-end: url(#mArrow); fill:none; stroke:black; stroke-width=2;" />
+<path d="M 0,0 h400" style="marker-end: url(#mArrow); fill:none; stroke:black; stroke-width=2;" />
+<path d="M 0,0 h40 L 80,-40 L 130,-40 L 150,0 L 180,0 L 220,20 L 350,20 L 360,0 L 380,0 " stroke="blue" stroke-width="4" fill="lightblue" />
+<path d="M 0,0 h400" style="marker-end: url(#mArrow); fill:none; stroke:black; stroke-width=2;" />
+<text x="390" y="20" style="text-anchor:middle;font-size:16pt;fill:black;">t</text>
+<text x="-10" y="-35" style="text-anchor:middle;font-size:16pt;fill:black;">v</text>
+</g>
+
+<g id="acceleration" transform="translate(30,380)" >
+<path d="M0,80 v-160" style="marker-end: url(#mArrow); fill:none; stroke:black; stroke-width=2;" />
+<path d="M0,0 h400" style="marker-end: url(#mArrow); fill:none; stroke:black; stroke-width=2;" />
+<path d="M 0,0 h40 v-40 h40 v40 h50 v80 h20 v-80 L 180,0 L 180,20 L 220,20 L 220,0 L 350,0 L 350,-80 L 360,-80 L 360,0 L 380,0 " stroke="red" stroke-width="4" fill="pink" />
+<path d="M 0,0 h400" style="marker-end: url(#mArrow); fill:none; stroke:black; stroke-width=2;" />
+<text x="390" y="20" style="text-anchor:middle;font-size:16pt;fill:black;">t</text>
+<text x="-10" y="-65" style="text-anchor:middle;font-size:16pt;fill:black;">a</text>
+</g>
+
+</svg>

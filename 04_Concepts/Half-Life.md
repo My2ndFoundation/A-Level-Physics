@@ -95,6 +95,22 @@ xychart-beta
 *Figure: Each step along the x-axis represents one half-life T½. Activity (and undecayed nuclei) halves with each T½. The curve never reaches zero — the sample decays asymptotically.*
 *Source: Authored for this vault (CC0). No external copyright.*
 
+### From Wikipedia
+
+<!-- wiki-images: yes -->
+
+#### Euler's formula
+
+![[_attachments/04_Concepts/Half-Life--wiki-eulers-formula.svg]]
+*Figure: from Wikipedia article "Half-life".*
+*Source: Wikimedia Commons — [Euler's_formula.svg](https://commons.wikimedia.org/wiki/File:Euler's_formula.svg). Retrieved 2026-05-20.*
+
+#### Euler's formula
+
+![[_attachments/04_Concepts/Half-Life--wiki-eulers-formula.svg]]
+*Figure: from Wikipedia article "Half-life".*
+*Source: Wikimedia Commons — [Euler's formula.svg](https://commons.wikimedia.org/wiki/File:Euler's_formula.svg). Retrieved 2026-05-20.*
+
 ## Source Trace
 
 - Source: OpenStax College Physics; The Physics Classroom; IOPSpark; Physics LibreTexts — paraphrased, no copied text.

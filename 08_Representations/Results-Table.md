@@ -59,6 +59,30 @@ Not applicable directly — but the table supplies the coordinate pairs (and any
 - Omitting the unit, or putting units next to every value instead of in the heading.
 - Mixed decimal places within one column.
 
+## Visuals
+
+### From Wikipedia
+
+<!-- wiki-images: yes -->
+
+#### Table-sample-appearance-default-params-values-01
+
+![[_attachments/08_Representations/Results-Table--wiki-table-sample-appearance-default-params-v.gif]]
+*Figure: from Wikipedia article "Table (information)".*
+*Source: Wikimedia Commons — [Table-sample-appearance-default-params-values-01.gif](https://commons.wikimedia.org/wiki/File:Table-sample-appearance-default-params-values-01.gif). Retrieved 2026-05-20.*
+
+#### Bernegger Manuale 136
+
+![[_attachments/08_Representations/Results-Table--wiki-bernegger-manuale-136.jpg]]
+*Figure: from Wikipedia article "Table (information)".*
+*Source: Wikimedia Commons — [Bernegger Manuale 136.jpg](https://commons.wikimedia.org/wiki/File:Bernegger_Manuale_136.jpg). Retrieved 2026-05-20.*
+
+#### Bernegger Manuale 137
+
+![[_attachments/08_Representations/Results-Table--wiki-bernegger-manuale-137.jpg]]
+*Figure: from Wikipedia article "Table (information)".*
+*Source: Wikimedia Commons — [Bernegger Manuale 137.jpg](https://commons.wikimedia.org/wiki/File:Bernegger_Manuale_137.jpg). Retrieved 2026-05-20.*
+
 ## Source Trace
 
 - Source: [[OCR-Physics-Practical-Skills-Handbook]]

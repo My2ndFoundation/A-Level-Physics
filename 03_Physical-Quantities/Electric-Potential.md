@@ -108,6 +108,28 @@ xychart-beta
 *Figure: V ∝ 1/r for a point charge (hyperbola that approaches zero at infinity). Compare with field strength E ∝ 1/r² which falls off faster. The gradient of this V–r curve at any point gives −E (field strength is the negative potential gradient).*
 *Source: Authored for this vault (CC0). No external copyright.*
 
+### From Wikipedia
+
+<!-- wiki-images: yes -->
+
+#### VFPt metal balls largesmall potential+contour
+
+![[_attachments/03_Physical-Quantities/Electric-Potential--wiki-vfpt-metal-balls-largesmall-potentialcon.svg]]
+*Figure: from Wikipedia article "Electric potential".*
+*Source: Wikimedia Commons — [VFPt_metal_balls_largesmall_potential+contour.svg](https://commons.wikimedia.org/wiki/File:VFPt_metal_balls_largesmall_potential+contour.svg). Retrieved 2026-05-20.*
+
+#### Charged disc problem
+
+![[_attachments/03_Physical-Quantities/Electric-Potential--wiki-charged-disc-problem.svg]]
+*Figure: from Wikipedia article "Electric potential".*
+*Source: Wikimedia Commons — [Charged disc problem.svg](https://commons.wikimedia.org/wiki/File:Charged_disc_problem.svg). Retrieved 2026-05-20.*
+
+#### Charged infinite cylinder problem
+
+![[_attachments/03_Physical-Quantities/Electric-Potential--wiki-charged-infinite-cylinder-problem.svg]]
+*Figure: from Wikipedia article "Electric potential".*
+*Source: Wikimedia Commons — [Charged infinite cylinder problem.svg](https://commons.wikimedia.org/wiki/File:Charged_infinite_cylinder_problem.svg). Retrieved 2026-05-20.*
+
 ## Source Trace
 
 - Source: OpenStax College Physics; HyperPhysics; Physics LibreTexts — no copied text

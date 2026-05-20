@@ -1,0 +1,20 @@
+<svg version="1.1" id="Layer" xmlns="http://www.w3.org/2000/svg" width="440px" height="345px">
+<text x="9.81" y="185.93" font-family="DejaVu Sans, sans-serif" font-weight="bold" font-size="22">Energy</text>
+<text x="251.81" y="185.93" font-family="DejaVu Sans, sans-serif" font-weight="bold" font-size="22">Excited states</text>
+<text x="251.81" y="327.93" font-family="DejaVu Sans, sans-serif" font-weight="bold" font-size="22">Ground state</text>
+<g>
+	<g>
+		
+			<line fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" x1="107.808" y1="320.935" x2="107.808" y2="24.239"/>
+		<g>
+			<path d="M107.808,27.829l-7.205,4.383l-0.164-0.246l4.668-11.75c0.9-4.094,1.801-8.188,2.701-12.281
+				c0.902,4.094,1.801,8.188,2.703,12.281l4.666,11.75l-0.121,0.246L107.808,27.829z"/>
+		</g>
+	</g>
+</g>
+<line fill="none" stroke="#EBD210" stroke-width="4" stroke-miterlimit="10" x1="135.808" y1="140.935" x2="227.141" y2="140.935"/>
+<line fill="none" stroke="#F68911" stroke-width="4" stroke-miterlimit="10" x1="135.808" y1="154.935" x2="227.141" y2="154.935"/>
+<line fill="none" stroke="#F40D2A" stroke-width="4" stroke-miterlimit="10" x1="135.808" y1="173.935" x2="227.141" y2="173.935"/>
+<line fill="none" stroke="#6D0E1A" stroke-width="4" stroke-miterlimit="10" x1="135.808" y1="209.935" x2="227.141" y2="209.935"/>
+<line fill="none" stroke="#000000" stroke-width="4" stroke-miterlimit="10" x1="135.808" y1="318.935" x2="227.141" y2="318.935"/>
+</svg>

@@ -106,6 +106,28 @@ xychart-beta
 *Figure: Charge falls exponentially. After one time constant RC, charge is about 37% of Q₀. Voltage and current follow identical curves with the same time constant.*
 *Source: Authored for this vault (CC0). No external copyright.*
 
+### From Wikipedia
+
+<!-- wiki-images: yes -->
+
+#### Capacitors (7189597135)
+
+![[_attachments/05_Laws-and-Results/Capacitor-Discharge-Equation--wiki-capacitors-7189597135.jpg]]
+*Figure: from Wikipedia article "Capacitor".*
+*Source: Wikimedia Commons — [Capacitors_(7189597135).jpg](https://commons.wikimedia.org/wiki/File:Capacitors_(7189597135).jpg). Retrieved 2026-05-20.*
+
+#### 24 Million Watt high speed flash through welding lens
+
+![[_attachments/05_Laws-and-Results/Capacitor-Discharge-Equation--wiki-24-million-watt-high-speed-flash-through.jpg]]
+*Figure: from Wikipedia article "Capacitor".*
+*Source: Wikimedia Commons — [24 Million Watt high speed flash through welding lens.jpg](https://commons.wikimedia.org/wiki/File:24_Million_Watt_high_speed_flash_through_welding_lens.jpg). Retrieved 2026-05-20.*
+
+#### Axial electrolytic capacitors
+
+![[_attachments/05_Laws-and-Results/Capacitor-Discharge-Equation--wiki-axial-electrolytic-capacitors.jpg]]
+*Figure: from Wikipedia article "Capacitor".*
+*Source: Wikimedia Commons — [Axial electrolytic capacitors.jpg](https://commons.wikimedia.org/wiki/File:Axial_electrolytic_capacitors.jpg). Retrieved 2026-05-20.*
+
 ## Source Trace
 
 - Source: OpenStax College Physics; HyperPhysics; Physics LibreTexts — paraphrased, no copied text

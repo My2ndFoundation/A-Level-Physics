@@ -100,6 +100,28 @@ xychart-beta
 *Figure: The initial straight region is elastic (Hooke's Law obeyed; full recovery on unloading). Beyond the elastic limit the curve becomes non-linear and plastic — permanent deformation remains after unloading. The yield point is where large plastic flow begins.*
 *Source: Authored for this vault (CC0). No external copyright.*
 
+### From Wikipedia
+
+<!-- wiki-images: yes -->
+
+#### Deformation due to compression
+
+![[_attachments/04_Concepts/Elastic-and-Plastic-Behaviour--wiki-deformation-due-to-compression.svg]]
+*Figure: from Wikipedia article "Deformation (engineering)".*
+*Source: Wikimedia Commons — [Deformation due to compression.svg](https://commons.wikimedia.org/wiki/File:Deformation_due_to_compression.svg). Retrieved 2026-05-20.*
+
+#### Figureforneckdraw
+
+![[_attachments/04_Concepts/Elastic-and-Plastic-Behaviour--wiki-figureforneckdraw.jpg]]
+*Figure: from Wikipedia article "Deformation (engineering)".*
+*Source: Wikimedia Commons — [Figureforneckdraw.jpg](https://commons.wikimedia.org/wiki/File:Figureforneckdraw.jpg). Retrieved 2026-05-20.*
+
+#### Stress-strain1
+
+![[_attachments/04_Concepts/Elastic-and-Plastic-Behaviour--wiki-stress-strain1.svg]]
+*Figure: from Wikipedia article "Deformation (engineering)".*
+*Source: Wikimedia Commons — [Stress-strain1.svg](https://commons.wikimedia.org/wiki/File:Stress-strain1.svg). Retrieved 2026-05-20.*
+
 ## Source Trace
 
 - Source: OpenStax College Physics; The Physics Classroom; HyperPhysics — no copied text

@@ -92,6 +92,28 @@ Standing waves explain musical instruments, resonance in structures, microwave o
 *Figure: Fundamental (1st harmonic) of a string fixed at both ends. The string length L equals half a wavelength (L = λ/2). N = node (zero amplitude), AN = antinode (maximum amplitude). Adjacent nodes are separated by λ/2.*
 *Source: Authored for this vault (CC0). No external copyright.*
 
+### From Wikipedia
+
+<!-- wiki-images: yes -->
+
+#### Waventerference
+
+![[_attachments/04_Concepts/Standing-Waves--wiki-waventerference.gif]]
+*Figure: from Wikipedia article "Standing wave".*
+*Source: Wikimedia Commons — [Waventerference.gif](https://commons.wikimedia.org/wiki/File:Waventerference.gif). Retrieved 2026-05-20.*
+
+#### Molecule2
+
+![[_attachments/04_Concepts/Standing-Waves--wiki-molecule2.gif]]
+*Figure: from Wikipedia article "Standing wave".*
+*Source: Wikimedia Commons — [Molecule2.gif](https://commons.wikimedia.org/wiki/File:Molecule2.gif). Retrieved 2026-05-20.*
+
+#### Spectrogram showing shared partials
+
+![[_attachments/04_Concepts/Standing-Waves--wiki-spectrogram-showing-shared-partials.png]]
+*Figure: from Wikipedia article "Standing wave".*
+*Source: Wikimedia Commons — [Spectrogram showing shared partials.png](https://commons.wikimedia.org/wiki/File:Spectrogram_showing_shared_partials.png). Retrieved 2026-05-20.*
+
 ## Source Trace
 
 - Source: OpenStax College Physics; The Physics Classroom; IOPSpark; Physics LibreTexts — paraphrased, no copied text.

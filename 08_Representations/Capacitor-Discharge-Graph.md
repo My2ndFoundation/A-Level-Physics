@@ -83,6 +83,28 @@ xychart-beta
 *Figure: Q falls from its initial value Q₀ (here scaled to 100) following $Q = Q_0 e^{-t/RC}$. After one time constant $\tau = RC$ the charge has fallen to ~37% of Q₀ (the point where the tangent at $t = 0$ meets the t-axis). The curve is asymptotic to zero and never crosses it. The initial gradient is $-Q_0/RC$.*
 *Source: Authored for this vault (CC0). No external copyright.*
 
+### From Wikipedia
+
+<!-- wiki-images: yes -->
+
+#### Electronic-Component-Ceramic-Capacitor
+
+![[_attachments/08_Representations/Capacitor-Discharge-Graph--wiki-electronic-component-ceramic-capacitor.jpg]]
+*Figure: from Wikipedia article "Ceramic capacitor".*
+*Source: Wikimedia Commons — [Electronic-Component-Ceramic-Capacitor.jpg](https://commons.wikimedia.org/wiki/File:Electronic-Component-Ceramic-Capacitor.jpg). Retrieved 2026-05-20.*
+
+#### CPU-Beschaltung-mit MLCC-P1040239-d
+
+![[_attachments/08_Representations/Capacitor-Discharge-Graph--wiki-cpu-beschaltung-mit-mlcc-p1040239-d.jpg]]
+*Figure: from Wikipedia article "Ceramic capacitor".*
+*Source: Wikimedia Commons — [CPU-Beschaltung-mit MLCC-P1040239-d.jpg](https://commons.wikimedia.org/wiki/File:CPU-Beschaltung-mit_MLCC-P1040239-d.jpg). Retrieved 2026-05-20.*
+
+#### Capacitors x2y
+
+![[_attachments/08_Representations/Capacitor-Discharge-Graph--wiki-capacitors-x2y.jpg]]
+*Figure: from Wikipedia article "Ceramic capacitor".*
+*Source: Wikimedia Commons — [Capacitors x2y.jpg](https://commons.wikimedia.org/wiki/File:Capacitors_x2y.jpg). Retrieved 2026-05-20.*
+
 ## Source Trace
 
 - Source: OpenStax College Physics; HyperPhysics; Physics LibreTexts — no copied text

@@ -75,6 +75,30 @@ A phone charger and a kettle both run from the same mains, yet behave very diffe
 
 At A-Level, the qualitative GCSE rules are derived from conservation of charge and energy via Kirchhoff's laws, combined with [[Ohms-Law]] and resistor-combination algebra, and extended with internal resistance, potential dividers and non-ohmic I–V analysis. See the A-Level electricity pages for the formal treatment.
 
+## Visuals
+
+### From Wikipedia
+
+<!-- wiki-images: yes -->
+
+#### Tuned circuit of shortwave radio transmitter from 1938
+
+![[_attachments/02_Foundations/From-Circuits-to-Circuit-Models--wiki-tuned-circuit-of-shortwave-radio-transmi.jpg]]
+*Figure: from Wikipedia article "RLC circuit".*
+*Source: Wikimedia Commons — [Tuned_circuit_of_shortwave_radio_transmitter_from_1938.jpg](https://commons.wikimedia.org/wiki/File:Tuned_circuit_of_shortwave_radio_transmitter_from_1938.jpg). Retrieved 2026-05-20.*
+
+#### L series RC parallel
+
+![[_attachments/02_Foundations/From-Circuits-to-Circuit-Models--wiki-l-series-rc-parallel.svg]]
+*Figure: from Wikipedia article "RLC circuit".*
+*Source: Wikimedia Commons — [L series RC parallel.svg](https://commons.wikimedia.org/wiki/File:L_series_RC_parallel.svg). Retrieved 2026-05-20.*
+
+#### RLC Series Circuit Bode Magnitude Plot
+
+![[_attachments/02_Foundations/From-Circuits-to-Circuit-Models--wiki-rlc-series-circuit-bode-magnitude-plot.svg]]
+*Figure: from Wikipedia article "RLC circuit".*
+*Source: Wikimedia Commons — [RLC Series Circuit Bode Magnitude Plot.svg](https://commons.wikimedia.org/wiki/File:RLC_Series_Circuit_Bode_Magnitude_Plot.svg). Retrieved 2026-05-20.*
+
 ## Source Trace
 
 - Source: BBC Bitesize GCSE/A-Level Physics (electric circuits); IOPSpark; The Physics Classroom (circuit analysis)

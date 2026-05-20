@@ -76,6 +76,28 @@ Medical imaging lets clinicians see inside the body without surgery. X-rays reve
 *Figure: A magnetic resonance imaging (MRI) scanner showing the large cylindrical bore into which the patient is positioned. MRI uses strong magnetic fields and radiofrequency pulses rather than ionising radiation, making it safe for soft-tissue imaging.*
 *Source: MRI Scan General Illustration — Ptrump16 — CC BY-SA 4.0 — https://commons.wikimedia.org/wiki/File:MRI_Scan_General_Illustration.jpg. Retrieved 2026-05-19.*
 
+### From Wikipedia
+
+<!-- wiki-images: yes -->
+
+#### CT Scan General Illustration
+
+![[_attachments/10_Applications/Medical-Imaging--wiki-ct-scan-general-illustration.jpg]]
+*Figure: from Wikipedia article "Medical imaging".*
+*Source: Wikimedia Commons — [CT_Scan_General_Illustration.jpg](https://commons.wikimedia.org/wiki/File:CT_Scan_General_Illustration.jpg). Retrieved 2026-05-20.*
+
+#### A nuclear medicine machine is used for medical imaging in a hospital in North Carolina 04
+
+![[_attachments/10_Applications/Medical-Imaging--wiki-a-nuclear-medicine-machine-is-used-for-m.jpg]]
+*Figure: from Wikipedia article "Medical imaging".*
+*Source: Wikimedia Commons — [A nuclear medicine machine is used for medical imaging in a hospital in North Carolina 04.jpg](https://commons.wikimedia.org/wiki/File:A_nuclear_medicine_machine_is_used_for_medical_imaging_in_a_hospital_in_North_Carolina_04.jpg). Retrieved 2026-05-20.*
+
+#### A nuclear medicine machine is used for medical imaging in a hospital in North Carolina 05
+
+![[_attachments/10_Applications/Medical-Imaging--wiki-a-nuclear-medicine-machine-is-used-for-m.jpg]]
+*Figure: from Wikipedia article "Medical imaging".*
+*Source: Wikimedia Commons — [A nuclear medicine machine is used for medical imaging in a hospital in North Carolina 05.jpg](https://commons.wikimedia.org/wiki/File:A_nuclear_medicine_machine_is_used_for_medical_imaging_in_a_hospital_in_North_Carolina_05.jpg). Retrieved 2026-05-20.*
+
 ## Source Trace
 
 - Source: OpenStax College Physics; IOPSpark; Isaac Physics; OCR examiner reports (general) — no copied text

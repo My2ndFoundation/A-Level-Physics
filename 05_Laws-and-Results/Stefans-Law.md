@@ -102,6 +102,28 @@ xychart-beta
 *Figure: Luminosity rises steeply with temperature due to the T⁴ factor. A star twice as hot emits 16 times more power per unit area.*
 *Source: Authored for this vault (CC0). No external copyright.*
 
+### From Wikipedia
+
+<!-- wiki-images: yes -->
+
+#### Stefan Boltzmann 001
+
+![[_attachments/05_Laws-and-Results/Stefans-Law--wiki-stefan-boltzmann-001.svg]]
+*Figure: from Wikipedia article "Stefan–Boltzmann law".*
+*Source: Wikimedia Commons — [Stefan_Boltzmann_001.svg](https://commons.wikimedia.org/wiki/File:Stefan_Boltzmann_001.svg). Retrieved 2026-05-20.*
+
+#### Blackbody peak wavelength exitance vs temperature
+
+![[_attachments/05_Laws-and-Results/Stefans-Law--wiki-blackbody-peak-wavelength-exitance-vs-te.svg]]
+*Figure: from Wikipedia article "Stefan–Boltzmann law".*
+*Source: Wikimedia Commons — [Blackbody peak wavelength exitance vs temperature.svg](https://commons.wikimedia.org/wiki/File:Blackbody_peak_wavelength_exitance_vs_temperature.svg). Retrieved 2026-05-20.*
+
+#### Stefan-Boltzmann Law
+
+![[_attachments/05_Laws-and-Results/Stefans-Law--wiki-stefan-boltzmann-law.png]]
+*Figure: from Wikipedia article "Stefan–Boltzmann law".*
+*Source: Wikimedia Commons — [Stefan-Boltzmann Law.png](https://commons.wikimedia.org/wiki/File:Stefan-Boltzmann_Law.png). Retrieved 2026-05-20.*
+
 ## Source Trace
 
 - Source: OpenStax College Physics; HyperPhysics; NASA educational material — no copied text

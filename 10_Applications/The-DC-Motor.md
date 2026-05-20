@@ -77,6 +77,28 @@ A direct-current motor converts electrical energy into rotational mechanical ene
 *Figure: Schematic of a simple DC motor showing a rectangular coil between magnetic poles. The forces on the two sides carrying current in opposite directions produce a couple (torque), turning the coil. The split-ring commutator (not shown) reverses the current each half-turn to maintain continuous rotation.*
 *Source: Basic principle of an Electric motor — K.Venkataramana — CC BY-SA 4.0 — https://commons.wikimedia.org/wiki/File:Basic_principle_of_an_Electric_motor.png. Retrieved 2026-05-19.*
 
+### From Wikipedia
+
+<!-- wiki-images: yes -->
+
+#### Electric motor cycle 2
+
+![[_attachments/10_Applications/The-DC-Motor--wiki-electric-motor-cycle-2.png]]
+*Figure: from Wikipedia article "DC motor".*
+*Source: Wikimedia Commons — [Electric_motor_cycle_2.png](https://commons.wikimedia.org/wiki/File:Electric_motor_cycle_2.png). Retrieved 2026-05-20.*
+
+#### Ejs Open Source Direct Current Electrical Motor Model Java Applet ( DC Motor ) 80 degree split ring
+
+![[_attachments/10_Applications/The-DC-Motor--wiki-ejs-open-source-direct-current-electrica.gif]]
+*Figure: from Wikipedia article "DC motor".*
+*Source: Wikimedia Commons — [Ejs Open Source Direct Current Electrical Motor Model Java Applet ( DC Motor ) 80 degree split ring.gif](https://commons.wikimedia.org/wiki/File:Ejs_Open_Source_Direct_Current_Electrical_Motor_Model_Java_Applet_(_DC_Motor_)_80_degree_split_ring.gif). Retrieved 2026-05-20.*
+
+#### Electric motor cycle 2
+
+![[_attachments/10_Applications/The-DC-Motor--wiki-electric-motor-cycle-2.png]]
+*Figure: from Wikipedia article "DC motor".*
+*Source: Wikimedia Commons — [Electric motor cycle 2.png](https://commons.wikimedia.org/wiki/File:Electric_motor_cycle_2.png). Retrieved 2026-05-20.*
+
 ## Source Trace
 
 OpenStax College Physics; HyperPhysics; Physics LibreTexts — no copied text.

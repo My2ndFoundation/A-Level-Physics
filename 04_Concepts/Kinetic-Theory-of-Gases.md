@@ -106,6 +106,28 @@ xychart-beta
 *Figure: Qualitative Maxwell–Boltzmann distribution at lower temperature T₁. At higher T₂ the peak shifts right (higher most probable speed), the curve flattens, and the high-speed tail grows. Mean KE per molecule $= \tfrac{3}{2} kT$.*
 *Source: Authored for this vault (CC0). No external copyright.*
 
+### From Wikipedia
+
+<!-- wiki-images: yes -->
+
+#### Translational motion
+
+![[_attachments/04_Concepts/Kinetic-Theory-of-Gases--wiki-translational-motion.gif]]
+*Figure: from Wikipedia article "Kinetic theory of gases".*
+*Source: Wikimedia Commons — [Translational_motion.gif](https://commons.wikimedia.org/wiki/File:Translational_motion.gif). Retrieved 2026-05-20.*
+
+#### Catherine II visiting Mikhail Lomonosov by Ivan Feodorov 1884
+
+![[_attachments/04_Concepts/Kinetic-Theory-of-Gases--wiki-catherine-ii-visiting-mikhail-lomonosov-.jpg]]
+*Figure: from Wikipedia article "Kinetic theory of gases".*
+*Source: Wikimedia Commons — [Catherine II visiting Mikhail Lomonosov by Ivan Feodorov 1884.jpg](https://commons.wikimedia.org/wiki/File:Catherine_II_visiting_Mikhail_Lomonosov_by_Ivan_Feodorov_1884.jpg). Retrieved 2026-05-20.*
+
+#### HYDRODYNAMICA, Danielis Bernoulli
+
+![[_attachments/04_Concepts/Kinetic-Theory-of-Gases--wiki-hydrodynamica-danielis-bernoulli.png]]
+*Figure: from Wikipedia article "Kinetic theory of gases".*
+*Source: Wikimedia Commons — [HYDRODYNAMICA, Danielis Bernoulli.png](https://commons.wikimedia.org/wiki/File:HYDRODYNAMICA,_Danielis_Bernoulli.png). Retrieved 2026-05-20.*
+
 ## Source Trace
 
 - Source: OpenStax College Physics; HyperPhysics; The Physics Classroom — paraphrased, no copied text

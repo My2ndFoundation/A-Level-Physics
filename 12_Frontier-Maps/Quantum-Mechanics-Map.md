@@ -91,6 +91,28 @@ energy, photons, and matter waves.
 *Figure: The interference fringes produced when electrons (or photons) pass through two slits — the classic demonstration that quantum objects exhibit wave behaviour even one particle at a time.*
 *Source: Double-slit away from slits — Alexandre Gondran — CC BY-SA 4.0 — https://commons.wikimedia.org/wiki/File:Double-slit_away_from_slits.jpg. Retrieved 2026-05-19.*
 
+### From Wikipedia
+
+<!-- wiki-images: yes -->
+
+#### Hydrogen Density Plots
+
+![[_attachments/12_Frontier-Maps/Quantum-Mechanics-Map--wiki-hydrogen-density-plots.png]]
+*Figure: from Wikipedia article "Quantum mechanics".*
+*Source: Wikimedia Commons — [Hydrogen_Density_Plots.png](https://commons.wikimedia.org/wiki/File:Hydrogen_Density_Plots.png). Retrieved 2026-05-20.*
+
+#### Atomic-orbital-clouds spd m0
+
+![[_attachments/12_Frontier-Maps/Quantum-Mechanics-Map--wiki-atomic-orbital-clouds-spd-m0.png]]
+*Figure: from Wikipedia article "Quantum mechanics".*
+*Source: Wikimedia Commons — [Atomic-orbital-clouds spd m0.png](https://commons.wikimedia.org/wiki/File:Atomic-orbital-clouds_spd_m0.png). Retrieved 2026-05-20.*
+
+#### Crab Nebula
+
+![[_attachments/12_Frontier-Maps/Quantum-Mechanics-Map--wiki-crab-nebula.jpg]]
+*Figure: from Wikipedia article "Quantum mechanics".*
+*Source: Wikimedia Commons — [Crab Nebula.jpg](https://commons.wikimedia.org/wiki/File:Crab_Nebula.jpg). Retrieved 2026-05-20.*
+
 ## Source Trace
 
 - Source: [[IOP-Explore-Physics]]; Institute of Physics — Explore Physics; Wikipedia (navigation)

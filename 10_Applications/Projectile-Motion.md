@@ -81,6 +81,28 @@ Projectile motion describes any object moving under gravity alone after release:
 *Figure: Parabolic trajectory of a projectile launched at an angle. Horizontal velocity remains constant (no air resistance); vertical velocity increases downward under gravity. The two components combine to give the curved path. Maximum height occurs where vertical velocity = 0.*
 *Source: Projectile-Motion — CS Odessa — CC BY 4.0 — https://commons.wikimedia.org/wiki/File:Projectile-Motion.png. Retrieved 2026-05-19.*
 
+### From Wikipedia
+
+<!-- wiki-images: yes -->
+
+#### ParabolicWaterTrajectory
+
+![[_attachments/10_Applications/Projectile-Motion--wiki-parabolicwatertrajectory.jpg]]
+*Figure: from Wikipedia article "Projectile motion".*
+*Source: Wikimedia Commons — [ParabolicWaterTrajectory.jpg](https://commons.wikimedia.org/wiki/File:ParabolicWaterTrajectory.jpg). Retrieved 2026-05-20.*
+
+#### Ballistic-trajectories-planet2
+
+![[_attachments/10_Applications/Projectile-Motion--wiki-ballistic-trajectories-planet2.svg]]
+*Figure: from Wikipedia article "Projectile motion".*
+*Source: Wikimedia Commons — [Ballistic-trajectories-planet2.svg](https://commons.wikimedia.org/wiki/File:Ballistic-trajectories-planet2.svg). Retrieved 2026-05-20.*
+
+#### Ballistic trajectories
+
+![[_attachments/10_Applications/Projectile-Motion--wiki-ballistic-trajectories.svg]]
+*Figure: from Wikipedia article "Projectile motion".*
+*Source: Wikimedia Commons — [Ballistic trajectories.svg](https://commons.wikimedia.org/wiki/File:Ballistic_trajectories.svg). Retrieved 2026-05-20.*
+
 ## Source Trace
 
 - Source: OpenStax College Physics; IOPSpark; Isaac Physics; OCR examiner reports (general) — no copied text

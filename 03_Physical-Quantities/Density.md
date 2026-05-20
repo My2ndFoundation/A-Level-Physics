@@ -96,6 +96,28 @@ xychart-beta
 *Figure: For a single material, m and V are proportional; the gradient of the m–V graph is the density ρ = m/V (here ρ = 8 g cm⁻³, consistent with copper). Different materials give lines of different gradients through the same origin.*
 *Source: Authored for this vault (CC0). No external copyright.*
 
+### From Wikipedia
+
+<!-- wiki-images: yes -->
+
+#### Air density vs temperature
+
+![[_attachments/03_Physical-Quantities/Density--wiki-air-density-vs-temperature.svg]]
+*Figure: from Wikipedia article "Density".*
+*Source: Wikimedia Commons — [Air density vs temperature.svg](https://commons.wikimedia.org/wiki/File:Air_density_vs_temperature.svg). Retrieved 2026-05-20.*
+
+#### Density column
+
+![[_attachments/03_Physical-Quantities/Density--wiki-density-column.jpg]]
+*Figure: from Wikipedia article "Density".*
+*Source: Wikimedia Commons — [Density column.JPG](https://commons.wikimedia.org/wiki/File:Density_column.JPG). Retrieved 2026-05-20.*
+
+#### Ingots of Ge, Fe, Al, Re, Os, one troy ounce each (2)
+
+![[_attachments/03_Physical-Quantities/Density--wiki-ingots-of-ge-fe-al-re-os-one-troy-ounce-.jpg]]
+*Figure: from Wikipedia article "Density".*
+*Source: Wikimedia Commons — [Ingots of Ge, Fe, Al, Re, Os, one troy ounce each (2).jpg](https://commons.wikimedia.org/wiki/File:Ingots_of_Ge,_Fe,_Al,_Re,_Os,_one_troy_ounce_each_(2).jpg). Retrieved 2026-05-20.*
+
 ## Source Trace
 
 - Source: OpenStax College Physics; The Physics Classroom; HyperPhysics (paraphrased, no copied text)

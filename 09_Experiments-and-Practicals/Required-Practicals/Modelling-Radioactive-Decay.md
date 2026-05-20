@@ -97,6 +97,28 @@ xychart-beta
 *Figure: Plotting ln N against throw number gives a straight line of gradient $-\lambda$ (the effective decay constant per throw) and y-intercept $\ln N_0$. The "half-life" in throws is $t_{1/2} = \frac{\ln 2}{\lambda}$. Data scatter grows as N becomes small (late throws) — a feature of real radioactive statistics.*
 *Source: Authored for this vault (CC0). No external copyright.*
 
+### From Wikipedia
+
+<!-- wiki-images: yes -->
+
+#### NuclearReaction
+
+![[_attachments/09_Experiments-and-Practicals/Modelling-Radioactive-Decay--wiki-nuclearreaction.svg]]
+*Figure: from Wikipedia article "Decay chain".*
+*Source: Wikimedia Commons — [NuclearReaction.svg](https://commons.wikimedia.org/wiki/File:NuclearReaction.svg). Retrieved 2026-05-20.*
+
+#### DecayChain241Pu-eng
+
+![[_attachments/09_Experiments-and-Practicals/Modelling-Radioactive-Decay--wiki-decaychain241pu-eng.svg]]
+*Figure: from Wikipedia article "Decay chain".*
+*Source: Wikimedia Commons — [DecayChain241Pu-eng.svg](https://commons.wikimedia.org/wiki/File:DecayChain241Pu-eng.svg). Retrieved 2026-05-20.*
+
+#### Decay Chain(4n+1, Neptunium Series)
+
+![[_attachments/09_Experiments-and-Practicals/Modelling-Radioactive-Decay--wiki-decay-chain4n1-neptunium-series.svg]]
+*Figure: from Wikipedia article "Decay chain".*
+*Source: Wikimedia Commons — [Decay Chain(4n+1, Neptunium Series).svg](https://commons.wikimedia.org/wiki/File:Decay_Chain(4n+1,_Neptunium_Series).svg). Retrieved 2026-05-20.*
+
 ## Source Trace
 
 - Source: OpenStax College Physics; HyperPhysics; CERN educational material — no copied text

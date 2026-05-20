@@ -89,6 +89,28 @@ Low risk. Do not force the jaws — distorting a soft object biases the reading.
 *Figure: Labelled diagram of a vernier caliper showing outside jaws (1), inside jaws (2), depth probe (3), main scale in cm (4), main scale in inches (5), vernier scale in cm (6), vernier scale in inches (7), and retainer (8). The reading shown is 2.475 cm ± 0.005 cm.*
 *Source: Vernier caliper — Joaquim Alves Gaspar (modified by Ed g2s) — CC BY 2.5 — https://commons.wikimedia.org/wiki/File:Vernier_caliper.svg. Retrieved 2026-05-19.*
 
+### From Wikipedia
+
+<!-- wiki-images: yes -->
+
+#### Caliper detail view
+
+![[_attachments/09_Experiments-and-Practicals/Using-Vernier-Calipers--wiki-caliper-detail-view.jpeg]]
+*Figure: from Wikipedia article "Calipers".*
+*Source: Wikimedia Commons — [Caliper_detail_view.jpeg](https://commons.wikimedia.org/wiki/File:Caliper_detail_view.jpeg). Retrieved 2026-05-20.*
+
+#### 2020 Suwmiarka cyfrowa
+
+![[_attachments/09_Experiments-and-Practicals/Using-Vernier-Calipers--wiki-2020-suwmiarka-cyfrowa.jpg]]
+*Figure: from Wikipedia article "Calipers".*
+*Source: Wikimedia Commons — [2020 Suwmiarka cyfrowa.jpg](https://commons.wikimedia.org/wiki/File:2020_Suwmiarka_cyfrowa.jpg). Retrieved 2026-05-20.*
+
+#### Abbe error
+
+![[_attachments/09_Experiments-and-Practicals/Using-Vernier-Calipers--wiki-abbe-error.svg]]
+*Figure: from Wikipedia article "Calipers".*
+*Source: Wikimedia Commons — [Abbe error.svg](https://commons.wikimedia.org/wiki/File:Abbe_error.svg). Retrieved 2026-05-20.*
+
 ## Source Trace
 
 - Source: OCR Practical Skills Handbook; The Physics Classroom; IOPSpark; OpenStax

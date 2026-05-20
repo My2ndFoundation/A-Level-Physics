@@ -98,6 +98,28 @@ flowchart LR
 *Figure: Three main decay modes. In each, nucleon number A and charge number Z are conserved. α has highest ionising power; γ has greatest penetration.*
 *Source: Authored for this vault (CC0). No external copyright.*
 
+### From Wikipedia
+
+<!-- wiki-images: yes -->
+
+#### NuclearReaction
+
+![[_attachments/04_Concepts/Radioactive-Decay--wiki-nuclearreaction.svg]]
+*Figure: from Wikipedia article "Radioactive decay".*
+*Source: Wikimedia Commons — [NuclearReaction.svg](https://commons.wikimedia.org/wiki/File:NuclearReaction.svg). Retrieved 2026-05-20.*
+
+#### Alfa beta gamma radiation
+
+![[_attachments/04_Concepts/Radioactive-Decay--wiki-alfa-beta-gamma-radiation.svg]]
+*Figure: from Wikipedia article "Radioactive decay".*
+*Source: Wikimedia Commons — [Alfa beta gamma radiation.svg](https://commons.wikimedia.org/wiki/File:Alfa_beta_gamma_radiation.svg). Retrieved 2026-05-20.*
+
+#### Crookes tube xray experiment
+
+![[_attachments/04_Concepts/Radioactive-Decay--wiki-crookes-tube-xray-experiment.jpg]]
+*Figure: from Wikipedia article "Radioactive decay".*
+*Source: Wikimedia Commons — [Crookes tube xray experiment.jpg](https://commons.wikimedia.org/wiki/File:Crookes_tube_xray_experiment.jpg). Retrieved 2026-05-20.*
+
 ## Source Trace
 
 - Source: OpenStax College Physics; The Physics Classroom; IOPSpark; Physics LibreTexts — paraphrased, no copied text.

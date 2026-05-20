@@ -68,6 +68,24 @@ A satnav shows two numbers: the "as the crow flies" distance to your destination
 
 At A-Level, displacement becomes a signed or vector quantity used precisely in kinematics: it is the area under a velocity–time graph, the basis of the SUVAT equations, and the variable in simple harmonic motion and wave descriptions. The qualitative GCSE "how far" splits cleanly into path distance and vector displacement. See [[From-Speed-to-Velocity]] and the A-Level [[Velocity]] page.
 
+## Visuals
+
+### From Wikipedia
+
+<!-- wiki-images: yes -->
+
+#### Distancedisplacement
+
+![[_attachments/02_Foundations/From-Distance-to-Displacement--wiki-distancedisplacement.svg]]
+*Figure: from Wikipedia article "Displacement (geometry)".*
+*Source: Wikimedia Commons — [Distancedisplacement.svg](https://commons.wikimedia.org/wiki/File:Distancedisplacement.svg). Retrieved 2026-05-20.*
+
+#### Stylised atom with three Bohr model orbits and stylised nucleus
+
+![[_attachments/02_Foundations/From-Distance-to-Displacement--wiki-stylised-atom-with-three-bohr-model-orbi.svg]]
+*Figure: from Wikipedia article "Displacement (geometry)".*
+*Source: Wikimedia Commons — [Stylised atom with three Bohr model orbits and stylised nucleus.svg](https://commons.wikimedia.org/wiki/File:Stylised_atom_with_three_Bohr_model_orbits_and_stylised_nucleus.svg). Retrieved 2026-05-20.*
+
 ## Source Trace
 
 - Source: BBC Bitesize GCSE/A-Level Physics (motion); IOPSpark; The Physics Classroom (kinematics, vectors and scalars)

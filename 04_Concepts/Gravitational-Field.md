@@ -117,6 +117,16 @@ helping transfer reasoning between gravitation and electrostatics.
 *Figure: All field lines point inward toward the central mass M. Closer spacing near M indicates a stronger field. The radial symmetry reflects the inverse-square law $g = GM/r^2$.*
 *Source: Authored for this vault (CC0). No external copyright.*
 
+### From Wikipedia
+
+<!-- wiki-images: yes -->
+
+#### Earth-moon-field
+
+![[_attachments/04_Concepts/Gravitational-Field--wiki-earth-moon-field.svg]]
+*Figure: from Wikipedia article "Gravitational field".*
+*Source: Wikimedia Commons — [Earth-moon-field.svg](https://commons.wikimedia.org/wiki/File:Earth-moon-field.svg). Retrieved 2026-05-20.*
+
 ## Source Trace
 
 - Source: OpenStax College Physics; HyperPhysics; NASA educational material — no copied text

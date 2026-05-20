@@ -73,6 +73,28 @@ Producing a two-dimensional shadow image of internal anatomy by passing X-rays t
 *Figure: Early X-ray radiograph of a hand with a ring on one finger. Dense bone (high atomic number) absorbs X-rays strongly and appears white; soft tissue transmits more and appears grey; the metal ring absorbs almost completely and appears white-bright.*
 *Source: X-ray of the bones of a hand with a ring on one finger — Wilhelm Röntgen / Wellcome Collection — Public Domain — https://commons.wikimedia.org/wiki/File:X-ray_of_the_bones_of_a_hand_with_a_ring_on_one_finger_Wellcome_V0029523.jpg. Retrieved 2026-05-19.*
 
+### From Wikipedia
+
+<!-- wiki-images: yes -->
+
+#### Xraymachine
+
+![[_attachments/10_Applications/X-ray-Imaging--wiki-xraymachine.jpg]]
+*Figure: from Wikipedia article "Radiography".*
+*Source: Wikimedia Commons — [Xraymachine.JPG](https://commons.wikimedia.org/wiki/File:Xraymachine.JPG). Retrieved 2026-05-20.*
+
+#### AP lumbar xray
+
+![[_attachments/10_Applications/X-ray-Imaging--wiki-ap-lumbar-xray.jpg]]
+*Figure: from Wikipedia article "Radiography".*
+*Source: Wikimedia Commons — [AP lumbar xray.jpg](https://commons.wikimedia.org/wiki/File:AP_lumbar_xray.jpg). Retrieved 2026-05-20.*
+
+#### Cerebral angiography, arteria vertebralis sinister injection
+
+![[_attachments/10_Applications/X-ray-Imaging--wiki-cerebral-angiography-arteria-vertebralis.jpg]]
+*Figure: from Wikipedia article "Radiography".*
+*Source: Wikimedia Commons — [Cerebral angiography, arteria vertebralis sinister injection.JPG](https://commons.wikimedia.org/wiki/File:Cerebral_angiography,_arteria_vertebralis_sinister_injection.JPG). Retrieved 2026-05-20.*
+
 ## Source Trace
 
 - Source: OpenStax College Physics; HyperPhysics; IOPSpark

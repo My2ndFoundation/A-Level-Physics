@@ -75,6 +75,28 @@ Not applicable — this is a diagram, not a graph. The analytic step is **resolv
 *Figure: A block (the free body) with four forces labelled and drawn as arrows: weight $W = mg$ downward from the centre, normal contact force N perpendicular upward from the surface, friction f opposing motion (leftward), and an applied force F (rightward). Only forces acting ON the block are shown — the Newton's third-law reaction pair acts on different bodies and is excluded.*
 *Source: Authored for this vault (CC0). No external copyright.*
 
+### From Wikipedia
+
+<!-- wiki-images: yes -->
+
+#### Free body diagram2
+
+![[_attachments/08_Representations/Free-Body-Diagram--wiki-free-body-diagram2.svg]]
+*Figure: from Wikipedia article "Free body diagram".*
+*Source: Wikimedia Commons — [Free_body_diagram2.svg](https://commons.wikimedia.org/wiki/File:Free_body_diagram2.svg). Retrieved 2026-05-20.*
+
+#### Free body diagram2
+
+![[_attachments/08_Representations/Free-Body-Diagram--wiki-free-body-diagram2.svg]]
+*Figure: from Wikipedia article "Free body diagram".*
+*Source: Wikimedia Commons — [Free body diagram2.svg](https://commons.wikimedia.org/wiki/File:Free_body_diagram2.svg). Retrieved 2026-05-20.*
+
+#### Kinetic diagram of inclined block
+
+![[_attachments/08_Representations/Free-Body-Diagram--wiki-kinetic-diagram-of-inclined-block.svg]]
+*Figure: from Wikipedia article "Free body diagram".*
+*Source: Wikimedia Commons — [Kinetic diagram of inclined block.svg](https://commons.wikimedia.org/wiki/File:Kinetic_diagram_of_inclined_block.svg). Retrieved 2026-05-20.*
+
 ## Source Trace
 
 - Source: OCR Practical Skills Handbook; The Physics Classroom; IOPSpark; OpenStax

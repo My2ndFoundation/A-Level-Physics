@@ -81,6 +81,28 @@ This extends the GCSE idea that "batteries run down" and that voltage falls unde
 *Figure: A real cell modelled as ideal emf ε in series with internal resistance r; terminal p.d. V = ε − Ir is the voltage available to the external load R.*
 *Source: Authored for this vault (CC0). No external copyright.*
 
+### From Wikipedia
+
+<!-- wiki-images: yes -->
+
+#### VFPt Solenoid correct2
+
+![[_attachments/06_Models/Internal-Resistance-Model--wiki-vfpt-solenoid-correct2.svg]]
+*Figure: from Wikipedia article "Electromotive force".*
+*Source: Wikimedia Commons — [VFPt_Solenoid_correct2.svg](https://commons.wikimedia.org/wiki/File:VFPt_Solenoid_correct2.svg). Retrieved 2026-05-20.*
+
+#### Galvanic cell labeled
+
+![[_attachments/06_Models/Internal-Resistance-Model--wiki-galvanic-cell-labeled.svg]]
+*Figure: from Wikipedia article "Electromotive force".*
+*Source: Wikimedia Commons — [Galvanic cell labeled.svg](https://commons.wikimedia.org/wiki/File:Galvanic_cell_labeled.svg). Retrieved 2026-05-20.*
+
+#### Reaction path
+
+![[_attachments/06_Models/Internal-Resistance-Model--wiki-reaction-path.jpg]]
+*Figure: from Wikipedia article "Electromotive force".*
+*Source: Wikimedia Commons — [Reaction path.JPG](https://commons.wikimedia.org/wiki/File:Reaction_path.JPG). Retrieved 2026-05-20.*
+
 ## Source Trace
 
 - Source: OpenStax College Physics; The Physics Classroom; Isaac Physics — paraphrased, no copied text.

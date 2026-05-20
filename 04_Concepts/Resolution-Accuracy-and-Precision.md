@@ -95,6 +95,28 @@ quadrantChart
 *Figure: Four categories of measurement quality. Resolution sets the finest readable increment but does not guarantee accuracy. Systematic error → inaccuracy; random error → imprecision.*
 *Source: Authored for this vault (CC0). No external copyright.*
 
+### From Wikipedia
+
+<!-- wiki-images: yes -->
+
+#### Accuracy and precision
+
+![[_attachments/04_Concepts/Resolution-Accuracy-and-Precision--wiki-accuracy-and-precision.svg]]
+*Figure: from Wikipedia article "Accuracy and precision".*
+*Source: Wikimedia Commons — [Accuracy_and_precision.svg](https://commons.wikimedia.org/wiki/File:Accuracy_and_precision.svg). Retrieved 2026-05-20.*
+
+#### ACCvsPrecision
+
+![[_attachments/04_Concepts/Resolution-Accuracy-and-Precision--wiki-accvsprecision.jpg]]
+*Figure: from Wikipedia article "Accuracy and precision".*
+*Source: Wikimedia Commons — [ACCvsPrecision.jpg](https://commons.wikimedia.org/wiki/File:ACCvsPrecision.jpg). Retrieved 2026-05-20.*
+
+#### Accuracy (trueness and precision)
+
+![[_attachments/04_Concepts/Resolution-Accuracy-and-Precision--wiki-accuracy-trueness-and-precision.svg]]
+*Figure: from Wikipedia article "Accuracy and precision".*
+*Source: Wikimedia Commons — [Accuracy (trueness and precision).svg](https://commons.wikimedia.org/wiki/File:Accuracy_(trueness_and_precision).svg). Retrieved 2026-05-20.*
+
 ## Source Trace
 
 - Source: [[OCR-Physics-Practical-Skills-Handbook]]

@@ -92,6 +92,28 @@ On a **force–displacement graph**, work is the **area under the curve**. For a
 *Figure: An applied force F (red) acts at angle θ above the horizontal. Only the component F cosθ lies along the displacement s (green). Work W = Fs cosθ; when θ = 90° the force is perpendicular to motion and does zero work.*
 *Source: Authored for this vault (CC0). No external copyright.*
 
+### From Wikipedia
+
+<!-- wiki-images: yes -->
+
+#### Baseball pitching motion 2004
+
+![[_attachments/03_Physical-Quantities/Work--wiki-baseball-pitching-motion-2004.jpg]]
+*Figure: from Wikipedia article "Work (physics)".*
+*Source: Wikimedia Commons — [Baseball_pitching_motion_2004.jpg](https://commons.wikimedia.org/wiki/File:Baseball_pitching_motion_2004.jpg). Retrieved 2026-05-20.*
+
+#### Analogie ressorts contrainte
+
+![[_attachments/03_Physical-Quantities/Work--wiki-analogie-ressorts-contrainte.svg]]
+*Figure: from Wikipedia article "Work (physics)".*
+*Source: Wikimedia Commons — [Analogie ressorts contrainte.svg](https://commons.wikimedia.org/wiki/File:Analogie_ressorts_contrainte.svg). Retrieved 2026-05-20.*
+
+#### Baseball pitching motion 2004
+
+![[_attachments/03_Physical-Quantities/Work--wiki-baseball-pitching-motion-2004.jpg]]
+*Figure: from Wikipedia article "Work (physics)".*
+*Source: Wikimedia Commons — [Baseball pitching motion 2004.jpg](https://commons.wikimedia.org/wiki/File:Baseball_pitching_motion_2004.jpg). Retrieved 2026-05-20.*
+
 ## Source Trace
 
 - Source: OpenStax College Physics; The Physics Classroom; HyperPhysics (paraphrased, no copied text)

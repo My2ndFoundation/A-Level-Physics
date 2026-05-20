@@ -90,6 +90,16 @@ On a displacement–time (or displacement–position) graph, the amplitude is th
 *Figure: The amplitude A is the distance from the equilibrium line (x = 0) to a peak. The full peak-to-trough height is 2A, not A — a common error. The period T is the time for one complete cycle.*
 *Source: Authored for this vault (CC0). No external copyright.*
 
+### From Wikipedia
+
+<!-- wiki-images: yes -->
+
+#### Sine voltage
+
+![[_attachments/03_Physical-Quantities/Amplitude--wiki-sine-voltage.svg]]
+*Figure: from Wikipedia article "Amplitude".*
+*Source: Wikimedia Commons — [Sine voltage.svg](https://commons.wikimedia.org/wiki/File:Sine_voltage.svg). Retrieved 2026-05-20.*
+
 ## Source Trace
 
 - Source: OpenStax College Physics; The Physics Classroom; HyperPhysics (paraphrased, no copied text)

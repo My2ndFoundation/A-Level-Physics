@@ -70,6 +70,30 @@ Resistance is like a narrow or rough section of a water pipe: it makes it harder
 
 At A-Level, resistance is studied through I–V characteristics, the distinction between ohmic and non-ohmic conductors, and resistivity $\rho$ via $R = \rho L / A$, including how resistivity changes with temperature. It is combined with [[Voltage]] and [[Electric-Current]] in [[Ohms-Law]], potential dividers and internal-resistance analysis. See the A-Level [[Resistance]] physical-quantity page for the formal treatment.
 
+## Visuals
+
+### From Wikipedia
+
+<!-- wiki-images: yes -->
+
+#### VFPt Solenoid correct2
+
+![[_attachments/02_Foundations/Resistance--wiki-vfpt-solenoid-correct2.svg]]
+*Figure: from Wikipedia article "Electrical resistance and conductance".*
+*Source: Wikimedia Commons — [VFPt_Solenoid_correct2.svg](https://commons.wikimedia.org/wiki/File:VFPt_Solenoid_correct2.svg). Retrieved 2026-05-20.*
+
+#### Cartridge-heater-hot
+
+![[_attachments/02_Foundations/Resistance--wiki-cartridge-heater-hot.jpg]]
+*Figure: from Wikipedia article "Electrical resistance and conductance".*
+*Source: Wikimedia Commons — [Cartridge-heater-hot.jpg](https://commons.wikimedia.org/wiki/File:Cartridge-heater-hot.jpg). Retrieved 2026-05-20.*
+
+#### DifferentialChordalResistance
+
+![[_attachments/02_Foundations/Resistance--wiki-differentialchordalresistance.svg]]
+*Figure: from Wikipedia article "Electrical resistance and conductance".*
+*Source: Wikimedia Commons — [DifferentialChordalResistance.svg](https://commons.wikimedia.org/wiki/File:DifferentialChordalResistance.svg). Retrieved 2026-05-20.*
+
 ## Source Trace
 
 - Source: BBC Bitesize GCSE Physics (resistance, circuit components); IOPSpark; The Physics Classroom (electric circuits)

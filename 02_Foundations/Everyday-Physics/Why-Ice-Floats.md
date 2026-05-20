@@ -52,6 +52,30 @@ A common wrong intuition is that ice floats because it is "lighter" than water. 
 
 This page explains the density and floating intuition only. It does not give the density values, derive upthrust quantitatively, or detail the molecular bonding structure of ice.
 
+## Visuals
+
+### From Wikipedia
+
+<!-- wiki-images: yes -->
+
+#### H2O 2D labelled
+
+![[_attachments/02_Foundations/Why-Ice-Floats--wiki-h2o-2d-labelled.svg]]
+*Figure: from Wikipedia article "Properties of water".*
+*Source: Wikimedia Commons — [H2O_2D_labelled.svg](https://commons.wikimedia.org/wiki/File:H2O_2D_labelled.svg). Retrieved 2026-05-20.*
+
+#### 3D model hydrogen bonds in water
+
+![[_attachments/02_Foundations/Why-Ice-Floats--wiki-3d-model-hydrogen-bonds-in-water.svg]]
+*Figure: from Wikipedia article "Properties of water".*
+*Source: Wikimedia Commons — [3D model hydrogen bonds in water.svg](https://commons.wikimedia.org/wiki/File:3D_model_hydrogen_bonds_in_water.svg). Retrieved 2026-05-20.*
+
+#### Annual mean sea surface sea water density (World Ocean Atlas 2009)
+
+![[_attachments/02_Foundations/Why-Ice-Floats--wiki-annual-mean-sea-surface-sea-water-densit.png]]
+*Figure: from Wikipedia article "Properties of water".*
+*Source: Wikimedia Commons — [Annual mean sea surface sea water density (World Ocean Atlas 2009).png](https://commons.wikimedia.org/wiki/File:Annual_mean_sea_surface_sea_water_density_(World_Ocean_Atlas_2009).png). Retrieved 2026-05-20.*
+
 ## Source Trace
 
 - Source: BBC Bitesize GCSE Physics (density and floating); IOPSpark; The Physics Classroom (density and buoyancy)

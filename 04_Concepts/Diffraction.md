@@ -99,6 +99,28 @@ flowchart LR
 *Figure: The degree of spreading depends on λ/gap. Maximum diffraction when gap ≈ λ. Single-slit: central fringe is twice as wide as secondary fringes.*
 *Source: Authored for this vault (CC0). No external copyright.*
 
+### From Wikipedia
+
+<!-- wiki-images: yes -->
+
+#### Laser Interference
+
+![[_attachments/04_Concepts/Diffraction--wiki-laser-interference.jpg]]
+*Figure: from Wikipedia article "Diffraction".*
+*Source: Wikimedia Commons — [Laser_Interference.JPG](https://commons.wikimedia.org/wiki/File:Laser_Interference.JPG). Retrieved 2026-05-20.*
+
+#### Airy-pattern
+
+![[_attachments/04_Concepts/Diffraction--wiki-airy-pattern.svg]]
+*Figure: from Wikipedia article "Diffraction".*
+*Source: Wikimedia Commons — [Airy-pattern.svg](https://commons.wikimedia.org/wiki/File:Airy-pattern.svg). Retrieved 2026-05-20.*
+
+#### Blue laser single slit diffraction photo
+
+![[_attachments/04_Concepts/Diffraction--wiki-blue-laser-single-slit-diffraction-photo.jpg]]
+*Figure: from Wikipedia article "Diffraction".*
+*Source: Wikimedia Commons — [Blue laser single slit diffraction photo.jpg](https://commons.wikimedia.org/wiki/File:Blue_laser_single_slit_diffraction_photo.jpg). Retrieved 2026-05-20.*
+
 ## Source Trace
 
 - Source: OpenStax College Physics; The Physics Classroom; IOPSpark; Physics LibreTexts — paraphrased, no copied text.

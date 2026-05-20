@@ -66,6 +66,28 @@ Signal processing extracts useful information from a measured signal: filtering 
 
 _None yet — a noisy-vs-filtered waveform figure would suit this page._
 
+### From Wikipedia
+
+<!-- wiki-images: yes -->
+
+#### Cosine Series Plus Noise
+
+![[_attachments/10_Applications/Signal-Processing--wiki-cosine-series-plus-noise.png]]
+*Figure: from Wikipedia article "Signal processing".*
+*Source: Wikimedia Commons — [Cosine_Series_Plus_Noise.png](https://commons.wikimedia.org/wiki/File:Cosine_Series_Plus_Noise.png). Retrieved 2026-05-20.*
+
+#### Cosine Series Plus Noise
+
+![[_attachments/10_Applications/Signal-Processing--wiki-cosine-series-plus-noise.png]]
+*Figure: from Wikipedia article "Signal processing".*
+*Source: Wikimedia Commons — [Cosine Series Plus Noise.png](https://commons.wikimedia.org/wiki/File:Cosine_Series_Plus_Noise.png). Retrieved 2026-05-20.*
+
+#### Cosine Series Plus Noise TFM
+
+![[_attachments/10_Applications/Signal-Processing--wiki-cosine-series-plus-noise-tfm.png]]
+*Figure: from Wikipedia article "Signal processing".*
+*Source: Wikimedia Commons — [Cosine Series Plus Noise TFM.png](https://commons.wikimedia.org/wiki/File:Cosine_Series_Plus_Noise_TFM.png). Retrieved 2026-05-20.*
+
 ## External Resources
 
 - Khan Academy — Waves: https://www.khanacademy.org/science/physics/mechanical-waves-and-sound

@@ -116,6 +116,28 @@ flowchart LR
 *Figure: A source moving toward an observer compresses wavefronts (blueshift); moving away stretches them (redshift). For astronomical light: $\Delta\lambda/\lambda \approx v/c$ for $v \ll c$.*
 *Source: Authored for this vault (CC0). No external copyright.*
 
+### From Wikipedia
+
+<!-- wiki-images: yes -->
+
+#### CarotidDoppler1
+
+![[_attachments/04_Concepts/Doppler-Effect--wiki-carotiddoppler1.jpg]]
+*Figure: from Wikipedia article "Doppler effect".*
+*Source: Wikimedia Commons — [CarotidDoppler1.jpg](https://commons.wikimedia.org/wiki/File:CarotidDoppler1.jpg). Retrieved 2026-05-20.*
+
+#### Crab Nebula
+
+![[_attachments/04_Concepts/Doppler-Effect--wiki-crab-nebula.jpg]]
+*Figure: from Wikipedia article "Doppler effect".*
+*Source: Wikimedia Commons — [Crab Nebula.jpg](https://commons.wikimedia.org/wiki/File:Crab_Nebula.jpg). Retrieved 2026-05-20.*
+
+#### DopplerSatScheme
+
+![[_attachments/04_Concepts/Doppler-Effect--wiki-dopplersatscheme.png]]
+*Figure: from Wikipedia article "Doppler effect".*
+*Source: Wikimedia Commons — [DopplerSatScheme.png](https://commons.wikimedia.org/wiki/File:DopplerSatScheme.png). Retrieved 2026-05-20.*
+
 ## Source Trace
 
 - Source: OpenStax College Physics; HyperPhysics; NASA educational material — no copied text

@@ -100,6 +100,28 @@ flowchart TD
 
 *Source: Authored for this vault (CC0). No external copyright.*
 
+### From Wikipedia
+
+<!-- wiki-images: yes -->
+
+#### Lorenz attractor yb
+
+![[_attachments/12_Frontier-Maps/Chaos-and-Complexity-Map--wiki-lorenz-attractor-yb.svg]]
+*Figure: from Wikipedia article "Chaos theory".*
+*Source: Wikimedia Commons — [Lorenz_attractor_yb.svg](https://commons.wikimedia.org/wiki/File:Lorenz_attractor_yb.svg). Retrieved 2026-05-20.*
+
+#### 3D Lorenz Chaotic Attactor
+
+![[_attachments/12_Frontier-Maps/Chaos-and-Complexity-Map--wiki-3d-lorenz-chaotic-attactor.png]]
+*Figure: from Wikipedia article "Chaos theory".*
+*Source: Wikimedia Commons — [3D Lorenz Chaotic Attactor.png](https://commons.wikimedia.org/wiki/File:3D_Lorenz_Chaotic_Attactor.png). Retrieved 2026-05-20.*
+
+#### Airplane vortex edit
+
+![[_attachments/12_Frontier-Maps/Chaos-and-Complexity-Map--wiki-airplane-vortex-edit.jpg]]
+*Figure: from Wikipedia article "Chaos theory".*
+*Source: Wikimedia Commons — [Airplane vortex edit.jpg](https://commons.wikimedia.org/wiki/File:Airplane_vortex_edit.jpg). Retrieved 2026-05-20.*
+
 ## Source Trace
 
 - Source: [[IOP-Explore-Physics]]; Institute of Physics — Explore Physics; Wikipedia (navigation)

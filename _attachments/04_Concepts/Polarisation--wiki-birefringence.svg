@@ -1,0 +1,147 @@
+<?xml version="1.0" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+"http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<!-- Creator: fig2dev Version 3.2 Patchlevel 5-alpha5 -->
+<!-- CreationDate: Tue Jun  1 11:56:59 2004 -->
+<!-- Magnification: 1.000 -->
+<svg xmlns="http://www.w3.org/2000/svg" width="2.5in" height="2.3in" viewBox="717 1100 2990 2792">
+<g style="stroke-width:.025in; stroke:black; fill:none">
+<!-- Line -->
+<polyline points="2165,2480
+3598,3539
+" style="stroke:#ffd600;stroke-width:7;
+stroke-linejoin:miter; stroke-linecap:butt;
+stroke-dasharray:50 50;
+"/>
+<!-- Arrowhead on XXXpoint -->
+<polygon points="3554 3543
+3669 3591
+3590 3495
+3554 3543
+
+" style="stroke:#ffd600;stroke-width:7;
+fill:#ffd600;"/>
+<!-- Line -->
+<polyline points="2165,2490
+2165,3760
+" style="stroke:#ff0000;stroke-width:7;
+stroke-linejoin:miter; stroke-linecap:butt;
+stroke-dasharray:50 50;
+"/>
+<!-- Arrowhead on XXXpoint -->
+<polygon points="2135 3728
+2165 3848
+2195 3728
+2135 3728
+
+" style="stroke:#ff0000;stroke-width:7;
+fill:#ff0000;"/>
+<!-- Line -->
+<polyline points="2165,2480
+3514,1916
+" style="stroke:#0000ff;stroke-width:7;
+stroke-linejoin:miter; stroke-linecap:butt;
+stroke-dasharray:50 50;
+"/>
+<!-- Arrowhead on XXXpoint -->
+<polygon points="3495 1955
+3595 1882
+3472 1900
+3495 1955
+
+" style="stroke:#0000ff;stroke-width:7;
+fill:#0000ff;"/>
+<!-- Ellipse -->
+<ellipse transform="translate(2163,2485) rotate(-0.00000000)" rx="1228" ry="491"
+ style="stroke:#000000;stroke-width:7;"/>
+<!-- Ellipse -->
+<ellipse transform="translate(2164,1723) rotate(-0.00000000)" rx="961" ry="107"
+ style="stroke:#ff0000;stroke-width:7;"/>
+<!-- Ellipse -->
+<ellipse transform="translate(2165,2480) rotate(-0.00000000)" rx="990" ry="360"
+ style="stroke:#ff0000;stroke-width:7;"/>
+<!-- Ellipse -->
+<ellipse transform="translate(2163,2485) rotate(-0.00000000)" rx="1228" ry="1229"
+ style="stroke:#000000;stroke-width:7;"/>
+<!-- Ellipse -->
+<ellipse transform="translate(2485,2720) rotate(-330.00077168)" rx="540" ry="1050"
+ style="stroke:#ffd600;stroke-width:7;"/>
+<!-- Ellipse -->
+<ellipse transform="translate(1935,2570) rotate(-294.99877998)" rx="310" ry="170"
+ style="stroke:#0000ff;stroke-width:7;"/>
+<!-- Ellipse -->
+<ellipse transform="translate(2725,2250) rotate(-294.99877998)" rx="570" ry="140"
+ style="stroke:#0000ff;stroke-width:7;"/>
+<!-- Ellipse -->
+<ellipse transform="translate(2435,2685) rotate(-330.00077168)" rx="280" ry="485"
+ style="stroke:#ffd600;stroke-width:7;"/>
+<!-- Line -->
+<polyline points="2163,2485
+3346,2959
+" style="stroke:#000000;stroke-width:7;
+stroke-linejoin:miter; stroke-linecap:butt;
+"/>
+<!-- Arrowhead on XXXpoint -->
+<polygon points="3321 2975
+3376 2971
+3339 2929
+3321 2975
+
+" style="stroke:#000000;stroke-width:7;
+fill:#000000;"/>
+<!-- Line -->
+<polyline points="2165,2480
+2090,2840
+" style="stroke:#000000;stroke-width:30;
+stroke-linejoin:miter; stroke-linecap:butt;
+"/>
+<!-- Line -->
+<polyline points="2163,2485
+2654,1808
+" style="stroke:#000000;stroke-width:30;
+stroke-linejoin:miter; stroke-linecap:butt;
+"/>
+<!-- Line -->
+<polyline points="2163,2485
+2163,1183
+" style="stroke:#ff0000;stroke-width:30;
+stroke-linejoin:miter; stroke-linecap:butt;
+"/>
+<!-- Arrowhead on XXXpoint -->
+<polygon points="2187 1199
+2163 1150
+2138 1199
+2187 1199
+
+" style="stroke:#ff0000;stroke-width:7;
+fill:#ff0000;"/>
+<!-- Line -->
+<polyline points="2163,2485
+981,2959
+" style="stroke:#0000ff;stroke-width:30;
+stroke-linejoin:miter; stroke-linecap:butt;
+"/>
+<!-- Arrowhead on XXXpoint -->
+<polygon points="987 2929
+951 2971
+1006 2975
+987 2929
+
+" style="stroke:#0000ff;stroke-width:7;
+fill:#0000ff;"/>
+<!-- Line -->
+<polyline points="2175,2480
+846,1496
+" style="stroke:#ffd600;stroke-width:30;
+stroke-linejoin:miter; stroke-linecap:butt;
+"/>
+<!-- Arrowhead on XXXpoint -->
+<polygon points="890 1491
+776 1444
+854 1539
+890 1491
+
+" style="stroke:#ffd600;stroke-width:7;
+fill:#ffd600;"/>
+</g>
+</svg>

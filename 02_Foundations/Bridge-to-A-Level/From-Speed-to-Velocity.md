@@ -68,6 +68,30 @@ A car going north at 30 mph and a car going south at 30 mph have the same speed 
 
 At A-Level the everyday "how fast" becomes a precise vector. Direction is handled with sign conventions in one dimension and component resolution in two dimensions; velocity is differentiated and integrated against time on motion graphs, and it feeds directly into [[Momentum]] and [[Newton-Second-Law]]. See the GCSE-layer pages and the A-Level [[Velocity]] physical-quantity page.
 
+## Visuals
+
+### From Wikipedia
+
+<!-- wiki-images: yes -->
+
+#### US Navy 040501-N-1336S-037 The U.S. Navy sponsored Chevy Monte Carlo NASCAR leads a pack into turn four at California Speedway
+
+![[_attachments/02_Foundations/From-Speed-to-Velocity--wiki-us-navy-040501-n-1336s-037-the-us-navy-s.jpg]]
+*Figure: from Wikipedia article "Velocity".*
+*Source: Wikimedia Commons — [US_Navy_040501-N-1336S-037_The_U.S._Navy_sponsored_Chevy_Monte_Carlo_NASCAR_leads_a_pack_into_turn_four_at_California_Speedway.jpg](https://commons.wikimedia.org/wiki/File:US_Navy_040501-N-1336S-037_The_U.S._Navy_sponsored_Chevy_Monte_Carlo_NASCAR_leads_a_pack_into_turn_four_at_California_Speedway.jpg). Retrieved 2026-05-20.*
+
+#### Kinematics
+
+![[_attachments/02_Foundations/From-Speed-to-Velocity--wiki-kinematics.svg]]
+*Figure: from Wikipedia article "Velocity".*
+*Source: Wikimedia Commons — [Kinematics.svg](https://commons.wikimedia.org/wiki/File:Kinematics.svg). Retrieved 2026-05-20.*
+
+#### Radial and tangential
+
+![[_attachments/02_Foundations/From-Speed-to-Velocity--wiki-radial-and-tangential.svg]]
+*Figure: from Wikipedia article "Velocity".*
+*Source: Wikimedia Commons — [Radial and tangential.svg](https://commons.wikimedia.org/wiki/File:Radial_and_tangential.svg). Retrieved 2026-05-20.*
+
 ## Source Trace
 
 - Source: BBC Bitesize GCSE/A-Level Physics (motion); IOPSpark; The Physics Classroom (1D and 2D kinematics)

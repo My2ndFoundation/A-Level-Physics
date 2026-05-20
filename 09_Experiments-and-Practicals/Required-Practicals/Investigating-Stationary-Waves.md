@@ -88,6 +88,28 @@ Low risk. Secure the pulley and masses; keep fingers away from the vibrating str
 *Figure: Animation of standing-wave harmonics on a string fixed at both ends, showing the fundamental (n = 1, one loop), second harmonic (n = 2, two loops), and higher modes — note fixed nodes at each end and a maximum antinode amplitude at the centre of each loop.*
 *Source: Standing waves on a string — Adjwilley — CC BY-SA 3.0 — https://commons.wikimedia.org/wiki/File:Standing_waves_on_a_string.gif. Retrieved 2026-05-19.*
 
+### From Wikipedia
+
+<!-- wiki-images: yes -->
+
+#### Melde-experiment-graphic
+
+![[_attachments/09_Experiments-and-Practicals/Investigating-Stationary-Waves--wiki-melde-experiment-graphic.png]]
+*Figure: from Wikipedia article "Melde's experiment".*
+*Source: Wikimedia Commons — [Melde-experiment-graphic.PNG](https://commons.wikimedia.org/wiki/File:Melde-experiment-graphic.PNG). Retrieved 2026-05-20.*
+
+#### James-clerk-maxwell 1
+
+![[_attachments/09_Experiments-and-Practicals/Investigating-Stationary-Waves--wiki-james-clerk-maxwell-1.jpg]]
+*Figure: from Wikipedia article "Melde's experiment".*
+*Source: Wikimedia Commons — [James-clerk-maxwell 1.jpg](https://commons.wikimedia.org/wiki/File:James-clerk-maxwell_1.jpg). Retrieved 2026-05-20.*
+
+#### Standing wave
+
+![[_attachments/09_Experiments-and-Practicals/Investigating-Stationary-Waves--wiki-standing-wave.gif]]
+*Figure: from Wikipedia article "Melde's experiment".*
+*Source: Wikimedia Commons — [Standing wave.gif](https://commons.wikimedia.org/wiki/File:Standing_wave.gif). Retrieved 2026-05-20.*
+
 ## Source Trace
 
 - Source: OCR Practical Skills Handbook; The Physics Classroom; IOPSpark; OpenStax

@@ -74,6 +74,28 @@ Estimating the age of once-living material (wood, bone, charcoal) from the resid
 *Figure: Schematic of carbon-14 (¹⁴C) beta-minus decay to nitrogen-14 (¹⁴N). A neutron converts to a proton with emission of a beta particle (electron) and an antineutrino, with a half-life of ~5730 years. Carbon dating uses the ratio of remaining ¹⁴C to stable ¹²C.*
 *Source: Radioactive decay of Carbon-14 — Kurt Rosenkrantz — CC BY-SA 3.0 — https://commons.wikimedia.org/wiki/File:Radioactive_decay_of_Carbon-14.png. Retrieved 2026-05-19.*
 
+### From Wikipedia
+
+<!-- wiki-images: yes -->
+
+#### The Temple Scroll (11Q20) - Google Art Project
+
+![[_attachments/10_Applications/Carbon-Dating--wiki-the-temple-scroll-11q20-google-art-proje.jpg]]
+*Figure: from Wikipedia article "Radiocarbon dating".*
+*Source: Wikimedia Commons — [The_Temple_Scroll_(11Q20)_-_Google_Art_Project.jpg](https://commons.wikimedia.org/wiki/File:The_Temple_Scroll_(11Q20)_-_Google_Art_Project.jpg). Retrieved 2026-05-20.*
+
+#### 1 MV accelerator mass spectrometer
+
+![[_attachments/10_Applications/Carbon-Dating--wiki-1-mv-accelerator-mass-spectrometer.jpg]]
+*Figure: from Wikipedia article "Radiocarbon dating".*
+*Source: Wikimedia Commons — [1 MV accelerator mass spectrometer.jpg](https://commons.wikimedia.org/wiki/File:1_MV_accelerator_mass_spectrometer.jpg). Retrieved 2026-05-20.*
+
+#### Accelerator mass spectrometer schematic for radiocarbon
+
+![[_attachments/10_Applications/Carbon-Dating--wiki-accelerator-mass-spectrometer-schematic-.svg]]
+*Figure: from Wikipedia article "Radiocarbon dating".*
+*Source: Wikimedia Commons — [Accelerator mass spectrometer schematic for radiocarbon.svg](https://commons.wikimedia.org/wiki/File:Accelerator_mass_spectrometer_schematic_for_radiocarbon.svg). Retrieved 2026-05-20.*
+
 ## Source Trace
 
 - Source: OpenStax College Physics; HyperPhysics; CERN educational material — no copied text

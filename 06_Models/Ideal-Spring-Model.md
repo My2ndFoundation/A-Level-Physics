@@ -89,6 +89,28 @@ xychart-beta
 *Figure: A straight line through the origin confirms F = kx; the gradient is the spring constant k, and the area under the line equals the elastic potential energy stored (½kx²).*
 *Source: Authored for this vault (CC0). No external copyright.*
 
+### From Wikipedia
+
+<!-- wiki-images: yes -->
+
+#### Alarm Clock Balance Wheel
+
+![[_attachments/06_Models/Ideal-Spring-Model--wiki-alarm-clock-balance-wheel.jpg]]
+*Figure: from Wikipedia article "Spring (device)".*
+*Source: Wikimedia Commons — [Alarm Clock Balance Wheel.jpg](https://commons.wikimedia.org/wiki/File:Alarm_Clock_Balance_Wheel.jpg). Retrieved 2026-05-20.*
+
+#### Bogenfedern und Bogenfedersysteme
+
+![[_attachments/06_Models/Ideal-Spring-Model--wiki-bogenfedern-und-bogenfedersysteme.jpg]]
+*Figure: from Wikipedia article "Spring (device)".*
+*Source: Wikimedia Commons — [Bogenfedern und Bogenfedersysteme.jpg](https://commons.wikimedia.org/wiki/File:Bogenfedern_und_Bogenfedersysteme.jpg). Retrieved 2026-05-20.*
+
+#### Different-types-of-mechanical-stress EN
+
+![[_attachments/06_Models/Ideal-Spring-Model--wiki-different-types-of-mechanical-stress-en.svg]]
+*Figure: from Wikipedia article "Spring (device)".*
+*Source: Wikimedia Commons — [Different-types-of-mechanical-stress EN.svg](https://commons.wikimedia.org/wiki/File:Different-types-of-mechanical-stress_EN.svg). Retrieved 2026-05-20.*
+
 ## Source Trace
 
 - Source: OpenStax College Physics; The Physics Classroom; Isaac Physics — paraphrased, no copied text.

@@ -78,6 +78,28 @@ A transformer changes the size of an alternating voltage using [[Electromagnetic
 *Figure: A large step-down transformer in an electrical substation. The primary and secondary windings are wound on a laminated iron core; high-voltage transmission lines enter from above and lower-voltage distribution cables leave below.*
 *Source: Electrical substation transformer, Love Lane, Liverpool — Rept0n1x — CC BY-SA 3.0 — https://commons.wikimedia.org/wiki/File:Electrical_substation_transformer,_Love_Lane,_Liverpool.JPG. Retrieved 2026-05-19.*
 
+### From Wikipedia
+
+<!-- wiki-images: yes -->
+
+#### Aviacionavion
+
+![[_attachments/10_Applications/Transformers--wiki-aviacionavion.png]]
+*Figure: from Wikipedia article "Transformers".*
+*Source: Wikimedia Commons — [Aviacionavion.png](https://commons.wikimedia.org/wiki/File:Aviacionavion.png). Retrieved 2026-05-20.*
+
+#### Blue iPod Nano
+
+![[_attachments/10_Applications/Transformers--wiki-blue-ipod-nano.jpg]]
+*Figure: from Wikipedia article "Transformers".*
+*Source: Wikimedia Commons — [Blue iPod Nano.jpg](https://commons.wikimedia.org/wiki/File:Blue_iPod_Nano.jpg). Retrieved 2026-05-20.*
+
+#### Caribou from Wagon Trails
+
+![[_attachments/10_Applications/Transformers--wiki-caribou-from-wagon-trails.jpg]]
+*Figure: from Wikipedia article "Transformers".*
+*Source: Wikimedia Commons — [Caribou from Wagon Trails.jpg](https://commons.wikimedia.org/wiki/File:Caribou_from_Wagon_Trails.jpg). Retrieved 2026-05-20.*
+
 ## Source Trace
 
 OpenStax College Physics; HyperPhysics; Physics LibreTexts — no copied text.

@@ -91,6 +91,28 @@ Uniform fields are used to accelerate and deflect charged particles (oscilloscop
 *Figure: Parallel plates with potential difference V and separation d produce a uniform field E = V/d pointing from positive to negative plate. Field lines are straight, parallel, and evenly spaced. A charge Q between the plates experiences a constant force F = EQ.*
 *Source: Authored for this vault (CC0). No external copyright.*
 
+### From Wikipedia
+
+<!-- wiki-images: yes -->
+
+#### VFPt Solenoid correct2
+
+![[_attachments/04_Concepts/Uniform-Electric-Field--wiki-vfpt-solenoid-correct2.svg]]
+*Figure: from Wikipedia article "Electric flux".*
+*Source: Wikimedia Commons — [VFPt_Solenoid_correct2.svg](https://commons.wikimedia.org/wiki/File:VFPt_Solenoid_correct2.svg). Retrieved 2026-05-20.*
+
+#### OiintLaTeX
+
+![[_attachments/04_Concepts/Uniform-Electric-Field--wiki-oiintlatex.svg]]
+*Figure: from Wikipedia article "Electric flux".*
+*Source: Wikimedia Commons — [OiintLaTeX.svg](https://commons.wikimedia.org/wiki/File:OiintLaTeX.svg). Retrieved 2026-05-20.*
+
+#### VFPt Solenoid correct2
+
+![[_attachments/04_Concepts/Uniform-Electric-Field--wiki-vfpt-solenoid-correct2.svg]]
+*Figure: from Wikipedia article "Electric flux".*
+*Source: Wikimedia Commons — [VFPt Solenoid correct2.svg](https://commons.wikimedia.org/wiki/File:VFPt_Solenoid_correct2.svg). Retrieved 2026-05-20.*
+
 ## Source Trace
 
 - Source: OpenStax College Physics; HyperPhysics; Physics LibreTexts — no copied text

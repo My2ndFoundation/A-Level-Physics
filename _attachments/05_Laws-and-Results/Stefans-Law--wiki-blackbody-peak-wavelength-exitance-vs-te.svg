@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="100%" height="100%" viewBox="-58 -546 650 650">
+ <title>Blackbody peak wavelength exitance vs temperature</title>
+ <desc>Compound log-log graphs of the radiant exitance and peak emission wavelength vs black-body temperature by CMG Lee. The red arrows show that a 5780 K (10400 &#176;R) black-body has a radiant exitance is 63.3 MW/m&#178; and peak wavelength of 501 nm.</desc>
+ <style type="text/css">
+.main { font-family:Helvetica,Arial,sans-serif; font-size:18px; text-anchor:middle;
+        stroke-linejoin:round; stroke:none; fill:#000000; }
+text        { cursor:default; }
+.exitance   { stroke:#66ccff; }
+.wavelength { stroke:#66ccff; }
+ </style>
+ <defs>
+  <linearGradient id="grad_spectrum" x1="0%" x2="0%" y1="0%" y2="100%">
+   <stop offset="0%"   stop-color="#cc66ff"/>
+   <stop offset="40%"  stop-color="#00ff00"/>
+   <stop offset="70%"  stop-color="#ffcc00"/>
+   <stop offset="100%" stop-color="#ff6666"/>
+  </linearGradient>
+  <path id="reference" d="M 0,-40 v -530" stroke-dasharray="3,2" stroke-width="1" stroke="#000000"/>
+  <rect id="tick_pattern" x="0" y="0" width="100" height="100" stroke-width="1" fill="none"/>
+  <path id="grid_pattern" d="M 30.1,0 V 100 M 47.71,0 V 100 M 60.21,0 V 100 M 69.64,0 V 100
+   M 70.16,0 V 100 M 77.82,0 V 100 M 84.51,0 V 100 M 90.31,0 V 100 M 95.42,0 V 100"/>
+  <pattern id="pattern_tick_exitance" patternUnits="userSpaceOnUse" width="75" height="100">
+   <use xlink:href="#tick_pattern" class="exitance" transform="scale(0.75,1)"/>
+  </pattern>
+  <pattern id="pattern_grid_wavelength" patternUnits="userSpaceOnUse" width="100" height="100">
+   <g class="wavelength">
+    <use xlink:href="#grid_pattern" stroke-width="0.3"/>
+    <use xlink:href="#grid_pattern" stroke-width="0.3" transform="scale(-1,1) rotate(90)"/>
+    <use xlink:href="#tick_pattern"/>
+   </g>
+  </pattern>
+  <pattern id="pattern_grid_exitance" patternUnits="userSpaceOnUse" width="25" height="100">
+   <g class="exitance" transform="scale(0.25,1)">
+    <use xlink:href="#grid_pattern" stroke-width="0.8"/>
+    <use xlink:href="#grid_pattern" stroke-width="0.3" transform="translate(0,100) rotate(-90)"/>
+    <use xlink:href="#tick_pattern"/>
+   </g>
+  </pattern>
+  <clipPath id="clip_wavelength"><path d="M -999,999 L 999,-999 V 999"/></clipPath>
+  <clipPath id="clip_exitance"><path d="M -999,999 L 999,-999 H -999"/></clipPath>
+ </defs>
+ <circle cx="0" cy="0" r="99999" fill="#ffffff"/>
+ <g class="main">
+  <rect x="0" y="-386" width="502" height="25" fill="url(#grad_spectrum)" fill-opacity="0.5"/>
+  <g clip-path="url(#clip_exitance)">
+   <g transform="translate(31,-498.5)">
+    <rect x="-25" y="-1" width="476" height="500" fill="url(#pattern_grid_exitance)"/>
+    <rect x="-25" y="-6" width="476" height="500" fill="url(#pattern_tick_exitance)"/>
+    <g transform="translate(0,-15)" letter-spacing="-1">
+     <text x="450" y="0" dy="0.7ex">1&#8202;TW/m&#178;</text>
+     <text x="375" y="0" dy="0.7ex">1&#8202;GW/m&#178;</text>
+     <text x="300" y="0" dy="0.7ex">1&#8202;MW/m&#178;</text>
+     <text x="225" y="0" dy="0.7ex">1&#8202;kW/m&#178;</text>
+     <text x="150" y="0" dy="0.7ex">1&#8201;W/m&#178;</text>
+     <text x="75"  y="0" dy="0.7ex">1&#8202;mW/m&#178;</text>
+     <text x="0"   y="0" dy="0.7ex">1&#8202;&#181;W/m&#178;</text>
+    </g>
+    <text x="190" y="-38" dy="0.7ex">Radiant exitance</text>
+    <text transform="rotate(-90)" x="-390" y="-80" dy="0.7ex">Peak frequency</text>
+    <g transform="translate(-28,0)" text-anchor="end" letter-spacing="-1">
+     <text x="0" y="0"   dy="0.7ex" >10&#8201;PHz</text>
+     <text x="0" y="100" dy="0.7ex"  >1&#8201;PHz</text>
+     <text x="0" y="200" dy="0.7ex">100&#8202;THz</text>
+     <text x="0" y="300" dy="0.7ex" >10&#8202;THz</text>
+     <text x="0" y="400" dy="0.7ex"  >1&#8202;THz</text>
+    </g>
+   </g>
+  </g>
+  <g clip-path="url(#clip_wavelength)">
+   <g transform="translate(0,-546.2)">
+    <rect x="-1" y="-1" width="502" height="602" fill="url(#pattern_grid_wavelength)"/>
+    <g transform="translate(0,617)">
+     <text x="0"   y="0" dy="0.7ex"     >1 K</text>
+     <text x="100" y="0" dy="0.7ex"    >10 K</text>
+     <text x="200" y="0" dy="0.7ex"   >100 K</text>
+     <text x="300" y="0" dy="0.7ex"  >1000 K</text>
+     <text x="400" y="0" dy="0.7ex" >10000 K</text>
+     <text x="500" y="0" dy="0.7ex">100000 K</text>
+    </g>
+    <text x="250" y="637" dy="0.7ex">Black-body temperature</text>
+    <text transform="rotate(-90)" x="-180" y="580" dy="0.7ex">Peak wavelength</text>
+    <g transform="translate(505,0)" text-anchor="start">
+     <text x="0" y="100" dy="0.7ex">100 nm</text>
+     <text x="0" y="200" dy="0.7ex"  >1 &#181;m</text>
+     <text x="0" y="300" dy="0.7ex" >10 &#181;m</text>
+     <text x="0" y="400" dy="0.7ex">100 &#181;m</text>
+     <text x="0" y="500" dy="0.7ex"  >1 mm</text>
+     <text x="0" y="600" dy="0.7ex" >10 mm</text>
+    </g>
+    <g transform="translate(503,0)" font-weight="bold" text-anchor="start" letter-spacing="-1" fill="#ff9900">
+     <text x="2" y="60"  dy="0.7ex">EUV</text>
+     <text x="2" y="135" dy="0.7ex">UV</text>
+     <text x="2" y="172" dy="0.7ex">visible</text>
+     <text x="2" y="250" dy="0.7ex">IR</text>
+     <text x="2" y="325" dy="0.7ex">thermal IR</text>
+     <text x="0" y="440" dy="0.7ex">microwave</text>
+     <text x="2" y="460" dy="0.7ex">(THF)</text>
+     <text x="0" y="540" dy="0.7ex">microwave</text>
+     <text x="2" y="560" dy="0.7ex">(EHF)</text>
+    </g>
+   </g>
+  </g>
+  <g transform="translate(0,90)" text-anchor="start">
+   <g transform="translate( 43.54,0)"><use xlink:href="#reference"/><text transform="rotate(-90)" x="50" y="-5">cosmic microwave background</text></g>
+   <g transform="translate( 62.55,0)"><use xlink:href="#reference"/><text transform="rotate(-90)" x="50" y="20">boiling liquid helium</text></g>
+   <g transform="translate(130.69,0)"><use xlink:href="#reference"/><text transform="rotate(-90)" x="50" y="-5">boiling liquid hydrogen</text></g>
+   <g transform="translate(164.35,0)"><use xlink:href="#reference"/><text transform="rotate(-90)" x="50" y="-4">Pluto surface</text></g>
+   <g transform="translate(188.85,0)"><use xlink:href="#reference"/><text transform="rotate(-90)" x="50" y="-5">boiling liquid nitrogen</text></g>
+   <g transform="translate(228.91,0)"><use xlink:href="#reference"/><text transform="rotate(-90)" x="50" y="-4">sublimating dry ice</text></g>
+   <g transform="translate(243.64,0)"><use xlink:href="#reference"/><text transform="rotate(-90)" x="50" y="-1">freezing water</text></g>
+   <g transform="translate(249.14,0)"><use xlink:href="#reference"/><text transform="rotate(-90)" x="166" y="13" fill="#996633"><tspan>\</tspan><tspan x="167" y="24">average human body</tspan></text></g>
+   <g transform="translate(257.19,0)"><use xlink:href="#reference"/><text transform="rotate(-90)" x="50" y="15">boiling water</text></g>
+   <!--
+   <g transform="translate(277.86,0)"><use xlink:href="#reference"/><text transform="rotate(-90)" x="50" y="-5">melting lead</text></g>
+   -->
+   <g transform="translate(297.01,0)"><use xlink:href="#reference"/><text transform="rotate(-90)" x="50" y="-5">melting aluminium</text></g>
+   <g transform="translate(325.79,0)"><use xlink:href="#reference"/><text transform="rotate(-90)" x="50" y="-5">melting iron</text></g>
+   <g transform="translate(349.61,0)"><use xlink:href="#reference"/><text transform="rotate(-90)" x="50" y="-5">boiling iron</text></g>
+   <g transform="translate(356.76,0)"><use xlink:href="#reference"/><text transform="rotate(-90)" x="50" y="13">melting tungsten</text></g>
+   <g transform="translate(376.19,0)"><use xlink:href="#reference"/><text transform="rotate(-90)" x="238" y="15" fill="#ff0000">Sun surface</text></g>
+   <g transform="translate(400.00,0)"><use xlink:href="#reference"/><text transform="rotate(-90)" x="50" y="-3">Sirius A surface</text></g>
+   <g transform="translate(441.50,0)"><use xlink:href="#reference"/><text transform="rotate(-90)" x="50" y="-3">Sirius B surface</text></g>
+   <g transform="translate(470.00,0)"><use xlink:href="#reference"/><text transform="rotate(-90)" x="50" y="-5">protostar core</text></g>
+   <g transform="translate(494.99,0)"><use xlink:href="#reference"/><text transform="rotate(-90)" x="50" y="-5">EZ Canis Majoris surface</text></g>
+  </g>
+  <g stroke-width="2">
+   <path d="M 0,0 L 500,-500" stroke="#0000ff"/>
+   <path d="M 249.14,55 V -498 m -2,5 l 2,-5 l 2,5 m -2,0 V -249.14 m -243,-2 l -5,2 l 5,2 m -5,-2 H 500 m -5,-2 l 5,2 l -5,2" stroke="#cc9966"/>
+   <path d="M 376.19,55 V -498 m -2,5 l 2,-5 l 2,5 m -2,0 V -376.19 m -370,-2 l -5,2 l 5,2 m -5,-2 H 500 m -5,-2 l 5,2 l -5,2" stroke="#ff0000"/>
+  </g>
+ </g>
+</svg>

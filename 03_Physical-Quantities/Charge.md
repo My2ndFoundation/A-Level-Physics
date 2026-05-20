@@ -101,6 +101,28 @@ xychart-beta
 *Figure: For a steady current of 3 A, the area under the I–t graph (the rectangle) equals the charge Q = I × t = 3 × 5 = 15 C. For a varying current, Q is the total area under the curve.*
 *Source: Authored for this vault (CC0). No external copyright.*
 
+### From Wikipedia
+
+<!-- wiki-images: yes -->
+
+#### Bcoulomb
+
+![[_attachments/03_Physical-Quantities/Charge--wiki-bcoulomb.png]]
+*Figure: from Wikipedia article "Electric charge".*
+*Source: Wikimedia Commons — [Bcoulomb.png](https://commons.wikimedia.org/wiki/File:Bcoulomb.png). Retrieved 2026-05-20.*
+
+#### Electric field point lines equipotentials
+
+![[_attachments/03_Physical-Quantities/Charge--wiki-electric-field-point-lines-equipotential.svg]]
+*Figure: from Wikipedia article "Electric charge".*
+*Source: Wikimedia Commons — [Electric field point lines equipotentials.svg](https://commons.wikimedia.org/wiki/File:Electric_field_point_lines_equipotentials.svg). Retrieved 2026-05-20.*
+
+#### OiintLaTeX
+
+![[_attachments/03_Physical-Quantities/Charge--wiki-oiintlatex.svg]]
+*Figure: from Wikipedia article "Electric charge".*
+*Source: Wikimedia Commons — [OiintLaTeX.svg](https://commons.wikimedia.org/wiki/File:OiintLaTeX.svg). Retrieved 2026-05-20.*
+
 ## Source Trace
 
 - Source: OpenStax College Physics; The Physics Classroom; HyperPhysics (paraphrased, no copied text)

@@ -86,6 +86,28 @@ xychart-beta
 *Figure: Schematic resonance curve — amplitude peaks sharply when driving frequency equals the natural frequency f₀. Heavier damping lowers and broadens the peak.*
 *Source: Authored for this vault (CC0). No external copyright.*
 
+### From Wikipedia
+
+<!-- wiki-images: yes -->
+
+#### Resonance
+
+![[_attachments/04_Concepts/Resonance--wiki-resonance.png]]
+*Figure: from Wikipedia article "Resonance".*
+*Source: Wikimedia Commons — [Resonance.PNG](https://commons.wikimedia.org/wiki/File:Resonance.PNG). Retrieved 2026-05-20.*
+
+#### Animación1
+
+![[_attachments/04_Concepts/Resonance--wiki-animacion1.gif]]
+*Figure: from Wikipedia article "Resonance".*
+*Source: Wikimedia Commons — [Animación1.gif](https://commons.wikimedia.org/wiki/File:Animación1.gif). Retrieved 2026-05-20.*
+
+#### HWB-NMR - 900MHz - 21.2 Tesla
+
+![[_attachments/04_Concepts/Resonance--wiki-hwb-nmr-900mhz-212-tesla.jpg]]
+*Figure: from Wikipedia article "Resonance".*
+*Source: Wikimedia Commons — [HWB-NMR - 900MHz - 21.2 Tesla.jpg](https://commons.wikimedia.org/wiki/File:HWB-NMR_-_900MHz_-_21.2_Tesla.jpg). Retrieved 2026-05-20.*
+
 ## Source Trace
 
 - Source: OpenStax College Physics; HyperPhysics; The Physics Classroom — no copied text

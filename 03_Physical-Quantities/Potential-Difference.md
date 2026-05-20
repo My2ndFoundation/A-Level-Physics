@@ -105,6 +105,28 @@ flowchart LR
 *Figure: Potential difference V sits at the centre of circuit relationships — defining resistance via Ohm's Law, power via P = IV, and linking to emf via internal resistance.*
 *Source: Authored for this vault (CC0). No external copyright.*
 
+### From Wikipedia
+
+<!-- wiki-images: yes -->
+
+#### AA AAA AAAA A23 battery comparison-1
+
+![[_attachments/03_Physical-Quantities/Potential-Difference--wiki-aa-aaa-aaaa-a23-battery-comparison-1.jpg]]
+*Figure: from Wikipedia article "Voltage".*
+*Source: Wikimedia Commons — [AA_AAA_AAAA_A23_battery_comparison-1.jpg](https://commons.wikimedia.org/wiki/File:AA_AAA_AAAA_A23_battery_comparison-1.jpg). Retrieved 2026-05-20.*
+
+#### 9VBatteryWithMeter
+
+![[_attachments/03_Physical-Quantities/Potential-Difference--wiki-9vbatterywithmeter.jpg]]
+*Figure: from Wikipedia article "Voltage".*
+*Source: Wikimedia Commons — [9VBatteryWithMeter.jpg](https://commons.wikimedia.org/wiki/File:9VBatteryWithMeter.jpg). Retrieved 2026-05-20.*
+
+#### AA AAA AAAA A23 battery comparison-1
+
+![[_attachments/03_Physical-Quantities/Potential-Difference--wiki-aa-aaa-aaaa-a23-battery-comparison-1.jpg]]
+*Figure: from Wikipedia article "Voltage".*
+*Source: Wikimedia Commons — [AA AAA AAAA A23 battery comparison-1.jpg](https://commons.wikimedia.org/wiki/File:AA_AAA_AAAA_A23_battery_comparison-1.jpg). Retrieved 2026-05-20.*
+
 ## Source Trace
 
 - Source: OpenStax College Physics; The Physics Classroom; HyperPhysics (paraphrased, no copied text)

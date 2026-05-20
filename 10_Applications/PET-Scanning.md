@@ -72,6 +72,28 @@ Imaging metabolic activity inside the body by detecting the pair of gamma photon
 *Figure: A patient positioned in a ring-shaped PET scanner. The detector ring registers pairs of 0.511 MeV gamma photons arriving simultaneously from positron annihilation events, enabling reconstruction of tracer uptake.*
 *Source: PET scan — liz west — CC BY 2.0 — https://commons.wikimedia.org/wiki/File:PET_scan.jpg. Retrieved 2026-05-19.*
 
+### From Wikipedia
+
+<!-- wiki-images: yes -->
+
+#### Positron emission tomography
+
+![[_attachments/10_Applications/PET-Scanning--wiki-positron-emission-tomography.png]]
+*Figure: from Wikipedia article "Positron emission tomography".*
+*Source: Wikimedia Commons — [Positron_emission_tomography.png](https://commons.wikimedia.org/wiki/File:Positron_emission_tomography.png). Retrieved 2026-05-20.*
+
+#### ECAT-Exact-HR--PET-Scanner
+
+![[_attachments/10_Applications/PET-Scanning--wiki-ecat-exact-hr-pet-scanner.jpg]]
+*Figure: from Wikipedia article "Positron emission tomography".*
+*Source: Wikimedia Commons — [ECAT-Exact-HR--PET-Scanner.jpg](https://commons.wikimedia.org/wiki/File:ECAT-Exact-HR--PET-Scanner.jpg). Retrieved 2026-05-20.*
+
+#### PET-MIPS-anim
+
+![[_attachments/10_Applications/PET-Scanning--wiki-pet-mips-anim.gif]]
+*Figure: from Wikipedia article "Positron emission tomography".*
+*Source: Wikimedia Commons — [PET-MIPS-anim.gif](https://commons.wikimedia.org/wiki/File:PET-MIPS-anim.gif). Retrieved 2026-05-20.*
+
 ## Source Trace
 
 - Source: OpenStax College Physics; HyperPhysics; IOPSpark

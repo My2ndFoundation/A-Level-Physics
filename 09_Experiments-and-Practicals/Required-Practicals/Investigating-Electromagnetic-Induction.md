@@ -95,6 +95,28 @@ Strong neodymium magnets can pinch fingers and damage equipment — handle caref
 *Figure: A historical induction experiment illustrating a bar magnet being moved relative to a coil connected to a galvanometer — the deflection shows the induced e.m.f. produced by the changing magnetic flux linkage, demonstrating Faraday's Law qualitatively.*
 *Source: Induction experiment — J. Lambert — Public domain — https://commons.wikimedia.org/wiki/File:Induction_experiment.png. Retrieved 2026-05-19.*
 
+### From Wikipedia
+
+<!-- wiki-images: yes -->
+
+#### VFPt Solenoid correct2
+
+![[_attachments/09_Experiments-and-Practicals/Investigating-Electromagnetic-Induction--wiki-vfpt-solenoid-correct2.svg]]
+*Figure: from Wikipedia article "History of electromagnetic theory".*
+*Source: Wikimedia Commons — [VFPt_Solenoid_correct2.svg](https://commons.wikimedia.org/wiki/File:VFPt_Solenoid_correct2.svg). Retrieved 2026-05-20.*
+
+#### 1870s Joseph Henry (1797-1878) American physicist, inventor and first secretary of the Smithsonian Institution (cropped)
+
+![[_attachments/09_Experiments-and-Practicals/Investigating-Electromagnetic-Induction--wiki-1870s-joseph-henry-1797-1878-american-ph.jpg]]
+*Figure: from Wikipedia article "History of electromagnetic theory".*
+*Source: Wikimedia Commons — [1870s Joseph Henry (1797-1878) American physicist, inventor and first secretary of the Smithsonian Institution (cropped).jpg](https://commons.wikimedia.org/wiki/File:1870s_Joseph_Henry_(1797-1878)_American_physicist,_inventor_and_first_secretary_of_the_Smithsonian_Institution_(cropped).jpg). Retrieved 2026-05-20.*
+
+#### Alessandro Volta
+
+![[_attachments/09_Experiments-and-Practicals/Investigating-Electromagnetic-Induction--wiki-alessandro-volta.jpeg]]
+*Figure: from Wikipedia article "History of electromagnetic theory".*
+*Source: Wikimedia Commons — [Alessandro Volta.jpeg](https://commons.wikimedia.org/wiki/File:Alessandro_Volta.jpeg). Retrieved 2026-05-20.*
+
 ## Source Trace
 
 OpenStax College Physics; HyperPhysics; Physics LibreTexts — no copied text.

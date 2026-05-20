@@ -53,6 +53,30 @@ A common wrong intuition is that air particles physically travel from the source
 
 This page explains why a medium is needed, intuitively. It does not derive the speed of sound, treat compressions and rarefactions mathematically, or analyse resonance and standing waves.
 
+## Visuals
+
+### From Wikipedia
+
+<!-- wiki-images: yes -->
+
+#### Thoth08BigasDrumEvansChalmette
+
+![[_attachments/02_Foundations/Why-Sound-Needs-a-Medium--wiki-thoth08bigasdrumevanschalmette.jpg]]
+*Figure: from Wikipedia article "Sound".*
+*Source: Wikimedia Commons — [Thoth08BigasDrumEvansChalmette.jpg](https://commons.wikimedia.org/wiki/File:Thoth08BigasDrumEvansChalmette.jpg). Retrieved 2026-05-20.*
+
+#### Duration perception
+
+![[_attachments/02_Foundations/Why-Sound-Needs-a-Medium--wiki-duration-perception.png]]
+*Figure: from Wikipedia article "Sound".*
+*Source: Wikimedia Commons — [Duration perception.png](https://commons.wikimedia.org/wiki/File:Duration_perception.png). Retrieved 2026-05-20.*
+
+#### FA-18 Hornet breaking sound barrier (7 July 1999) - filtered
+
+![[_attachments/02_Foundations/Why-Sound-Needs-a-Medium--wiki-fa-18-hornet-breaking-sound-barrier-7-ju.jpg]]
+*Figure: from Wikipedia article "Sound".*
+*Source: Wikimedia Commons — [FA-18 Hornet breaking sound barrier (7 July 1999) - filtered.jpg](https://commons.wikimedia.org/wiki/File:FA-18_Hornet_breaking_sound_barrier_(7_July_1999)_-_filtered.jpg). Retrieved 2026-05-20.*
+
 ## Source Trace
 
 - Source: BBC Bitesize GCSE Physics (sound waves); IOPSpark; The Physics Classroom (sound and waves)

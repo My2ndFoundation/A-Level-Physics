@@ -115,6 +115,28 @@ flowchart LR
 *Figure: Both fields share the same inverse-square force law and 1/r potential. Key difference: gravity is always attractive (no negative mass); electric force can attract or repel (two charge signs exist).*
 *Source: Authored for this vault (CC0). No external copyright.*
 
+### From Wikipedia
+
+<!-- wiki-images: yes -->
+
+#### Crab Nebula
+
+![[_attachments/04_Concepts/Comparing-Gravitational-and-Electric-Fields--wiki-crab-nebula.jpg]]
+*Figure: from Wikipedia article "Gravitational potential".*
+*Source: Wikimedia Commons — [Crab Nebula.jpg](https://commons.wikimedia.org/wiki/File:Crab_Nebula.jpg). Retrieved 2026-05-20.*
+
+#### Earth-moon
+
+![[_attachments/04_Concepts/Comparing-Gravitational-and-Electric-Fields--wiki-earth-moon.jpg]]
+*Figure: from Wikipedia article "Gravitational potential".*
+*Source: Wikimedia Commons — [Earth-moon.jpg](https://commons.wikimedia.org/wiki/File:Earth-moon.jpg). Retrieved 2026-05-20.*
+
+#### Mass distribution line segment
+
+![[_attachments/04_Concepts/Comparing-Gravitational-and-Electric-Fields--wiki-mass-distribution-line-segment.svg]]
+*Figure: from Wikipedia article "Gravitational potential".*
+*Source: Wikimedia Commons — [Mass distribution line segment.svg](https://commons.wikimedia.org/wiki/File:Mass_distribution_line_segment.svg). Retrieved 2026-05-20.*
+
 ## Source Trace
 
 - Source: OpenStax College Physics; HyperPhysics; Physics LibreTexts — no copied text

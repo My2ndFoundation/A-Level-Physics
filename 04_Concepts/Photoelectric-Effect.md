@@ -91,6 +91,28 @@ The photoelectric effect was decisive evidence for quantisation and the photon, 
 *Figure: Below the threshold frequency f₀ no electrons are emitted (dashed region). Above f₀, KE_max increases linearly with frequency. Gradient = h (Planck constant). The y-intercept (if line extended) is −φ (work function). Equation: hf = φ + KE_max.*
 *Source: Authored for this vault (CC0). No external copyright.*
 
+### From Wikipedia
+
+<!-- wiki-images: yes -->
+
+#### Photoelectric effect in a solid - diagram
+
+![[_attachments/04_Concepts/Photoelectric-Effect--wiki-photoelectric-effect-in-a-solid-diagram.svg]]
+*Figure: from Wikipedia article "Photoelectric effect".*
+*Source: Wikimedia Commons — [Photoelectric_effect_in_a_solid_-_diagram.svg](https://commons.wikimedia.org/wiki/File:Photoelectric_effect_in_a_solid_-_diagram.svg). Retrieved 2026-05-20.*
+
+#### ARPES setup - ultraviolet source - sample holder - electron analyzer
+
+![[_attachments/04_Concepts/Photoelectric-Effect--wiki-arpes-setup-ultraviolet-source-sample-ho.svg]]
+*Figure: from Wikipedia article "Photoelectric effect".*
+*Source: Wikimedia Commons — [ARPES setup - ultraviolet source - sample holder - electron analyzer.svg](https://commons.wikimedia.org/wiki/File:ARPES_setup_-_ultraviolet_source_-_sample_holder_-_electron_analyzer.svg). Retrieved 2026-05-20.*
+
+#### Dominant Photon-Matter Interaction
+
+![[_attachments/04_Concepts/Photoelectric-Effect--wiki-dominant-photon-matter-interaction.svg]]
+*Figure: from Wikipedia article "Photoelectric effect".*
+*Source: Wikimedia Commons — [Dominant Photon-Matter Interaction.svg](https://commons.wikimedia.org/wiki/File:Dominant_Photon-Matter_Interaction.svg). Retrieved 2026-05-20.*
+
 ## Source Trace
 
 - Source: OpenStax College Physics; The Physics Classroom; IOPSpark; Physics LibreTexts — paraphrased, no copied text.

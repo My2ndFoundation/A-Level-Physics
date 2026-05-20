@@ -1,0 +1,23 @@
+<svg width="204mm" height="243mm" version="1.1" viewBox="0 0 204 243" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+ <rect width="204" height="243" fill="#fff"/>
+ <g fill="none" stroke="#000">
+  <path d="m201 136c-52-3-97-19-128-66m-60 158c11-50 22-100 35-150 7-25 9-50 33-50" stroke="#00f" stroke-width="1.5"/>
+  <rect x="13" y="3" width="188" height="225"/>
+  <path d="m81 28-68 0m68 52 0 148" stroke-dasharray="3"/>
+  <g stroke-width=".5">
+   <path d="m81 28v52m-8-39v-12m0 41v-28" stroke="#00f" stroke-dasharray="3 1"/>
+   <path id="b" d="m13 172h3m-3-19h3m-3-19h3m-3-19h3m-3-19 3-2e-6m-3-19h3m-3-18h3m-3-19h3m-3-19h3m-3 188h3m-3-19h3"/>
+   <path id="a" d="m31 225v3m19-3v3m19-3v3m19-3v3m19-3v3m19-3v3m19-3v3m19-3v3m18-3v3"/>
+   <path d="m22 23-9 5m80 186-13 14"/>
+   <use transform="translate(185)" xlink:href="#b"/>
+   <use transform="translate(0 -222)" xlink:href="#a"/>
+  </g>
+ </g>
+ <path d="m83 59-2 8-2-8 2 2m-10-4 2-8 2 8-2-2" fill="#00f"/>
+ <g font-family="times" font-size="10px">
+  <text x="96" y="214">V<tspan font-size="0.7em" dy="0.3em">threshold</tspan></text>
+  <text x="22" y="21">I<tspan font-size="0.7em" dy="0.3em">threshold</tspan></text>
+  <text x="107" y="239" text-anchor="middle">Voltage</text>
+  <text transform="rotate(-90)" x="-115" y="9" text-anchor="middle">Current</text>
+ </g>
+</svg>

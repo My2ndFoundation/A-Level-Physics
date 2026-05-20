@@ -80,6 +80,28 @@ This extends the everyday observation of ripples spreading on water into a gener
 *Figure: Straight (plane) wavefronts on the left become circular (diffracted) wavefronts after passing through a narrow slit; rays (shown perpendicular to wavefronts) spread into the geometric shadow, demonstrating Huygens' principle.*
 *Source: Authored for this vault (CC0). No external copyright.*
 
+### From Wikipedia
+
+<!-- wiki-images: yes -->
+
+#### Plane wave wavefronts 3D
+
+![[_attachments/06_Models/Wavefront-Model--wiki-plane-wave-wavefronts-3d.svg]]
+*Figure: from Wikipedia article "Wavefront".*
+*Source: Wikimedia Commons — [Plane_wave_wavefronts_3D.svg](https://commons.wikimedia.org/wiki/File:Plane_wave_wavefronts_3D.svg). Retrieved 2026-05-20.*
+
+#### Hamiltonian Optics-Rays and Wavefronts
+
+![[_attachments/06_Models/Wavefront-Model--wiki-hamiltonian-optics-rays-and-wavefronts.svg]]
+*Figure: from Wikipedia article "Wavefront".*
+*Source: Wikimedia Commons — [Hamiltonian Optics-Rays and Wavefronts.svg](https://commons.wikimedia.org/wiki/File:Hamiltonian_Optics-Rays_and_Wavefronts.svg). Retrieved 2026-05-20.*
+
+#### Plane wave wavefronts 3D
+
+![[_attachments/06_Models/Wavefront-Model--wiki-plane-wave-wavefronts-3d.svg]]
+*Figure: from Wikipedia article "Wavefront".*
+*Source: Wikimedia Commons — [Plane wave wavefronts 3D.svg](https://commons.wikimedia.org/wiki/File:Plane_wave_wavefronts_3D.svg). Retrieved 2026-05-20.*
+
 ## Source Trace
 
 - Source: OpenStax College Physics; The Physics Classroom; Isaac Physics — paraphrased, no copied text.

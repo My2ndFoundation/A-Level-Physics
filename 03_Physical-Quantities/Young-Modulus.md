@@ -94,6 +94,28 @@ xychart-beta
 *Figure: The initial straight-line region (ε = 0 to ~0.004) has gradient E = σ/ε — the Young modulus. Beyond the limit of proportionality the curve bends; the material eventually reaches ultimate tensile stress then fractures.*
 *Source: Authored for this vault (CC0). No external copyright.*
 
+### From Wikipedia
+
+<!-- wiki-images: yes -->
+
+#### Stress strain ductile
+
+![[_attachments/03_Physical-Quantities/Young-Modulus--wiki-stress-strain-ductile.svg]]
+*Figure: from Wikipedia article "Young's modulus".*
+*Source: Wikimedia Commons — [Stress_strain_ductile.svg](https://commons.wikimedia.org/wiki/File:Stress_strain_ductile.svg). Retrieved 2026-05-20.*
+
+#### SpiderGraph YoungMod
+
+![[_attachments/03_Physical-Quantities/Young-Modulus--wiki-spidergraph-youngmod.gif]]
+*Figure: from Wikipedia article "Young's modulus".*
+*Source: Wikimedia Commons — [SpiderGraph YoungMod.gif](https://commons.wikimedia.org/wiki/File:SpiderGraph_YoungMod.gif). Retrieved 2026-05-20.*
+
+#### Stress strain ductile
+
+![[_attachments/03_Physical-Quantities/Young-Modulus--wiki-stress-strain-ductile.svg]]
+*Figure: from Wikipedia article "Young's modulus".*
+*Source: Wikimedia Commons — [Stress strain ductile.svg](https://commons.wikimedia.org/wiki/File:Stress_strain_ductile.svg). Retrieved 2026-05-20.*
+
 ## Source Trace
 
 - Source: OpenStax College Physics; The Physics Classroom; HyperPhysics (paraphrased, no copied text)

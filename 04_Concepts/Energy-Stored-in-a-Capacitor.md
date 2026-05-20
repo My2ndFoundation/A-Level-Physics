@@ -105,6 +105,28 @@ xychart-beta
 *Figure: $Q = CV$ gives a straight line through the origin (gradient = C). The energy stored $W = \tfrac{1}{2}QV$ is the triangular area under this line — not the full rectangle QV, because V starts at zero and rises as charge accumulates.*
 *Source: Authored for this vault (CC0). No external copyright.*
 
+### From Wikipedia
+
+<!-- wiki-images: yes -->
+
+#### Capacitors (7189597135)
+
+![[_attachments/04_Concepts/Energy-Stored-in-a-Capacitor--wiki-capacitors-7189597135.jpg]]
+*Figure: from Wikipedia article "Capacitor".*
+*Source: Wikimedia Commons — [Capacitors_(7189597135).jpg](https://commons.wikimedia.org/wiki/File:Capacitors_(7189597135).jpg). Retrieved 2026-05-20.*
+
+#### 24 Million Watt high speed flash through welding lens
+
+![[_attachments/04_Concepts/Energy-Stored-in-a-Capacitor--wiki-24-million-watt-high-speed-flash-through.jpg]]
+*Figure: from Wikipedia article "Capacitor".*
+*Source: Wikimedia Commons — [24 Million Watt high speed flash through welding lens.jpg](https://commons.wikimedia.org/wiki/File:24_Million_Watt_high_speed_flash_through_welding_lens.jpg). Retrieved 2026-05-20.*
+
+#### Axial electrolytic capacitors
+
+![[_attachments/04_Concepts/Energy-Stored-in-a-Capacitor--wiki-axial-electrolytic-capacitors.jpg]]
+*Figure: from Wikipedia article "Capacitor".*
+*Source: Wikimedia Commons — [Axial electrolytic capacitors.jpg](https://commons.wikimedia.org/wiki/File:Axial_electrolytic_capacitors.jpg). Retrieved 2026-05-20.*
+
 ## Source Trace
 
 - Source: OpenStax College Physics; HyperPhysics; Physics LibreTexts — no copied text

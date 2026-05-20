@@ -107,6 +107,28 @@ graph TD
 *Figure: The ideal gas equation unifies Boyle's, Charles's, and the pressure law. The combined ratio is constant for a fixed amount of gas.*
 *Source: Authored for this vault (CC0). No external copyright.*
 
+### From Wikipedia
+
+<!-- wiki-images: yes -->
+
+#### Ideal gas isotherms
+
+![[_attachments/05_Laws-and-Results/Ideal-Gas-Equation--wiki-ideal-gas-isotherms.svg]]
+*Figure: from Wikipedia article "Ideal gas law".*
+*Source: Wikimedia Commons — [Ideal_gas_isotherms.svg](https://commons.wikimedia.org/wiki/File:Ideal_gas_isotherms.svg). Retrieved 2026-05-20.*
+
+#### Carnot heat engine 2
+
+![[_attachments/05_Laws-and-Results/Ideal-Gas-Equation--wiki-carnot-heat-engine-2.svg]]
+*Figure: from Wikipedia article "Ideal gas law".*
+*Source: Wikimedia Commons — [Carnot heat engine 2.svg](https://commons.wikimedia.org/wiki/File:Carnot_heat_engine_2.svg). Retrieved 2026-05-20.*
+
+#### Ideal Gas Law
+
+![[_attachments/05_Laws-and-Results/Ideal-Gas-Equation--wiki-ideal-gas-law.jpg]]
+*Figure: from Wikipedia article "Ideal gas law".*
+*Source: Wikimedia Commons — [Ideal Gas Law.jpg](https://commons.wikimedia.org/wiki/File:Ideal_Gas_Law.jpg). Retrieved 2026-05-20.*
+
 ## Source Trace
 
 - Source: OpenStax College Physics; HyperPhysics; The Physics Classroom — paraphrased, no copied text

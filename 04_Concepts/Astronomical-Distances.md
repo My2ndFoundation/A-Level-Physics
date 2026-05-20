@@ -111,6 +111,28 @@ cosmic distance scale all depend on knowing how far away objects are.
 *Figure: As Earth moves from one side of its orbit to the other (baseline = 2 AU), a nearby star appears to shift by angle 2p against distant background stars. Half the total shift is the parallax angle p; distance $d\ \text{(parsecs)} = 1/p\ \text{(arcseconds)}$.*
 *Source: Authored for this vault (CC0). No external copyright.*
 
+### From Wikipedia
+
+<!-- wiki-images: yes -->
+
+#### Astronomical unit svg
+
+![[_attachments/04_Concepts/Astronomical-Distances--wiki-astronomical-unit-svg.svg]]
+*Figure: from Wikipedia article "Astronomical unit".*
+*Source: Wikimedia Commons — [Astronomical_unit_svg.svg](https://commons.wikimedia.org/wiki/File:Astronomical_unit_svg.svg). Retrieved 2026-05-20.*
+
+#### Astronomical unit svg
+
+![[_attachments/04_Concepts/Astronomical-Distances--wiki-astronomical-unit-svg.svg]]
+*Figure: from Wikipedia article "Astronomical unit".*
+*Source: Wikimedia Commons — [Astronomical unit svg.svg](https://commons.wikimedia.org/wiki/File:Astronomical_unit_svg.svg). Retrieved 2026-05-20.*
+
+#### Crab Nebula
+
+![[_attachments/04_Concepts/Astronomical-Distances--wiki-crab-nebula.jpg]]
+*Figure: from Wikipedia article "Astronomical unit".*
+*Source: Wikimedia Commons — [Crab Nebula.jpg](https://commons.wikimedia.org/wiki/File:Crab_Nebula.jpg). Retrieved 2026-05-20.*
+
 ## Source Trace
 
 - Source: OpenStax College Physics; HyperPhysics; NASA educational material — no copied text

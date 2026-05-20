@@ -72,6 +72,30 @@ Current is like the rate at which water flows past a point in a pipe. A wider, l
 
 At A-Level, current is defined precisely as the rate of flow of charge, $I = \Delta Q / \Delta t$, and is linked to the microscopic picture through $I = nAvq$, where n is charge-carrier density, A cross-sectional area, v drift velocity and q the carrier charge. It is combined with [[Voltage]] and [[Resistance]] via [[Ohms-Law]] and Kirchhoff's laws. See the A-Level [[Current]] physical-quantity page for the formal treatment.
 
+## Visuals
+
+### From Wikipedia
+
+<!-- wiki-images: yes -->
+
+#### Current notation
+
+![[_attachments/02_Foundations/Electric-Current--wiki-current-notation.svg]]
+*Figure: from Wikipedia article "Electric current".*
+*Source: Wikimedia Commons — [Current notation.svg](https://commons.wikimedia.org/wiki/File:Current_notation.svg). Retrieved 2026-05-20.*
+
+#### Electromagnetic induction - solenoid to loop - animation
+
+![[_attachments/02_Foundations/Electric-Current--wiki-electromagnetic-induction-solenoid-to-lo.gif]]
+*Figure: from Wikipedia article "Electric current".*
+*Source: Wikimedia Commons — [Electromagnetic induction - solenoid to loop - animation.gif](https://commons.wikimedia.org/wiki/File:Electromagnetic_induction_-_solenoid_to_loop_-_animation.gif). Retrieved 2026-05-20.*
+
+#### Magnetic field produced by an electric current in a solenoid
+
+![[_attachments/02_Foundations/Electric-Current--wiki-magnetic-field-produced-by-an-electric-c.png]]
+*Figure: from Wikipedia article "Electric current".*
+*Source: Wikimedia Commons — [Magnetic field produced by an electric current in a solenoid.png](https://commons.wikimedia.org/wiki/File:Magnetic_field_produced_by_an_electric_current_in_a_solenoid.png). Retrieved 2026-05-20.*
+
 ## Source Trace
 
 - Source: BBC Bitesize GCSE Physics (electric circuits, current); IOPSpark; The Physics Classroom (electric circuits)

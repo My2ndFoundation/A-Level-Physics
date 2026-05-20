@@ -102,6 +102,28 @@ xychart-beta
 *Figure: As separation doubles, the gravitational force falls to one-quarter — the inverse-square law. Values are illustrative ratios, not absolute.*
 *Source: Authored for this vault (CC0). No external copyright.*
 
+### From Wikipedia
+
+<!-- wiki-images: yes -->
+
+#### Earth-G-force
+
+![[_attachments/05_Laws-and-Results/Newtons-Law-of-Gravitation--wiki-earth-g-force.png]]
+*Figure: from Wikipedia article "Newton's law of universal gravitation".*
+*Source: Wikimedia Commons — [Earth-G-force.png](https://commons.wikimedia.org/wiki/File:Earth-G-force.png). Retrieved 2026-05-20.*
+
+#### GPB circling earth
+
+![[_attachments/05_Laws-and-Results/Newtons-Law-of-Gravitation--wiki-gpb-circling-earth.jpg]]
+*Figure: from Wikipedia article "Newton's law of universal gravitation".*
+*Source: Wikimedia Commons — [GPB circling earth.jpg](https://commons.wikimedia.org/wiki/File:GPB_circling_earth.jpg). Retrieved 2026-05-20.*
+
+#### Gravity Big G Measurements NIST
+
+![[_attachments/05_Laws-and-Results/Newtons-Law-of-Gravitation--wiki-gravity-big-g-measurements-nist.png]]
+*Figure: from Wikipedia article "Newton's law of universal gravitation".*
+*Source: Wikimedia Commons — [Gravity Big G Measurements NIST.png](https://commons.wikimedia.org/wiki/File:Gravity_Big_G_Measurements_NIST.png). Retrieved 2026-05-20.*
+
 ## Source Trace
 
 - Source: OpenStax College Physics; HyperPhysics; Physics LibreTexts — paraphrased, no copied text

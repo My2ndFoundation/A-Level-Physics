@@ -100,6 +100,28 @@ xychart-beta
 *Figure: Mean translational KE = (3/2)kT is directly proportional to absolute temperature. The gradient of this straight line through the origin equals (3/2)k ≈ 2.07 × 10⁻²³ J K⁻¹. The line passes through the origin — at 0 K, mean KE is zero (absolute zero).*
 *Source: Authored for this vault (CC0). No external copyright.*
 
+### From Wikipedia
+
+<!-- wiki-images: yes -->
+
+#### Boltzmann2
+
+![[_attachments/03_Physical-Quantities/Boltzmann-Constant--wiki-boltzmann2.jpg]]
+*Figure: from Wikipedia article "Boltzmann constant".*
+*Source: Wikimedia Commons — [Boltzmann2.jpg](https://commons.wikimedia.org/wiki/File:Boltzmann2.jpg). Retrieved 2026-05-20.*
+
+#### Ideal gas law relationships
+
+![[_attachments/03_Physical-Quantities/Boltzmann-Constant--wiki-ideal-gas-law-relationships.svg]]
+*Figure: from Wikipedia article "Boltzmann constant".*
+*Source: Wikimedia Commons — [Ideal gas law relationships.svg](https://commons.wikimedia.org/wiki/File:Ideal_gas_law_relationships.svg). Retrieved 2026-05-20.*
+
+#### Max Planck by Hugo Erfurth 1938cr - restoration1
+
+![[_attachments/03_Physical-Quantities/Boltzmann-Constant--wiki-max-planck-by-hugo-erfurth-1938cr-restor.jpg]]
+*Figure: from Wikipedia article "Boltzmann constant".*
+*Source: Wikimedia Commons — [Max Planck by Hugo Erfurth 1938cr - restoration1.jpg](https://commons.wikimedia.org/wiki/File:Max_Planck_by_Hugo_Erfurth_1938cr_-_restoration1.jpg). Retrieved 2026-05-20.*
+
 ## Source Trace
 
 - Source: OpenStax College Physics; HyperPhysics; The Physics Classroom — paraphrased, no copied text

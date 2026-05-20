@@ -77,6 +77,28 @@ Capacitors charging and discharging through a resistor produce predictable, smoo
 *Figure: RC timing circuit diagram showing a capacitor charging through a resistor. The output voltage rises exponentially toward the supply; when it exceeds the threshold of a comparator or transistor, the circuit switches — implementing a time delay set by the product RC.*
 *Source: Capacitor based timer — Kofani1997 — CC BY-SA 4.0 — https://commons.wikimedia.org/wiki/File:Capacitor_based_timer.png. Retrieved 2026-05-19.*
 
+### From Wikipedia
+
+<!-- wiki-images: yes -->
+
+#### Capacitors (7189597135)
+
+![[_attachments/10_Applications/Capacitor-Timing-Circuits--wiki-capacitors-7189597135.jpg]]
+*Figure: from Wikipedia article "Capacitor".*
+*Source: Wikimedia Commons — [Capacitors_(7189597135).jpg](https://commons.wikimedia.org/wiki/File:Capacitors_(7189597135).jpg). Retrieved 2026-05-20.*
+
+#### 24 Million Watt high speed flash through welding lens
+
+![[_attachments/10_Applications/Capacitor-Timing-Circuits--wiki-24-million-watt-high-speed-flash-through.jpg]]
+*Figure: from Wikipedia article "Capacitor".*
+*Source: Wikimedia Commons — [24 Million Watt high speed flash through welding lens.jpg](https://commons.wikimedia.org/wiki/File:24_Million_Watt_high_speed_flash_through_welding_lens.jpg). Retrieved 2026-05-20.*
+
+#### Axial electrolytic capacitors
+
+![[_attachments/10_Applications/Capacitor-Timing-Circuits--wiki-axial-electrolytic-capacitors.jpg]]
+*Figure: from Wikipedia article "Capacitor".*
+*Source: Wikimedia Commons — [Axial electrolytic capacitors.jpg](https://commons.wikimedia.org/wiki/File:Axial_electrolytic_capacitors.jpg). Retrieved 2026-05-20.*
+
 ## Source Trace
 
 - Source: OpenStax College Physics; IOPSpark; Isaac Physics; OCR examiner reports (general) — no copied text

@@ -87,6 +87,28 @@ every other dot moving away, with no single centre.
 *Figure: Each smudge of light in this image is an entire galaxy; the faintest are among the most distant objects ever observed, showing the universe as it was billions of years ago.*
 *Source: Hubble Goes to the eXtreme to Assemble Farthest-Ever View of the Universe — NASA/ESA Hubble Space Telescope, NASA GSFC — Public Domain — https://images.nasa.gov/details/GSFC_20171208_Archive_e001651. Retrieved 2026-05-19.*
 
+### From Wikipedia
+
+<!-- wiki-images: yes -->
+
+#### The Hubble eXtreme Deep Field
+
+![[_attachments/12_Frontier-Maps/Cosmology-Map--wiki-the-hubble-extreme-deep-field.jpg]]
+*Figure: from Wikipedia article "Cosmology".*
+*Source: Wikimedia Commons — [The_Hubble_eXtreme_Deep_Field.jpg](https://commons.wikimedia.org/wiki/File:The_Hubble_eXtreme_Deep_Field.jpg). Retrieved 2026-05-20.*
+
+#### CHINTREUIL - Le Boulot blanc
+
+![[_attachments/12_Frontier-Maps/Cosmology-Map--wiki-chintreuil-le-boulot-blanc.jpg]]
+*Figure: from Wikipedia article "Cosmology".*
+*Source: Wikimedia Commons — [CHINTREUIL - Le Boulot blanc.JPG](https://commons.wikimedia.org/wiki/File:CHINTREUIL_-_Le_Boulot_blanc.JPG). Retrieved 2026-05-20.*
+
+#### Crab Nebula
+
+![[_attachments/12_Frontier-Maps/Cosmology-Map--wiki-crab-nebula.jpg]]
+*Figure: from Wikipedia article "Cosmology".*
+*Source: Wikimedia Commons — [Crab Nebula.jpg](https://commons.wikimedia.org/wiki/File:Crab_Nebula.jpg). Retrieved 2026-05-20.*
+
 ## Source Trace
 
 - Source: [[NASA-Astrophysics]]

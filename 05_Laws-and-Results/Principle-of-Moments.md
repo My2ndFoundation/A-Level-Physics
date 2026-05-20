@@ -113,6 +113,16 @@ graph TD
 *Figure: Principle of moments — for rotational equilibrium, total clockwise moment equals total anticlockwise moment about any pivot.*
 *Source: Authored for this vault (CC0). No external copyright.*
 
+### From Wikipedia
+
+<!-- wiki-images: yes -->
+
+#### Principle of moments
+
+![[_attachments/05_Laws-and-Results/Principle-of-Moments--wiki-principle-of-moments.jpg]]
+*Figure: from Wikipedia article "The Principle of Moments".*
+*Source: Wikimedia Commons — [Principle of moments.JPG](https://commons.wikimedia.org/wiki/File:Principle_of_moments.JPG). Retrieved 2026-05-20.*
+
 ## Source Trace
 
 OpenStax College Physics; HyperPhysics; The Physics Classroom — no copied text.

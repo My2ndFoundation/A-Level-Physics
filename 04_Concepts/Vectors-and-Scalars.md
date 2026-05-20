@@ -91,6 +91,28 @@ Correctly classifying quantities determines whether you add numbers or use geome
 *Figure: Vector A (3 units East) placed tip-to-tail with vector B (4 units North) gives resultant R = 5 units at angle θ = tan⁻¹(4/3) ≈ 53° from East. Scalars would give 3 + 4 = 7 (the path length), not 5 (the displacement).*
 *Source: Authored for this vault (CC0). No external copyright.*
 
+### From Wikipedia
+
+<!-- wiki-images: yes -->
+
+#### Vector from A to B
+
+![[_attachments/04_Concepts/Vectors-and-Scalars--wiki-vector-from-a-to-b.svg]]
+*Figure: from Wikipedia article "Euclidean vector".*
+*Source: Wikimedia Commons — [Vector_from_A_to_B.svg](https://commons.wikimedia.org/wiki/File:Vector_from_A_to_B.svg). Retrieved 2026-05-20.*
+
+#### 3D Vector
+
+![[_attachments/04_Concepts/Vectors-and-Scalars--wiki-3d-vector.svg]]
+*Figure: from Wikipedia article "Euclidean vector".*
+*Source: Wikimedia Commons — [3D Vector.svg](https://commons.wikimedia.org/wiki/File:3D_Vector.svg). Retrieved 2026-05-20.*
+
+#### Cross product vector
+
+![[_attachments/04_Concepts/Vectors-and-Scalars--wiki-cross-product-vector.svg]]
+*Figure: from Wikipedia article "Euclidean vector".*
+*Source: Wikimedia Commons — [Cross product vector.svg](https://commons.wikimedia.org/wiki/File:Cross_product_vector.svg). Retrieved 2026-05-20.*
+
 ## Source Trace
 
 - Source: OpenStax College Physics; The Physics Classroom; HyperPhysics — no copied text

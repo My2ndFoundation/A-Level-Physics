@@ -81,6 +81,28 @@ The nuclear model is the basis for understanding [[Radioactive-Decay]], [[Nuclea
 *Figure: The nucleus (~10⁻¹⁵ m) is tiny compared to the whole atom (~10⁻¹⁰ m) — a ratio of roughly 1 : 10 000 to 100 000. The red dot represents the nucleus (all positive charge and nearly all mass); blue dots represent electrons in the vast surrounding space.*
 *Source: Authored for this vault (CC0). No external copyright.*
 
+### From Wikipedia
+
+<!-- wiki-images: yes -->
+
+#### AlphaTrackRutherfordScattering3
+
+![[_attachments/04_Concepts/The-Nuclear-Atom--wiki-alphatrackrutherfordscattering3.jpg]]
+*Figure: from Wikipedia article "Rutherford scattering experiments".*
+*Source: Wikimedia Commons — [AlphaTrackRutherfordScattering3.jpg](https://commons.wikimedia.org/wiki/File:AlphaTrackRutherfordScattering3.jpg). Retrieved 2026-05-20.*
+
+#### Ernest Marsden 1921
+
+![[_attachments/04_Concepts/The-Nuclear-Atom--wiki-ernest-marsden-1921.jpg]]
+*Figure: from Wikipedia article "Rutherford scattering experiments".*
+*Source: Wikimedia Commons — [Ernest Marsden 1921.jpg](https://commons.wikimedia.org/wiki/File:Ernest_Marsden_1921.jpg). Retrieved 2026-05-20.*
+
+#### Ernest Rutherford2
+
+![[_attachments/04_Concepts/The-Nuclear-Atom--wiki-ernest-rutherford2.jpg]]
+*Figure: from Wikipedia article "Rutherford scattering experiments".*
+*Source: Wikimedia Commons — [Ernest Rutherford2.jpg](https://commons.wikimedia.org/wiki/File:Ernest_Rutherford2.jpg). Retrieved 2026-05-20.*
+
 ## Source Trace
 
 - Source: OpenStax College Physics; HyperPhysics; CERN educational material — no copied text

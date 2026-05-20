@@ -100,6 +100,28 @@ flowchart LR
 *Figure: Wave and particle behaviours are complementary, not contradictory. The de Broglie wavelength λ = h/p is negligible for macroscopic objects, significant only at atomic/sub-atomic scale.*
 *Source: Authored for this vault (CC0). No external copyright.*
 
+### From Wikipedia
+
+<!-- wiki-images: yes -->
+
+#### BachEtAl Interference
+
+![[_attachments/04_Concepts/Wave-Particle-Duality--wiki-bachetal-interference.png]]
+*Figure: from Wikipedia article "Wave–particle duality".*
+*Source: Wikimedia Commons — [BachEtAl Interference.png](https://commons.wikimedia.org/wiki/File:BachEtAl_Interference.png). Retrieved 2026-05-20.*
+
+#### Electron buildup movie from "Controlled double-slit electron diffraction" Roger Bach et al 2013 New J. Phys. 15 033018
+
+![[_attachments/04_Concepts/Wave-Particle-Duality--wiki-electron-buildup-movie-from-controlled-d.gif]]
+*Figure: from Wikipedia article "Wave–particle duality".*
+*Source: Wikimedia Commons — [Electron buildup movie from "Controlled double-slit electron diffraction" Roger Bach et al 2013 New J. Phys. 15 033018.gif](https://commons.wikimedia.org/wiki/File:Electron_buildup_movie_from_"Controlled_double-slit_electron_diffraction"_Roger_Bach_et_al_2013_New_J._Phys._15_033018.gif). Retrieved 2026-05-20.*
+
+#### Inclinedthrow
+
+![[_attachments/04_Concepts/Wave-Particle-Duality--wiki-inclinedthrow.gif]]
+*Figure: from Wikipedia article "Wave–particle duality".*
+*Source: Wikimedia Commons — [Inclinedthrow.gif](https://commons.wikimedia.org/wiki/File:Inclinedthrow.gif). Retrieved 2026-05-20.*
+
 ## Source Trace
 
 - Source: OpenStax College Physics; The Physics Classroom; IOPSpark; Physics LibreTexts — paraphrased, no copied text.

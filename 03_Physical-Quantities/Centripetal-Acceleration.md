@@ -91,6 +91,28 @@ Plotting the required inward force F against $\omega^2$ for fixed m and r gives 
 *Figure: The velocity v is always tangential (blue arrow). The centripetal acceleration a = v²/r always points radially inward toward the centre O (red arrow). These two vectors are perpendicular — the object's speed is unchanged but its direction changes continuously.*
 *Source: Authored for this vault (CC0). No external copyright.*
 
+### From Wikipedia
+
+<!-- wiki-images: yes -->
+
+#### Gravity gravita grave
+
+![[_attachments/03_Physical-Quantities/Centripetal-Acceleration--wiki-gravity-gravita-grave.gif]]
+*Figure: from Wikipedia article "Acceleration".*
+*Source: Wikimedia Commons — [Gravity_gravita_grave.gif](https://commons.wikimedia.org/wiki/File:Gravity_gravita_grave.gif). Retrieved 2026-05-20.*
+
+#### 1-D kinematics
+
+![[_attachments/03_Physical-Quantities/Centripetal-Acceleration--wiki-1-d-kinematics.svg]]
+*Figure: from Wikipedia article "Acceleration".*
+*Source: Wikimedia Commons — [1-D kinematics.svg](https://commons.wikimedia.org/wiki/File:1-D_kinematics.svg). Retrieved 2026-05-20.*
+
+#### Acceleration as derivative of velocity along trajectory
+
+![[_attachments/03_Physical-Quantities/Centripetal-Acceleration--wiki-acceleration-as-derivative-of-velocity-a.svg]]
+*Figure: from Wikipedia article "Acceleration".*
+*Source: Wikimedia Commons — [Acceleration as derivative of velocity along trajectory.svg](https://commons.wikimedia.org/wiki/File:Acceleration_as_derivative_of_velocity_along_trajectory.svg). Retrieved 2026-05-20.*
+
 ## Source Trace
 
 - Source: OpenStax College Physics; HyperPhysics; The Physics Classroom — no copied text

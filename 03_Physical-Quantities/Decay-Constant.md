@@ -97,6 +97,16 @@ xychart-beta
 *Figure: Plotting ln A against t converts the exponential decay into a straight line. The gradient equals −λ (the decay constant). The steeper the decline, the larger λ and the less stable the isotope. The y-intercept gives ln A₀.*
 *Source: Authored for this vault (CC0). No external copyright.*
 
+### From Wikipedia
+
+<!-- wiki-images: yes -->
+
+#### Plot-exponential-decay
+
+![[_attachments/03_Physical-Quantities/Decay-Constant--wiki-plot-exponential-decay.svg]]
+*Figure: from Wikipedia article "Exponential decay".*
+*Source: Wikimedia Commons — [Plot-exponential-decay.svg](https://commons.wikimedia.org/wiki/File:Plot-exponential-decay.svg). Retrieved 2026-05-20.*
+
 ## Source Trace
 
 - Source: OpenStax College Physics; HyperPhysics; CERN educational material — no copied text

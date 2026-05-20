@@ -104,6 +104,28 @@ xychart-beta
 *Figure: For like charges (same sign) $E_p = (1/4\pi\varepsilon_0)Qq/r$ is positive and falls as $1/r$ — energy stored as they are pushed together; they repel. For unlike charges, $E_p$ is negative (an energy well); energy must be supplied to separate them.*
 *Source: Authored for this vault (CC0). No external copyright.*
 
+### From Wikipedia
+
+<!-- wiki-images: yes -->
+
+#### VFPt Solenoid correct2
+
+![[_attachments/04_Concepts/Electric-Potential-Energy--wiki-vfpt-solenoid-correct2.svg]]
+*Figure: from Wikipedia article "Electric potential energy".*
+*Source: Wikimedia Commons — [VFPt_Solenoid_correct2.svg](https://commons.wikimedia.org/wiki/File:VFPt_Solenoid_correct2.svg). Retrieved 2026-05-20.*
+
+#### Electric potential energy 3 charge
+
+![[_attachments/04_Concepts/Electric-Potential-Energy--wiki-electric-potential-energy-3-charge.gif]]
+*Figure: from Wikipedia article "Electric potential energy".*
+*Source: Wikimedia Commons — [Electric potential energy 3 charge.gif](https://commons.wikimedia.org/wiki/File:Electric_potential_energy_3_charge.gif). Retrieved 2026-05-20.*
+
+#### Electronic component electrolytic capacitors
+
+![[_attachments/04_Concepts/Electric-Potential-Energy--wiki-electronic-component-electrolytic-capaci.jpg]]
+*Figure: from Wikipedia article "Electric potential energy".*
+*Source: Wikimedia Commons — [Electronic component electrolytic capacitors.jpg](https://commons.wikimedia.org/wiki/File:Electronic_component_electrolytic_capacitors.jpg). Retrieved 2026-05-20.*
+
 ## Source Trace
 
 - Source: OpenStax College Physics; HyperPhysics; Physics LibreTexts — no copied text

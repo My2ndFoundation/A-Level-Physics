@@ -98,6 +98,28 @@ flowchart LR
 *Figure: Deuterium and tritium fuse to give helium-4 and a fast neutron. Energy is released because the helium nucleus is more tightly bound than the two hydrogen isotopes — the products lie higher on the binding-energy-per-nucleon curve.*
 *Source: Authored for this vault (CC0). No external copyright.*
 
+### From Wikipedia
+
+<!-- wiki-images: yes -->
+
+#### EAST Tokamak plasma image3
+
+![[_attachments/04_Concepts/Nuclear-Fusion--wiki-east-tokamak-plasma-image3.jpg]]
+*Figure: from Wikipedia article "Nuclear fusion".*
+*Source: Wikimedia Commons — [EAST_Tokamak_plasma_image3.jpg](https://commons.wikimedia.org/wiki/File:EAST_Tokamak_plasma_image3.jpg). Retrieved 2026-05-20.*
+
+#### 1960- Articles published in journal Nuclear Fusion, by author nationality
+
+![[_attachments/04_Concepts/Nuclear-Fusion--wiki-1960-articles-published-in-journal-nucle.svg]]
+*Figure: from Wikipedia article "Nuclear fusion".*
+*Source: Wikimedia Commons — [1960- Articles published in journal Nuclear Fusion, by author nationality.svg](https://commons.wikimedia.org/wiki/File:1960-_Articles_published_in_journal_Nuclear_Fusion,_by_author_nationality.svg). Retrieved 2026-05-20.*
+
+#### 27-inch cyclotron
+
+![[_attachments/04_Concepts/Nuclear-Fusion--wiki-27-inch-cyclotron.jpg]]
+*Figure: from Wikipedia article "Nuclear fusion".*
+*Source: Wikimedia Commons — [27-inch cyclotron.jpg](https://commons.wikimedia.org/wiki/File:27-inch_cyclotron.jpg). Retrieved 2026-05-20.*
+
 ## Source Trace
 
 - Source: OpenStax College Physics; The Physics Classroom; IOPSpark; Physics LibreTexts — paraphrased, no copied text.

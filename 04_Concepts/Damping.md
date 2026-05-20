@@ -96,6 +96,28 @@ xychart-beta
 *Figure: Light damping — amplitude decreases gradually each cycle (exponential envelope). Critical damping would return to zero by t ≈ 1 without oscillating; heavy damping even more slowly. The schematic shows light damping; successive peaks shrink by a constant ratio.*
 *Source: Authored for this vault (CC0). No external copyright.*
 
+### From Wikipedia
+
+<!-- wiki-images: yes -->
+
+#### 2nd Order Damping Ratios
+
+![[_attachments/04_Concepts/Damping--wiki-2nd-order-damping-ratios.svg]]
+*Figure: from Wikipedia article "Damping".*
+*Source: Wikimedia Commons — [2nd Order Damping Ratios.svg](https://commons.wikimedia.org/wiki/File:2nd_Order_Damping_Ratios.svg). Retrieved 2026-05-20.*
+
+#### DampedCosine
+
+![[_attachments/04_Concepts/Damping--wiki-dampedcosine.svg]]
+*Figure: from Wikipedia article "Damping".*
+*Source: Wikimedia Commons — [DampedCosine.svg](https://commons.wikimedia.org/wiki/File:DampedCosine.svg). Retrieved 2026-05-20.*
+
+#### Dampingratio111
+
+![[_attachments/04_Concepts/Damping--wiki-dampingratio111.svg]]
+*Figure: from Wikipedia article "Damping".*
+*Source: Wikimedia Commons — [Dampingratio111.svg](https://commons.wikimedia.org/wiki/File:Dampingratio111.svg). Retrieved 2026-05-20.*
+
 ## Source Trace
 
 - Source: OpenStax College Physics; HyperPhysics; The Physics Classroom — no copied text

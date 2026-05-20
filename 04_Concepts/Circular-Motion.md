@@ -90,6 +90,28 @@ flowchart LR
 *Figure: Even at constant speed, circular motion requires a centripetal (inward) acceleration and net force. The acceleration and force are perpendicular to the velocity at all times.*
 *Source: Authored for this vault (CC0). No external copyright.*
 
+### From Wikipedia
+
+<!-- wiki-images: yes -->
+
+#### Breaking String
+
+![[_attachments/04_Concepts/Circular-Motion--wiki-breaking-string.png]]
+*Figure: from Wikipedia article "Circular motion".*
+*Source: Wikimedia Commons — [Breaking String.PNG](https://commons.wikimedia.org/wiki/File:Breaking_String.PNG). Retrieved 2026-05-20.*
+
+#### Circular motion vectors
+
+![[_attachments/04_Concepts/Circular-Motion--wiki-circular-motion-vectors.svg]]
+*Figure: from Wikipedia article "Circular motion".*
+*Source: Wikimedia Commons — [Circular motion vectors.svg](https://commons.wikimedia.org/wiki/File:Circular_motion_vectors.svg). Retrieved 2026-05-20.*
+
+#### Nonuniform circular motion
+
+![[_attachments/04_Concepts/Circular-Motion--wiki-nonuniform-circular-motion.svg]]
+*Figure: from Wikipedia article "Circular motion".*
+*Source: Wikimedia Commons — [Nonuniform circular motion.svg](https://commons.wikimedia.org/wiki/File:Nonuniform_circular_motion.svg). Retrieved 2026-05-20.*
+
 ## Source Trace
 
 - Source: OpenStax College Physics; HyperPhysics; The Physics Classroom — no copied text

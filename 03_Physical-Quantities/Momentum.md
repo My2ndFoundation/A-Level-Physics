@@ -104,6 +104,28 @@ flowchart LR
 *Figure: Momentum p links to force via Newton's second law; impulse FΔt equals the change in momentum; total momentum is conserved in a closed system.*
 *Source: Authored for this vault (CC0). No external copyright.*
 
+### From Wikipedia
+
+<!-- wiki-images: yes -->
+
+#### Billard
+
+![[_attachments/03_Physical-Quantities/Momentum--wiki-billard.jpg]]
+*Figure: from Wikipedia article "Momentum".*
+*Source: Wikimedia Commons — [Billard.JPG](https://commons.wikimedia.org/wiki/File:Billard.JPG). Retrieved 2026-05-20.*
+
+#### 1950 "Avicenna" stamp of Iran (cropped)
+
+![[_attachments/03_Physical-Quantities/Momentum--wiki-1950-avicenna-stamp-of-iran-cropped.jpg]]
+*Figure: from Wikipedia article "Momentum".*
+*Source: Wikimedia Commons — [1950 "Avicenna" stamp of Iran (cropped).jpg](https://commons.wikimedia.org/wiki/File:1950_"Avicenna"_stamp_of_Iran_(cropped).jpg). Retrieved 2026-05-20.*
+
+#### Christiaan Huygens-painting (cropped)
+
+![[_attachments/03_Physical-Quantities/Momentum--wiki-christiaan-huygens-painting-cropped.jpeg]]
+*Figure: from Wikipedia article "Momentum".*
+*Source: Wikimedia Commons — [Christiaan Huygens-painting (cropped).jpeg](https://commons.wikimedia.org/wiki/File:Christiaan_Huygens-painting_(cropped).jpeg). Retrieved 2026-05-20.*
+
 ## Source Trace
 
 - Source: OpenStax College Physics; The Physics Classroom; HyperPhysics (paraphrased, no copied text)
