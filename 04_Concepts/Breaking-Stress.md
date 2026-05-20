@@ -85,19 +85,6 @@ Selecting safe load limits for cables, beams and components requires knowing the
 
 ## Visuals
 
-### Stress–strain curve showing UTS and fracture
-
-```mermaid
-xychart-beta
-  title "Stress–strain curve (ductile material, schematic)"
-  x-axis "Strain ε (no unit)" [0, 0.01, 0.02, 0.04, 0.06, 0.08, 0.10]
-  y-axis "Stress σ (MPa, schematic)" 0 --> 130
-  line [0, 100, 110, 125, 120, 105, 85]
-```
-
-*Figure: The curve rises linearly (Hooke's Law / elastic region), reaches the ultimate tensile stress (UTS, the peak), then falls as the sample necks before fracturing at the breaking stress (end of line). UTS and breaking stress are equal for brittle materials.*
-*Source: Authored for this vault (CC0). No external copyright.*
-
 ### From Wikipedia
 
 <!-- wiki-images: yes -->

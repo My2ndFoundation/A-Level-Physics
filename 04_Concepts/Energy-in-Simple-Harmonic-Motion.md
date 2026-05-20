@@ -84,19 +84,6 @@ The energy view explains why amplitude affects energy but not period, underpins 
 
 ## Visuals
 
-### Kinetic and potential energy vs displacement in SHM
-
-```mermaid
-xychart-beta
-  title "Energy vs displacement x in SHM (schematic, total energy = 1)"
-  x-axis "Displacement x (relative, −A to +A)" [-1.0, -0.8, -0.6, -0.4, -0.2, 0.0, 0.2, 0.4, 0.6, 0.8, 1.0]
-  y-axis "Energy (relative)" 0 --> 1.1
-  line [1.0, 0.64, 0.36, 0.16, 0.04, 0.0, 0.04, 0.16, 0.36, 0.64, 1.0]
-```
-
-*Figure: Potential energy $E_p = \tfrac{1}{2}m\omega^2 x^2$ is maximum at the extremes (x = ±A) and zero at the centre. Kinetic energy $E_k = E_\text{total} - E_p$ is zero at the extremes and maximum at the centre. Total energy $E \propto A^2$ remains constant.*
-*Source: Authored for this vault (CC0). No external copyright.*
-
 ### From Wikipedia
 
 <!-- wiki-images: yes -->

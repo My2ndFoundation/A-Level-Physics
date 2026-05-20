@@ -1,0 +1,38 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 480 240" width="480" height="240" font-family="sans-serif" font-size="12">
+  <rect width="480" height="240" fill="#ffffff"/>
+  <!-- Title -->
+  <text x="10" y="18" fill="#333" font-size="13" font-weight="bold">Displacement–distance wave: amplitude vs wavelength</text>
+  <!-- Equilibrium (x-axis) -->
+  <line x1="40" y1="120" x2="450" y2="120" stroke="#333" stroke-width="1.4"/>
+  <text x="455" y="124" fill="#333">x (m)</text>
+  <text x="22" y="124" fill="#666" font-size="10">0</text>
+  <!-- y-axis -->
+  <line x1="50" y1="30" x2="50" y2="210" stroke="#333" stroke-width="1.4"/>
+  <text x="28" y="32" fill="#333">y (m)</text>
+  <!-- Sine wave: 2 full cycles, λ = 190 px = 0.5 m, A = 60 px = 0.02 m -->
+  <path d="M50,120 C82,60 113,60 145,120 C177,180 208,180 240,120 C272,60 303,60 335,120 C367,180 398,180 430,120"
+        fill="none" stroke="#1a73e8" stroke-width="2.4"/>
+  <!-- Amplitude arrow: equilibrium → first crest -->
+  <line x1="97.5" y1="120" x2="97.5" y2="62" stroke="#e53935" stroke-width="1.5" stroke-dasharray="4,3"/>
+  <polygon points="97.5,58 93.5,68 101.5,68" fill="#e53935"/>
+  <text x="103" y="92" fill="#e53935" font-size="13" font-weight="bold">A = 0.02 m</text>
+  <text x="103" y="106" fill="#e53935" font-size="10">(vertical: y-axis)</text>
+  <!-- Wavelength bracket: crest-to-crest -->
+  <line x1="97.5" y1="60" x2="97.5" y2="40" stroke="#555" stroke-width="1" stroke-dasharray="3,3"/>
+  <line x1="287.5" y1="60" x2="287.5" y2="40" stroke="#555" stroke-width="1" stroke-dasharray="3,3"/>
+  <line x1="97.5" y1="44" x2="287.5" y2="44" stroke="#555" stroke-width="1.5"/>
+  <polygon points="93.5,44 103.5,40 103.5,48" fill="#555"/>
+  <polygon points="291.5,44 281.5,40 281.5,48" fill="#555"/>
+  <text x="155" y="36" fill="#555" font-size="13" font-weight="bold">λ = 0.5 m</text>
+  <text x="155" y="59" fill="#555" font-size="10">(horizontal: x-axis)</text>
+  <!-- Crest / trough markers -->
+  <circle cx="97.5" cy="60" r="2.5" fill="#1a73e8"/>
+  <circle cx="287.5" cy="60" r="2.5" fill="#1a73e8"/>
+  <text x="78" y="232" fill="#1a73e8" font-size="10">crest</text>
+  <text x="270" y="232" fill="#1a73e8" font-size="10">next crest</text>
+  <!-- y-axis tick at +A -->
+  <line x1="46" y1="60" x2="50" y2="60" stroke="#333" stroke-width="1"/>
+  <text x="14" y="64" fill="#333" font-size="10">+A</text>
+  <line x1="46" y1="180" x2="50" y2="180" stroke="#333" stroke-width="1"/>
+  <text x="16" y="184" fill="#333" font-size="10">−A</text>
+</svg>

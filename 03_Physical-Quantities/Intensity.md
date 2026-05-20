@@ -83,19 +83,6 @@ For a point source, a graph of intensity against $1/r^2$ is a straight line thro
 
 ## Visuals
 
-### Intensity vs 1/r²: Inverse-Square Law
-
-```mermaid
-xychart-beta
-  title "Intensity I vs 1/r² — linear confirms inverse-square law"
-  x-axis "1/r² / m⁻²" [0, 0.01, 0.02, 0.03, 0.04, 0.05]
-  y-axis "Intensity I / W m⁻²" 0 --> 5
-  line [0, 1, 2, 3, 4, 5]
-```
-
-*Figure: Plotting I against 1/r² gives a straight line through the origin, confirming I = P/(4πr²) — the inverse-square law. The gradient equals P/4π. Plotting I against r would give a hyperbola; plotting I against 1/r² linearises the data for easier gradient measurement.*
-*Source: Authored for this vault (CC0). No external copyright.*
-
 ### From Wikipedia
 
 <!-- wiki-images: yes -->

@@ -83,19 +83,6 @@ Damping determines how quickly oscillations die away and controls resonance shar
 
 ## Visuals
 
-### Damping regimes: amplitude decay comparison
-
-```mermaid
-xychart-beta
-  title "Displacement vs time for three damping levels (schematic)"
-  x-axis "Time (arbitrary units)" [0, 1, 2, 3, 4, 5, 6, 7, 8]
-  y-axis "Displacement (relative)" -1.0 --> 1.0
-  line [1.0, -0.7, 0.49, -0.34, 0.24, -0.17, 0.12, -0.08, 0.06]
-```
-
-*Figure: Light damping — amplitude decreases gradually each cycle (exponential envelope). Critical damping would return to zero by t ≈ 1 without oscillating; heavy damping even more slowly. The schematic shows light damping; successive peaks shrink by a constant ratio.*
-*Source: Authored for this vault (CC0). No external copyright.*
-
 ### From Wikipedia
 
 <!-- wiki-images: yes -->

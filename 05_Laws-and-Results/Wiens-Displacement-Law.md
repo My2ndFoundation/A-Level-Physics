@@ -89,18 +89,6 @@ only the result is required.
 
 ## Visuals
 
-### Peak wavelength vs temperature
-
-```mermaid
-xychart-beta
-    title "Wien's Law: λ_max = 2.90×10⁻³ / T"
-    x-axis "T (kK)" [3, 4, 5, 6, 8, 10]
-    y-axis "λ_max (nm)" 0 --> 1000
-    line [967, 725, 580, 483, 363, 290]
-```
-*Figure: Hotter stars peak at shorter wavelengths (blue-white); cooler stars peak at longer wavelengths (red). The Sun (~5800 K) peaks near 500 nm (visible green).*
-*Source: Authored for this vault (CC0). No external copyright.*
-
 ### From Wikipedia
 
 <!-- wiki-images: yes -->

@@ -98,19 +98,6 @@ mass; no work is done moving along one.
 
 ## Visuals
 
-### Gravitational Potential vs Distance (1/r Hyperbola)
-
-```mermaid
-xychart-beta
-  title "V_grav vs r — negative 1/r curve"
-  x-axis "Distance r / arbitrary units" [1, 2, 3, 4, 5, 6]
-  y-axis "V_grav / arbitrary units" -12 --> 0
-  line [-12, -6, -4, -3, -2.4, -2]
-```
-
-*Figure: Gravitational potential V_grav = −GM/r is always negative and approaches zero only at infinity (r → ∞). The gradient at any point equals −g (field strength). The curve is a negative 1/r hyperbola; compare with electric potential, which uses the same form but can be positive or negative depending on charge sign.*
-*Source: Authored for this vault (CC0). No external copyright.*
-
 ### From Wikipedia
 
 <!-- wiki-images: yes -->

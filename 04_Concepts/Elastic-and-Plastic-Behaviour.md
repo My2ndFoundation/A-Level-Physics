@@ -87,19 +87,6 @@ Engineers must keep structural components within the elastic region so bridges, 
 
 ## Visuals
 
-### Stress–strain graph: elastic and plastic regions
-
-```mermaid
-xychart-beta
-  title "Stress–strain curve showing elastic and plastic regions (schematic)"
-  x-axis "Strain ε" [0, 0.005, 0.01, 0.02, 0.04, 0.06, 0.08]
-  y-axis "Stress σ (relative)" 0 --> 130
-  line [0, 80, 100, 110, 118, 120, 115]
-```
-
-*Figure: The initial straight region is elastic (Hooke's Law obeyed; full recovery on unloading). Beyond the elastic limit the curve becomes non-linear and plastic — permanent deformation remains after unloading. The yield point is where large plastic flow begins.*
-*Source: Authored for this vault (CC0). No external copyright.*
-
 ### From Wikipedia
 
 <!-- wiki-images: yes -->

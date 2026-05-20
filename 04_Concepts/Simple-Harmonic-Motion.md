@@ -84,17 +84,6 @@ SHM is the universal model for small oscillations — springs, pendulums, molecu
 ## Visuals
 
 ### SHM: phase relationships between displacement, velocity, and acceleration
-```mermaid
-xychart-beta
-    title "SHM — displacement x, velocity v, acceleration a vs time (schematic)"
-    x-axis "Time (fraction of period T)" [0, T/4, T/2, 3T/4, T]
-    y-axis "Relative value" -10 --> 10
-    line [10, 0, -10, 0, 10]
-    line [0, -10, 0, 10, 0]
-    line [-10, 0, 10, 0, -10]
-```
-*Figure: x (displacement) leads v (velocity) by 90°; a (acceleration) is antiphase with x. When x = +A (maximum displacement) velocity = 0 and a = −ω²A (maximum restoring).*
-*Source: Authored for this vault (CC0). No external copyright.*
 
 ### From Wikipedia
 

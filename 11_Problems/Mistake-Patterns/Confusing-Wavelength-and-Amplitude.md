@@ -69,13 +69,7 @@ repeating pattern.
 
 ### Displacement–Distance Wave: Amplitude vs Wavelength
 
-```mermaid
-xychart-beta
-    title "Displacement–distance graph (illustrative shape)"
-    x-axis "Distance / m" [0, 0.125, 0.25, 0.375, 0.5, 0.625, 0.75, 0.875, 1.0]
-    y-axis "Displacement / m" -0.025 --> 0.025
-    line [0, 0.02, 0, -0.02, 0, 0.02, 0, -0.02, 0]
-```
+![[_attachments/11_Problems/Mistake-Patterns/Confusing-Wavelength-and-Amplitude--displacement-distance-wave.svg]]
 
 *Figure: A displacement–distance graph. The vertical distance from the equilibrium line to a crest is the **amplitude** (0.02 m, read on the y-axis). The horizontal distance for one complete cycle (crest to next crest) is the **wavelength** (0.5 m, read on the x-axis). The two quantities occupy different axes and must not be swapped.*
 

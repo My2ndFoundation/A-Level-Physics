@@ -89,16 +89,6 @@ On a $\ln V$ (or $\ln Q$) versus t graph the gradient is $-1/RC$, so the time co
 
 ## Visuals
 
-```mermaid
-xychart-beta
-    title "Capacitor Discharge: Q/Q₀ vs time (multiples of τ)"
-    x-axis "t / τ" [0, 1, 2, 3, 4, 5]
-    y-axis "Q / Q₀" 0 --> 1
-    line [1, 0.368, 0.135, 0.050, 0.018, 0.007]
-```
-*Figure: Charge Q falls to Q₀/e ≈ 0.37 Q₀ after one time constant τ = RC. After 5τ less than 1% remains — the capacitor is regarded as fully discharged. The curve is exponential: Q = Q₀ e^(−t/τ).*
-*Source: Authored for this vault (CC0). No external copyright.*
-
 ### From Wikipedia
 
 <!-- wiki-images: yes -->

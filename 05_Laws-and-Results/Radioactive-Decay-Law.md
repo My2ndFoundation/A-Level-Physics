@@ -91,18 +91,6 @@ The decay rate is proportional to the number present: $\frac{dN}{dt} = -\lambda 
 
 ## Visuals
 
-### Exponential decay curve (N vs t)
-
-```mermaid
-xychart-beta
-    title "Radioactive decay: N = N₀ e^(−λt)"
-    x-axis "Time (half-lives)" [0, 1, 2, 3, 4, 5]
-    y-axis "N / N₀" 0 --> 1
-    line [1, 0.5, 0.25, 0.125, 0.0625, 0.03125]
-```
-*Figure: Number of undecayed nuclei halves every half-life t½. The same exponential shape applies to activity A = A₀ e^(−λt).*
-*Source: Authored for this vault (CC0). No external copyright.*
-
 ### From Wikipedia
 
 <!-- wiki-images: yes -->

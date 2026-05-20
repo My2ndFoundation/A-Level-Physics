@@ -84,16 +84,6 @@ On a [[Stress-Strain-Graph]], the Young modulus is the **gradient of the initial
 
 ## Visuals
 
-```mermaid
-xychart-beta
-    title "Stress–Strain Graph: Young Modulus = gradient of linear region"
-    x-axis "Strain ε (dimensionless)" [0, 0.002, 0.004, 0.006, 0.008, 0.010]
-    y-axis "Stress σ (MPa)" 0 --> 600
-    line [0, 200, 400, 500, 520, 480]
-```
-*Figure: The initial straight-line region (ε = 0 to ~0.004) has gradient E = σ/ε — the Young modulus. Beyond the limit of proportionality the curve bends; the material eventually reaches ultimate tensile stress then fractures.*
-*Source: Authored for this vault (CC0). No external copyright.*
-
 ### From Wikipedia
 
 <!-- wiki-images: yes -->

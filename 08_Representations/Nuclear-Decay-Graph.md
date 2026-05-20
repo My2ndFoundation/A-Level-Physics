@@ -67,19 +67,6 @@ Decay is random and spontaneous: each nucleus has a fixed probability of decayin
 
 ## Visuals
 
-### Nuclear decay curve: exponential fall of N with time
-
-```mermaid
-xychart-beta
-    title "N-t graph: radioactive decay (N halves every half-life)"
-    x-axis "time t (half-lives)" [0, 1, 2, 3, 4]
-    y-axis "N (undecayed nuclei, relative)" 0 --> 100
-    line [100, 50, 25, 12.5, 6.25]
-```
-
-*Figure: At $t = 0$ the full quantity N₀ is present. After each [[Half-Life]] interval the quantity halves (100 → 50 → 25 → 12.5 → 6.25). The curve approaches zero asymptotically, never reaching it. The y-intercept is N₀; the gradient at any point equals $-\lambda N$, where λ is the decay constant.*
-*Source: Authored for this vault (CC0). No external copyright.*
-
 ### From Wikipedia
 
 <!-- wiki-images: yes -->

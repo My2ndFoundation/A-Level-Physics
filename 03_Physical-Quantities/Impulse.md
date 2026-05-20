@@ -85,19 +85,6 @@ On a **force–time graph**, impulse is the **area under the curve**. A tall, na
 
 ## Visuals
 
-### Force–Time Graph: Area = Impulse
-
-```mermaid
-xychart-beta
-  title "Force vs time during an impact"
-  x-axis "Time t / ms" [0, 5, 10, 15, 20, 25, 30]
-  y-axis "Force F / N" 0 --> 600
-  line [0, 200, 500, 550, 300, 100, 0]
-```
-
-*Figure: The area under the force–time curve equals the impulse J = Δp (change in momentum). A short, tall peak (hard collision) and a long, low hump (padded collision) can have the same area — the same impulse — but very different peak forces. Crumple zones and airbags extend the time to reduce peak force.*
-*Source: Authored for this vault (CC0). No external copyright.*
-
 ### From Wikipedia
 
 <!-- wiki-images: yes -->

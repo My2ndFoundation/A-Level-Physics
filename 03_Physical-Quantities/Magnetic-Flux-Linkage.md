@@ -88,17 +88,6 @@ A graph of flux linkage against time has a gradient equal to the negative of the
 
 ## Visuals
 
-```mermaid
-xychart-beta
-    title "Flux Linkage NΦ and Induced emf ε vs angle ωt"
-    x-axis "ωt (rad)" [0, 1.57, 3.14, 4.71, 6.28]
-    y-axis "Normalised value" -1.1 --> 1.1
-    line [1, 0, -1, 0, 1]
-    line [0, 1, 0, -1, 0]
-```
-*Figure: NΦ (blue) varies as cos(ωt); the induced emf ε = −d(NΦ)/dt (orange) is 90° ahead — peaking where NΦ passes through zero.*
-*Source: Authored for this vault (CC0). No external copyright.*
-
 ### From Wikipedia
 
 <!-- wiki-images: yes -->

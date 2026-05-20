@@ -91,19 +91,6 @@ It underlies energy transfer in circuits ($W = QV$), the energy of charged parti
 
 ## Visuals
 
-### Electric potential energy vs separation for like and unlike charges
-
-```mermaid
-xychart-beta
-  title "Electric potential energy E_p vs separation r (schematic)"
-  x-axis "Separation r (relative)" [0.2, 0.4, 0.6, 0.8, 1.0, 1.5, 2.0, 3.0]
-  y-axis "E_p (relative, + = repulsive)" -5 --> 5
-  line [5.0, 2.5, 1.67, 1.25, 1.0, 0.67, 0.5, 0.33]
-```
-
-*Figure: For like charges (same sign) $E_p = (1/4\pi\varepsilon_0)Qq/r$ is positive and falls as $1/r$ — energy stored as they are pushed together; they repel. For unlike charges, $E_p$ is negative (an energy well); energy must be supplied to separate them.*
-*Source: Authored for this vault (CC0). No external copyright.*
-
 ### From Wikipedia
 
 <!-- wiki-images: yes -->
