@@ -26,15 +26,15 @@ The SI system is the internationally agreed set of units for physical quantities
 
 Every physical quantity is expressed as a number times a unit. The SI system fixes seven **base units**; the five used routinely at A-Level are:
 
-| Quantity | Base unit | Symbol |
-|---|---|---|
-| Mass | kilogram | kg |
-| Length | metre | m |
-| Time | second | s |
-| Electric current | ampere | A |
-| Thermodynamic temperature | kelvin | K |
+| Quantity | Base unit | Symbol | Definition page |
+|---|---|---|---|
+| Mass | kilogram | kg | [[The-Kilogram]] |
+| Length | metre | m | [[The-Metre]] |
+| Time | second | s | [[The-Second]] |
+| Electric current | ampere | A | [[The-Ampere]] |
+| Thermodynamic temperature | kelvin | K | [[The-Kelvin]] |
 
-(The mole, mol, and candela, cd, complete the seven.)
+(The mole, mol, and candela, cd, complete the seven.) Each definition page traces the unit's history from its first artefact-based form to its modern definition via a fixed fundamental constant (the 2019 SI revision).
 
 All other units are **derived** as products and powers of base units. For example the newton is $\text{kg m s}^{-2}$ (from $F = ma$), the joule is $\text{kg m}^{2}\,\text{s}^{-2}$ (from [[Work]] $= Fd$), and the pascal is $\text{kg m}^{-1}\,\text{s}^{-2}$. Expressing a derived unit in base units is the basis of **homogeneity / dimensional analysis**: a physically valid equation must have the same base-unit combination on both sides. Checking this catches algebraic errors and helps deduce unknown units.
 

@@ -63,6 +63,13 @@ OVERRIDES = {
     "06_Models/Internal-Resistance-Model.md": "Electromotive force",
     "06_Models/Ohmic-Conductor-Model.md": "Ohm's law",
     "08_Representations/Line-of-Best-Fit-Graph.md": "Linear regression",
+
+    # — SI base unit definition pages (titles starting with "The-" confused search)
+    "04_Concepts/The-Metre.md": "Metre",
+    "04_Concepts/The-Second.md": "Second",
+    "04_Concepts/The-Ampere.md": "Ampere",
+    "04_Concepts/The-Kelvin.md": "Kelvin",
+    "04_Concepts/The-Kilogram.md": "Kilogram",
 }
 
 

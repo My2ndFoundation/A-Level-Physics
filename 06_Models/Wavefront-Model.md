@@ -96,11 +96,11 @@ This extends the everyday observation of ripples spreading on water into a gener
 *Figure: from Wikipedia article "Wavefront".*
 *Source: Wikimedia Commons — [Hamiltonian Optics-Rays and Wavefronts.svg](https://commons.wikimedia.org/wiki/File:Hamiltonian_Optics-Rays_and_Wavefronts.svg). Retrieved 2026-05-20.*
 
-#### Plane wave wavefronts 3D
+#### Lens and wavefronts
 
-![[_attachments/06_Models/Wavefront-Model--wiki-plane-wave-wavefronts-3d.svg]]
+![[_attachments/06_Models/Wavefront-Model--wiki-lens-and-wavefronts.gif]]
 *Figure: from Wikipedia article "Wavefront".*
-*Source: Wikimedia Commons — [Plane wave wavefronts 3D.svg](https://commons.wikimedia.org/wiki/File:Plane_wave_wavefronts_3D.svg). Retrieved 2026-05-20.*
+*Source: Wikimedia Commons — [Lens and wavefronts.gif](https://commons.wikimedia.org/wiki/File:Lens_and_wavefronts.gif). Retrieved 2026-05-20.*
 
 ## Source Trace
 

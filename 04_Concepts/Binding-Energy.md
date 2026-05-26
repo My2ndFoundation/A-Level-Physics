@@ -85,29 +85,6 @@ The binding-energy-per-nucleon curve explains why both fusion (light nuclei) and
 - Forgetting to convert u to MeV (×931.5) or MeV to J
 
 ## Visuals
-
-### From Wikipedia
-
-<!-- wiki-images: yes -->
-
-#### NuclearReaction
-
-![[_attachments/04_Concepts/Binding-Energy--wiki-nuclearreaction.svg]]
-*Figure: from Wikipedia article "Nuclear binding energy".*
-*Source: Wikimedia Commons — [NuclearReaction.svg](https://commons.wikimedia.org/wiki/File:NuclearReaction.svg). Retrieved 2026-05-20.*
-
-#### Bethe-Weizsäcker
-
-![[_attachments/04_Concepts/Binding-Energy--wiki-bethe-weizsacker.png]]
-*Figure: from Wikipedia article "Nuclear binding energy".*
-*Source: Wikimedia Commons — [Bethe-Weizsäcker.png](https://commons.wikimedia.org/wiki/File:Bethe-Weizsäcker.png). Retrieved 2026-05-20.*
-
-#### Binding energy curve of common isotopes
-
-![[_attachments/04_Concepts/Binding-Energy--wiki-binding-energy-curve-of-common-isotopes.svg]]
-*Figure: from Wikipedia article "Nuclear binding energy".*
-*Source: Wikimedia Commons — [Binding energy curve of common isotopes.svg](https://commons.wikimedia.org/wiki/File:Binding_energy_curve_of_common_isotopes.svg). Retrieved 2026-05-20.*
-
 ## Source Trace
 
 - Source: OpenStax College Physics; HyperPhysics; CERN educational material — no copied text

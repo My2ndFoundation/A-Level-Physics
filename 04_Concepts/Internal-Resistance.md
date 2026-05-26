@@ -100,12 +100,6 @@ Internal resistance explains why terminal voltage depends on load, limits the ma
 
 <!-- wiki-images: yes -->
 
-#### VFPt Solenoid correct2
-
-![[_attachments/04_Concepts/Internal-Resistance--wiki-vfpt-solenoid-correct2.svg]]
-*Figure: from Wikipedia article "Electromotive force".*
-*Source: Wikimedia Commons — [VFPt_Solenoid_correct2.svg](https://commons.wikimedia.org/wiki/File:VFPt_Solenoid_correct2.svg). Retrieved 2026-05-20.*
-
 #### Galvanic cell labeled
 
 ![[_attachments/04_Concepts/Internal-Resistance--wiki-galvanic-cell-labeled.svg]]
@@ -117,6 +111,12 @@ Internal resistance explains why terminal voltage depends on load, limits the ma
 ![[_attachments/04_Concepts/Internal-Resistance--wiki-reaction-path.jpg]]
 *Figure: from Wikipedia article "Electromotive force".*
 *Source: Wikimedia Commons — [Reaction path.JPG](https://commons.wikimedia.org/wiki/File:Reaction_path.JPG). Retrieved 2026-05-20.*
+
+#### Solar cell characterisitcs
+
+![[_attachments/04_Concepts/Internal-Resistance--wiki-solar-cell-characterisitcs.jpg]]
+*Figure: from Wikipedia article "Electromotive force".*
+*Source: Wikimedia Commons — [Solar cell characterisitcs.JPG](https://commons.wikimedia.org/wiki/File:Solar_cell_characterisitcs.JPG). Retrieved 2026-05-20.*
 
 ## Source Trace
 

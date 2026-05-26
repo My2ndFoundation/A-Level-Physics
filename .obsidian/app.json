@@ -6,6 +6,7 @@
     ".state/",
     "docs/",
     "tools/",
+    "13_Sources/",
     "contents",
     "CLAUDE.md",
     "AGENTS.md",

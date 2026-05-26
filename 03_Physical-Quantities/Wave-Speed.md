@@ -119,6 +119,12 @@ flowchart LR
 *Figure: from Wikipedia article "Phase velocity".*
 *Source: Wikimedia Commons — [Wave_packet_propagation_(phase_faster_than_group,_nondispersive).gif](https://commons.wikimedia.org/wiki/File:Wave_packet_propagation_(phase_faster_than_group,_nondispersive).gif). Retrieved 2026-05-20.*
 
+#### Wave opposite-group-phase-velocity
+
+![[_attachments/03_Physical-Quantities/Wave-Speed--wiki-wave-opposite-group-phase-velocity.gif]]
+*Figure: from Wikipedia article "Phase velocity".*
+*Source: Wikimedia Commons — [Wave opposite-group-phase-velocity.gif](https://commons.wikimedia.org/wiki/File:Wave_opposite-group-phase-velocity.gif). Retrieved 2026-05-20.*
+
 #### Wave packet propagation (phase faster than group, nondispersive)
 
 ![[_attachments/03_Physical-Quantities/Wave-Speed--wiki-wave-packet-propagation-phase-faster-tha.gif]]

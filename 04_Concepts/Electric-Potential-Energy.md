@@ -97,7 +97,7 @@ It underlies energy transfer in circuits ($W = QV$), the energy of charged parti
 
 #### VFPt Solenoid correct2
 
-![[_attachments/04_Concepts/Electric-Potential-Energy--wiki-vfpt-solenoid-correct2.svg]]
+![[_attachments/04_Concepts/Electric-Potential-Energy--wiki-vfpt-solenoid-correct2.svg|623]]
 *Figure: from Wikipedia article "Electric potential energy".*
 *Source: Wikimedia Commons — [VFPt_Solenoid_correct2.svg](https://commons.wikimedia.org/wiki/File:VFPt_Solenoid_correct2.svg). Retrieved 2026-05-20.*
 

@@ -101,11 +101,11 @@ xychart-beta
 *Figure: from Wikipedia article "Ohm's law".*
 *Source: Wikimedia Commons — [FourIVcurves.svg](https://commons.wikimedia.org/wiki/File:FourIVcurves.svg). Retrieved 2026-05-20.*
 
-#### Ohm3
+#### Internal resistance model
 
-![[_attachments/06_Models/Ohmic-Conductor-Model--wiki-ohm3.gif]]
+![[_attachments/06_Models/Ohmic-Conductor-Model--wiki-internal-resistance-model.svg]]
 *Figure: from Wikipedia article "Ohm's law".*
-*Source: Wikimedia Commons — [Ohm3.gif](https://commons.wikimedia.org/wiki/File:Ohm3.gif). Retrieved 2026-05-20.*
+*Source: Wikimedia Commons — [Internal resistance model.svg](https://commons.wikimedia.org/wiki/File:Internal_resistance_model.svg). Retrieved 2026-05-20.*
 
 ## Source Trace
 

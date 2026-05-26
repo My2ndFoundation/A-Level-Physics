@@ -80,17 +80,6 @@ The equation $I = nAve$ explains why current is the same all around a series cir
 ![[_attachments/04_Concepts/Mean-Drift-Velocity--wire-cross-section.svg]]
 *Figure: Charge carriers (blue dots, charge e each) drift rightward at mean speed v through a wire of cross-sectional area A. The carrier number density is n (m⁻³). The current I = nAve: more carriers, wider wire, or faster drift all increase I.*
 *Source: Authored for this vault (CC0). No external copyright.*
-
-### From Wikipedia
-
-<!-- wiki-images: yes -->
-
-#### Drift velocity of electrons
-
-![[_attachments/04_Concepts/Mean-Drift-Velocity--wiki-drift-velocity-of-electrons.jpg]]
-*Figure: from Wikipedia article "Drift velocity".*
-*Source: Wikimedia Commons — [Drift velocity of electrons.jpg](https://commons.wikimedia.org/wiki/File:Drift_velocity_of_electrons.jpg). Retrieved 2026-05-20.*
-
 ## Source Trace
 
 - Source: OpenStax College Physics; HyperPhysics; IOPSpark

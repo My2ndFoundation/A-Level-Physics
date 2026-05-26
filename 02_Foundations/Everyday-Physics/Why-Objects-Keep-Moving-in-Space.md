@@ -61,11 +61,11 @@ This page explains inertia and the difference between maintaining motion and cha
 
 <!-- wiki-images: yes -->
 
-#### Binary system orbit q=3 e=0
+#### Animated-mass-spring
 
-![[_attachments/02_Foundations/Why-Objects-Keep-Moving-in-Space--wiki-binary-system-orbit-q3-e0.gif]]
+![[_attachments/02_Foundations/Why-Objects-Keep-Moving-in-Space--wiki-animated-mass-spring.gif]]
 *Figure: from Wikipedia article "Newton's laws of motion".*
-*Source: Wikimedia Commons — [Binary system orbit q=3 e=0.gif](https://commons.wikimedia.org/wiki/File:Binary_system_orbit_q=3_e=0.gif). Retrieved 2026-05-20.*
+*Source: Wikimedia Commons — [Animated-mass-spring.gif](https://commons.wikimedia.org/wiki/File:Animated-mass-spring.gif). Retrieved 2026-05-20.*
 
 #### Bouncing ball strobe edit
 
