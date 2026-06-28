@@ -119,6 +119,15 @@ flowchart TD
 *Figure: Remnant fate depends on the post-collapse mass.*
 *Source: Authored for this vault (CC0). No external copyright.*
 
+### From Wikimedia
+
+<!-- wiki-images: yes -->
+
+#### The Crab Nebula — a supernova remnant
+![[_attachments/04_Concepts/Supernovae-Neutron-Stars-and-Black-Holes--wiki-crab-nebula.jpg]]
+*Figure: The Crab Nebula, the expanding debris of a supernova recorded in 1054 AD. A rapidly spinning neutron star (the Crab Pulsar) sits at its centre.*
+*Source: Wikimedia Commons — [Crab Nebula.jpg](https://commons.wikimedia.org/wiki/File:Crab_Nebula.jpg) — Public domain — NASA, ESA, J. Hester and A. Loll (ASU). Retrieved 2026-06-27.*
+
 ## Source Trace
 
 - Source: [[AQA-Physics-7407-7408-Specification]] §3.9.2 – §3.9.3

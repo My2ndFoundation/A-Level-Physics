@@ -111,6 +111,15 @@ flowchart LR
 *Figure: Both laws are confirmed by straight-line graphs once axes are chosen sensibly.*
 *Source: Authored for this vault (CC0). No external copyright.*
 
+### From Wikimedia
+
+<!-- wiki-images: yes -->
+
+#### Boyle's law apparatus
+![[_attachments/09_Experiments-and-Practicals/Investigating-Boyle-and-Charles-Laws--wiki-boyles-law-apparatus.png]]
+*Figure: a Boyle's-law apparatus — a foot pump compresses a sealed air column above oil while a gauge reads the pressure.*
+*Source: Wikimedia Commons — [Boyles law appratus.png](https://commons.wikimedia.org/wiki/File:Boyles_law_appratus.png) — CC0 — Guy vandegrift. Retrieved 2026-06-27.*
+
 ## Source Trace
 
 - Source: [[AQA-Physics-7407-7408-Specification]] §3.6 (Required practical 8)

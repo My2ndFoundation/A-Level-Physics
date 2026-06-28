@@ -117,6 +117,15 @@ flowchart LR
 *Figure: The Rayleigh criterion takes the "peak-on-first-minimum" configuration as the just-resolved case; their angular separation is $\theta_{\min} \approx \lambda/D$.*
 *Source: Authored for this vault (CC0). No external copyright.*
 
+### From Wikimedia
+
+<!-- wiki-images: yes -->
+
+#### Two Airy patterns at the Rayleigh limit
+![[_attachments/05_Laws-and-Results/Rayleigh-Criterion--wiki-airy-rayleigh.png]]
+*Figure: Two point sources whose Airy patterns are separated so that the central maximum of one falls on the first minimum of the other — the just-resolved Rayleigh case, with the combined profile showing a shallow central dip.*
+*Source: Wikimedia Commons — [Airy disk spacing near Rayleigh criterion.png](https://commons.wikimedia.org/wiki/File:Airy_disk_spacing_near_Rayleigh_criterion.png) — Public domain — Spencer Bliven. Retrieved 2026-06-27.*
+
 ## Source Trace
 
 - Source: [[AQA-Physics-7407-7408-Specification]] §3.9.1 (Telescopes — resolving power, Rayleigh criterion)

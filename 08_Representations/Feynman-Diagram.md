@@ -99,6 +99,15 @@ flowchart TB
 *Figure: Beta-minus decay at the quark level. A d quark becomes a u quark, emitting a W-, which decays to an electron and an electron antineutrino.*
 *Source: Authored for this vault (CC0). No external copyright.*
 
+### From Wikimedia
+
+<!-- wiki-images: yes -->
+
+#### Beta-minus decay Feynman diagram
+![[_attachments/08_Representations/Feynman-Diagram--wiki-beta-minus-decay.svg]]
+*Figure: a conventionally drawn Feynman diagram for beta-minus decay — a down quark turns into an up quark by emitting a W⁻ boson, which then decays to an electron and an electron antineutrino.*
+*Source: Wikimedia Commons — [Feynmann Diagram beta minus decay.svg](https://commons.wikimedia.org/wiki/File:Feynmann_Diagram_beta_minus_decay.svg) — CC BY-SA 3.0 — Exc (Wikimedia user). Retrieved 2026-06-27.*
+
 ## Source Trace
 
 - Source: [[AQA-Physics-7407-7408-Specification]] §3.2.1.4

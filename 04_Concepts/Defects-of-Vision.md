@@ -111,6 +111,15 @@ flowchart LR
 *Figure: a diverging lens shifts the apparent object to the patient's far point so the unaided eye can focus it.*
 *Source: Authored for this vault (CC0). No external copyright.*
 
+### From Wikimedia
+
+<!-- wiki-images: yes -->
+
+#### Refractive errors and their correction
+![[_attachments/04_Concepts/Defects-of-Vision--wiki-refractive-errors.png]]
+*Figure: how myopia and hypermetropia move the focus off the retina, and how diverging/converging lenses restore a sharp retinal image.*
+*Source: Wikimedia Commons — [Differ-between-eye-errors.png](https://commons.wikimedia.org/wiki/File:Differ-between-eye-errors.png) — Public domain — Drsrisenthil. Retrieved 2026-06-27.*
+
 ## Source Trace
 
 - Source: [[AQA-Physics-7407-7408-Specification]] §3.10.1

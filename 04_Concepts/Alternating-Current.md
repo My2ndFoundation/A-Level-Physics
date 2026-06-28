@@ -112,6 +112,15 @@ xychart-beta
 *Figure: Sinusoid (peak ±325 V) with r.m.s. level (230 V) marked as the DC-equivalent.*
 *Source: Authored for this vault (CC0). No external copyright.*
 
+### From Wikimedia
+
+<!-- wiki-images: yes -->
+
+#### AC sine wave on an oscilloscope
+![[_attachments/04_Concepts/Alternating-Current--wiki-sine-oscilloscope.jpg]]
+*Figure: a real sinusoidal AC signal displayed on an analogue oscilloscope, from which peak voltage and period are read.*
+*Source: Wikimedia Commons — [Sine wave 10 kHz displayed on analog oscilloscope.jpg](https://commons.wikimedia.org/wiki/File:Sine_wave_10_kHz_displayed_on_analog_oscilloscope.jpg) — CC BY-SA 4.0 — Pittigrilli. Retrieved 2026-06-27.*
+
 ## Source Trace
 
 - Source: [[AQA-Physics-7407-7408-Specification]] §3.7.5.5

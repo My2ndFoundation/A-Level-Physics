@@ -324,3 +324,80 @@ page	outcome	file	license	source_url	date	note
 12_Frontier-Maps/Quantum-Mechanics-Map.md	photo	_attachments/12_Frontier-Maps/Quantum-Mechanics-Map--double-slit.jpg	CC BY-SA 4.0	https://commons.wikimedia.org/wiki/File:Double-slit_away_from_slits.jpg	2026-05-19	-
 12_Frontier-Maps/Relativity-Map.md	photo	_attachments/12_Frontier-Maps/Relativity-Map--gravitational-waves.jpg	Public Domain	https://images.nasa.gov/details/GSFC_20171208_Archive_e000415	2026-05-19	-
 12_Frontier-Maps/Semiconductor-Physics-Map.md	photo	_attachments/12_Frontier-Maps/Semiconductor-Physics-Map--silicon-wafer.jpg	CC BY-SA 2.0	https://commons.wikimedia.org/wiki/File:Wafer_20110212.jpg	2026-05-19	-
+03_Physical-Quantities/Absolute-Magnitude.md	diagram	authored	CC0	-	2026-06-27	authored mermaid/table
+03_Physical-Quantities/Angular-Momentum.md	diagram	authored	CC0	-	2026-06-27	authored mermaid/table
+03_Physical-Quantities/Apparent-Magnitude.md	diagram	authored	CC0	-	2026-06-27	authored mermaid/table
+03_Physical-Quantities/Effective-Half-Life.md	diagram	authored	CC0	-	2026-06-27	authored mermaid/table
+03_Physical-Quantities/Lens-Power.md	photo	_attachments/03_Physical-Quantities/Lens-Power--wiki-lens-types.svg	CC BY-SA 3.0	https://commons.wikimedia.org/wiki/File:Lenses_en.svg	2026-06-27	wiki image
+03_Physical-Quantities/Moment-of-Inertia.md	diagram	authored	CC0	-	2026-06-27	authored mermaid/table
+03_Physical-Quantities/Sound-Intensity-Level.md	photo	_attachments/03_Physical-Quantities/Sound-Intensity-Level--wiki-equal-loudness-contours.svg	Public domain	https://commons.wikimedia.org/wiki/File:Equal-loudness_contours_comparison_with_Robinson-Dadson_curves.svg	2026-06-27	wiki image
+03_Physical-Quantities/Specific-Charge.md	photo	_attachments/03_Physical-Quantities/Specific-Charge--wiki-thomson-cathode-ray-tube.jpg	-	-	2026-06-27	wiki image
+04_Concepts/Alternating-Current.md	photo	_attachments/04_Concepts/Alternating-Current--wiki-sine-oscilloscope.jpg	CC BY-SA 4.0	https://commons.wikimedia.org/wiki/File:Sine_wave_10_kHz_displayed_on_analog_oscilloscope.jpg	2026-06-27	wiki image
+04_Concepts/Analogue-and-Digital-Signals.md	photo	_attachments/04_Concepts/Analogue-and-Digital-Signals--wiki-analog-digital-signal.svg	CC BY-SA 4.0	https://commons.wikimedia.org/wiki/File:Analog_digital_signal.svg	2026-06-27	wiki image
+04_Concepts/Annihilation-and-Pair-Production.md	photo	_attachments/04_Concepts/Annihilation-and-Pair-Production--wiki-pet-normal-brain.jpg	Public domain	https://commons.wikimedia.org/wiki/File:PET_Normal_brain.jpg	2026-06-27	wiki image
+04_Concepts/Baryon-Number.md	diagram	authored	CC0	-	2026-06-27	authored mermaid/table
+04_Concepts/Black-Body-Radiation.md	photo	_attachments/04_Concepts/Black-Body-Radiation--wiki-planck-curves.svg	Public domain	https://commons.wikimedia.org/wiki/File:Black_body.svg	2026-06-27	wiki image
+04_Concepts/Cathode-Rays.md	photo	_attachments/04_Concepts/Cathode-Rays--wiki-crookes-tube-maltese-cross.jpg	CC BY-SA 3.0 at	https://commons.wikimedia.org/wiki/File:Crookes_tube-in_use-lateral_view-standing_cross_prPNr%C2%B011.jpg	2026-06-27	wiki image
+04_Concepts/Classification-of-Particles.md	photo	_attachments/04_Concepts/Classification-of-Particles--wiki-bubble-chamber-lambda.jpg	Public domain	https://commons.wikimedia.org/wiki/File:Bubble_chamber_event._Decay_of_neutral_lambda,_anti-lambda_hyperons._Photograph_circa_July_1959._Bubble_Chamber-772A_-_DPLA_-_5141859e360581251906c073668c70de.jpg	2026-06-27	wiki image
+04_Concepts/Combinational-and-Sequential-Logic.md	photo	_attachments/04_Concepts/Combinational-and-Sequential-Logic--wiki-d-flip-flop.svg	Public domain	https://commons.wikimedia.org/wiki/File:D-Type_Flip-flop_Diagram.svg	2026-06-27	wiki image
+04_Concepts/Defects-of-Vision.md	photo	_attachments/04_Concepts/Defects-of-Vision--wiki-refractive-errors.png	Public domain	https://commons.wikimedia.org/wiki/File:Differ-between-eye-errors.png	2026-06-27	wiki image
+04_Concepts/Electron-Microscopes.md	photo	_attachments/04_Concepts/Electron-Microscopes--wiki-ruska-electron-microscope.jpg	CC BY-SA 3.0	https://commons.wikimedia.org/wiki/File:Ernst_Ruska_Electron_Microscope_-_Deutsches_Museum_-_Munich-edit.jpg	2026-06-27	wiki image
+04_Concepts/Exchange-Particles.md	photo	_attachments/04_Concepts/Exchange-Particles--wiki-feynman-diagram.svg	CC BY-SA 4.0	https://commons.wikimedia.org/wiki/File:Feynmandiagram.svg	2026-06-27	wiki image
+04_Concepts/Exoplanet-Detection.md	photo	_attachments/04_Concepts/Exoplanet-Detection--wiki-transit-light-curve.svg	CC BY-SA 4.0	https://commons.wikimedia.org/wiki/File:Theoretical_Transiting_Exoplanet_Light_Curve.svg	2026-06-27	wiki image
+04_Concepts/Fundamental-Interactions.md	diagram	authored	CC0	-	2026-06-27	authored mermaid/table
+04_Concepts/LC-Resonance-Filter.md	diagram	authored	CC0	-	2026-06-27	authored mermaid/table
+04_Concepts/Lepton-Number.md	diagram	authored	CC0	-	2026-06-27	authored mermaid/table
+04_Concepts/Michelson-Morley-Experiment.md	photo	_attachments/04_Concepts/Michelson-Morley-Experiment--wiki-interferometer-diagram.svg	-	-	2026-06-27	wiki image
+04_Concepts/Millikan-Oil-Drop-Experiment.md	photo	_attachments/04_Concepts/Millikan-Oil-Drop-Experiment--wiki-apparatus-scheme.jpg	Public domain	https://commons.wikimedia.org/wiki/File:Scheme_of_Millikan%E2%80%99s_oil-drop_apparatus.jpg	2026-06-27	wiki image
+04_Concepts/Non-Optical-Telescopes.md	photo	_attachments/04_Concepts/Non-Optical-Telescopes--wiki-radio-dish.jpg	CC BY 2.0	https://commons.wikimedia.org/wiki/File:Radio_telescope_The_Dish.jpg	2026-06-27	wiki image
+04_Concepts/Nuclear-Radius.md	diagram	authored	CC0	-	2026-06-27	authored mermaid/table
+04_Concepts/Physics-of-the-Ear.md	photo	_attachments/04_Concepts/Physics-of-the-Ear--wiki-ear-anatomy.svg	CC BY-SA 3.0	https://commons.wikimedia.org/wiki/File:Anatomy_of_the_Human_Ear_in_farsi_numbers.svg	2026-06-27	wiki image
+04_Concepts/Physics-of-the-Eye.md	photo	_attachments/04_Concepts/Physics-of-the-Eye--wiki-eye-diagram.svg	CC BY-SA 3.0	https://commons.wikimedia.org/wiki/File:Eye-diagram_no_circles_border.svg	2026-06-27	wiki image
+04_Concepts/Quasars.md	photo	_attachments/04_Concepts/Quasars--wiki-3c273.jpg	-	-	2026-06-27	wiki image
+04_Concepts/Resolving-Power.md	photo	_attachments/04_Concepts/Resolving-Power--wiki-airy-disk.png	CC0	https://commons.wikimedia.org/wiki/File:Airy_disk_D65.png	2026-06-27	wiki image
+04_Concepts/Rotational-Kinetic-Energy.md	diagram	authored	CC0	-	2026-06-27	authored mermaid/table
+04_Concepts/Rotational-Motion.md	diagram	authored	CC0	-	2026-06-27	authored mermaid/table
+04_Concepts/Semiconductor-Devices.md	photo	_attachments/04_Concepts/Semiconductor-Devices--wiki-power-mosfet.jpg	CC BY-SA 4.0	https://commons.wikimedia.org/wiki/File:Power_MOSFET.jpg	2026-06-27	wiki image
+04_Concepts/Special-Relativity.md	photo	_attachments/04_Concepts/Special-Relativity--wiki-einstein-1921.jpg	Public domain	https://commons.wikimedia.org/wiki/File:Einstein_1921_by_F_Schmutzer_-_restoration.jpg	2026-06-27	wiki image
+04_Concepts/Standard-Candles.md	photo	_attachments/04_Concepts/Standard-Candles--wiki-type-ia-supernova.jpg	CC BY 4.0	https://commons.wikimedia.org/wiki/File:Supernova_2012Z_in_spiral_galaxy_NGC_1309,_annotated.jpg	2026-06-27	wiki image
+04_Concepts/Stellar-Spectral-Classes.md	photo	_attachments/04_Concepts/Stellar-Spectral-Classes--wiki-obafgkm.svg	CC BY-SA 3.0	https://commons.wikimedia.org/wiki/File:Morgan-Keenan_spectral_classification.svg	2026-06-27	wiki image
+04_Concepts/Strangeness.md	diagram	authored	CC0	-	2026-06-27	authored mermaid/table
+04_Concepts/Strong-Nuclear-Force.md	diagram	authored	CC0	-	2026-06-27	authored mermaid/table
+04_Concepts/Supernovae-Neutron-Stars-and-Black-Holes.md	photo	_attachments/04_Concepts/Supernovae-Neutron-Stars-and-Black-Holes--wiki-crab-nebula.jpg	Public domain	https://commons.wikimedia.org/wiki/File:Crab_Nebula.jpg	2026-06-27	wiki image
+04_Concepts/Thermionic-Emission.md	photo	_attachments/04_Concepts/Thermionic-Emission--wiki-vacuum-tube-diode.jpg	CC BY-SA 4.0	https://commons.wikimedia.org/wiki/File:EA52_vacuum_tube_diode.jpg	2026-06-27	wiki image
+04_Concepts/Thermodynamic-Processes.md	diagram	authored	CC0	-	2026-06-27	authored mermaid/table
+04_Concepts/X-ray-Attenuation.md	photo	_attachments/04_Concepts/X-ray-Attenuation--wiki-attenuation-coefficient.svg	CC BY-SA 3.0	https://commons.wikimedia.org/wiki/File:Attenuation_Coefficient_Iron.svg	2026-06-27	wiki image
+05_Laws-and-Results/Conservation-of-Angular-Momentum.md	photo	_attachments/05_Laws-and-Results/Conservation-of-Angular-Momentum--wiki-figure-skater-spin.jpg	-	-	2026-06-27	wiki image
+05_Laws-and-Results/First-Law-of-Thermodynamics.md	diagram	authored	CC0	-	2026-06-27	authored mermaid/table
+05_Laws-and-Results/Length-Contraction.md	photo	_attachments/05_Laws-and-Results/Length-Contraction--wiki-length-contraction.svg	CC BY-SA 4.0	https://commons.wikimedia.org/wiki/File:Length-contraction.svg	2026-06-27	wiki image
+05_Laws-and-Results/Lens-Equation.md	photo	_attachments/05_Laws-and-Results/Lens-Equation--wiki-convex-lens-image.png	CC BY-SA 4.0	https://commons.wikimedia.org/wiki/File:2015-05-25_0820Incoming_parallel_rays_are_focused_by_a_convex_lens_into_an_inverted_real_image_one_focal_length_from_the_lens,_on_the_far_side_of_the.png	2026-06-27	wiki image
+05_Laws-and-Results/Magnitude-Distance-Equation.md	diagram	authored	CC0	-	2026-06-27	authored mermaid/table
+05_Laws-and-Results/Maxwell-Speed-of-Light.md	photo	_attachments/05_Laws-and-Results/Maxwell-Speed-of-Light--wiki-electromagnetic-wave.svg	CC0	https://commons.wikimedia.org/wiki/File:Electromagnetic_wave_EN.svg	2026-06-27	wiki image
+05_Laws-and-Results/Rayleigh-Criterion.md	photo	_attachments/05_Laws-and-Results/Rayleigh-Criterion--wiki-airy-rayleigh.png	Public domain	https://commons.wikimedia.org/wiki/File:Airy_disk_spacing_near_Rayleigh_criterion.png	2026-06-27	wiki image
+05_Laws-and-Results/Relativistic-Mass-and-Energy.md	diagram	authored	CC0	-	2026-06-27	authored mermaid/table
+05_Laws-and-Results/Schwarzschild-Radius.md	photo	_attachments/05_Laws-and-Results/Schwarzschild-Radius--wiki-m87-black-hole.jpg	CC BY 4.0	https://commons.wikimedia.org/wiki/File:Black_hole_-_Messier_87.jpg	2026-06-27	wiki image
+05_Laws-and-Results/Second-Law-of-Thermodynamics.md	diagram	authored	CC0	-	2026-06-27	authored mermaid/table
+05_Laws-and-Results/Time-Dilation.md	photo	_attachments/05_Laws-and-Results/Time-Dilation--wiki-light-clock.svg	Public domain	https://commons.wikimedia.org/wiki/File:Time-dilation-002.svg	2026-06-27	wiki image
+05_Laws-and-Results/Torque-and-Angular-Acceleration.md	diagram	authored	CC0	-	2026-06-27	authored mermaid/table
+06_Models/Astronomical-Telescope.md	photo	_attachments/06_Models/Astronomical-Telescope--wiki-yerkes-refractor.jpg	Public domain	https://commons.wikimedia.org/wiki/File:Yerkes_40_inch_Refractor_Telescope-2006.jpg	2026-06-27	wiki image
+06_Models/Ideal-Operational-Amplifier.md	photo	_attachments/06_Models/Ideal-Operational-Amplifier--wiki-op-amp-symbol.svg	CC BY-SA 3.0	https://commons.wikimedia.org/wiki/File:Op-amp_symbol.svg	2026-06-27	wiki image
+06_Models/Reflecting-Telescope.md	photo	_attachments/06_Models/Reflecting-Telescope--wiki-cassegrain-reflector.jpg	CC BY-SA 4.0	https://commons.wikimedia.org/wiki/File:Cassegrain_telescope_-_CNAM_1850.jpg	2026-06-27	wiki image
+07_Methods/Applying-Conservation-Laws-to-Particle-Interactions.md	none	-	-	-	2026-06-27	abstract/method - no visual
+07_Methods/Solving-Rotational-Dynamics-Problems.md	none	-	-	-	2026-06-27	abstract/method - no visual
+08_Representations/Feynman-Diagram.md	photo	_attachments/08_Representations/Feynman-Diagram--wiki-beta-minus-decay.svg	CC BY-SA 3.0	https://commons.wikimedia.org/wiki/File:Feynmann_Diagram_beta_minus_decay.svg	2026-06-27	wiki image
+08_Representations/Logic-Gate-Diagram.md	photo	_attachments/08_Representations/Logic-Gate-Diagram--wiki-logic-gates.svg	CC BY 3.0	https://commons.wikimedia.org/wiki/File:LogicGates.svg	2026-06-27	wiki image
+08_Representations/pV-Diagram.md	photo	_attachments/08_Representations/pV-Diagram--wiki-simple-cycle-loop.svg	CC0	https://commons.wikimedia.org/wiki/File:P-v_diagram_of_a_simple_cycle.svg	2026-06-27	wiki image
+09_Experiments-and-Practicals/Required-Practicals/Determining-Resistivity-of-a-Wire.md	photo	_attachments/09_Experiments-and-Practicals/Determining-Resistivity-of-a-Wire--wiki-micrometer.jpg	-	-	2026-06-27	wiki image
+09_Experiments-and-Practicals/Required-Practicals/Investigating-Boyle-and-Charles-Laws.md	photo	_attachments/09_Experiments-and-Practicals/Investigating-Boyle-and-Charles-Laws--wiki-boyles-law-apparatus.png	CC0	https://commons.wikimedia.org/wiki/File:Boyles_law_appratus.png	2026-06-27	wiki image
+09_Experiments-and-Practicals/Required-Practicals/Investigating-Flux-Linkage-with-a-Search-Coil.md	diagram	authored	CC0	-	2026-06-27	authored mermaid/table
+09_Experiments-and-Practicals/Required-Practicals/Investigating-Force-on-a-Current-Carrying-Wire.md	photo	_attachments/09_Experiments-and-Practicals/Investigating-Force-on-a-Current-Carrying-Wire--wiki-lorentz-force.svg	CC BY-SA 4.0	https://commons.wikimedia.org/wiki/File:VFPt_wire-in-homogenous-magnetic-field-with-magnets-and-lorentz-force.svg	2026-06-27	wiki image
+09_Experiments-and-Practicals/Required-Practicals/Investigating-Inverse-Square-Law-for-Gamma-Radiation.md	photo	_attachments/09_Experiments-and-Practicals/Investigating-Inverse-Square-Law-for-Gamma-Radiation--wiki-geiger-counter.jpg	CC BY-SA 4.0	https://commons.wikimedia.org/wiki/File:A_complete_Geiger_counter,_with_the_Geiger-Muller_tube_70_019.jpg	2026-06-27	wiki image
+10_Applications/Communication-Systems.md	photo	_attachments/10_Applications/Communication-Systems--wiki-amplitude-modulation.svg	CC0	https://commons.wikimedia.org/wiki/File:Amplitude_Modulated_Wave-hm-64.svg	2026-06-27	wiki image
+10_Applications/Engine-Cycles.md	photo	_attachments/10_Applications/Engine-Cycles--wiki-four-stroke-cycle.jpg	-	-	2026-06-27	wiki image
+10_Applications/Flywheels.md	photo	_attachments/10_Applications/Flywheels--wiki-kers-flywheel.jpg	CC BY-SA 4.0	https://commons.wikimedia.org/wiki/File:KERS_flywheel.jpg	2026-06-27	wiki image
+10_Applications/Gamma-Camera.md	photo	_attachments/10_Applications/Gamma-Camera--wiki-gamma-camera.jpg	CC BY-SA 3.0	https://commons.wikimedia.org/wiki/File:Siemens_gamma_camera_2006.jpg	2026-06-27	wiki image
+10_Applications/Hall-Effect-Sensor.md	photo	_attachments/10_Applications/Hall-Effect-Sensor--wiki-hall-effect.png	CC BY-SA 3.0	https://commons.wikimedia.org/wiki/File:Hall_effect.png	2026-06-27	wiki image
+10_Applications/Operational-Amplifier-Circuits.md	photo	_attachments/10_Applications/Operational-Amplifier-Circuits--wiki-inverting-amplifier.png	CC BY-SA 3.0	https://commons.wikimedia.org/wiki/File:Inverting_voltage_amplifier.png	2026-06-27	wiki image
+10_Applications/Radiation-Therapy.md	photo	_attachments/10_Applications/Radiation-Therapy--wiki-linac.jpg	CC BY-SA 2.5	https://commons.wikimedia.org/wiki/File:Clinac_vnitrek.jpg	2026-06-27	wiki image
+10_Applications/Radionuclide-Imaging.md	photo	_attachments/10_Applications/Radionuclide-Imaging--wiki-bone-scan.jpg	Public domain	https://commons.wikimedia.org/wiki/File:BoneScanWholeBody.jpg	2026-06-27	wiki image
+10_Applications/Reversed-Heat-Engines.md	photo	_attachments/10_Applications/Reversed-Heat-Engines--wiki-vapour-compression-cycle.svg	CC BY-SA 3.0	https://commons.wikimedia.org/wiki/File:Phase_change_heat_pump.svg	2026-06-27	wiki image

@@ -109,6 +109,15 @@ flowchart LR
 *Figure: As `T` rises the spectrum's peak grows taller and shifts to shorter wavelengths.*
 *Source: Authored for this vault (CC0). No external copyright.*
 
+### From Wikimedia
+
+<!-- wiki-images: yes -->
+
+#### Planck black-body curves at different temperatures
+![[_attachments/04_Concepts/Black-Body-Radiation--wiki-planck-curves.svg]]
+*Figure: Spectral intensity vs wavelength for black bodies at 3000–5000 K. Each curve has a single peak that grows and shifts to shorter wavelength as `T` rises (Wien); the classical Rayleigh-Jeans curve diverges at short wavelength (the "ultraviolet catastrophe").*
+*Source: Wikimedia Commons — [Black body.svg](https://commons.wikimedia.org/wiki/File:Black_body.svg) — Public domain — Darth Kule. Retrieved 2026-06-27.*
+
 ## Source Trace
 
 - Source: [[AQA-Physics-7407-7408-Specification]] §3.9.2

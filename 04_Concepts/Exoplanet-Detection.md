@@ -116,6 +116,15 @@ flowchart TD
 *Figure: Radial velocity uses Doppler shifts of starlight; the transit method uses periodic dimming.*
 *Source: Authored for this vault (CC0). No external copyright.*
 
+### From Wikimedia
+
+<!-- wiki-images: yes -->
+
+#### A transit light curve
+![[_attachments/04_Concepts/Exoplanet-Detection--wiki-transit-light-curve.svg]]
+*Figure: A transiting exoplanet light curve — flux is flat at full brightness, drops as the planet's disc crosses the star, stays at a lower level during transit, then rises again at egress. The depth gives the planet's relative radius.*
+*Source: Wikimedia Commons — [Theoretical Transiting Exoplanet Light Curve.svg](https://commons.wikimedia.org/wiki/File:Theoretical_Transiting_Exoplanet_Light_Curve.svg) — CC BY-SA 4.0 — CielProfond. Retrieved 2026-06-27.*
+
 ## Source Trace
 
 - Source: [[AQA-Physics-7407-7408-Specification]] §3.9.3

@@ -167,3 +167,9 @@ This log records major wiki operations.
 - MOCs: created Engineering-Physics-MOC, Turning-Points-MOC, Electronics-MOC; updated Particles, Nuclear-Physics, Fields, Astrophysics, Medical-Physics, Thermal-Physics, Practical-Skills, Physics MOCs.
 - Updated: index.md (all type sections + Topic MOCs + Sources), _meta/tags.md (added `aqa-7407-7408` exam-board tag).
 - Notes: AQA Turning-Points special relativity is examinable → real content pages, not a frontier map. AQA particle physics deeper than OCR (hadron classification, exchange particles, strangeness). No silent overwrites; new pages status: draft.
+
+## [2026-06-27] visuals | AQA pages figure pass
+- Authored visuals fixed for 4 placeholder pages: Specific-Charge, Baryon-Number, Lepton-Number, Strangeness (tables / Mermaid).
+- Ran wiki-image pipeline on the 77 new AQA pages: added 54 license-clean images (Wikimedia Commons / NASA; PD / CC0 / CC BY / CC BY-SA, all attributed) appended after each page's Mermaid under `### From Wikimedia`.
+- 21 abstract pages keep authored Mermaid/tables only; 2 method pages have no Visuals section (template). 0 broken embeds.
+- Manifest rows appended to .state/visual-manifest.tsv. Re-fetched op-amp image at native resolution (no upscale).

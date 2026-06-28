@@ -105,6 +105,15 @@ flowchart TB
 *Figure: Wire fixed in space; the reaction force pushes down on the magnet/yoke assembly sitting on the balance.*
 *Source: Authored for this vault (CC0). No external copyright.*
 
+### From Wikimedia
+
+<!-- wiki-images: yes -->
+
+#### Force on a wire between magnets
+![[_attachments/09_Experiments-and-Practicals/Investigating-Force-on-a-Current-Carrying-Wire--wiki-lorentz-force.svg]]
+*Figure: a current-carrying wire in the field of two magnets experiences the Lorentz force F = BIL, perpendicular to both I and B.*
+*Source: Wikimedia Commons — [VFPt wire-in-homogenous-magnetic-field-with-magnets-and-lorentz-force.svg](https://commons.wikimedia.org/wiki/File:VFPt_wire-in-homogenous-magnetic-field-with-magnets-and-lorentz-force.svg) — CC BY-SA 4.0 — MikeRun. Retrieved 2026-06-27.*
+
 ## Source Trace
 
 - Source: [[AQA-Physics-7407-7408-Specification]] §3.7 (Required practical 10)

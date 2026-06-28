@@ -112,6 +112,15 @@ flowchart LR
 *Figure: optical stage forms the image on the retina; the retina then splits the signal into rod and cone channels.*
 *Source: Authored for this vault (CC0). No external copyright.*
 
+### From Wikimedia
+
+<!-- wiki-images: yes -->
+
+#### Cross-section of the human eye
+![[_attachments/04_Concepts/Physics-of-the-Eye--wiki-eye-diagram.svg]]
+*Figure: the cornea and crystalline lens at the front refract light onto the retina at the back; the fovea and optic nerve are marked.*
+*Source: Wikimedia Commons — [Eye-diagram no circles border.svg](https://commons.wikimedia.org/wiki/File:Eye-diagram_no_circles_border.svg) — CC BY-SA 3.0 — Chabacano. Retrieved 2026-06-27.*
+
 ## Source Trace
 
 - Source: [[AQA-Physics-7407-7408-Specification]] §3.10.1

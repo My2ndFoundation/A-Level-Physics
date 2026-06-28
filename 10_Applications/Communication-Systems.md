@@ -121,6 +121,15 @@ flowchart LR
 *Figure: every link in the chain has a clear role; modulation shifts the message onto a high-frequency carrier so it can travel.*
 *Source: Authored for this vault (CC0). No external copyright.*
 
+### From Wikimedia
+
+<!-- wiki-images: yes -->
+
+#### Amplitude modulation of a carrier
+![[_attachments/10_Applications/Communication-Systems--wiki-amplitude-modulation.svg]]
+*Figure: a low-frequency message signal varies the amplitude of a high-frequency carrier to produce the AM waveform.*
+*Source: Wikimedia Commons — [Amplitude Modulated Wave-hm-64.svg](https://commons.wikimedia.org/wiki/File:Amplitude_Modulated_Wave-hm-64.svg) — CC0 — The.ever.kid. Retrieved 2026-06-27.*
+
 ## Source Trace
 
 - Source: [[AQA-Physics-7407-7408-Specification]] §3.13

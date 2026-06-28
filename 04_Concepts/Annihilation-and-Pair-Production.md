@@ -111,6 +111,15 @@ flowchart LR
 *Figure: Slow electron-positron annihilation produces two back-to-back gamma photons.*
 *Source: Authored for this vault (CC0). No external copyright.*
 
+### From Wikimedia
+
+<!-- wiki-images: yes -->
+
+#### PET scan of a normal brain
+![[_attachments/04_Concepts/Annihilation-and-Pair-Production--wiki-pet-normal-brain.jpg]]
+*Figure: a PET image of a healthy brain; the colours map where a positron-emitting tracer accumulated, located by detecting the back-to-back 511 keV photons from electron-positron annihilation.*
+*Source: Wikimedia Commons — [PET Normal brain.jpg](https://commons.wikimedia.org/wiki/File:PET_Normal_brain.jpg) — Public domain — US National Institute on Aging, Alzheimer's Disease Education and Referral Center. Retrieved 2026-06-27.*
+
 ## Source Trace
 
 - Source: [[AQA-Physics-7407-7408-Specification]] §3.2.1.3

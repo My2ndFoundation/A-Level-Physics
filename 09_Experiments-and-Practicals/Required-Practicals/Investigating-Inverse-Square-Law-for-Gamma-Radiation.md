@@ -112,6 +112,15 @@ flowchart LR
 *Figure: The marked distance `d` and the true source-to-window distance `r` differ by a constant offset `x`, which the `1/√C` vs `d` plot reveals.*
 *Source: Authored for this vault (CC0). No external copyright.*
 
+### From Wikimedia
+
+<!-- wiki-images: yes -->
+
+#### Geiger–Müller counter
+![[_attachments/09_Experiments-and-Practicals/Investigating-Inverse-Square-Law-for-Gamma-Radiation--wiki-geiger-counter.jpg]]
+*Figure: a complete Geiger counter with its GM tube, used to measure the count rate from the gamma source at each distance.*
+*Source: Wikimedia Commons — [A complete Geiger counter, with the Geiger-Muller tube 70 019.jpg](https://commons.wikimedia.org/wiki/File:A_complete_Geiger_counter,_with_the_Geiger-Muller_tube_70_019.jpg) — CC BY-SA 4.0 — CBRN Timo. Retrieved 2026-06-27.*
+
 ## Source Trace
 
 - Source: [[AQA-Physics-7407-7408-Specification]] §3.8 (Required practical 12)

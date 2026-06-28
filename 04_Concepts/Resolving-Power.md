@@ -139,6 +139,15 @@ flowchart LR
 *Figure: As two point sources move closer in angle, their Airy disks merge. The crossover near $\theta \approx \lambda/D$ is the resolving-power limit of the telescope.*
 *Source: Authored for this vault (CC0). No external copyright.*
 
+### From Wikimedia
+
+<!-- wiki-images: yes -->
+
+#### Airy diffraction pattern of a point source
+![[_attachments/04_Concepts/Resolving-Power--wiki-airy-disk.png]]
+*Figure: The Airy pattern — the bright central disk plus faint rings — produced when light from a point source passes through a circular aperture. Its angular size $\sim\lambda/D$ sets the resolving power.*
+*Source: Wikimedia Commons — [Airy disk D65.png](https://commons.wikimedia.org/wiki/File:Airy_disk_D65.png) — CC0 — SiriusB. Retrieved 2026-06-27.*
+
 ## Source Trace
 
 - Source: [[AQA-Physics-7407-7408-Specification]] §3.9.1 (Telescopes — resolving and collecting powers; eye and CCD as detectors)

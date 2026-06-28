@@ -96,6 +96,16 @@ flowchart LR
 *Figure: A closed clockwise loop on a pV diagram; the enclosed area equals net work delivered per cycle.*
 *Source: Authored for this vault (CC0). No external copyright.*
 
+### From Wikimedia
+
+<!-- wiki-images: yes -->
+
+#### A worked pV cycle with its enclosed area
+
+![[_attachments/08_Representations/pV-Diagram--wiki-simple-cycle-loop.svg]]
+*Figure: A simple thermodynamic cycle drawn on the p–v plane; the shaded area enclosed by the loop is the net work done per cycle.*
+*Source: Wikimedia Commons — [P-v diagram of a simple cycle.svg](https://commons.wikimedia.org/wiki/File:P-v_diagram_of_a_simple_cycle.svg) — CC0 — Olivier Cleynen. Retrieved 2026-06-27.*
+
 ## Source Trace
 
 - Source: [[AQA-Physics-7407-7408-Specification]] §3.11.2 (Engineering Physics — Thermodynamics)

@@ -125,6 +125,15 @@ flowchart LR
 *Figure: negative feedback through R_f pins the inverting input at the same voltage as the grounded non-inverting input.*
 *Source: Authored for this vault (CC0). No external copyright.*
 
+### From Wikimedia
+
+<!-- wiki-images: yes -->
+
+#### Standard op-amp circuit symbol
+![[_attachments/06_Models/Ideal-Operational-Amplifier--wiki-op-amp-symbol.svg]]
+*Figure: the operational amplifier symbol, with non-inverting (+) and inverting (-) inputs and a single output.*
+*Source: Wikimedia Commons — [Op-amp symbol.svg](https://commons.wikimedia.org/wiki/File:Op-amp_symbol.svg) — CC BY-SA 3.0 — Omegatron. Retrieved 2026-06-27.*
+
 ## Source Trace
 
 - Source: [[AQA-Physics-7407-7408-Specification]] §3.13

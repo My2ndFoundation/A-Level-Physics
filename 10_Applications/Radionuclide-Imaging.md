@@ -100,6 +100,15 @@ flowchart LR
 
 *Source: Authored for this vault (CC0). No external copyright.*
 
+### From Wikimedia
+
+<!-- wiki-images: yes -->
+
+#### Whole-body bone scan
+![[_attachments/10_Applications/Radionuclide-Imaging--wiki-bone-scan.jpg]]
+*Figure: a Tc-99m whole-body scintigraph — bright regions show where the tracer has concentrated, a functional rather than anatomical image.*
+*Source: Wikimedia Commons — [BoneScanWholeBody.jpg](https://commons.wikimedia.org/wiki/File:BoneScanWholeBody.jpg) — Public domain — Kieran Maher. Retrieved 2026-06-27.*
+
 ## Source Trace
 
 - Source: [[AQA-Physics-7407-7408-Specification]] §3.10.6

@@ -112,6 +112,15 @@ flowchart TB
 *Figure: Both frames agree the muon hits the ground — Earth's frame says time stretches, the muon's frame says distance shrinks.*
 *Source: Authored for this vault (CC0). No external copyright.*
 
+### From Wikimedia
+
+<!-- wiki-images: yes -->
+
+#### Contraction along the direction of motion
+![[_attachments/05_Laws-and-Results/Length-Contraction--wiki-length-contraction.svg]]
+*Figure: The same object measured at rest and while moving — only the dimension along the direction of motion is shortened by the factor 1/γ.*
+*Source: Wikimedia Commons — [Length-contraction.svg](https://commons.wikimedia.org/wiki/File:Length-contraction.svg) — CC BY-SA 4.0 — MikeRun. Retrieved 2026-06-27.*
+
 ## Source Trace
 
 - Source: [[AQA-Physics-7407-7408-Specification]] §3.12.3

@@ -109,6 +109,15 @@ flowchart LR
 *Figure: object at distance $u$ left of a converging lens, real image forming at distance $v$ on the right; $F$ and $F'$ mark the two principal foci.*
 *Source: Authored for this vault (CC0). No external copyright.*
 
+### From Wikimedia
+
+<!-- wiki-images: yes -->
+
+#### Convex lens forming a real image
+![[_attachments/05_Laws-and-Results/Lens-Equation--wiki-convex-lens-image.png]]
+*Figure: rays from the object refract through a convex lens to form an inverted real image, the geometry behind $1/u + 1/v = 1/f$.*
+*Source: Wikimedia Commons — [Convex lens image formation](https://commons.wikimedia.org/wiki/File:2015-05-25_0820Incoming_parallel_rays_are_focused_by_a_convex_lens_into_an_inverted_real_image_one_focal_length_from_the_lens,_on_the_far_side_of_the.png) — CC BY-SA 4.0 — Lookang / Fu-Kwun Hwang. Retrieved 2026-06-27.*
+
 ## Source Trace
 
 - Source: [[AQA-Physics-7407-7408-Specification]] §3.10.1

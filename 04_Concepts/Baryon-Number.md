@@ -106,7 +106,18 @@ Baryon numbers: $1 \ne 0 + 0$. Forbidden.
 
 ## Visuals
 
-- Placeholder: small table comparing $Q$, $B$, lepton number, and strangeness for proton, neutron, antiproton, $\pi^{+}$, $K^{+}$.
+### Quantum numbers of common particles
+
+| Particle | Charge $Q$ ($e$) | Baryon no. $B$ | Lepton no. $L$ | Strangeness $S$ |
+|---|---|---|---|---|
+| Proton $p$ | $+1$ | $+1$ | $0$ | $0$ |
+| Neutron $n$ | $0$ | $+1$ | $0$ | $0$ |
+| Antiproton $\bar p$ | $-1$ | $-1$ | $0$ | $0$ |
+| Pion $\pi^{+}$ | $+1$ | $0$ | $0$ | $0$ |
+| Kaon $K^{+}$ | $+1$ | $0$ | $0$ | $+1$ |
+
+*Figure: baryons carry $B=+1$, antibaryons $B=-1$, and mesons (pions, kaons) $B=0$. Total $B$ must be the same before and after any interaction.*
+*Source: Authored for this vault (CC0). No external copyright.*
 
 ## Source Trace
 

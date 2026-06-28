@@ -122,6 +122,15 @@ flowchart TB
 *Figure: Electrons of wavelength λ = h/√(2meV) replace light; magnetic lenses focus the beam.*
 *Source: Authored for this vault (CC0). No external copyright.*
 
+### From Wikimedia
+
+<!-- wiki-images: yes -->
+
+#### Ernst Ruska's electron microscope
+![[_attachments/04_Concepts/Electron-Microscopes--wiki-ruska-electron-microscope.jpg]]
+*Figure: An early electron microscope built by Ernst Ruska (Deutsches Museum, Munich) — the tall evacuated column houses the electron gun and stacked magnetic lenses described in the schematic above.*
+*Source: Wikimedia Commons — [Ernst Ruska Electron Microscope - Deutsches Museum - Munich-edit.jpg](https://commons.wikimedia.org/wiki/File:Ernst_Ruska_Electron_Microscope_-_Deutsches_Museum_-_Munich-edit.jpg) — CC BY-SA 3.0 — J Brew. Retrieved 2026-06-27.*
+
 ## Source Trace
 
 - Source: [[AQA-Physics-7407-7408-Specification]] §3.12.2

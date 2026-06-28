@@ -139,6 +139,15 @@ flowchart LR
 *Figure: the same op-amp gives different gain expressions depending on where V_in enters.*
 *Source: Authored for this vault (CC0). No external copyright.*
 
+### From Wikimedia
+
+<!-- wiki-images: yes -->
+
+#### Inverting amplifier schematic
+![[_attachments/10_Applications/Operational-Amplifier-Circuits--wiki-inverting-amplifier.png]]
+*Figure: input resistor R_in feeds the virtual-earth inverting input; feedback resistor R_f sets the gain -R_f/R_in.*
+*Source: Wikimedia Commons — [Inverting voltage amplifier.png](https://commons.wikimedia.org/wiki/File:Inverting_voltage_amplifier.png) — CC BY-SA 3.0 — Luca Ghio. Retrieved 2026-06-27.*
+
 ## Source Trace
 
 - Source: [[AQA-Physics-7407-7408-Specification]] §3.13

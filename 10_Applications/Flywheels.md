@@ -92,6 +92,16 @@ flowchart LR
 *Figure: Placing mass at the rim doubles I, and so doubles the stored energy at the same angular velocity.*
 *Source: Authored for this vault (CC0). No external copyright.*
 
+### From Wikimedia
+
+<!-- wiki-images: yes -->
+
+#### A real energy-storage flywheel (Flybrid KERS unit)
+
+![[_attachments/10_Applications/Flywheels--wiki-kers-flywheel.jpg]]
+*Figure: A cutaway flywheel from a motorsport KERS (kinetic energy recovery) unit — a heavy rim spun in a sealed housing to store mechanical energy and return it on demand.*
+*Source: Wikimedia Commons — [KERS flywheel.jpg](https://commons.wikimedia.org/wiki/File:KERS_flywheel.jpg) — CC BY-SA 4.0 — Geni. Retrieved 2026-06-27.*
+
 ## Source Trace
 
 - Source: [[AQA-Physics-7407-7408-Specification]] §3.11.1 (Engineering Physics — Rotational dynamics)

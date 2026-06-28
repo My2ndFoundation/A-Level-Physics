@@ -114,6 +114,15 @@ flowchart LR
 *Figure: In normal adjustment the objective's focal point coincides with the eyepiece's focal point, so parallel light enters and parallel light leaves; lens separation is $f_o + f_e$.*
 *Source: Authored for this vault (CC0). No external copyright.*
 
+### From Wikimedia
+
+<!-- wiki-images: yes -->
+
+#### Yerkes 40-inch refracting telescope
+![[_attachments/06_Models/Astronomical-Telescope--wiki-yerkes-refractor.jpg]]
+*Figure: The Yerkes Observatory refractor — the largest astronomical refracting telescope ever built — showing the long tube needed for a large objective focal length $f_o$.*
+*Source: Wikimedia Commons — [Yerkes 40 inch Refractor Telescope-2006.jpg](https://commons.wikimedia.org/wiki/File:Yerkes_40_inch_Refractor_Telescope-2006.jpg) — Public domain — user Kb9vrg. Retrieved 2026-06-27.*
+
 ## Source Trace
 
 - Source: [[AQA-Physics-7407-7408-Specification]] §3.9.1.1 (Astrophysics — Telescopes)

@@ -108,6 +108,15 @@ flowchart LR
 *Figure: a NAND gate is logically equivalent to an AND followed by a NOT.*
 *Source: Authored for this vault (CC0). No external copyright.*
 
+### From Wikimedia
+
+<!-- wiki-images: yes -->
+
+#### Standard logic gate symbols
+![[_attachments/08_Representations/Logic-Gate-Diagram--wiki-logic-gates.svg]]
+*Figure: the standard MIL/ANSI symbols and truth tables for the common logic gates.*
+*Source: Wikimedia Commons — [LogicGates.svg](https://commons.wikimedia.org/wiki/File:LogicGates.svg) — CC BY 3.0 — Vaughan Pratt. Retrieved 2026-06-27.*
+
 ## Source Trace
 
 - Source: [[AQA-Physics-7407-7408-Specification]] §3.13

@@ -113,6 +113,15 @@ flowchart LR
 
 *Source: Authored for this vault (CC0). No external copyright.*
 
+### From Wikimedia
+
+<!-- wiki-images: yes -->
+
+#### Medical linear accelerator
+![[_attachments/10_Applications/Radiation-Therapy--wiki-linac.jpg]]
+*Figure: a clinical linac — the rotating gantry directs MV X-ray beams from many angles onto a tumour while sparing surrounding tissue.*
+*Source: Wikimedia Commons — [Clinac vnitrek.jpg](https://commons.wikimedia.org/wiki/File:Clinac_vnitrek.jpg) — CC BY-SA 2.5 — Egg. Retrieved 2026-06-27.*
+
 ## Source Trace
 
 - Source: [[AQA-Physics-7407-7408-Specification]] §3.10.5–§3.10.6

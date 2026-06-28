@@ -148,6 +148,16 @@ flowchart LR
 *Figure: Energy from fuel flows through combustion, indicated power, and out to the crankshaft, losing a share at each stage.*
 *Source: Authored for this vault (CC0). No external copyright.*
 
+### From Wikimedia
+
+<!-- wiki-images: yes -->
+
+#### The four strokes of the petrol cycle
+
+![[_attachments/10_Applications/Engine-Cycles--wiki-four-stroke-cycle.jpg]]
+*Figure: The four strokes — induction, compression, power (ignition and expansion), and exhaust — of a four-stroke petrol engine, one power stroke per two crankshaft revolutions.*
+*Source: Wikimedia Commons — [Four-stroke cycle (Manual of Driving and Maintenance).jpg](https://commons.wikimedia.org/wiki/File:Four-stroke_cycle_(Manual_of_Driving_and_Maintenance).jpg) — Public domain — Andy Dingley (scanner). Retrieved 2026-06-27.*
+
 ## Source Trace
 
 - Source: [[AQA-Physics-7407-7408-Specification]] §3.11.2 (Engineering Physics — Thermodynamics and engines)

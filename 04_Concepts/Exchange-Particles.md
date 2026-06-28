@@ -105,6 +105,15 @@ flowchart LR
 *Figure: Beta-minus decay as W- exchange. Charge balances at both vertices.*
 *Source: Authored for this vault (CC0). No external copyright.*
 
+### From Wikimedia
+
+<!-- wiki-images: yes -->
+
+#### Virtual photon exchange
+![[_attachments/04_Concepts/Exchange-Particles--wiki-feynman-diagram.svg]]
+*Figure: two electrons repel by exchanging a virtual photon (wavy line) — the electromagnetic case where the exchanged particle carries the force between the interacting particles.*
+*Source: Wikimedia Commons — [Feynmandiagram.svg](https://commons.wikimedia.org/wiki/File:Feynmandiagram.svg) — CC BY-SA 4.0 — Papa November. Retrieved 2026-06-27.*
+
 ## Source Trace
 
 - Source: [[AQA-Physics-7407-7408-Specification]] §3.2.1.4

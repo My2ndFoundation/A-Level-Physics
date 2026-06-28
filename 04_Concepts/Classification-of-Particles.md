@@ -125,6 +125,15 @@ flowchart TB
 *Figure: Hadron vs lepton split, with the baryon-meson sub-split.*
 *Source: Authored for this vault (CC0). No external copyright.*
 
+### From Wikimedia
+
+<!-- wiki-images: yes -->
+
+#### Bubble chamber tracks
+![[_attachments/04_Concepts/Classification-of-Particles--wiki-bubble-chamber-lambda.jpg]]
+*Figure: a 1959 bubble-chamber photograph showing the production and decay of neutral lambda and anti-lambda hyperons; the curved and V-shaped tracks reveal charged particles produced when hadrons interact.*
+*Source: Wikimedia Commons — [Bubble chamber event. Decay of neutral lambda, anti-lambda hyperons. Bubble Chamber-772A](https://commons.wikimedia.org/wiki/File:Bubble_chamber_event._Decay_of_neutral_lambda,_anti-lambda_hyperons._Photograph_circa_July_1959._Bubble_Chamber-772A_-_DPLA_-_5141859e360581251906c073668c70de.jpg) — Public domain — DOE / Lawrence Berkeley National Laboratory. Retrieved 2026-06-27.*
+
 ## Source Trace
 
 - Source: [[AQA-Physics-7407-7408-Specification]] §3.2.1.5 and §3.2.1.6

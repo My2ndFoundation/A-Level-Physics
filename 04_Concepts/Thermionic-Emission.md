@@ -109,6 +109,15 @@ flowchart LR
 *Figure: An electron released from the hot cathode gains kinetic energy eV crossing the accelerating gap.*
 *Source: Authored for this vault (CC0). No external copyright.*
 
+### From Wikimedia
+
+<!-- wiki-images: yes -->
+
+#### Thermionic vacuum tube
+![[_attachments/04_Concepts/Thermionic-Emission--wiki-vacuum-tube-diode.jpg]]
+*Figure: A thermionic vacuum diode — a current through the internal filament heats the cathode so electrons are emitted into the evacuated glass envelope.*
+*Source: Wikimedia Commons — [EA52 vacuum tube diode.jpg](https://commons.wikimedia.org/wiki/File:EA52_vacuum_tube_diode.jpg) — CC BY-SA 4.0 — Mister rf. Retrieved 2026-06-27.*
+
 ## Source Trace
 
 - Source: [[AQA-Physics-7407-7408-Specification]] §3.12.1

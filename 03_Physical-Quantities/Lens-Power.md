@@ -113,6 +113,15 @@ flowchart LR
 *Figure: equal-magnitude powers of opposite sign produce real and virtual foci at the same distance from the lens.*
 *Source: Authored for this vault (CC0). No external copyright.*
 
+### From Wikimedia
+
+<!-- wiki-images: yes -->
+
+#### Converging and diverging lens shapes
+![[_attachments/03_Physical-Quantities/Lens-Power--wiki-lens-types.svg]]
+*Figure: convex (converging, positive power) and concave (diverging, negative power) lens profiles — the shape that sets the sign and magnitude of $P = 1/f$.*
+*Source: Wikimedia Commons — [Lenses en.svg](https://commons.wikimedia.org/wiki/File:Lenses_en.svg) — CC BY-SA 3.0 — ElfQrin. Retrieved 2026-06-27.*
+
 ## Source Trace
 
 - Source: [[AQA-Physics-7407-7408-Specification]] §3.10.1

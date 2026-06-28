@@ -101,6 +101,15 @@ flowchart LR
 *Figure: current passes longitudinally; the Hall voltage appears transversely across the slab.*
 *Source: Authored for this vault (CC0). No external copyright.*
 
+### From Wikimedia
+
+<!-- wiki-images: yes -->
+
+#### The Hall effect
+![[_attachments/10_Applications/Hall-Effect-Sensor--wiki-hall-effect.png]]
+*Figure: charge carriers deflected by the magnetic field build up on one face, creating the transverse Hall voltage.*
+*Source: Wikimedia Commons — [Hall effect.png](https://commons.wikimedia.org/wiki/File:Hall_effect.png) — CC BY-SA 3.0 — Peo. Retrieved 2026-06-27.*
+
 ## Source Trace
 
 - Source: [[AQA-Physics-7407-7408-Specification]] §3.13

@@ -131,6 +131,16 @@ flowchart LR
 *Figure: A reversed heat engine moves heat Q_C from the cold reservoir to the hot reservoir, using work W supplied by the compressor.*
 *Source: Authored for this vault (CC0). No external copyright.*
 
+### From Wikimedia
+
+<!-- wiki-images: yes -->
+
+#### The vapour-compression refrigeration cycle
+
+![[_attachments/10_Applications/Reversed-Heat-Engines--wiki-vapour-compression-cycle.svg]]
+*Figure: A practical reversed heat engine — refrigerant is driven round a loop of compressor, condenser, expansion valve and evaporator, carrying heat from the cold space to the hot side.*
+*Source: Wikimedia Commons — [Phase change heat pump.svg](https://commons.wikimedia.org/wiki/File:Phase_change_heat_pump.svg) — CC BY-SA 3.0 — Jleedev (original), gringer (vector). Retrieved 2026-06-27.*
+
 ## Source Trace
 
 - Source: [[AQA-Physics-7407-7408-Specification]] §3.11.2 (Engineering Physics — Reversed heat engines)

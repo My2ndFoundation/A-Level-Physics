@@ -108,6 +108,15 @@ flowchart LR
 *Figure: The Lorentz factor stays close to 1 at low speeds and diverges as $v$ approaches $c$ — that's why time dilation is invisible in everyday life but enormous near light speed.*
 *Source: Authored for this vault (CC0). No external copyright.*
 
+### From Wikimedia
+
+<!-- wiki-images: yes -->
+
+#### Light-clock geometry
+![[_attachments/05_Laws-and-Results/Time-Dilation--wiki-light-clock.svg]]
+*Figure: In the clock's rest frame the photon goes straight up and down; to a moving observer it traces a longer zig-zag at the same speed c, so more time must elapse — the geometry behind t = t₀/√(1 − v²/c²).*
+*Source: Wikimedia Commons — [Time-dilation-002.svg](https://commons.wikimedia.org/wiki/File:Time-dilation-002.svg) — Public domain — Mdd4696. Retrieved 2026-06-27.*
+
 ## Source Trace
 
 - Source: [[AQA-Physics-7407-7408-Specification]] §3.12.3

@@ -125,6 +125,15 @@ flowchart LR
 *Figure: every ×10 in physical intensity adds 10 dB to the level; perception keeps pace.*
 *Source: Authored for this vault (CC0). No external copyright.*
 
+### From Wikimedia
+
+<!-- wiki-images: yes -->
+
+#### Equal-loudness contours
+![[_attachments/03_Physical-Quantities/Sound-Intensity-Level--wiki-equal-loudness-contours.svg]]
+*Figure: each curve traces the sound intensity level (dB) needed at each frequency for tones to sound equally loud — the ear is far less sensitive at low frequencies.*
+*Source: Wikimedia Commons — [Equal-loudness contours comparison with Robinson-Dadson curves.svg](https://commons.wikimedia.org/wiki/File:Equal-loudness_contours_comparison_with_Robinson-Dadson_curves.svg) — Public domain — Lindosland. Retrieved 2026-06-27.*
+
 ## Source Trace
 
 - Source: [[AQA-Physics-7407-7408-Specification]] §3.10.2

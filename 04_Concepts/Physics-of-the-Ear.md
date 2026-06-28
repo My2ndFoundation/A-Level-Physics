@@ -109,6 +109,15 @@ flowchart LR
 *Figure: each stage solves a distinct physical problem — collection, impedance match, and frequency-resolved transduction.*
 *Source: Authored for this vault (CC0). No external copyright.*
 
+### From Wikimedia
+
+<!-- wiki-images: yes -->
+
+#### Anatomy of the human ear
+![[_attachments/04_Concepts/Physics-of-the-Ear--wiki-ear-anatomy.svg]]
+*Figure: outer ear (pinna and canal), middle ear (eardrum and ossicles), and the fluid-filled cochlea of the inner ear.*
+*Source: Wikimedia Commons — [Anatomy of the Human Ear in farsi numbers.svg](https://commons.wikimedia.org/wiki/File:Anatomy_of_the_Human_Ear_in_farsi_numbers.svg) — CC BY-SA 3.0 — Jordi March i Nogué (edited by Alborzagros). Retrieved 2026-06-27.*
+
 ## Source Trace
 
 - Source: [[AQA-Physics-7407-7408-Specification]] §3.10.2

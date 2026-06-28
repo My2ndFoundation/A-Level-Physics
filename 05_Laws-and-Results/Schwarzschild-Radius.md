@@ -99,6 +99,15 @@ flowchart LR
 *Figure: `R_s` scales linearly with mass.*
 *Source: Authored for this vault (CC0). No external copyright.*
 
+### From Wikimedia
+
+<!-- wiki-images: yes -->
+
+#### The M87 black hole — imaging the event horizon
+![[_attachments/05_Laws-and-Results/Schwarzschild-Radius--wiki-m87-black-hole.jpg]]
+*Figure: The first direct image of a black hole's shadow (M87*, by the Event Horizon Telescope). The dark central region surrounds the event horizon, whose scale is set by the Schwarzschild radius `R_s = 2GM/c²`.*
+*Source: Wikimedia Commons — [Black hole - Messier 87.jpg](https://commons.wikimedia.org/wiki/File:Black_hole_-_Messier_87.jpg) — CC BY 4.0 — Event Horizon Telescope. Retrieved 2026-06-27.*
+
 ## Source Trace
 
 - Source: [[AQA-Physics-7407-7408-Specification]] §3.9.3

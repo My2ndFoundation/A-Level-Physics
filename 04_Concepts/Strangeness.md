@@ -119,7 +119,18 @@ $S$: $-1 \rightarrow 0$, so $\Delta S = +1$. ✓ Allowed by the weak interaction
 
 ## Visuals
 
-- Placeholder: bubble-chamber-style sketch showing $K^{0}$ and $\Lambda^{0}$ tracks emerging from a $\pi^{-}p$ vertex.
+### Associated production (strangeness conserved in the strong interaction)
+
+```mermaid
+flowchart LR
+    A["π⁻ (S=0)"] --> V(( ))
+    B["p (S=0)"] --> V
+    V --> C["K⁰ (S=+1)"]
+    V --> D["Λ⁰ (S=−1)"]
+```
+
+*Figure: in $\pi^{-} + p \rightarrow K^{0} + \Lambda^{0}$ the strange particles are created **in pairs** with opposite strangeness, so total $S$ stays $0$ — the strong interaction conserves strangeness. Each then decays slowly via the weak interaction, where $S$ can change by $\pm1$.*
+*Source: Authored for this vault (CC0). No external copyright.*
 
 ## Source Trace
 

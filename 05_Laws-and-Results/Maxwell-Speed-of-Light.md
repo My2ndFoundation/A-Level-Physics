@@ -103,6 +103,15 @@ flowchart LR
 *Figure: A changing E-field makes a B-field, whose change regenerates the E-field. The pattern moves through vacuum at c.*
 *Source: Authored for this vault (CC0). No external copyright.*
 
+### From Wikimedia
+
+<!-- wiki-images: yes -->
+
+#### Plane electromagnetic wave
+![[_attachments/05_Laws-and-Results/Maxwell-Speed-of-Light--wiki-electromagnetic-wave.svg]]
+*Figure: The electric field E and magnetic field B oscillate perpendicular to each other and to the direction of travel — the transverse wave that propagates at c = 1/√(μ₀ε₀).*
+*Source: Wikimedia Commons — [Electromagnetic wave EN.svg](https://commons.wikimedia.org/wiki/File:Electromagnetic_wave_EN.svg) — CC0 — Piotr Fita. Retrieved 2026-06-27.*
+
 ## Source Trace
 
 - Source: [[AQA-Physics-7407-7408-Specification]] §3.12.1

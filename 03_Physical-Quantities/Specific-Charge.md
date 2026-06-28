@@ -91,7 +91,26 @@ If a particle moves perpendicular to a uniform magnetic field $B$, it follows a 
 
 ## Visuals
 
-- Placeholder: small bar comparison of $Q/m$ for electron, proton, alpha particle, $^{12}\text{C}^{6+}$ ion.
+### Specific charge of common particles
+
+| Particle | Charge $Q$ | Mass $m$ / kg | Specific charge $Q/m$ / C kg⁻¹ |
+|---|---|---|---|
+| Electron | $-e$ | $9.11\times10^{-31}$ | $1.76\times10^{11}$ |
+| Proton | $+e$ | $1.67\times10^{-27}$ | $9.58\times10^{7}$ |
+| α particle ($^{4}\text{He}^{2+}$) | $+2e$ | $6.64\times10^{-27}$ | $4.82\times10^{7}$ |
+| $^{12}\text{C}^{6+}$ ion | $+6e$ | $1.99\times10^{-26}$ | $4.82\times10^{7}$ |
+
+*Figure: the electron has by far the largest specific charge (~1840× the proton) because its mass is so small; sharing charge over heavier nuclei lowers $Q/m$.*
+*Source: Authored for this vault (CC0). No external copyright.*
+
+### From Wikimedia
+
+<!-- wiki-images: yes -->
+
+#### Thomson's cathode ray tube
+![[_attachments/03_Physical-Quantities/Specific-Charge--wiki-thomson-cathode-ray-tube.jpg]]
+*Figure: J. J. Thomson's 1897 cathode ray tube with magnet coils — the apparatus used to measure the electron's charge-to-mass ratio by balancing electric and magnetic deflection.*
+*Source: Wikimedia Commons — [J J Thomsons cathode ray tube with magnet coils, 1897](https://commons.wikimedia.org/wiki/File:J_J_Thomsons_cathode_ray_tube_with_magnet_coils,_1897._(9663807404).jpg) — CC BY-SA 2.0 — Science Museum London / Science and Society Picture Library. Retrieved 2026-06-27.*
 
 ## Source Trace
 

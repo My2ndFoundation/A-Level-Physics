@@ -113,6 +113,15 @@ flowchart LR
 *Figure: gate voltage controls whether the drain-source channel conducts.*
 *Source: Authored for this vault (CC0). No external copyright.*
 
+### From Wikimedia
+
+<!-- wiki-images: yes -->
+
+#### A real power MOSFET
+![[_attachments/04_Concepts/Semiconductor-Devices--wiki-power-mosfet.jpg]]
+*Figure: a discrete power MOSFET in a TO-220 package, with its three terminals (gate, drain, source).*
+*Source: Wikimedia Commons — [Power MOSFET.jpg](https://commons.wikimedia.org/wiki/File:Power_MOSFET.jpg) — CC BY-SA 4.0 — Suyash.dwivedi. Retrieved 2026-06-27.*
+
 ## Source Trace
 
 - Source: [[AQA-Physics-7407-7408-Specification]] §3.13

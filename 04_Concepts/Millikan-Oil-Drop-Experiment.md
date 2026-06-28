@@ -118,6 +118,15 @@ flowchart TB
 *Figure: When QV/d = mg the drop hangs motionless between the plates.*
 *Source: Authored for this vault (CC0). No external copyright.*
 
+### From Wikimedia
+
+<!-- wiki-images: yes -->
+
+#### Scheme of Millikan's apparatus
+![[_attachments/04_Concepts/Millikan-Oil-Drop-Experiment--wiki-apparatus-scheme.jpg]]
+*Figure: Millikan's own diagram of the apparatus — atomiser, the two parallel plates with their pd, the viewing microscope, and the illumination used to watch individual oil drops.*
+*Source: Wikimedia Commons — [Scheme of Millikan's oil-drop apparatus.jpg](https://commons.wikimedia.org/wiki/File:Scheme_of_Millikan%E2%80%99s_oil-drop_apparatus.jpg) — Public domain — Robert Andrews Millikan. Retrieved 2026-06-27.*
+
 ## Source Trace
 
 - Source: [[AQA-Physics-7407-7408-Specification]] §3.12.1

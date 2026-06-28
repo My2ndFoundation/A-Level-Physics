@@ -109,6 +109,15 @@ flowchart LR
 *Figure: Light is split into two perpendicular arms and recombined; any speed difference between the arms would shift the fringe pattern when the apparatus is rotated.*
 *Source: Authored for this vault (CC0). No external copyright.*
 
+### From Wikimedia
+
+<!-- wiki-images: yes -->
+
+#### Labelled Michelson–Morley apparatus
+![[_attachments/04_Concepts/Michelson-Morley-Experiment--wiki-interferometer-diagram.svg]]
+*Figure: The interferometer with light source, beam splitter, the two perpendicular mirrors, and the detector where the recombined beams form fringes.*
+*Source: Wikimedia Commons — [Michelson-Morley experiment (en).svg](https://commons.wikimedia.org/wiki/File:Michelson-Morley_experiment_(en).svg) — Public domain — Benjamin D. Esham (bdesham). Retrieved 2026-06-27.*
+
 ## Source Trace
 
 - Source: [[AQA-Physics-7407-7408-Specification]] §3.12.3

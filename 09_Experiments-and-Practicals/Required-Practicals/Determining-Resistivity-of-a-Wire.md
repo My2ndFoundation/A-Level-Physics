@@ -114,6 +114,15 @@ flowchart LR
 *Figure: Ammeter in series with the wire; voltmeter across the length `L` between the clips.*
 *Source: Authored for this vault (CC0). No external copyright.*
 
+### From Wikimedia
+
+<!-- wiki-images: yes -->
+
+#### Micrometer screw gauge
+![[_attachments/09_Experiments-and-Practicals/Determining-Resistivity-of-a-Wire--wiki-micrometer.jpg]]
+*Figure: a micrometer screw gauge, used to measure the wire diameter `d` accurately before computing the cross-sectional area.*
+*Source: Wikimedia Commons — [Micrometer (screw gauge).jpg](https://commons.wikimedia.org/wiki/File:Micrometer_(screw_gauge).jpg) — CC BY-SA 4.0 — Riaz. Retrieved 2026-06-27.*
+
 ## Source Trace
 
 - Source: [[AQA-Physics-7407-7408-Specification]] §3.5 (Required practical 5)

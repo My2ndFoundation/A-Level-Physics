@@ -108,6 +108,15 @@ flowchart TD
 *Figure: A supermassive black hole and its accretion disc power the quasar's huge luminosity.*
 *Source: Authored for this vault (CC0). No external copyright.*
 
+### From Wikimedia
+
+<!-- wiki-images: yes -->
+
+#### Quasar 3C 273
+![[_attachments/04_Concepts/Quasars--wiki-3c273.jpg]]
+*Figure: 3C 273, the first quasar identified — a star-like point source far outshining its host galaxy, powered by a supermassive black hole billions of light years away.*
+*Source: Wikimedia Commons — [Quasar 3C 273 (opo0303c).jpg](https://commons.wikimedia.org/wiki/File:Quasar_3C_273_(opo0303c).jpg) — Public domain — NASA/ESA and J. Bahcall (IAS). Retrieved 2026-06-27.*
+
 ## Source Trace
 
 - Source: [[AQA-Physics-7407-7408-Specification]] §3.9.3

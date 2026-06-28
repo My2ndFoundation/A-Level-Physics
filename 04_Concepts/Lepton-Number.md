@@ -115,7 +115,21 @@ $L_{e}$: $0 = 1 + (-1) + 0$. ✓ $L_{\mu}$: $1 = 0 + 0 + 1$. ✓
 
 ## Visuals
 
-- Placeholder: side-by-side table showing $L_{e}$ and $L_{\mu}$ check for the three reactions above.
+### Lepton numbers and a conservation check
+
+| Lepton | $L_{e}$ | $L_{\mu}$ |
+|---|---|---|
+| $e^{-}$, $\nu_{e}$ | $+1$ | $0$ |
+| $e^{+}$, $\bar\nu_{e}$ | $-1$ | $0$ |
+| $\mu^{-}$, $\nu_{\mu}$ | $0$ | $+1$ |
+| $\mu^{+}$, $\bar\nu_{\mu}$ | $0$ | $-1$ |
+
+Muon decay $\;\mu^{-} \rightarrow e^{-} + \bar\nu_{e} + \nu_{\mu}\;$ checks out:
+- $L_{e}$: $0 \rightarrow (+1) + (-1) + 0 = 0$ ✓
+- $L_{\mu}$: $+1 \rightarrow 0 + 0 + (+1) = +1$ ✓
+
+*Figure: electron and muon lepton numbers are conserved **separately**; both columns must balance for a reaction to be allowed.*
+*Source: Authored for this vault (CC0). No external copyright.*
 
 ## Source Trace
 

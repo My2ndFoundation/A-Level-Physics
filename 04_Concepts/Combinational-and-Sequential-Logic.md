@@ -119,6 +119,15 @@ flowchart LR
 *Figure: combinational logic reacts instantly to inputs; sequential logic latches an input on each clock edge.*
 *Source: Authored for this vault (CC0). No external copyright.*
 
+### From Wikimedia
+
+<!-- wiki-images: yes -->
+
+#### D-type flip-flop from logic gates
+![[_attachments/04_Concepts/Combinational-and-Sequential-Logic--wiki-d-flip-flop.svg]]
+*Figure: a clocked D flip-flop built from cross-coupled gates — the basic memory element of sequential logic.*
+*Source: Wikimedia Commons — [D-Type Flip-flop Diagram.svg](https://commons.wikimedia.org/wiki/File:D-Type_Flip-flop_Diagram.svg) — Public domain — jjbeard. Retrieved 2026-06-27.*
+
 ## Source Trace
 
 - Source: [[AQA-Physics-7407-7408-Specification]] §3.13

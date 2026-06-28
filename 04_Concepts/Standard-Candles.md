@@ -101,6 +101,15 @@ flowchart LR
 *Figure: From light curve to distance using the magnitude-distance equation.*
 *Source: Authored for this vault (CC0). No external copyright.*
 
+### From Wikimedia
+
+<!-- wiki-images: yes -->
+
+#### A Type Ia supernova in its host galaxy
+![[_attachments/04_Concepts/Standard-Candles--wiki-type-ia-supernova.jpg]]
+*Figure: Supernova 2012Z, a Type Ia supernova, in the spiral galaxy NGC 1309. Because Type Ia events reach a near-uniform peak absolute magnitude, their apparent brightness gives the galaxy's distance.*
+*Source: Wikimedia Commons — [Supernova 2012Z in spiral galaxy NGC 1309, annotated.jpg](https://commons.wikimedia.org/wiki/File:Supernova_2012Z_in_spiral_galaxy_NGC_1309,_annotated.jpg) — CC BY 4.0 — NASA, ESA, C. McCully and S. Jha (Rutgers). Retrieved 2026-06-27.*
+
 ## Source Trace
 
 - Source: [[AQA-Physics-7407-7408-Specification]] §3.9.3

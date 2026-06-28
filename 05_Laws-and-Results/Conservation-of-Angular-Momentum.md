@@ -126,6 +126,16 @@ flowchart LR
 *Figure: Internal rearrangement changes I and ω together, leaving L = Iω unchanged when no external torque acts.*
 *Source: Authored for this vault (CC0). No external copyright.*
 
+### From Wikimedia
+
+<!-- wiki-images: yes -->
+
+#### A figure skater spinning
+
+![[_attachments/05_Laws-and-Results/Conservation-of-Angular-Momentum--wiki-figure-skater-spin.jpg]]
+*Figure: A skater in a fast spin — drawing the arms and leg towards the axis lowers the moment of inertia, so the angular velocity rises to keep L = Iω constant.*
+*Source: Wikimedia Commons — [Cup of Russia 2010 - Yuko Kawaguti (2).jpg](https://commons.wikimedia.org/wiki/File:Cup_of_Russia_2010_-_Yuko_Kawaguti_(2).jpg) — CC0 — deerstop. Retrieved 2026-06-27.*
+
 ## Source Trace
 
 - Source: [[AQA-Physics-7407-7408-Specification]] §3.11.1 (Engineering Physics — Rotational dynamics)

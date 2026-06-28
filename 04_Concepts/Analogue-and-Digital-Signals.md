@@ -111,6 +111,15 @@ flowchart LR
 *Figure: analogue input becomes a quantised bit stream and is reconstructed at the far end.*
 *Source: Authored for this vault (CC0). No external copyright.*
 
+### From Wikimedia
+
+<!-- wiki-images: yes -->
+
+#### Analogue waveform vs digital levels
+![[_attachments/04_Concepts/Analogue-and-Digital-Signals--wiki-analog-digital-signal.svg]]
+*Figure: a continuously varying analogue signal contrasted with a two-level digital signal.*
+*Source: Wikimedia Commons — [Analog digital signal.svg](https://commons.wikimedia.org/wiki/File:Analog_digital_signal.svg) — CC BY-SA 4.0 — Wikidata Q61601315. Retrieved 2026-06-27.*
+
 ## Source Trace
 
 - Source: [[AQA-Physics-7407-7408-Specification]] §3.13

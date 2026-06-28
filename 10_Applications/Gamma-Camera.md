@@ -97,6 +97,15 @@ flowchart TB
 
 *Source: Authored for this vault (CC0). No external copyright.*
 
+### From Wikimedia
+
+<!-- wiki-images: yes -->
+
+#### Clinical gamma camera
+![[_attachments/10_Applications/Gamma-Camera--wiki-gamma-camera.jpg]]
+*Figure: a dual-head gamma camera positioned over a patient couch — the large flat detector heads house the collimator, NaI(Tl) crystal, and PMT array.*
+*Source: Wikimedia Commons — [Siemens gamma camera 2006.jpg](https://commons.wikimedia.org/wiki/File:Siemens_gamma_camera_2006.jpg) — CC BY-SA 3.0 — Ideastoday. Retrieved 2026-06-27.*
+
 ## Source Trace
 
 - Source: [[AQA-Physics-7407-7408-Specification]] §3.10.6

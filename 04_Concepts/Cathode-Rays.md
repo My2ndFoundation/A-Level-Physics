@@ -102,6 +102,15 @@ flowchart LR
 *Figure: Electrons leave the cathode, accelerate to the anode, and strike a screen. Plates between anode and screen deflect the beam.*
 *Source: Authored for this vault (CC0). No external copyright.*
 
+### From Wikimedia
+
+<!-- wiki-images: yes -->
+
+#### Crookes tube with Maltese-cross shadow
+![[_attachments/04_Concepts/Cathode-Rays--wiki-crookes-tube-maltese-cross.jpg]]
+*Figure: A working Crookes tube — the metal cross casts a sharp shadow on the glowing glass, showing cathode rays travel in straight lines from the cathode.*
+*Source: Wikimedia Commons — [Crookes tube-in use-lateral view-standing cross prPNr°11.jpg](https://commons.wikimedia.org/wiki/File:Crookes_tube-in_use-lateral_view-standing_cross_prPNr%C2%B011.jpg) — CC BY-SA 3.0 at — D-Kuru. Retrieved 2026-06-27.*
+
 ## Source Trace
 
 - Source: [[AQA-Physics-7407-7408-Specification]] §3.12.1

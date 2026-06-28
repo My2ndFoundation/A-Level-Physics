@@ -127,6 +127,15 @@ flowchart TD
 *Figure: Two innocent-looking postulates force four major consequences about space, time, mass and energy.*
 *Source: Authored for this vault (CC0). No external copyright.*
 
+### From Wikimedia
+
+<!-- wiki-images: yes -->
+
+#### Albert Einstein, 1921
+![[_attachments/04_Concepts/Special-Relativity--wiki-einstein-1921.jpg]]
+*Figure: Albert Einstein in 1921 — he published the special theory of relativity in 1905, building it from the two postulates above.*
+*Source: Wikimedia Commons — [Einstein 1921 by F Schmutzer - restoration.jpg](https://commons.wikimedia.org/wiki/File:Einstein_1921_by_F_Schmutzer_-_restoration.jpg) — Public domain — Ferdinand Schmutzer / Adam Cuerden. Retrieved 2026-06-27.*
+
 ## Source Trace
 
 - Source: [[AQA-Physics-7407-7408-Specification]] §3.12.3
