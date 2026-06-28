@@ -5,6 +5,7 @@ tags:
   - moc
   - particles
   - particles-and-medical-physics
+  - aqa-7407-7408
 status: draft
 ---
 
@@ -28,6 +29,29 @@ status: draft
 - [[Nuclear-Fission]]
 - [[Nuclear-Fusion]]
 
+### AQA additions
+
+- [[Strong-Nuclear-Force]]
+- [[Fundamental-Interactions]]
+- [[Exchange-Particles]]
+- [[Annihilation-and-Pair-Production]]
+- [[Classification-of-Particles]]
+
+## Physical Quantities
+
+- [[Specific-Charge]]
+- [[Baryon-Number]]
+- [[Lepton-Number]]
+- [[Strangeness]]
+
+## Methods
+
+- [[Applying-Conservation-Laws-to-Particle-Interactions]]
+
+## Representations
+
+- [[Feynman-Diagram]]
+
 ## Applications
 
 - [[Particle-Accelerators]]
@@ -40,3 +64,4 @@ status: draft
 
 - [[CERN-Science]]
 - [[OCR-Physics-A-H556-Specification]]
+- [[AQA-Physics-7407-7408-Specification]]

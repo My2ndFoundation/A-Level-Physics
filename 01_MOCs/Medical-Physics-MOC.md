@@ -5,6 +5,7 @@ tags:
   - moc
   - medical-physics
   - medical-imaging
+  - aqa-7407-7408
 status: draft
 ---
 
@@ -19,11 +20,22 @@ status: draft
 ## Physical Quantities
 
 - [[Acoustic-Impedance]]
+- [[Lens-Power]]
+- [[Sound-Intensity-Level]]
+- [[Effective-Half-Life]]
 
 ## Concepts
 
 - [[Ionisation]]
 - [[Radioactive-Decay]]
+- [[Physics-of-the-Eye]]
+- [[Defects-of-Vision]]
+- [[Physics-of-the-Ear]]
+- [[X-ray-Attenuation]]
+
+## Laws and Results
+
+- [[Lens-Equation]]
 
 ## Applications
 
@@ -32,7 +44,11 @@ status: draft
 - [[CT-Scanning]]
 - [[PET-Scanning]]
 - [[Ultrasound-Imaging]]
+- [[Radionuclide-Imaging]]
+- [[Gamma-Camera]]
+- [[Radiation-Therapy]]
 
 ## Sources
 
 - [[OCR-Physics-A-H556-Specification]]
+- [[AQA-Physics-7407-7408-Specification]]

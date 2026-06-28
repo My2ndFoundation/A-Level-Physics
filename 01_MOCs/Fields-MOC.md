@@ -5,6 +5,7 @@ tags:
   - moc
   - fields
   - year-2
+  - aqa-7407-7408
 status: draft
 ---
 
@@ -42,6 +43,7 @@ status: draft
 - [[Comparing-Gravitational-and-Electric-Fields]]
 - [[Magnetic-Field]]
 - [[Electromagnetic-Induction]]
+- [[Alternating-Current]]
 
 ## Laws and Results
 
@@ -67,6 +69,8 @@ status: draft
 ## Experiments and Practicals
 
 - [[Investigating-Electromagnetic-Induction]]
+- [[Investigating-Force-on-a-Current-Carrying-Wire]]
+- [[Investigating-Flux-Linkage-with-a-Search-Coil]]
 
 ## Applications
 
@@ -87,3 +91,4 @@ status: draft
 ## Sources
 
 - [[OCR-Physics-A-H556-Specification]]
+- [[AQA-Physics-7407-7408-Specification]]

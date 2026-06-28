@@ -6,6 +6,7 @@ tags:
   - optics
   - electrons-waves-and-photons
   - ocr-h556
+  - aqa-7407-7408
 level: a-level
 difficulty: 1
 status: usable

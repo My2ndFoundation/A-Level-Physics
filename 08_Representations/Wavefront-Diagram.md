@@ -5,6 +5,7 @@ tags:
   - waves
   - diagram
   - ocr-h556
+  - aqa-7407-7408
 level: a-level
 difficulty: 2
 status: usable

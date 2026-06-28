@@ -5,6 +5,7 @@ tags:
   - simple-harmonic-motion
   - newtonian-world
   - a-level-core
+  - aqa-7407-7408
   - problem-solving
 level: a-level
 difficulty: 2

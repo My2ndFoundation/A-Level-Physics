@@ -6,6 +6,7 @@ tags:
   - quantum-physics
   - electrons-waves-and-photons
   - a-level-core
+  - aqa-7407-7408
   - required-practical
 level: a-level
 difficulty: 2

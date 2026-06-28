@@ -68,9 +68,15 @@ astrophysics
 ```text
 ocr-h556
 ocr-physics-a
+aqa-7407-7408
 a-level-physics
 gcse-physics
 ```
+
+`aqa-7407-7408` is the canonical AQA AS/A-level Physics exam-board tag (mirrors
+`ocr-h556`). Pages whose topic appears in both specifications carry **both**
+`ocr-h556` and `aqa-7407-7408`; AQA-only pages carry `aqa-7407-7408` (and
+`a-level-physics`) without `ocr-h556`. See [[AQA-Physics-7407-7408-Specification]].
 
 ## Topic tags
 

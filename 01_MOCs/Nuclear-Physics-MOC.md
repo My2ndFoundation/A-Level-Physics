@@ -5,6 +5,7 @@ tags:
   - moc
   - nuclear-physics
   - particles-and-medical-physics
+  - aqa-7407-7408
 status: draft
 ---
 
@@ -24,6 +25,7 @@ status: draft
 
 - [[Decay-Constant]]
 - [[Activity]]
+- [[Nuclear-Radius]]
 
 ## Concepts
 
@@ -60,6 +62,7 @@ status: draft
 ## Experiments and Practicals
 
 - [[Modelling-Radioactive-Decay]]
+- [[Investigating-Inverse-Square-Law-for-Gamma-Radiation]]
 
 ## Applications
 
@@ -73,3 +76,4 @@ status: draft
 
 - [[CERN-Science]]
 - [[OCR-Physics-A-H556-Specification]]
+- [[AQA-Physics-7407-7408-Specification]]

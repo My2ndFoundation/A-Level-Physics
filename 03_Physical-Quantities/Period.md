@@ -6,6 +6,7 @@ tags:
   - simple-harmonic-motion
   - circular-motion
   - ocr-h556
+  - aqa-7407-7408
   - a-level-physics
 level: a-level
 difficulty: 1

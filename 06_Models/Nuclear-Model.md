@@ -6,6 +6,7 @@ tags:
   - nuclear-physics
   - particles
   - a-level-core
+  - aqa-7407-7408
   - ocr-h556
 level: a-level
 difficulty: 2

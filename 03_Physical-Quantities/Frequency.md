@@ -5,6 +5,7 @@ tags:
   - waves
   - simple-harmonic-motion
   - ocr-h556
+  - aqa-7407-7408
   - a-level-physics
 level: a-level
 difficulty: 1

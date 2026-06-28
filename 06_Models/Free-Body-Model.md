@@ -6,6 +6,7 @@ tags:
   - forces
   - forces-and-motion
   - ocr-h556
+  - aqa-7407-7408
 level: a-level
 difficulty: 1
 status: usable

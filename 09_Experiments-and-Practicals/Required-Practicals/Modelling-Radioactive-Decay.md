@@ -6,6 +6,7 @@ tags:
   - nuclear-physics
   - particles-and-medical-physics
   - a-level-core
+  - aqa-7407-7408
 level: a-level
 difficulty: 2
 status: usable

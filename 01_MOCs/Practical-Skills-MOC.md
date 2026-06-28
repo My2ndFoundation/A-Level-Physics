@@ -5,6 +5,7 @@ tags:
   - moc
   - practical-skills
   - practical
+  - aqa-7407-7408
 status: draft
 aliases:
   - Practical Skills Map
@@ -102,6 +103,14 @@ _To be populated during ingestion._
 - [[Using-Gradient]]
 - [[Using-Intercept]]
 
+### AQA additions
+
+- [[Determining-Resistivity-of-a-Wire]]
+- [[Investigating-Boyle-and-Charles-Laws]]
+- [[Investigating-Force-on-a-Current-Carrying-Wire]]
+- [[Investigating-Flux-Linkage-with-a-Search-Coil]]
+- [[Investigating-Inverse-Square-Law-for-Gamma-Radiation]]
+
 ## Applications
 
 _To be populated during ingestion._
@@ -121,3 +130,4 @@ _To be populated during ingestion._
 ## Sources
 
 - [[OCR-Physics-Practical-Skills-Handbook]]
+- [[AQA-Physics-7407-7408-Specification]]

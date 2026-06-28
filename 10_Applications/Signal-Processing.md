@@ -6,6 +6,7 @@ tags:
   - computer-science-link
   - waves
   - a-level-core
+  - aqa-7407-7408
 level: a-level
 difficulty: 2
 status: draft

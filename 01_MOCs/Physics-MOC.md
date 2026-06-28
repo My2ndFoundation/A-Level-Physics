@@ -6,6 +6,7 @@ tags:
   - physics
   - a-level-physics
   - ocr-h556
+  - aqa-7407-7408
 status: draft
 ---
 
@@ -44,6 +45,12 @@ status: draft
 - [[Particles-MOC]]
 - [[Astrophysics-MOC]]
 - [[Medical-Physics-MOC]]
+
+## AQA Option Modules
+
+- [[Engineering-Physics-MOC]]
+- [[Turning-Points-MOC]]
+- [[Electronics-MOC]]
 
 ## Skills and Practice
 
@@ -127,4 +134,5 @@ status: draft
 - [[OCR-Physics-Mathematical-Skills-Handbook]]
 - [[OCR-Physics-Practical-Skills-Handbook]]
 - [[OCR-GCSE-Gateway-Physics-A-J249-Specification]]
+- [[AQA-Physics-7407-7408-Specification]]
 

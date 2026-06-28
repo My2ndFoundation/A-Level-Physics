@@ -5,6 +5,7 @@ tags:
   - quantum
   - electrons-waves-and-photons
   - a-level-core
+  - aqa-7407-7408
   - modern-physics
 level: a-level
 difficulty: 3

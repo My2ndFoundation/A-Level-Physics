@@ -5,6 +5,7 @@ tags:
   - quantum-physics
   - photoelectric-effect
   - ocr-h556
+  - aqa-7407-7408
   - a-level-physics
   - electrons-waves-and-photons
 level: a-level
