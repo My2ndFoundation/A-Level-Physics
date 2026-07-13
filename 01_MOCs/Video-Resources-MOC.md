@@ -116,18 +116,18 @@ Each entry links to its own page — with an embedded player, a short guide, and
 
 ## Astrophysics
 
-- [[Distances-and-Standard-Candles-Crash-Course|Distances: Crash Course Astronomy #25]] — CrashCourse · ~13 min  
-  Builds the cosmic distance ladder from parallax up to brightness-based standard candles — the chain of reasoning that lets us put numbers on astronomical distances and underpins Hubble's law.
-- [[How-We-Detect-Exoplanets-Crash-Course|Exoplanets: Crash Course Astronomy #27]] — CrashCourse · ~12 min  
-  Explains the two workhorse methods for finding planets around other stars — the transit dip in brightness and the radial-velocity (Doppler) wobble. A satisfying application of light and Doppler ideas.
-- [[Life-Cycle-of-Stars-Crash-Course|Low Mass Stars: Crash Course Astronomy #29]] — CrashCourse · ~13 min  
-  Traces a Sun-like star's whole life — main-sequence hydrogen fusion, red-giant phase, and white-dwarf end state. The narrative that makes stellar evolution memorable rather than a list of stages.
-- [[Light-and-Black-Body-Radiation-Crash-Course|Light: Crash Course Astronomy #24]] — CrashCourse · ~11 min  
-  Explains how a hot object's colour and spectrum depend on its temperature — the black-body behaviour behind Wien's displacement law and Stefan's law, and how we read a star's temperature from its colour.
+- [[How-Do-We-Find-Exoplanets-STScI|How Do We Find Exoplanets?]] — Space Telescope Science Institute · ~1.5 min  
+  A concise, authoritative overview from the institute that operates Hubble and JWST, outlining the main ways astronomers detect planets around other stars. Short — pair it with the Exoplanet-Detection page for the detail.
+- [[How-Do-You-Measure-the-Universe-PBS-Space-Time|How Do You Measure the Size of the Universe?]] — PBS Space Time · ~7 min  
+  Host Matt O'Dowd climbs the cosmic distance ladder — from parallax to standard candles — showing how each rung calibrates the next to reach the largest scales. Rigorous but accessible.
+- [[Star-Classification-Sixty-Symbols|Star Classification - Sixty Symbols]] — Sixty Symbols · ~8 min  
+  University of Nottingham astronomers explain how a star's colour reveals its surface temperature and how the OBAFGKM spectral sequence works — the black-body link that sits behind Wien's and Stefan's laws.
 - [[Stars-and-the-HR-Diagram-Crash-Course|Stars: Crash Course Astronomy #26]] — CrashCourse · ~11 min  
   Introduces the OBAFGKM spectral classes and plots stars on the Hertzsprung–Russell diagram (luminosity vs temperature). The HR diagram is central to A-Level astrophysics, and this makes it click.
 - [[Telescopes-Crash-Course-Astronomy|Telescopes: Crash Course Astronomy #6]] — CrashCourse · ~11 min  
   Phil Plait explains how refracting and reflecting telescopes gather light and why a larger aperture gives greater resolving power. Sets up the whole 'how we observe the universe' strand.
+- [[The-Life-Cycle-of-Stars-IOP|The Life Cycle of Stars]] — Institute of Physics · ~5 min  
+  A concise, authoritative overview from the UK's professional physics body, tracing stars from birth on the main sequence through to their end states. Well pitched for A-Level astrophysics.
 
 ## Relativity & Cosmology
 

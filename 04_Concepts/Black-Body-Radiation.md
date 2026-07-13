@@ -120,7 +120,7 @@ flowchart LR
 
 ## Watch
 
-- [[Light-and-Black-Body-Radiation-Crash-Course|Light: Crash Course Astronomy #24]] — CrashCourse
+- [[Star-Classification-Sixty-Symbols|Star Classification - Sixty Symbols]] — Sixty Symbols
 
 ## Source Trace
 

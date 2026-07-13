@@ -136,7 +136,7 @@ cosmic distance scale all depend on knowing how far away objects are.
 
 ## Watch
 
-- [[Distances-and-Standard-Candles-Crash-Course|Distances: Crash Course Astronomy #25]] — CrashCourse
+- [[How-Do-You-Measure-the-Universe-PBS-Space-Time|How Do You Measure the Size of the Universe?]] — PBS Space Time
 
 ## Source Trace
 

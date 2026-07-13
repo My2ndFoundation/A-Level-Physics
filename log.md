@@ -189,3 +189,9 @@ This log records major wiki operations.
 - Verification: every ID confirmed via YouTube oEmbed. Three agent channel-mislabels corrected against oEmbed ground truth — xsOhH1kPbew is Nutshell Physics (not Cognito), QLvyUAuBDpQ is Launchpad Learning (not Physics Online), 9n4xhxYtARg is ZPhysics (not Physics Online). Dropped a shallow, page-less MRI clip; kept medical at 4 solid picks.
 - Backlinks: 40 new `## Watch` sections + 6 appended to existing sections (Redshift, Orbital-Motion, Antiparticles, Annihilation-and-Pair-Production, Potential-Difference, Capacitance).
 - Rebuilt 01_MOCs/Video-Resources-MOC.md (50 videos across 12 clusters) and index.md Video Resources section (50 entries). No auto-commit.
+
+## [2026-07-14] maintenance | Diversify astrophysics video creators
+- The 6 astrophysics videos were all Crash Course Astronomy. Replaced 4 with distinct reputable creators; kept the 2 with no strong non-Crash-Course alternative (Telescopes #6, Stars/HR #26).
+- New: Sixty Symbols "Star Classification" (black-body/spectral classes), PBS Space Time "How Do You Measure the Size of the Universe?" (distance ladder), Institute of Physics "The Life Cycle of Stars" (stellar evolution), Space Telescope Science Institute "How Do We Find Exoplanets?" (exoplanet detection).
+- Astrophysics now spans 5 distinct creators (CrashCourse ×2, Sixty Symbols, PBS Space Time, IOP, STScI). Note: elite astro channels (Cool Worlds, Dr. Becky) lack cleanly-findable on-topic HR/telescope explainers, and the STScI exoplanet clip is short (~1.5 min) — kept for authority + diversity, depth carried by the wiki page.
+- Every new ID verified via oEmbed; durations read from the live watch page. Deleted 4 old pages, swapped 11 backlink lines, rebuilt MOC + index. Total still 50 videos.

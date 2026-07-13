@@ -147,7 +147,7 @@ flowchart TD
 ## Watch
 
 - [[Black-Holes-From-Birth-to-Death|Black Holes Explained – From Birth to Death]] — Kurzgesagt – In a Nutshell
-- [[Life-Cycle-of-Stars-Crash-Course|Low Mass Stars: Crash Course Astronomy #29]] — CrashCourse
+- [[The-Life-Cycle-of-Stars-IOP|The Life Cycle of Stars]] — Institute of Physics
 
 ## Source Trace
 

@@ -141,7 +141,7 @@ flowchart LR
 ## Watch
 
 - [[The-Big-Bang-The-Beginning-of-Everything|The Beginning of Everything -- The Big Bang]] — Kurzgesagt – In a Nutshell
-- [[How-We-Detect-Exoplanets-Crash-Course|Exoplanets: Crash Course Astronomy #27]] — CrashCourse
+- [[How-Do-We-Find-Exoplanets-STScI|How Do We Find Exoplanets?]] — Space Telescope Science Institute
 
 ## Source Trace
 

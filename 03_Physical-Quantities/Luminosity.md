@@ -134,7 +134,7 @@ flowchart LR
 ## Watch
 
 - [[Stars-and-the-HR-Diagram-Crash-Course|Stars: Crash Course Astronomy #26]] — CrashCourse
-- [[Life-Cycle-of-Stars-Crash-Course|Low Mass Stars: Crash Course Astronomy #29]] — CrashCourse
+- [[The-Life-Cycle-of-Stars-IOP|The Life Cycle of Stars]] — Institute of Physics
 
 ## Source Trace
 
