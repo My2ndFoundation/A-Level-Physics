@@ -113,6 +113,12 @@ flowchart LR
 *Figure: from Wikipedia article "Circular motion".*
 *Source: Wikimedia Commons — [Nonuniform circular motion.svg](https://commons.wikimedia.org/wiki/File:Nonuniform_circular_motion.svg). Retrieved 2026-05-20.*
 
+## Watch
+
+- [[What-Is-a-Centripetal-Force|Physics - What Is a Centripetal Force?]] — The Organic Chemistry Tutor
+- [[Angular-Velocity-and-Speed|Angular velocity and speed  /  Uniform circular motion and gravitation  /  AP Physics 1  /  Khan Academy]] — Khan Academy
+- [[All-of-Circular-Motion-A-Level|A Level Physics Revision: All of Circular Motion (in under 20 minutes!)]] — ZPhysics
+
 ## Source Trace
 
 - Source: OpenStax College Physics; HyperPhysics; The Physics Classroom — no copied text

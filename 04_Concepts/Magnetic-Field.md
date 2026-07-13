@@ -115,6 +115,10 @@ Magnetic fields underpin electric motors, generators, transformers, loudspeakers
 *Figure: from Wikipedia article "Magnetic field".*
 *Source: Wikimedia Commons — [CoaxPoyntingVector.png](https://commons.wikimedia.org/wiki/File:CoaxPoyntingVector.png). Retrieved 2026-05-20.*
 
+## Watch
+
+- [[How-Special-Relativity-Makes-Magnets-Work|How Special Relativity Makes Magnets Work]] — Veritasium
+
 ## Source Trace
 
 OpenStax College Physics; HyperPhysics; Physics LibreTexts — no copied text.

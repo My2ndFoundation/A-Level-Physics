@@ -98,6 +98,10 @@ flowchart LR
 
 *Figure: When a wave crosses from medium 1 to medium 2, the fraction of intensity reflected depends on the impedance mismatch. A large mismatch (e.g. tissue-to-air) reflects most energy; a small mismatch transmits most.*
 *Source: Authored for this vault (CC0). No external copyright.*
+## Watch
+
+- [[Ultrasound-and-Acoustic-Impedance|ultrasound and acoustic impedance explained]] — PhysicsHigh
+
 ## Source Trace
 
 - Source: OpenStax College Physics; HyperPhysics; IOPSpark

@@ -110,6 +110,10 @@ flowchart LR
 *Figure: Supernova 2012Z, a Type Ia supernova, in the spiral galaxy NGC 1309. Because Type Ia events reach a near-uniform peak absolute magnitude, their apparent brightness gives the galaxy's distance.*
 *Source: Wikimedia Commons — [Supernova 2012Z in spiral galaxy NGC 1309, annotated.jpg](https://commons.wikimedia.org/wiki/File:Supernova_2012Z_in_spiral_galaxy_NGC_1309,_annotated.jpg) — CC BY 4.0 — NASA, ESA, C. McCully and S. Jha (Rutgers). Retrieved 2026-06-27.*
 
+## Watch
+
+- [[Distances-and-Standard-Candles-Crash-Course|Distances: Crash Course Astronomy #25]] — CrashCourse
+
 ## Source Trace
 
 - Source: [[AQA-Physics-7407-7408-Specification]] §3.9.3

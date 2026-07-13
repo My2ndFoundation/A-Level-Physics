@@ -112,6 +112,10 @@ only the result is required.
 *Figure: from Wikipedia article "Wien's displacement law".*
 *Source: Wikimedia Commons — [Blacksmith at work02.jpg](https://commons.wikimedia.org/wiki/File:Blacksmith_at_work02.jpg). Retrieved 2026-05-20.*
 
+## Watch
+
+- [[Light-and-Black-Body-Radiation-Crash-Course|Light: Crash Course Astronomy #24]] — CrashCourse
+
 ## Source Trace
 
 - Source: OpenStax College Physics; HyperPhysics; NASA educational material — no copied text

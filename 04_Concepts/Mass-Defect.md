@@ -119,6 +119,10 @@ flowchart LR
 *Figure: from Wikipedia article "Nuclear binding energy".*
 *Source: Wikimedia Commons — [Binding energy curve of common isotopes.svg](https://commons.wikimedia.org/wiki/File:Binding_energy_curve_of_common_isotopes.svg). Retrieved 2026-05-20.*
 
+## Watch
+
+- [[Why-E-equals-mc-squared-Is-Wrong|Why E=mc² is wrong]] — Fermilab
+
 ## Source Trace
 
 - Source: OpenStax College Physics; HyperPhysics; CERN educational material — no copied text

@@ -132,6 +132,10 @@ graph TD
 *Figure: from Wikipedia article "Atomic nucleus".*
 *Source: Wikimedia Commons — [NuclearReaction.svg](https://commons.wikimedia.org/wiki/File:NuclearReaction.svg). Retrieved 2026-05-20.*
 
+## Watch
+
+- [[Radioactivity-Expect-the-Unexpected|Radioactivity: Expect the unexpected]] — TED-Ed
+
 ## Source Trace
 
 OpenStax College Physics; HyperPhysics; The Physics Classroom — no copied text.

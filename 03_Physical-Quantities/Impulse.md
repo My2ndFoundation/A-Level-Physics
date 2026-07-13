@@ -108,6 +108,10 @@ On a **force–time graph**, impulse is the **area under the curve**. A tall, na
 *Figure: from Wikipedia article "Impulse (physics)".*
 *Source: Wikimedia Commons — [Stylised atom with three Bohr model orbits and stylised nucleus.svg](https://commons.wikimedia.org/wiki/File:Stylised_atom_with_three_Bohr_model_orbits_and_stylised_nucleus.svg). Retrieved 2026-05-20.*
 
+## Watch
+
+- [[Conservation-of-Momentum-with-Dianna-Cowern|Conservation of Momentum - Physics 101 / AP Physics 1 Review with Dianna Cowern]] — Physics Girl
+
 ## Source Trace
 
 - Source: OpenStax College Physics; The Physics Classroom; HyperPhysics (paraphrased, no copied text)

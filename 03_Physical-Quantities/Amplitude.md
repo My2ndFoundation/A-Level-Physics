@@ -101,6 +101,10 @@ On a displacement–time (or displacement–position) graph, the amplitude is th
 *Figure: from Wikipedia article "Amplitude".*
 *Source: Wikimedia Commons — [Sine voltage.svg](https://commons.wikimedia.org/wiki/File:Sine_voltage.svg). Retrieved 2026-05-20.*
 
+## Watch
+
+- [[What-Is-a-Fourier-Series-Superposition|But what is a Fourier series? From heat flow to drawing with circles]] — 3Blue1Brown
+
 ## Source Trace
 
 - Source: OpenStax College Physics; The Physics Classroom; HyperPhysics (paraphrased, no copied text)

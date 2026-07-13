@@ -118,6 +118,10 @@ flowchart LR
 *Figure: Spectral intensity vs wavelength for black bodies at 3000–5000 K. Each curve has a single peak that grows and shifts to shorter wavelength as `T` rises (Wien); the classical Rayleigh-Jeans curve diverges at short wavelength (the "ultraviolet catastrophe").*
 *Source: Wikimedia Commons — [Black body.svg](https://commons.wikimedia.org/wiki/File:Black_body.svg) — Public domain — Darth Kule. Retrieved 2026-06-27.*
 
+## Watch
+
+- [[Light-and-Black-Body-Radiation-Crash-Course|Light: Crash Course Astronomy #24]] — CrashCourse
+
 ## Source Trace
 
 - Source: [[AQA-Physics-7407-7408-Specification]] §3.9.2

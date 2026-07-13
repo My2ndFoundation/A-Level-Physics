@@ -116,6 +116,10 @@ flowchart LR
 *Figure: from Wikipedia article "Electromagnetic spectrum".*
 *Source: Wikimedia Commons — [Atmospheric electromagnetic opacity.svg](https://commons.wikimedia.org/wiki/File:Atmospheric_electromagnetic_opacity.svg). Retrieved 2026-05-20.*
 
+## Watch
+
+- [[What-Is-a-Photon-Sixty-Symbols|What is a Photon?]] — Sixty Symbols
+
 ## Source Trace
 
 - Source: OpenStax College Physics; HyperPhysics; IOPSpark

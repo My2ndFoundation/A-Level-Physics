@@ -114,6 +114,11 @@ A single charge q drifting at speed v feels force $F = Bqv \sin\theta$. In lengt
 *Figure: from Wikipedia article "Electrical conductor".*
 *Source: Wikimedia Commons — [Resistivity geometry.png](https://commons.wikimedia.org/wiki/File:Resistivity_geometry.png). Retrieved 2026-05-20.*
 
+## Watch
+
+- [[How-Special-Relativity-Makes-Magnets-Work|How Special Relativity Makes Magnets Work]] — Veritasium
+- [[How-a-DC-Electric-Motor-Works|How does an Electric Motor work? DC Motor explained]] — The Engineering Mindset
+
 ## Source Trace
 
 OpenStax College Physics; HyperPhysics; Physics LibreTexts — no copied text.

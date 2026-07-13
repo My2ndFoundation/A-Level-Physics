@@ -121,6 +121,10 @@ Capacitors smooth rectified voltages, provide timing in [[Capacitor-Timing-Circu
 *Figure: from Wikipedia article "Capacitor".*
 *Source: Wikimedia Commons — [Axial electrolytic capacitors.jpg](https://commons.wikimedia.org/wiki/File:Axial_electrolytic_capacitors.jpg). Retrieved 2026-05-20.*
 
+## Watch
+
+- [[Capacitors-Explained-How-They-Work|Capacitors Explained - The basics how capacitors work working principle]] — The Engineering Mindset
+
 ## Source Trace
 
 - Source: OpenStax College Physics; HyperPhysics; Physics LibreTexts — no copied text

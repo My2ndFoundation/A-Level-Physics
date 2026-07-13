@@ -128,6 +128,10 @@ graph TD
 *Figure: from Wikipedia article "Lenz's law".*
 *Source: Wikimedia Commons — [VFPt Solenoid correct2.svg](https://commons.wikimedia.org/wiki/File:VFPt_Solenoid_correct2.svg). Retrieved 2026-05-20.*
 
+## Watch
+
+- [[Electromagnetic-Induction-Faradays-Law-Walter-Lewin|8.02x - Lect 16 - Electromagnetic Induction, Faraday's Law, Lenz Law, SUPER DEMO]] — Lectures by Walter Lewin
+
 ## Source Trace
 
 OpenStax College Physics; HyperPhysics; Physics LibreTexts — no copied text.

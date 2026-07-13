@@ -120,6 +120,11 @@ flowchart LR
 *Figure: a PET image of a healthy brain; the colours map where a positron-emitting tracer accumulated, located by detecting the back-to-back 511 keV photons from electron-positron annihilation.*
 *Source: Wikimedia Commons — [PET Normal brain.jpg](https://commons.wikimedia.org/wiki/File:PET_Normal_brain.jpg) — Public domain — US National Institute on Aging, Alzheimer's Disease Education and Referral Center. Retrieved 2026-06-27.*
 
+## Watch
+
+- [[What-Is-Antimatter|What is Antimatter?]] — Fermilab
+- [[How-Does-a-PET-Scan-Work|How Does a PET Scan Work?]] — NIBIB
+
 ## Source Trace
 
 - Source: [[AQA-Physics-7407-7408-Specification]] §3.2.1.3

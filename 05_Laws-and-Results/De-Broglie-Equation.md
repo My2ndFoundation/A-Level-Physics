@@ -128,6 +128,10 @@ graph LR
 *Figure: from Wikipedia article "Matter wave".*
 *Source: Wikimedia Commons — [Guassian Dispersion.gif](https://commons.wikimedia.org/wiki/File:Guassian_Dispersion.gif). Retrieved 2026-05-20.*
 
+## Watch
+
+- [[de-Broglie-Waves-Sixty-Symbols|de Broglie Waves]] — Sixty Symbols
+
 ## Source Trace
 
 - Source: OpenStax College Physics; HyperPhysics; Physics LibreTexts — paraphrased, no copied text

@@ -122,6 +122,10 @@ flowchart LR
 *Figure: from Wikipedia article "Diffraction".*
 *Source: Wikimedia Commons — [Blue laser single slit diffraction photo.jpg](https://commons.wikimedia.org/wiki/File:Blue_laser_single_slit_diffraction_photo.jpg). Retrieved 2026-05-20.*
 
+## Watch
+
+- [[The-Original-Double-Slit-Experiment|The Original Double Slit Experiment]] — Veritasium
+
 ## Source Trace
 
 - Source: OpenStax College Physics; The Physics Classroom; IOPSpark; Physics LibreTexts — paraphrased, no copied text.

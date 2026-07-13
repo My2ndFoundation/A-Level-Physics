@@ -90,6 +90,10 @@ The curve summarises how the material responds to loading: how stiff it is, how 
 *Figure: from Wikipedia article "Stress–strain curve".*
 *Source: Wikimedia Commons — [Stress strain ductile.svg](https://commons.wikimedia.org/wiki/File:Stress_strain_ductile.svg). Retrieved 2026-05-20.*
 
+## Watch
+
+- [[An-Introduction-to-Stress-and-Strain|An Introduction to Stress and Strain]] — The Efficient Engineer
+
 ## Source Trace
 
 - Source: OCR Practical Skills Handbook; The Physics Classroom; IOPSpark; OpenStax

@@ -136,6 +136,10 @@ flowchart LR
 *Figure: from Wikipedia article "Series and parallel circuits".*
 *Source: Wikimedia Commons — [Inductors in series.svg](https://commons.wikimedia.org/wiki/File:Inductors_in_series.svg). Retrieved 2026-05-20.*
 
+## Watch
+
+- [[Capacitors-in-Series-and-Parallel|How To Solve Any Circuit Problem With Capacitors In Series and Parallel Combinations - Physics]] — The Organic Chemistry Tutor
+
 ## Source Trace
 
 - Source: OpenStax College Physics; HyperPhysics; Physics LibreTexts — no copied text

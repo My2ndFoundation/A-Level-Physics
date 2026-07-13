@@ -114,6 +114,11 @@ without being the real mathematics.
 *Figure: from Wikipedia article "Theory of relativity".*
 *Source: Wikimedia Commons — [Earth-moon.jpg](https://commons.wikimedia.org/wiki/File:Earth-moon.jpg). Retrieved 2026-05-20.*
 
+## Watch
+
+- [[What-Everyone-Gets-Wrong-About-Gravity|What Everyone Gets Wrong About Gravity]] — Veritasium
+- [[Time-Dilation-and-Length-Contraction|Length Contraction and Time Dilation  /  Special Relativity Ch. 5]] — minutephysics
+
 ## Source Trace
 
 - Source: [[IOP-Explore-Physics]]; Institute of Physics — Explore Physics; NASA Astrophysics; Wikipedia (navigation)

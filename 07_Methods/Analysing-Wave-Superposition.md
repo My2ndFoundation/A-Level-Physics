@@ -68,6 +68,10 @@ The principle of superposition states the resultant displacement is the vector s
 
 - Double-slit and stationary-wave problems
 
+## Watch
+
+- [[What-Is-a-Fourier-Series-Superposition|But what is a Fourier series? From heat flow to drawing with circles]] — 3Blue1Brown
+
 ## Source Trace
 
 - Source: OpenStax College Physics; The Physics Classroom; Isaac Physics — paraphrased, no copied text.

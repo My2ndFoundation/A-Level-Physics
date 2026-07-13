@@ -82,6 +82,10 @@ Perpendicular directions are independent: a force along $x$ produces no accelera
 *Figure: Vector V at angle θ to the x-axis resolved into $V_x = V \cos\theta$ (red, horizontal) and $V_y = V \sin\theta$ (green, vertical). Perpendicular components are added independently.*
 *Source: Authored for this vault (CC0). No external copyright.*
 
+## Watch
+
+- [[Vectors-Essence-of-Linear-Algebra|Vectors  /  Chapter 1, Essence of linear algebra]] — 3Blue1Brown
+
 ## Source Trace
 
 - Source: OpenStax College Physics; The Physics Classroom; HyperPhysics — no copied text

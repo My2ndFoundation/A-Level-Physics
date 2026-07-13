@@ -71,6 +71,10 @@ The exponential and sinusoidal functions are the unique functions whose derivati
 - Isaac Physics — Mathematics for physics: https://isaacphysics.org
 - Wikipedia — Differential equation: https://en.wikipedia.org/wiki/Differential_equation
 
+## Watch
+
+- [[The-Essence-of-Calculus|The essence of calculus]] — 3Blue1Brown
+
 ## Source Trace
 
 - Source: Authored for this vault — cross-subject orientation; external resources listed inline.

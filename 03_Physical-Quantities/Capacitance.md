@@ -121,6 +121,12 @@ xychart-beta
 *Figure: from Wikipedia article "Capacitance".*
 *Source: Wikimedia Commons — [Cylindrical CapacitorII.svg](https://commons.wikimedia.org/wiki/File:Cylindrical_CapacitorII.svg). Retrieved 2026-05-20.*
 
+## Watch
+
+- [[Capacitors-Explained-How-They-Work|Capacitors Explained - The basics how capacitors work working principle]] — The Engineering Mindset
+- [[Energy-Stored-in-a-Capacitor|Energy Stored by a Capacitor  /  A-level Physics  /  AQA, OCR, Edexcel]] — Launchpad Learning
+- [[Capacitors-in-Series-and-Parallel|How To Solve Any Circuit Problem With Capacitors In Series and Parallel Combinations - Physics]] — The Organic Chemistry Tutor
+
 ## Source Trace
 
 - Source: OpenStax College Physics; The Physics Classroom; HyperPhysics (paraphrased, no copied text)

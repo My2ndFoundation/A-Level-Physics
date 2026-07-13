@@ -111,6 +111,10 @@ Low risk. Secure the pulley and masses; keep fingers away from the vibrating str
 *Figure: from Wikipedia article "Melde's experiment".*
 *Source: Wikimedia Commons — [Standing wave.gif](https://commons.wikimedia.org/wiki/File:Standing_wave.gif). Retrieved 2026-05-20.*
 
+## Watch
+
+- [[Chladni-Figures-Standing-Waves-Made-Visible|Chladni Figures - random couscous snaps into beautiful patterns]] — Steve Mould
+
 ## Source Trace
 
 - Source: OCR Practical Skills Handbook; The Physics Classroom; IOPSpark; OpenStax

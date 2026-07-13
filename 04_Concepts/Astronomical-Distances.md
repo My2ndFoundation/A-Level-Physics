@@ -134,6 +134,10 @@ cosmic distance scale all depend on knowing how far away objects are.
 *Figure: from Wikipedia article "Astronomical unit".*
 *Source: Wikimedia Commons — [Crab Nebula.jpg](https://commons.wikimedia.org/wiki/File:Crab_Nebula.jpg). Retrieved 2026-05-20.*
 
+## Watch
+
+- [[Distances-and-Standard-Candles-Crash-Course|Distances: Crash Course Astronomy #25]] — CrashCourse
+
 ## Source Trace
 
 - Source: OpenStax College Physics; HyperPhysics; NASA educational material — no copied text

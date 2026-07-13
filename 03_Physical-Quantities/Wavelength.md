@@ -112,6 +112,10 @@ On a displacement–position ("snapshot") graph, wavelength is the distance for 
 *Figure: from Wikipedia article "Wavelength".*
 *Source: Wikimedia Commons — [Interferometer path differences.JPG](https://commons.wikimedia.org/wiki/File:Interferometer_path_differences.JPG). Retrieved 2026-05-20.*
 
+## Watch
+
+- [[The-Doppler-Effect-Explained-Visually|The Doppler Effect explained visually]] — ScienceClic English
+
 ## Source Trace
 
 - Source: OpenStax College Physics; The Physics Classroom; HyperPhysics (paraphrased, no copied text)

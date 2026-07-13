@@ -109,6 +109,11 @@ flowchart LR
 *Figure: from Wikipedia article "Phase (waves)".*
 *Source: Wikimedia Commons — [Out of phase AE.gif](https://commons.wikimedia.org/wiki/File:Out_of_phase_AE.gif). Retrieved 2026-05-20.*
 
+## Watch
+
+- [[Pendulum-Waves-Harvard-Demonstration|Pendulum Waves]] — Harvard Natural Sciences Lecture Demonstrations
+- [[What-Is-a-Fourier-Series-Superposition|But what is a Fourier series? From heat flow to drawing with circles]] — 3Blue1Brown
+
 ## Source Trace
 
 - Source: OpenStax College Physics; HyperPhysics; IOPSpark

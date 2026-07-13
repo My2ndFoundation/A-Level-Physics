@@ -114,6 +114,10 @@ For a point charge, an `E` against `r` graph falls off as an inverse-square curv
 *Figure: from Wikipedia article "Electric field".*
 *Source: Wikimedia Commons — [Cat demonstrating static cling with styrofoam peanuts.jpg](https://commons.wikimedia.org/wiki/File:Cat_demonstrating_static_cling_with_styrofoam_peanuts.jpg). Retrieved 2026-05-20.*
 
+## Watch
+
+- [[Electric-Fields-Crash-Course-Physics|Electric Fields: Crash Course Physics #26]] — CrashCourse
+
 ## Source Trace
 
 - Source: OpenStax College Physics; The Physics Classroom; HyperPhysics (paraphrased, no copied text)

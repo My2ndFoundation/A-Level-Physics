@@ -121,6 +121,10 @@ flowchart TB
 *Figure: The same object measured at rest and while moving — only the dimension along the direction of motion is shortened by the factor 1/γ.*
 *Source: Wikimedia Commons — [Length-contraction.svg](https://commons.wikimedia.org/wiki/File:Length-contraction.svg) — CC BY-SA 4.0 — MikeRun. Retrieved 2026-06-27.*
 
+## Watch
+
+- [[Time-Dilation-and-Length-Contraction|Length Contraction and Time Dilation  /  Special Relativity Ch. 5]] — minutephysics
+
 ## Source Trace
 
 - Source: [[AQA-Physics-7407-7408-Specification]] §3.12.3

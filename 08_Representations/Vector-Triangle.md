@@ -93,6 +93,10 @@ Not applicable — this is a geometric construction, not a plotted graph. The in
 *Figure: from Wikipedia article "Triangle inequality".*
 *Source: Wikimedia Commons — [Isosceles triangle made of right triangles.svg](https://commons.wikimedia.org/wiki/File:Isosceles_triangle_made_of_right_triangles.svg). Retrieved 2026-05-20.*
 
+## Watch
+
+- [[Vectors-Essence-of-Linear-Algebra|Vectors  /  Chapter 1, Essence of linear algebra]] — 3Blue1Brown
+
 ## Source Trace
 
 - Source: OpenStax College Physics; The Physics Classroom; HyperPhysics — no copied text

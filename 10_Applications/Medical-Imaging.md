@@ -100,6 +100,12 @@ Medical imaging lets clinicians see inside the body without surgery. X-rays reve
 *Figure: from Wikipedia article "Medical imaging".*
 *Source: Wikimedia Commons — [A nuclear medicine machine is used for medical imaging in a hospital in North Carolina 05.jpg](https://commons.wikimedia.org/wiki/File:A_nuclear_medicine_machine_is_used_for_medical_imaging_in_a_hospital_in_North_Carolina_05.jpg). Retrieved 2026-05-20.*
 
+## Watch
+
+- [[How-X-rays-See-Through-Your-Skin|How X-rays see through your skin - Ge Wang]] — TED-Ed
+- [[How-Does-a-CT-Scan-Work|How Does a CT Scan Work?]] — NIBIB
+- [[Ultrasound-and-Acoustic-Impedance|ultrasound and acoustic impedance explained]] — PhysicsHigh
+
 ## Source Trace
 
 - Source: OpenStax College Physics; IOPSpark; Isaac Physics; OCR examiner reports (general) — no copied text

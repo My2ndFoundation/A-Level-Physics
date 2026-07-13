@@ -137,6 +137,10 @@ graph LR
 *Figure: from Wikipedia article "Newton's laws of motion".*
 *Source: Wikimedia Commons — [Breaking String.PNG](https://commons.wikimedia.org/wiki/File:Breaking_String.PNG). Retrieved 2026-05-20.*
 
+## Watch
+
+- [[Newtons-Laws-of-Motion-and-Inertia|GCSE Physics - Newton's 1st & 2nd Laws  /  Circular Motion  /  Inertia (2026/27 exams)]] — Cognito
+
 ## Source Trace
 
 - Source: OpenStax College Physics; HyperPhysics; Physics LibreTexts — paraphrased, no copied text

@@ -106,6 +106,10 @@ is why giants sit above and right of the main sequence.
 *Figure: from Wikipedia article "Hertzsprung–Russell diagram".*
 *Source: Wikimedia Commons — [Earth-moon.jpg](https://commons.wikimedia.org/wiki/File:Earth-moon.jpg). Retrieved 2026-05-20.*
 
+## Watch
+
+- [[Stars-and-the-HR-Diagram-Crash-Course|Stars: Crash Course Astronomy #26]] — CrashCourse
+
 ## Source Trace
 
 - Source: OpenStax College Physics; HyperPhysics; NASA educational material — no copied text

@@ -109,6 +109,11 @@ every other dot moving away, with no single centre.
 *Figure: from Wikipedia article "Cosmology".*
 *Source: Wikimedia Commons — [Crab Nebula.jpg](https://commons.wikimedia.org/wiki/File:Crab_Nebula.jpg). Retrieved 2026-05-20.*
 
+## Watch
+
+- [[Black-Holes-From-Birth-to-Death|Black Holes Explained – From Birth to Death]] — Kurzgesagt – In a Nutshell
+- [[The-Big-Bang-The-Beginning-of-Everything|The Beginning of Everything -- The Big Bang]] — Kurzgesagt – In a Nutshell
+
 ## Source Trace
 
 - Source: [[NASA-Astrophysics]]

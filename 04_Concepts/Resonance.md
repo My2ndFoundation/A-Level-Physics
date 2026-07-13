@@ -100,6 +100,11 @@ Resonance is exploited (musical instruments, MRI, radio tuning, microwave heatin
 *Figure: from Wikipedia article "Resonance".*
 *Source: Wikimedia Commons — [HWB-NMR - 900MHz - 21.2 Tesla.jpg](https://commons.wikimedia.org/wiki/File:HWB-NMR_-_900MHz_-_21.2_Tesla.jpg). Retrieved 2026-05-20.*
 
+## Watch
+
+- [[A-Better-Description-of-Resonance|A better description of resonance]] — Steve Mould
+- [[Chladni-Figures-Standing-Waves-Made-Visible|Chladni Figures - random couscous snaps into beautiful patterns]] — Steve Mould
+
 ## Source Trace
 
 - Source: OpenStax College Physics; HyperPhysics; The Physics Classroom — no copied text

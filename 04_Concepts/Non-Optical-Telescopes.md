@@ -141,6 +141,10 @@ flowchart LR
 *Figure: A large steerable parabolic radio dish. Long radio wavelengths force the dish to be enormous to achieve useful resolution ($\theta \approx \lambda/D$), but it can observe through cloud and in daylight.*
 *Source: Wikimedia Commons — [Radio telescope The Dish.jpg](https://commons.wikimedia.org/wiki/File:Radio_telescope_The_Dish.jpg) — CC BY 2.0 — Steve Jurvetson. Retrieved 2026-06-27.*
 
+## Watch
+
+- [[Telescopes-Crash-Course-Astronomy|Telescopes: Crash Course Astronomy #6]] — CrashCourse
+
 ## Source Trace
 
 - Source: [[AQA-Physics-7407-7408-Specification]] §3.9.1.3 (Single-dish radio telescopes; comparison with optical; IR, UV and X-ray telescopes)

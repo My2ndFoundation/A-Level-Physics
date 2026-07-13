@@ -100,6 +100,10 @@ A direct-current motor converts electrical energy into rotational mechanical ene
 *Figure: from Wikipedia article "DC motor".*
 *Source: Wikimedia Commons — [Electric motor cycle 2.png](https://commons.wikimedia.org/wiki/File:Electric_motor_cycle_2.png). Retrieved 2026-05-20.*
 
+## Watch
+
+- [[How-a-DC-Electric-Motor-Works|How does an Electric Motor work? DC Motor explained]] — The Engineering Mindset
+
 ## Source Trace
 
 OpenStax College Physics; HyperPhysics; Physics LibreTexts — no copied text.

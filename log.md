@@ -173,3 +173,19 @@ This log records major wiki operations.
 - Ran wiki-image pipeline on the 77 new AQA pages: added 54 license-clean images (Wikimedia Commons / NASA; PD / CC0 / CC BY / CC BY-SA, all attributed) appended after each page's Mermaid under `### From Wikimedia`.
 - 21 abstract pages keep authored Mermaid/tables only; 2 method pages have no Visuals section (template). 0 broken embeds.
 - Manifest rows appended to .state/visual-manifest.tsv. Re-fetched op-amp image at native resolution (no upscale).
+
+## [2026-07-13] feature | Video-Resources layer
+- New page type `video-resource` + template `_meta/templates/video-resource-template.md`; registered in CLAUDE.md (type table §4, page-type list §6, folder semantics §7, page-function tags §8).
+- New folder `14_Video-Resources/` with 32 curated YouTube pages, each with an embedded (youtube-nocookie) player, a "Why watch / What it covers" guide, and wikilinks into the concept pages it illuminates. Clusters: Mechanics/Materials, Electricity/Magnetism/Fields, Oscillations/Waves, Thermal, Quantum/Photons, Nuclear/Particle, Relativity/Cosmology, Maths-for-Physics.
+- Creators: Veritasium (6), 3Blue1Brown (4), Sixty Symbols (2), Steve Mould (2), Fermilab (3), Kurzgesagt (3), Walter Lewin/MIT (2), plus Physics Online, Cognito, Physics Girl, CrashCourse, The Engineering Mindset, The Efficient Engineer, minutephysics, ScienceClic, TED-Ed, Harvard Nat-Sci Demos.
+- Verification: every video ID confirmed against YouTube's oEmbed endpoint (real title + channel). Two agent mislabels caught and corrected — a fake "Veritasium" double-slit re-upload (replaced with genuine Iuv6hY6zsd0) and a temperature video wrongly attributed to minutephysics (replaced with Veritasium "Misconceptions About Temperature").
+- Backlinks: added a `## Watch` section to 103 atomic pages linking back to the relevant video pages.
+- New MOC: 01_MOCs/Video-Resources-MOC.md (grouped by cluster). Updated index.md (Topic MOCs + new Video Resources section) and 00_Home/Home.md (Main Maps).
+- No auto-commit (CLAUDE.md §5.11): working tree left dirty for review.
+
+## [2026-07-13] feature | Video-Resources batch 2
+- Added 18 more curated `video-resource` pages (total now 50): Capacitors (4), Circular Motion & Orbits (4), Astrophysics (6), Medical Physics & Imaging (4).
+- Creators: Crash Course Astronomy/Phil Plait (6), The Organic Chemistry Tutor (3), The Engineering Mindset, Khan Academy, TED-Ed, NIBIB/NIH (2), PhysicsHigh, Nutshell Physics, Launchpad Learning, ZPhysics.
+- Verification: every ID confirmed via YouTube oEmbed. Three agent channel-mislabels corrected against oEmbed ground truth — xsOhH1kPbew is Nutshell Physics (not Cognito), QLvyUAuBDpQ is Launchpad Learning (not Physics Online), 9n4xhxYtARg is ZPhysics (not Physics Online). Dropped a shallow, page-less MRI clip; kept medical at 4 solid picks.
+- Backlinks: 40 new `## Watch` sections + 6 appended to existing sections (Redshift, Orbital-Motion, Antiparticles, Annihilation-and-Pair-Production, Potential-Difference, Capacitance).
+- Rebuilt 01_MOCs/Video-Resources-MOC.md (50 videos across 12 clusters) and index.md Video Resources section (50 entries). No auto-commit.

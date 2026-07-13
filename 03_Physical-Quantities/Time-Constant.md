@@ -100,6 +100,10 @@ On a $\ln V$ (or $\ln Q$) versus t graph the gradient is $-1/RC$, so the time co
 *Figure: from Wikipedia article "Tau".*
 *Source: Wikimedia Commons — [Tau uc lc.svg](https://commons.wikimedia.org/wiki/File:Tau_uc_lc.svg). Retrieved 2026-05-20.*
 
+## Watch
+
+- [[Charging-and-Discharging-Capacitors|Charging & Discharging Capacitors: Electric Fields: Edexcel A-level Physics]] — Nutshell Physics
+
 ## Source Trace
 
 - Source: OpenStax College Physics; HyperPhysics; Physics LibreTexts — no copied text

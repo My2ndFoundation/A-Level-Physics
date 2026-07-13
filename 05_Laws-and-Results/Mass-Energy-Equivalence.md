@@ -128,6 +128,10 @@ graph LR
 *Figure: from Wikipedia article "Mass–energy equivalence".*
 *Source: Wikimedia Commons — [Einstein - Time Magazine - July 1, 1946.jpg](https://commons.wikimedia.org/wiki/File:Einstein_-_Time_Magazine_-_July_1,_1946.jpg). Retrieved 2026-05-20.*
 
+## Watch
+
+- [[Why-E-equals-mc-squared-Is-Wrong|Why E=mc² is wrong]] — Fermilab
+
 ## Source Trace
 
 - Source: OpenStax College Physics; HyperPhysics; CERN educational material — no copied text

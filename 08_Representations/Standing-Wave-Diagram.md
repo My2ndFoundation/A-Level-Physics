@@ -95,6 +95,10 @@ Not applicable. The key measurable is the node-to-node spacing = half a waveleng
 *Figure: from Wikipedia article "Standing wave ratio".*
 *Source: Wikimedia Commons — [Slotted line.png](https://commons.wikimedia.org/wiki/File:Slotted_line.png). Retrieved 2026-05-20.*
 
+## Watch
+
+- [[Chladni-Figures-Standing-Waves-Made-Visible|Chladni Figures - random couscous snaps into beautiful patterns]] — Steve Mould
+
 ## Source Trace
 
 - Source: OCR Practical Skills Handbook; The Physics Classroom; IOPSpark; OpenStax

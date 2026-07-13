@@ -96,6 +96,10 @@ This distinction is the foundation for understanding [[Resonance]], damping cont
 *Figure: from Wikipedia article "Natural frequency".*
 *Source: Wikimedia Commons — [ArealVelocity.svg](https://commons.wikimedia.org/wiki/File:ArealVelocity.svg). Retrieved 2026-05-20.*
 
+## Watch
+
+- [[A-Better-Description-of-Resonance|A better description of resonance]] — Steve Mould
+
 ## Source Trace
 
 - Source: OpenStax College Physics; HyperPhysics; The Physics Classroom — no copied text

@@ -71,6 +71,10 @@ The definite integral is the limit of summing thin strips (Riemann sum) — exac
 - Isaac Physics — Calculus skills: https://isaacphysics.org
 - Wikipedia — Integral: https://en.wikipedia.org/wiki/Integral
 
+## Watch
+
+- [[The-Essence-of-Calculus|The essence of calculus]] — 3Blue1Brown
+
 ## Source Trace
 
 - Source: Authored for this vault — cross-subject orientation; external resources listed inline.

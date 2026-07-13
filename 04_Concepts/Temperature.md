@@ -116,6 +116,10 @@ flowchart LR
 *Figure: from Wikipedia article "Temperature".*
 *Source: Wikimedia Commons — [Body Temp Variation.svg](https://commons.wikimedia.org/wiki/File:Body_Temp_Variation.svg). Retrieved 2026-05-20.*
 
+## Watch
+
+- [[Misconceptions-About-Temperature|Misconceptions About Temperature]] — Veritasium
+
 ## Source Trace
 
 - Source: OpenStax College Physics; HyperPhysics; The Physics Classroom — paraphrased, no copied text

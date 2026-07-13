@@ -117,6 +117,10 @@ flowchart LR
 *Figure: In the clock's rest frame the photon goes straight up and down; to a moving observer it traces a longer zig-zag at the same speed c, so more time must elapse — the geometry behind t = t₀/√(1 − v²/c²).*
 *Source: Wikimedia Commons — [Time-dilation-002.svg](https://commons.wikimedia.org/wiki/File:Time-dilation-002.svg) — Public domain — Mdd4696. Retrieved 2026-06-27.*
 
+## Watch
+
+- [[Time-Dilation-and-Length-Contraction|Length Contraction and Time Dilation  /  Special Relativity Ch. 5]] — minutephysics
+
 ## Source Trace
 
 - Source: [[AQA-Physics-7407-7408-Specification]] §3.12.3

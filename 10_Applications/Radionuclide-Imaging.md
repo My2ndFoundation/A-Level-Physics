@@ -109,6 +109,10 @@ flowchart LR
 *Figure: a Tc-99m whole-body scintigraph — bright regions show where the tracer has concentrated, a functional rather than anatomical image.*
 *Source: Wikimedia Commons — [BoneScanWholeBody.jpg](https://commons.wikimedia.org/wiki/File:BoneScanWholeBody.jpg) — Public domain — Kieran Maher. Retrieved 2026-06-27.*
 
+## Watch
+
+- [[How-Does-a-PET-Scan-Work|How Does a PET Scan Work?]] — NIBIB
+
 ## Source Trace
 
 - Source: [[AQA-Physics-7407-7408-Specification]] §3.10.6

@@ -71,6 +71,10 @@ Similar right-angled triangles have fixed side ratios; sin, cos and tan name tho
 - Physics & Maths Tutor — A-Level Maths: https://www.physicsandmathstutor.com
 - Wikipedia — Trigonometry: https://en.wikipedia.org/wiki/Trigonometry
 
+## Watch
+
+- [[Vectors-Essence-of-Linear-Algebra|Vectors  /  Chapter 1, Essence of linear algebra]] — 3Blue1Brown
+
 ## Source Trace
 
 - Source: Authored for this vault — cross-subject orientation; external resources listed inline.

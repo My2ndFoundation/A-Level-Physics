@@ -105,6 +105,10 @@ This extends the [[Constant-Acceleration-Model]] from one dimension to two, usin
 *Figure: from Wikipedia article "Projectile motion".*
 *Source: Wikimedia Commons — [Ballistic trajectories.svg](https://commons.wikimedia.org/wiki/File:Ballistic_trajectories.svg). Retrieved 2026-05-20.*
 
+## Watch
+
+- [[The-Motion-of-Projectiles-Walter-Lewin-Lecture|Lec 04: The Motion of Projectiles  /  8.01 Classical Mechanics, Fall 1999 (Walter Lewin)]] — For the Allure of Physics (Walter Lewin)
+
 ## Source Trace
 
 - Source: OpenStax College Physics; The Physics Classroom; Isaac Physics — paraphrased, no copied text.

@@ -114,6 +114,10 @@ A graph of force against current for a fixed wire length in a uniform field is a
 *Figure: from Wikipedia article "Magnetic field".*
 *Source: Wikimedia Commons — [CoaxPoyntingVector.png](https://commons.wikimedia.org/wiki/File:CoaxPoyntingVector.png). Retrieved 2026-05-20.*
 
+## Watch
+
+- [[How-a-DC-Electric-Motor-Works|How does an Electric Motor work? DC Motor explained]] — The Engineering Mindset
+
 ## Source Trace
 
 - Source: OpenStax College Physics; The Physics Classroom; HyperPhysics (paraphrased, no copied text)

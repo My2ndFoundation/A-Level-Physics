@@ -119,6 +119,10 @@ flowchart LR
 *Figure: from Wikipedia article "Lepton".*
 *Source: Wikimedia Commons — [Lepton-interaction-vertex-eeZ.svg](https://commons.wikimedia.org/wiki/File:Lepton-interaction-vertex-eeZ.svg). Retrieved 2026-05-20.*
 
+## Watch
+
+- [[The-Standard-Model-of-Particle-Physics|The Standard Model]] — Fermilab
+
 ## Source Trace
 
 - Source: OpenStax College Physics; HyperPhysics; CERN educational material — no copied text

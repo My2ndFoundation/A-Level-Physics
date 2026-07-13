@@ -107,6 +107,12 @@ Identifying *which* real force provides the centripetal requirement is the key s
 *Figure: from Wikipedia article "Centripetal force".*
 *Source: Wikimedia Commons — [Banked turn.svg](https://commons.wikimedia.org/wiki/File:Banked_turn.svg). Retrieved 2026-05-20.*
 
+## Watch
+
+- [[What-Is-a-Centripetal-Force|Physics - What Is a Centripetal Force?]] — The Organic Chemistry Tutor
+- [[All-of-Circular-Motion-A-Level|A Level Physics Revision: All of Circular Motion (in under 20 minutes!)]] — ZPhysics
+- [[Satellite-in-Circular-Orbit|Speed of a Satellite in Circular Orbit, Orbital Velocity, Period, Centripetal Force, Physics Problem]] — The Organic Chemistry Tutor
+
 ## Source Trace
 
 - Source: OpenStax College Physics; HyperPhysics; The Physics Classroom — no copied text

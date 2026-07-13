@@ -120,6 +120,11 @@ Electric fields explain charging, sparks, the deflection of charged particles in
 *Figure: from Wikipedia article "Electric field".*
 *Source: Wikimedia Commons — [Cat demonstrating static cling with styrofoam peanuts.jpg](https://commons.wikimedia.org/wiki/File:Cat_demonstrating_static_cling_with_styrofoam_peanuts.jpg). Retrieved 2026-05-20.*
 
+## Watch
+
+- [[The-Biggest-Misconception-About-Electricity|The Biggest Misconception About Electricity]] — Veritasium
+- [[Electric-Fields-Crash-Course-Physics|Electric Fields: Crash Course Physics #26]] — CrashCourse
+
 ## Source Trace
 
 - Source: OpenStax College Physics; HyperPhysics; Physics LibreTexts — no copied text

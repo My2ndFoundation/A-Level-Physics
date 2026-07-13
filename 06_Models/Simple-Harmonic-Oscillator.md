@@ -99,6 +99,10 @@ This extends the everyday observation of repeating back-and-forth motion (swings
 *Figure: from Wikipedia article "Simple harmonic motion".*
 *Source: Wikimedia Commons — [Simple Harmonic Motion Orbit.gif](https://commons.wikimedia.org/wiki/File:Simple_Harmonic_Motion_Orbit.gif). Retrieved 2026-05-20.*
 
+## Watch
+
+- [[Pendulum-Waves-Harvard-Demonstration|Pendulum Waves]] — Harvard Natural Sciences Lecture Demonstrations
+
 ## Source Trace
 
 - Source: OpenStax College Physics; The Physics Classroom; Isaac Physics — paraphrased, no copied text.

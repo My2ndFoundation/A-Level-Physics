@@ -124,6 +124,11 @@ flowchart LR
 *Figure: from Wikipedia article "Antiparticle".*
 *Source: Wikimedia Commons — [Particles and antiparticles.svg](https://commons.wikimedia.org/wiki/File:Particles_and_antiparticles.svg). Retrieved 2026-05-20.*
 
+## Watch
+
+- [[What-Is-Antimatter|What is Antimatter?]] — Fermilab
+- [[How-Does-a-PET-Scan-Work|How Does a PET Scan Work?]] — NIBIB
+
 ## Source Trace
 
 - Source: OpenStax College Physics; HyperPhysics; CERN educational material — no copied text

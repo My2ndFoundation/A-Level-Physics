@@ -108,6 +108,10 @@ SHM is the universal model for small oscillations — springs, pendulums, molecu
 *Figure: from Wikipedia article "Simple harmonic motion".*
 *Source: Wikimedia Commons — [Simple Harmonic Motion Orbit.gif](https://commons.wikimedia.org/wiki/File:Simple_Harmonic_Motion_Orbit.gif). Retrieved 2026-05-20.*
 
+## Watch
+
+- [[Pendulum-Waves-Harvard-Demonstration|Pendulum Waves]] — Harvard Natural Sciences Lecture Demonstrations
+
 ## Source Trace
 
 - Source: OpenStax College Physics; HyperPhysics; The Physics Classroom — no copied text

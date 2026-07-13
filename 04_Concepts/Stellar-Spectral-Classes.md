@@ -116,6 +116,10 @@ flowchart LR
 *Figure: The OBAFGKM spectral classes shown with representative colour and relative size, running from hot blue O-type to cool red M-type stars.*
 *Source: Wikimedia Commons — [Morgan-Keenan spectral classification.svg](https://commons.wikimedia.org/wiki/File:Morgan-Keenan_spectral_classification.svg) — CC BY-SA 3.0 — Rursus. Retrieved 2026-06-27.*
 
+## Watch
+
+- [[Stars-and-the-HR-Diagram-Crash-Course|Stars: Crash Course Astronomy #26]] — CrashCourse
+
 ## Source Trace
 
 - Source: [[AQA-Physics-7407-7408-Specification]] §3.9.2

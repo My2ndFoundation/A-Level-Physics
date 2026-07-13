@@ -114,6 +114,10 @@ Plotting the required inward force F against $\omega^2$ for fixed m and r gives 
 *Figure: from Wikipedia article "Acceleration".*
 *Source: Wikimedia Commons — [Acceleration as derivative of velocity along trajectory.svg](https://commons.wikimedia.org/wiki/File:Acceleration_as_derivative_of_velocity_along_trajectory.svg). Retrieved 2026-05-20.*
 
+## Watch
+
+- [[All-of-Circular-Motion-A-Level|A Level Physics Revision: All of Circular Motion (in under 20 minutes!)]] — ZPhysics
+
 ## Source Trace
 
 - Source: OpenStax College Physics; HyperPhysics; The Physics Classroom — no copied text

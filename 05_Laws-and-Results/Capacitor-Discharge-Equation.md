@@ -117,6 +117,10 @@ For the discharge loop, $Q/C = IR$ and $I = -\frac{dQ}{dt}$, giving $\frac{dQ}{d
 *Figure: from Wikipedia article "Capacitor".*
 *Source: Wikimedia Commons — [Axial electrolytic capacitors.jpg](https://commons.wikimedia.org/wiki/File:Axial_electrolytic_capacitors.jpg). Retrieved 2026-05-20.*
 
+## Watch
+
+- [[Charging-and-Discharging-Capacitors|Charging & Discharging Capacitors: Electric Fields: Edexcel A-level Physics]] — Nutshell Physics
+
 ## Source Trace
 
 - Source: OpenStax College Physics; HyperPhysics; Physics LibreTexts — paraphrased, no copied text

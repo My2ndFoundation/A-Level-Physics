@@ -94,6 +94,10 @@ Building a three-dimensional, cross-sectional map of the body from many X-ray pr
 *Figure: from Wikipedia article "CT scan".*
 *Source: Wikimedia Commons — [Axial plane CT scan of the thorax illustrative image.jpg](https://commons.wikimedia.org/wiki/File:Axial_plane_CT_scan_of_the_thorax_illustrative_image.jpg). Retrieved 2026-05-20.*
 
+## Watch
+
+- [[How-Does-a-CT-Scan-Work|How Does a CT Scan Work?]] — NIBIB
+
 ## Source Trace
 
 - Source: OpenStax College Physics; HyperPhysics; IOPSpark

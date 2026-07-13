@@ -131,6 +131,11 @@ flowchart LR
 *Figure: from Wikipedia article "Luminosity".*
 *Source: Wikimedia Commons — [Earth-moon.jpg](https://commons.wikimedia.org/wiki/File:Earth-moon.jpg). Retrieved 2026-05-20.*
 
+## Watch
+
+- [[Stars-and-the-HR-Diagram-Crash-Course|Stars: Crash Course Astronomy #26]] — CrashCourse
+- [[Life-Cycle-of-Stars-Crash-Course|Low Mass Stars: Crash Course Astronomy #29]] — CrashCourse
+
 ## Source Trace
 
 - Source: OpenStax College Physics; HyperPhysics; NASA educational material — no copied text

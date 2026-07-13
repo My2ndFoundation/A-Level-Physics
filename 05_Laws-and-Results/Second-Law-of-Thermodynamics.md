@@ -121,6 +121,10 @@ flowchart LR
 *Figure: A heat engine takes heat Q_H from the hot reservoir, delivers work W, and must reject Q_C to the cold reservoir.*
 *Source: Authored for this vault (CC0). No external copyright.*
 
+## Watch
+
+- [[Entropy-The-Most-Misunderstood-Concept|The Most Misunderstood Concept in Physics]] — Veritasium
+
 ## Source Trace
 
 - Source: [[AQA-Physics-7407-7408-Specification]] §3.11.2 (Engineering Physics — Heat engines and second law)

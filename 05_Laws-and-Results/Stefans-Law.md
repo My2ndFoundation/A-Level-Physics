@@ -113,6 +113,10 @@ is required.
 *Figure: from Wikipedia article "Stefan–Boltzmann law".*
 *Source: Wikimedia Commons — [Stefan-Boltzmann Law.png](https://commons.wikimedia.org/wiki/File:Stefan-Boltzmann_Law.png). Retrieved 2026-05-20.*
 
+## Watch
+
+- [[Light-and-Black-Body-Radiation-Crash-Course|Light: Crash Course Astronomy #24]] — CrashCourse
+
 ## Source Trace
 
 - Source: OpenStax College Physics; HyperPhysics; NASA educational material — no copied text

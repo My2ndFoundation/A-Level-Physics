@@ -71,6 +71,10 @@ A derivative is the limit of the gradient of a chord as the interval shrinks to 
 - Isaac Physics — Calculus skills: https://isaacphysics.org
 - Wikipedia — Derivative: https://en.wikipedia.org/wiki/Derivative
 
+## Watch
+
+- [[The-Essence-of-Calculus|The essence of calculus]] — 3Blue1Brown
+
 ## Source Trace
 
 - Source: Authored for this vault — cross-subject orientation; external resources listed inline.

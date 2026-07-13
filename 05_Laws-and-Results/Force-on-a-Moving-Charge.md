@@ -125,6 +125,10 @@ graph TD
 *Figure: from Wikipedia article "Lorentz force".*
 *Source: Wikimedia Commons — [Alternator 1.svg](https://commons.wikimedia.org/wiki/File:Alternator_1.svg). Retrieved 2026-05-20.*
 
+## Watch
+
+- [[How-Special-Relativity-Makes-Magnets-Work|How Special Relativity Makes Magnets Work]] — Veritasium
+
 ## Source Trace
 
 OpenStax College Physics; HyperPhysics; Physics LibreTexts — no copied text.

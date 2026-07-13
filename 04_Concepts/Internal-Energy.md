@@ -124,6 +124,11 @@ flowchart LR
 *Figure: from Wikipedia article "Internal energy".*
 *Source: Wikimedia Commons — [Green check.svg](https://commons.wikimedia.org/wiki/File:Green_check.svg). Retrieved 2026-05-20.*
 
+## Watch
+
+- [[Misconceptions-About-Temperature|Misconceptions About Temperature]] — Veritasium
+- [[Entropy-The-Most-Misunderstood-Concept|The Most Misunderstood Concept in Physics]] — Veritasium
+
 ## Source Trace
 
 - Source: OpenStax College Physics; HyperPhysics; The Physics Classroom — paraphrased, no copied text

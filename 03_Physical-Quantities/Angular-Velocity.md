@@ -122,6 +122,10 @@ On an angular displacement θ against time t graph, the gradient is the angular 
 *Figure: from Wikipedia article "Angular velocity".*
 *Source: Wikimedia Commons — [Eulerframe.svg](https://commons.wikimedia.org/wiki/File:Eulerframe.svg). Retrieved 2026-05-20.*
 
+## Watch
+
+- [[Angular-Velocity-and-Speed|Angular velocity and speed  /  Uniform circular motion and gravitation  /  AP Physics 1  /  Khan Academy]] — Khan Academy
+
 ## Source Trace
 
 - Source: OpenStax College Physics; HyperPhysics; The Physics Classroom — no copied text

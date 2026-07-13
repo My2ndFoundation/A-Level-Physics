@@ -93,6 +93,10 @@ The curve represents [[Capacitor-Discharge-Equation]]: $Q = Q_0 e^{-t/RC}$. Beca
 *Figure: from Wikipedia article "Ceramic capacitor".*
 *Source: Wikimedia Commons — [Capacitors x2y.jpg](https://commons.wikimedia.org/wiki/File:Capacitors_x2y.jpg). Retrieved 2026-05-20.*
 
+## Watch
+
+- [[Charging-and-Discharging-Capacitors|Charging & Discharging Capacitors: Electric Fields: Edexcel A-level Physics]] — Nutshell Physics
+
 ## Source Trace
 
 - Source: OpenStax College Physics; HyperPhysics; Physics LibreTexts — no copied text

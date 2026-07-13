@@ -131,6 +131,10 @@ graph LR
 *Figure: from Wikipedia article "Momentum".*
 *Source: Wikimedia Commons — [Christiaan Huygens-painting (cropped).jpeg](https://commons.wikimedia.org/wiki/File:Christiaan_Huygens-painting_(cropped).jpeg). Retrieved 2026-05-20.*
 
+## Watch
+
+- [[Conservation-of-Momentum-with-Dianna-Cowern|Conservation of Momentum - Physics 101 / AP Physics 1 Review with Dianna Cowern]] — Physics Girl
+
 ## Source Trace
 
 - Source: OpenStax College Physics; HyperPhysics; Physics LibreTexts — paraphrased, no copied text

@@ -94,6 +94,10 @@ flowchart TD
 *Figure: Decision flowchart for choosing the correct RC equation. Discharge → exponential decay; charging → complementary form. Time requires taking ln.*
 *Source: Authored for this vault (CC0). No external copyright.*
 
+## Watch
+
+- [[Charging-and-Discharging-Capacitors|Charging & Discharging Capacitors: Electric Fields: Edexcel A-level Physics]] — Nutshell Physics
+
 ## Source Trace
 
 - Source: OpenStax College Physics; HyperPhysics; Physics LibreTexts — no copied text

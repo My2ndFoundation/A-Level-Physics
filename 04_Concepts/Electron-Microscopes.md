@@ -131,6 +131,10 @@ flowchart TB
 *Figure: An early electron microscope built by Ernst Ruska (Deutsches Museum, Munich) — the tall evacuated column houses the electron gun and stacked magnetic lenses described in the schematic above.*
 *Source: Wikimedia Commons — [Ernst Ruska Electron Microscope - Deutsches Museum - Munich-edit.jpg](https://commons.wikimedia.org/wiki/File:Ernst_Ruska_Electron_Microscope_-_Deutsches_Museum_-_Munich-edit.jpg) — CC BY-SA 3.0 — J Brew. Retrieved 2026-06-27.*
 
+## Watch
+
+- [[de-Broglie-Waves-Sixty-Symbols|de Broglie Waves]] — Sixty Symbols
+
 ## Source Trace
 
 - Source: [[AQA-Physics-7407-7408-Specification]] §3.12.2

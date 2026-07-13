@@ -128,6 +128,10 @@ helping transfer reasoning between gravitation and electrostatics.
 *Figure: from Wikipedia article "Gravitational field".*
 *Source: Wikimedia Commons — [Earth-moon-field.svg](https://commons.wikimedia.org/wiki/File:Earth-moon-field.svg). Retrieved 2026-05-20.*
 
+## Watch
+
+- [[What-Everyone-Gets-Wrong-About-Gravity|What Everyone Gets Wrong About Gravity]] — Veritasium
+
 ## Source Trace
 
 - Source: OpenStax College Physics; HyperPhysics; NASA educational material — no copied text

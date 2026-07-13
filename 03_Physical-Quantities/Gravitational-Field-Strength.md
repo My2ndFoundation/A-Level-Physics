@@ -117,6 +117,10 @@ xychart-beta
 *Figure: from Wikipedia article "Gravitational acceleration".*
 *Source: Wikimedia Commons — [Orbit3.gif](https://commons.wikimedia.org/wiki/File:Orbit3.gif). Retrieved 2026-05-20.*
 
+## Watch
+
+- [[What-Everyone-Gets-Wrong-About-Gravity|What Everyone Gets Wrong About Gravity]] — Veritasium
+
 ## Source Trace
 
 - Source: OpenStax College Physics; The Physics Classroom; HyperPhysics (paraphrased, no copied text)

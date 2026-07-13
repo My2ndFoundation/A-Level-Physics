@@ -106,6 +106,10 @@ flowchart LR
 *Figure: Absolute magnitude is the brightness the star would show from 10 pc.*
 *Source: Authored for this vault (CC0). No external copyright.*
 
+## Watch
+
+- [[Distances-and-Standard-Candles-Crash-Course|Distances: Crash Course Astronomy #25]] — CrashCourse
+
 ## Source Trace
 
 - Source: [[AQA-Physics-7407-7408-Specification]] §3.9.2

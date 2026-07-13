@@ -120,6 +120,10 @@ flowchart LR
 *Figure: from Wikipedia article "Strain (mechanics)".*
 *Source: Wikimedia Commons — [Approximation volume deformation.png](https://commons.wikimedia.org/wiki/File:Approximation_volume_deformation.png). Retrieved 2026-05-20.*
 
+## Watch
+
+- [[An-Introduction-to-Stress-and-Strain|An Introduction to Stress and Strain]] — The Efficient Engineer
+
 ## Source Trace
 
 - Source: OpenStax College Physics; The Physics Classroom; HyperPhysics (paraphrased, no copied text)

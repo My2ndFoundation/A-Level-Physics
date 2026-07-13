@@ -114,6 +114,10 @@ Uniform fields are used to accelerate and deflect charged particles (oscilloscop
 *Figure: from Wikipedia article "Electric flux".*
 *Source: Wikimedia Commons — [VFPt Solenoid correct2.svg](https://commons.wikimedia.org/wiki/File:VFPt_Solenoid_correct2.svg). Retrieved 2026-05-20.*
 
+## Watch
+
+- [[Electric-Fields-Crash-Course-Physics|Electric Fields: Crash Course Physics #26]] — CrashCourse
+
 ## Source Trace
 
 - Source: OpenStax College Physics; HyperPhysics; Physics LibreTexts — no copied text

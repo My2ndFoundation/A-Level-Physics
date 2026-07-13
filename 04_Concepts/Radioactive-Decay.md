@@ -121,6 +121,10 @@ flowchart LR
 *Figure: from Wikipedia article "Radioactive decay".*
 *Source: Wikimedia Commons — [Crookes tube xray experiment.jpg](https://commons.wikimedia.org/wiki/File:Crookes_tube_xray_experiment.jpg). Retrieved 2026-05-20.*
 
+## Watch
+
+- [[Radioactivity-Expect-the-Unexpected|Radioactivity: Expect the unexpected]] — TED-Ed
+
 ## Source Trace
 
 - Source: OpenStax College Physics; The Physics Classroom; IOPSpark; Physics LibreTexts — paraphrased, no copied text.

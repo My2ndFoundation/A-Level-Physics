@@ -95,6 +95,10 @@ Imaging metabolic activity inside the body by detecting the pair of gamma photon
 *Figure: from Wikipedia article "Positron emission tomography".*
 *Source: Wikimedia Commons — [PET-MIPS-anim.gif](https://commons.wikimedia.org/wiki/File:PET-MIPS-anim.gif). Retrieved 2026-05-20.*
 
+## Watch
+
+- [[How-Does-a-PET-Scan-Work|How Does a PET Scan Work?]] — NIBIB
+
 ## Source Trace
 
 - Source: OpenStax College Physics; HyperPhysics; IOPSpark

@@ -147,6 +147,11 @@ xychart-beta
 *Figure: from Wikipedia article "Orbit".*
 *Source: Wikimedia Commons — [Conic Sections.svg](https://commons.wikimedia.org/wiki/File:Conic_Sections.svg). Retrieved 2026-05-20.*
 
+## Watch
+
+- [[What-Everyone-Gets-Wrong-About-Gravity|What Everyone Gets Wrong About Gravity]] — Veritasium
+- [[Satellite-in-Circular-Orbit|Speed of a Satellite in Circular Orbit, Orbital Velocity, Period, Centripetal Force, Physics Problem]] — The Organic Chemistry Tutor
+
 ## Source Trace
 
 - Source: OpenStax College Physics; HyperPhysics; NASA educational material — no copied text

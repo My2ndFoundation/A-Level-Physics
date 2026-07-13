@@ -132,6 +132,10 @@ flowchart LR
 *Figure: from Wikipedia article "Phase velocity".*
 *Source: Wikimedia Commons — [Wave packet propagation (phase faster than group, nondispersive).gif](https://commons.wikimedia.org/wiki/File:Wave_packet_propagation_(phase_faster_than_group,_nondispersive).gif). Retrieved 2026-05-20.*
 
+## Watch
+
+- [[The-Doppler-Effect-Explained-Visually|The Doppler Effect explained visually]] — ScienceClic English
+
 ## Source Trace
 
 - Source: OpenStax College Physics; HyperPhysics; The Physics Classroom — paraphrased, no copied text.

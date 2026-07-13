@@ -124,6 +124,10 @@ xychart-beta
 *Figure: from Wikipedia article "Electric charge".*
 *Source: Wikimedia Commons — [OiintLaTeX.svg](https://commons.wikimedia.org/wiki/File:OiintLaTeX.svg). Retrieved 2026-05-20.*
 
+## Watch
+
+- [[Capacitors-Explained-How-They-Work|Capacitors Explained - The basics how capacitors work working principle]] — The Engineering Mindset
+
 ## Source Trace
 
 - Source: OpenStax College Physics; The Physics Classroom; HyperPhysics (paraphrased, no copied text)

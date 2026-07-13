@@ -108,6 +108,11 @@ On a displacement–time graph of an oscillation, the frequency is the reciproca
 *Figure: from Wikipedia article "Frequency".*
 *Source: Wikimedia Commons — [EM spectrum.svg](https://commons.wikimedia.org/wiki/File:EM_spectrum.svg). Retrieved 2026-05-20.*
 
+## Watch
+
+- [[The-Doppler-Effect-Explained-Visually|The Doppler Effect explained visually]] — ScienceClic English
+- [[Pendulum-Waves-Harvard-Demonstration|Pendulum Waves]] — Harvard Natural Sciences Lecture Demonstrations
+
 ## Source Trace
 
 - Source: OpenStax College Physics; The Physics Classroom; HyperPhysics (paraphrased, no copied text)

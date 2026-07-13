@@ -96,6 +96,11 @@ Producing a two-dimensional shadow image of internal anatomy by passing X-rays t
 *Figure: from Wikipedia article "Radiography".*
 *Source: Wikimedia Commons — [Cerebral angiography, arteria vertebralis sinister injection.JPG](https://commons.wikimedia.org/wiki/File:Cerebral_angiography,_arteria_vertebralis_sinister_injection.JPG). Retrieved 2026-05-20.*
 
+## Watch
+
+- [[How-X-rays-See-Through-Your-Skin|How X-rays see through your skin - Ge Wang]] — TED-Ed
+- [[How-Does-a-CT-Scan-Work|How Does a CT Scan Work?]] — NIBIB
+
 ## Source Trace
 
 - Source: OpenStax College Physics; HyperPhysics; IOPSpark

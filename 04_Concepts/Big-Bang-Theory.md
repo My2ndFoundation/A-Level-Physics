@@ -141,6 +141,10 @@ flowchart LR
 *Figure: from Wikipedia article "Big Bang".*
 *Source: Wikimedia Commons — [CMB Timeline300 no WMAP.jpg](https://commons.wikimedia.org/wiki/File:CMB_Timeline300_no_WMAP.jpg). Retrieved 2026-05-20.*
 
+## Watch
+
+- [[The-Big-Bang-The-Beginning-of-Everything|The Beginning of Everything -- The Big Bang]] — Kurzgesagt – In a Nutshell
+
 ## Source Trace
 
 - Source: OpenStax College Physics; HyperPhysics; NASA educational material — no copied text

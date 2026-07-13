@@ -126,6 +126,10 @@ flowchart LR
 *Figure: from Wikipedia article "Stress (mechanics)".*
 *Source: Wikimedia Commons — [Cmec stress ball f02 t6.png](https://commons.wikimedia.org/wiki/File:Cmec_stress_ball_f02_t6.png). Retrieved 2026-05-20.*
 
+## Watch
+
+- [[An-Introduction-to-Stress-and-Strain|An Introduction to Stress and Strain]] — The Efficient Engineer
+
 ## Source Trace
 
 - Source: OpenStax College Physics; The Physics Classroom; HyperPhysics (paraphrased, no copied text)

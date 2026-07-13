@@ -126,6 +126,10 @@ flowchart LR
 *Figure: A Cassegrain reflecting telescope, showing the short, compact tube the folded mirror design allows — the eyepiece looks in through a hole behind the primary mirror.*
 *Source: Wikimedia Commons — [Cassegrain telescope - CNAM 1850.jpg](https://commons.wikimedia.org/wiki/File:Cassegrain_telescope_-_CNAM_1850.jpg) — CC BY-SA 4.0 — Sukkoria. Retrieved 2026-06-27.*
 
+## Watch
+
+- [[Telescopes-Crash-Course-Astronomy|Telescopes: Crash Course Astronomy #6]] — CrashCourse
+
 ## Source Trace
 
 - Source: [[AQA-Physics-7407-7408-Specification]] §3.9.1.2 (Astrophysics — Reflecting telescopes; relative merits)

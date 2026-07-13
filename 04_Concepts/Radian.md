@@ -105,6 +105,10 @@ Radian measure makes the small-angle approximation $\sin\theta \approx \theta$ v
 *Figure: from Wikipedia article "Radian".*
 *Source: Wikimedia Commons — [Radian-common.svg](https://commons.wikimedia.org/wiki/File:Radian-common.svg). Retrieved 2026-05-20.*
 
+## Watch
+
+- [[Angular-Velocity-and-Speed|Angular velocity and speed  /  Uniform circular motion and gravitation  /  AP Physics 1  /  Khan Academy]] — Khan Academy
+
 ## Source Trace
 
 - Source: OpenStax College Physics; HyperPhysics; The Physics Classroom — no copied text

@@ -97,6 +97,10 @@ _None yet — an Euler-step vs exact decay-curve figure would suit this page._
 - Physics & Maths Tutor — Capacitors / decay: https://www.physicsandmathstutor.com
 - Wikipedia — Numerical analysis: https://en.wikipedia.org/wiki/Numerical_analysis
 
+## Watch
+
+- [[The-Essence-of-Calculus|The essence of calculus]] — 3Blue1Brown
+
 ## Source Trace
 
 - Source: Authored for this vault — cross-subject orientation; external resources listed inline.

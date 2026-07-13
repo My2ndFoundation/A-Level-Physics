@@ -113,6 +113,11 @@ Superposition is the single principle from which interference, standing waves an
 *Figure: from Wikipedia article "Superposition principle".*
 *Source: Wikimedia Commons — [Rolling animation.gif](https://commons.wikimedia.org/wiki/File:Rolling_animation.gif). Retrieved 2026-05-20.*
 
+## Watch
+
+- [[What-Is-a-Fourier-Series-Superposition|But what is a Fourier series? From heat flow to drawing with circles]] — 3Blue1Brown
+- [[The-Original-Double-Slit-Experiment|The Original Double Slit Experiment]] — Veritasium
+
 ## Source Trace
 
 - Source: OpenStax College Physics; The Physics Classroom; IOPSpark; Physics LibreTexts — paraphrased, no copied text.

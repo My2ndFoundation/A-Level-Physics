@@ -80,6 +80,10 @@ This page explains the conduction intuition only. It does not give the conductio
 *Figure: from Wikipedia article "Heat transfer".*
 *Source: Wikimedia Commons — [Appareil Ingenhousz.JPG](https://commons.wikimedia.org/wiki/File:Appareil_Ingenhousz.JPG). Retrieved 2026-05-20.*
 
+## Watch
+
+- [[Misconceptions-About-Temperature|Misconceptions About Temperature]] — Veritasium
+
 ## Source Trace
 
 - Source: BBC Bitesize GCSE Physics (energy transfer, conduction); IOPSpark; The Physics Classroom (thermal physics)

@@ -113,6 +113,10 @@ flowchart TB
 *Figure: from Wikipedia article "Photon".*
 *Source: Wikimedia Commons — [Electron-scattering.svg](https://commons.wikimedia.org/wiki/File:Electron-scattering.svg). Retrieved 2026-05-20.*
 
+## Watch
+
+- [[What-Is-a-Photon-Sixty-Symbols|What is a Photon?]] — Sixty Symbols
+
 ## Source Trace
 
 - Source: OpenStax College Physics; HyperPhysics; IOPSpark

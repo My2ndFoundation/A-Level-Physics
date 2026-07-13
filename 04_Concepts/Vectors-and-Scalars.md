@@ -114,6 +114,10 @@ Correctly classifying quantities determines whether you add numbers or use geome
 *Figure: from Wikipedia article "Euclidean vector".*
 *Source: Wikimedia Commons — [Cross product vector.svg](https://commons.wikimedia.org/wiki/File:Cross_product_vector.svg). Retrieved 2026-05-20.*
 
+## Watch
+
+- [[Vectors-Essence-of-Linear-Algebra|Vectors  /  Chapter 1, Essence of linear algebra]] — 3Blue1Brown
+
 ## Source Trace
 
 - Source: OpenStax College Physics; The Physics Classroom; HyperPhysics — no copied text

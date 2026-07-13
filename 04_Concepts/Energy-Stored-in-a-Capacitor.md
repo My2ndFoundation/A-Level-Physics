@@ -128,6 +128,10 @@ xychart-beta
 *Figure: from Wikipedia article "Capacitor".*
 *Source: Wikimedia Commons — [Axial electrolytic capacitors.jpg](https://commons.wikimedia.org/wiki/File:Axial_electrolytic_capacitors.jpg). Retrieved 2026-05-20.*
 
+## Watch
+
+- [[Energy-Stored-in-a-Capacitor|Energy Stored by a Capacitor  /  A-level Physics  /  AQA, OCR, Edexcel]] — Launchpad Learning
+
 ## Source Trace
 
 - Source: OpenStax College Physics; HyperPhysics; Physics LibreTexts — no copied text

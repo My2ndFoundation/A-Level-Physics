@@ -86,6 +86,11 @@ The binding-energy-per-nucleon curve explains why both fusion (light nuclei) and
 - Forgetting to convert u to MeV (×931.5) or MeV to J
 
 ## Visuals
+## Watch
+
+- [[Why-E-equals-mc-squared-Is-Wrong|Why E=mc² is wrong]] — Fermilab
+- [[Nuclear-Energy-How-Does-It-Work|Nuclear Energy Explained: How does it work? 1/3]] — Kurzgesagt – In a Nutshell
+
 ## Source Trace
 
 - Source: OpenStax College Physics; HyperPhysics; CERN educational material — no copied text

@@ -113,6 +113,11 @@ energy, photons, and matter waves.
 *Figure: from Wikipedia article "Quantum mechanics".*
 *Source: Wikimedia Commons — [Crab Nebula.jpg](https://commons.wikimedia.org/wiki/File:Crab_Nebula.jpg). Retrieved 2026-05-20.*
 
+## Watch
+
+- [[The-Original-Double-Slit-Experiment|The Original Double Slit Experiment]] — Veritasium
+- [[Some-Light-Quantum-Mechanics|Some light quantum mechanics (with minutephysics)]] — 3Blue1Brown
+
 ## Source Trace
 
 - Source: [[IOP-Explore-Physics]]; Institute of Physics — Explore Physics; Wikipedia (navigation)

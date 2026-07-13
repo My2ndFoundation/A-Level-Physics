@@ -138,6 +138,11 @@ flowchart LR
 *Figure: from Wikipedia article "Redshift".*
 *Source: Wikimedia Commons — [Comoving distance and lookback time (Planck 2018).png](https://commons.wikimedia.org/wiki/File:Comoving_distance_and_lookback_time_(Planck_2018).png). Retrieved 2026-05-20.*
 
+## Watch
+
+- [[The-Big-Bang-The-Beginning-of-Everything|The Beginning of Everything -- The Big Bang]] — Kurzgesagt – In a Nutshell
+- [[How-We-Detect-Exoplanets-Crash-Course|Exoplanets: Crash Course Astronomy #27]] — CrashCourse
+
 ## Source Trace
 
 - Source: OpenStax College Physics; HyperPhysics; NASA educational material — no copied text

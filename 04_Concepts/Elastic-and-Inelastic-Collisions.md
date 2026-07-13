@@ -127,6 +127,10 @@ flowchart TD
 *Figure: from Wikipedia article "Elastic collision".*
 *Source: Wikimedia Commons — [Translational motion.gif](https://commons.wikimedia.org/wiki/File:Translational_motion.gif). Retrieved 2026-05-20.*
 
+## Watch
+
+- [[Conservation-of-Momentum-with-Dianna-Cowern|Conservation of Momentum - Physics 101 / AP Physics 1 Review with Dianna Cowern]] — Physics Girl
+
 ## Source Trace
 
 - Source: OpenStax College Physics; The Physics Classroom; HyperPhysics — no copied text

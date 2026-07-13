@@ -129,6 +129,10 @@ graph LR
 *Figure: from Wikipedia article "Faraday's law of induction".*
 *Source: Wikimedia Commons — [Electromagnetic induction - solenoid to loop - animation.gif](https://commons.wikimedia.org/wiki/File:Electromagnetic_induction_-_solenoid_to_loop_-_animation.gif). Retrieved 2026-05-20.*
 
+## Watch
+
+- [[Electromagnetic-Induction-Faradays-Law-Walter-Lewin|8.02x - Lect 16 - Electromagnetic Induction, Faraday's Law, Lenz Law, SUPER DEMO]] — Lectures by Walter Lewin
+
 ## Source Trace
 
 OpenStax College Physics; HyperPhysics; Physics LibreTexts — no copied text.

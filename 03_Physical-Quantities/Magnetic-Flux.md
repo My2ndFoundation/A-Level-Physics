@@ -115,6 +115,10 @@ On a graph of flux linkage NΦ against time, the gradient gives the negative of 
 *Figure: from Wikipedia article "Magnetic flux".*
 *Source: Wikimedia Commons — [Spulenflaeche.jpg](https://commons.wikimedia.org/wiki/File:Spulenflaeche.jpg). Retrieved 2026-05-20.*
 
+## Watch
+
+- [[Electromagnetic-Induction-Faradays-Law-Walter-Lewin|8.02x - Lect 16 - Electromagnetic Induction, Faraday's Law, Lenz Law, SUPER DEMO]] — Lectures by Walter Lewin
+
 ## Source Trace
 
 OpenStax College Physics; HyperPhysics; Physics LibreTexts — no copied text.

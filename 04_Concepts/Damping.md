@@ -106,6 +106,10 @@ Damping determines how quickly oscillations die away and controls resonance shar
 *Figure: from Wikipedia article "Damping".*
 *Source: Wikimedia Commons — [Dampingratio111.svg](https://commons.wikimedia.org/wiki/File:Dampingratio111.svg). Retrieved 2026-05-20.*
 
+## Watch
+
+- [[A-Better-Description-of-Resonance|A better description of resonance]] — Steve Mould
+
 ## Source Trace
 
 - Source: OpenStax College Physics; HyperPhysics; The Physics Classroom — no copied text

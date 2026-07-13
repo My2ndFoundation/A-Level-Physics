@@ -94,6 +94,10 @@ Imaging soft tissue and monitoring blood flow safely (no ionising radiation) by 
 *Figure: from Wikipedia article "Medical ultrasound".*
 *Source: Wikimedia Commons — [A modern medical ultrasound scanner.jpg](https://commons.wikimedia.org/wiki/File:A_modern_medical_ultrasound_scanner.jpg). Retrieved 2026-05-20.*
 
+## Watch
+
+- [[Ultrasound-and-Acoustic-Impedance|ultrasound and acoustic impedance explained]] — PhysicsHigh
+
 ## Source Trace
 
 - Source: OpenStax College Physics; HyperPhysics; IOPSpark

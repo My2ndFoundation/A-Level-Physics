@@ -69,6 +69,10 @@ Newton's second law states that the rate of change of [[Momentum]] equals the re
 
 - Connected-body and inclined-plane problems
 
+## Watch
+
+- [[Newtons-Laws-of-Motion-and-Inertia|GCSE Physics - Newton's 1st & 2nd Laws  /  Circular Motion  /  Inertia (2026/27 exams)]] — Cognito
+
 ## Source Trace
 
 - Source: OpenStax College Physics; The Physics Classroom; Isaac Physics — paraphrased, no copied text.

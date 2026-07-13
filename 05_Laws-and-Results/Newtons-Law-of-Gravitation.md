@@ -113,6 +113,10 @@ Newton inferred the inverse-square form from Kepler's third law: requiring the g
 *Figure: from Wikipedia article "Newton's law of universal gravitation".*
 *Source: Wikimedia Commons — [Gravity Big G Measurements NIST.png](https://commons.wikimedia.org/wiki/File:Gravity_Big_G_Measurements_NIST.png). Retrieved 2026-05-20.*
 
+## Watch
+
+- [[What-Everyone-Gets-Wrong-About-Gravity|What Everyone Gets Wrong About Gravity]] — Veritasium
+
 ## Source Trace
 
 - Source: OpenStax College Physics; HyperPhysics; Physics LibreTexts — paraphrased, no copied text

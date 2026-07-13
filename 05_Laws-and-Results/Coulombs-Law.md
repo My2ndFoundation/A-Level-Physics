@@ -120,6 +120,10 @@ The law is empirical (from torsion-balance experiments). Combined with the defin
 *Figure: from Wikipedia article "Coulomb's law".*
 *Source: Wikimedia Commons — [Coulomb.jpg](https://commons.wikimedia.org/wiki/File:Coulomb.jpg). Retrieved 2026-05-20.*
 
+## Watch
+
+- [[Electric-Fields-Crash-Course-Physics|Electric Fields: Crash Course Physics #26]] — CrashCourse
+
 ## Source Trace
 
 - Source: OpenStax College Physics; HyperPhysics; Physics LibreTexts — paraphrased, no copied text

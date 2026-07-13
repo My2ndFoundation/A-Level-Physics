@@ -35,6 +35,7 @@ everyday intuition → pre-GCSE foundation → GCSE foundation → bridge to A-L
 * [[Learning-Path-Map]]
 * [[Mathematical-Methods-Map]]
 * [[Cross-Subject-Links]]
+* [[Video-Resources-MOC]] — curated YouTube explainers embedded and linked into the graph
 
 ## Learning Layers
 

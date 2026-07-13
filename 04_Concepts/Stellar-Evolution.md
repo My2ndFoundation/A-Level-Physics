@@ -144,6 +144,11 @@ flowchart TD
 *Figure: from Wikipedia article "Stellar evolution".*
 *Source: Wikimedia Commons — [Crab Nebula.jpg](https://commons.wikimedia.org/wiki/File:Crab_Nebula.jpg). Retrieved 2026-05-20.*
 
+## Watch
+
+- [[Black-Holes-From-Birth-to-Death|Black Holes Explained – From Birth to Death]] — Kurzgesagt – In a Nutshell
+- [[Life-Cycle-of-Stars-Crash-Course|Low Mass Stars: Crash Course Astronomy #29]] — CrashCourse
+
 ## Source Trace
 
 - Source: OpenStax College Physics; HyperPhysics; NASA educational material — no copied text

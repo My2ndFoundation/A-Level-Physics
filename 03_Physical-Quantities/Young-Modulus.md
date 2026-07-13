@@ -107,6 +107,10 @@ On a [[Stress-Strain-Graph]], the Young modulus is the **gradient of the initial
 *Figure: from Wikipedia article "Young's modulus".*
 *Source: Wikimedia Commons — [Stress strain ductile.svg](https://commons.wikimedia.org/wiki/File:Stress_strain_ductile.svg). Retrieved 2026-05-20.*
 
+## Watch
+
+- [[An-Introduction-to-Stress-and-Strain|An Introduction to Stress and Strain]] — The Efficient Engineer
+
 ## Source Trace
 
 - Source: OpenStax College Physics; The Physics Classroom; HyperPhysics (paraphrased, no copied text)

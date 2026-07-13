@@ -123,6 +123,12 @@ flowchart LR
 *Figure: from Wikipedia article "Wave–particle duality".*
 *Source: Wikimedia Commons — [Inclinedthrow.gif](https://commons.wikimedia.org/wiki/File:Inclinedthrow.gif). Retrieved 2026-05-20.*
 
+## Watch
+
+- [[The-Original-Double-Slit-Experiment|The Original Double Slit Experiment]] — Veritasium
+- [[de-Broglie-Waves-Sixty-Symbols|de Broglie Waves]] — Sixty Symbols
+- [[Some-Light-Quantum-Mechanics|Some light quantum mechanics (with minutephysics)]] — 3Blue1Brown
+
 ## Source Trace
 
 - Source: OpenStax College Physics; The Physics Classroom; IOPSpark; Physics LibreTexts — paraphrased, no copied text.

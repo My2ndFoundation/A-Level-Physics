@@ -128,6 +128,12 @@ flowchart LR
 *Figure: from Wikipedia article "Voltage".*
 *Source: Wikimedia Commons — [AA AAA AAAA A23 battery comparison-1.jpg](https://commons.wikimedia.org/wiki/File:AA_AAA_AAAA_A23_battery_comparison-1.jpg). Retrieved 2026-05-20.*
 
+## Watch
+
+- [[The-Biggest-Misconception-About-Electricity|The Biggest Misconception About Electricity]] — Veritasium
+- [[Capacitors-Explained-How-They-Work|Capacitors Explained - The basics how capacitors work working principle]] — The Engineering Mindset
+- [[Energy-Stored-in-a-Capacitor|Energy Stored by a Capacitor  /  A-level Physics  /  AQA, OCR, Edexcel]] — Launchpad Learning
+
 ## Source Trace
 
 - Source: OpenStax College Physics; The Physics Classroom; HyperPhysics (paraphrased, no copied text)

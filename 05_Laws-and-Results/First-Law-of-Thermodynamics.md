@@ -118,6 +118,10 @@ flowchart LR
 *Figure: Heat supplied to a gas splits between raising internal energy and doing work on the surroundings.*
 *Source: Authored for this vault (CC0). No external copyright.*
 
+## Watch
+
+- [[Entropy-The-Most-Misunderstood-Concept|The Most Misunderstood Concept in Physics]] — Veritasium
+
 ## Source Trace
 
 - Source: [[AQA-Physics-7407-7408-Specification]] §3.11.2 (Engineering Physics — Thermodynamics)

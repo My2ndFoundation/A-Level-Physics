@@ -128,6 +128,10 @@ flowchart TD
 *Figure: The Crab Nebula, the expanding debris of a supernova recorded in 1054 AD. A rapidly spinning neutron star (the Crab Pulsar) sits at its centre.*
 *Source: Wikimedia Commons — [Crab Nebula.jpg](https://commons.wikimedia.org/wiki/File:Crab_Nebula.jpg) — Public domain — NASA, ESA, J. Hester and A. Loll (ASU). Retrieved 2026-06-27.*
 
+## Watch
+
+- [[Black-Holes-From-Birth-to-Death|Black Holes Explained – From Birth to Death]] — Kurzgesagt – In a Nutshell
+
 ## Source Trace
 
 - Source: [[AQA-Physics-7407-7408-Specification]] §3.9.2 – §3.9.3

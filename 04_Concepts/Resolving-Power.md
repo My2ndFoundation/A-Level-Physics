@@ -148,6 +148,10 @@ flowchart LR
 *Figure: The Airy pattern — the bright central disk plus faint rings — produced when light from a point source passes through a circular aperture. Its angular size $\sim\lambda/D$ sets the resolving power.*
 *Source: Wikimedia Commons — [Airy disk D65.png](https://commons.wikimedia.org/wiki/File:Airy_disk_D65.png) — CC0 — SiriusB. Retrieved 2026-06-27.*
 
+## Watch
+
+- [[Telescopes-Crash-Course-Astronomy|Telescopes: Crash Course Astronomy #6]] — CrashCourse
+
 ## Source Trace
 
 - Source: [[AQA-Physics-7407-7408-Specification]] §3.9.1 (Telescopes — resolving and collecting powers; eye and CCD as detectors)

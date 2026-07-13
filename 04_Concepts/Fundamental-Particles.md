@@ -122,6 +122,11 @@ flowchart TD
 *Figure: from Wikipedia article "Elementary particle".*
 *Source: Wikimedia Commons — [Stylised atom with three Bohr model orbits and stylised nucleus.svg](https://commons.wikimedia.org/wiki/File:Stylised_atom_with_three_Bohr_model_orbits_and_stylised_nucleus.svg). Retrieved 2026-05-20.*
 
+## Watch
+
+- [[The-Standard-Model-of-Particle-Physics|The Standard Model]] — Fermilab
+- [[What-Is-Antimatter|What is Antimatter?]] — Fermilab
+
 ## Source Trace
 
 - Source: OpenStax College Physics; HyperPhysics; CERN educational material — no copied text

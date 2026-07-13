@@ -122,6 +122,10 @@ flowchart LR
 *Figure: from Wikipedia article "Nuclear fission".*
 *Source: Wikimedia Commons — [Bucky1.gif](https://commons.wikimedia.org/wiki/File:Bucky1.gif). Retrieved 2026-05-20.*
 
+## Watch
+
+- [[Nuclear-Energy-How-Does-It-Work|Nuclear Energy Explained: How does it work? 1/3]] — Kurzgesagt – In a Nutshell
+
 ## Source Trace
 
 - Source: OpenStax College Physics; The Physics Classroom; IOPSpark; Physics LibreTexts — paraphrased, no copied text.

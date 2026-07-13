@@ -119,6 +119,10 @@ xychart-beta
 *Figure: from Wikipedia article "Free fall".*
 *Source: Wikimedia Commons — [MeteorAccGraph.jpg](https://commons.wikimedia.org/wiki/File:MeteorAccGraph.jpg). Retrieved 2026-05-20.*
 
+## Watch
+
+- [[The-Motion-of-Projectiles-Walter-Lewin-Lecture|Lec 04: The Motion of Projectiles  /  8.01 Classical Mechanics, Fall 1999 (Walter Lewin)]] — For the Allure of Physics (Walter Lewin)
+
 ## Source Trace
 
 - Source: OpenStax College Physics; The Physics Classroom; IOPSpark; Physics LibreTexts — paraphrased, no copied text.

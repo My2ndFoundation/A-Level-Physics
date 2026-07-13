@@ -123,6 +123,10 @@ flowchart LR
 *Figure: from Wikipedia article "Electric current".*
 *Source: Wikimedia Commons — [Magnetic field produced by an electric current in a solenoid.png](https://commons.wikimedia.org/wiki/File:Magnetic_field_produced_by_an_electric_current_in_a_solenoid.png). Retrieved 2026-05-20.*
 
+## Watch
+
+- [[The-Biggest-Misconception-About-Electricity|The Biggest Misconception About Electricity]] — Veritasium
+
 ## Source Trace
 
 - Source: OpenStax College Physics; The Physics Classroom; HyperPhysics (paraphrased, no copied text)

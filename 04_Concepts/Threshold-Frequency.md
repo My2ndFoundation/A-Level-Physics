@@ -102,6 +102,10 @@ The existence of a sharp threshold frequency, independent of intensity, was dire
 *Figure: from Wikipedia article "Photoelectric effect".*
 *Source: Wikimedia Commons — [Dominant Photon-Matter Interaction.svg](https://commons.wikimedia.org/wiki/File:Dominant_Photon-Matter_Interaction.svg). Retrieved 2026-05-20.*
 
+## Watch
+
+- [[The-Photoelectric-Effect-A-Level|The Photoelectric Effect - A Level Physics]] — Physics Online
+
 ## Source Trace
 
 - Source: OpenStax College Physics; HyperPhysics; IOPSpark

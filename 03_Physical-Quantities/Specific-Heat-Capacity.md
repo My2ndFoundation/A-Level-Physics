@@ -115,6 +115,10 @@ xychart-beta
 *Figure: from Wikipedia article "Specific heat capacity".*
 *Source: Wikimedia Commons — [Carnot heat engine 2.svg](https://commons.wikimedia.org/wiki/File:Carnot_heat_engine_2.svg). Retrieved 2026-05-20.*
 
+## Watch
+
+- [[Misconceptions-About-Temperature|Misconceptions About Temperature]] — Veritasium
+
 ## Source Trace
 
 - Source: OpenStax College Physics; HyperPhysics; The Physics Classroom — paraphrased, no copied text

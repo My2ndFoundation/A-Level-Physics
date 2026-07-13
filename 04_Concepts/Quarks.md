@@ -124,6 +124,10 @@ flowchart TD
 *Figure: from Wikipedia article "Quark".*
 *Source: Wikimedia Commons — [Charmed-dia-w.png](https://commons.wikimedia.org/wiki/File:Charmed-dia-w.png). Retrieved 2026-05-20.*
 
+## Watch
+
+- [[The-Standard-Model-of-Particle-Physics|The Standard Model]] — Fermilab
+
 ## Source Trace
 
 - Source: OpenStax College Physics; HyperPhysics; CERN educational material — no copied text

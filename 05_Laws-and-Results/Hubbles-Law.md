@@ -124,6 +124,10 @@ xychart-beta
 *Figure: from Wikipedia article "Hubble's law".*
 *Source: Wikimedia Commons — [Bridge diagram showing different measurements of the Hubble constant (bridge-info CORRECTED4).jpg](https://commons.wikimedia.org/wiki/File:Bridge_diagram_showing_different_measurements_of_the_Hubble_constant_(bridge-info_CORRECTED4).jpg). Retrieved 2026-05-20.*
 
+## Watch
+
+- [[The-Big-Bang-The-Beginning-of-Everything|The Beginning of Everything -- The Big Bang]] — Kurzgesagt – In a Nutshell
+
 ## Source Trace
 
 - Source: OpenStax College Physics; HyperPhysics; NASA educational material — no copied text

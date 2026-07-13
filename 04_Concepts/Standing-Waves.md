@@ -115,6 +115,11 @@ Standing waves explain musical instruments, resonance in structures, microwave o
 *Figure: from Wikipedia article "Standing wave".*
 *Source: Wikimedia Commons — [Spectrogram showing shared partials.png](https://commons.wikimedia.org/wiki/File:Spectrogram_showing_shared_partials.png). Retrieved 2026-05-20.*
 
+## Watch
+
+- [[A-Better-Description-of-Resonance|A better description of resonance]] — Steve Mould
+- [[Chladni-Figures-Standing-Waves-Made-Visible|Chladni Figures - random couscous snaps into beautiful patterns]] — Steve Mould
+
 ## Source Trace
 
 - Source: OpenStax College Physics; The Physics Classroom; IOPSpark; Physics LibreTexts — paraphrased, no copied text.

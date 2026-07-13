@@ -121,6 +121,11 @@ flowchart TD
 *Figure: from Wikipedia article "Atom".*
 *Source: Wikimedia Commons — [Atomic orbital energy levels.svg](https://commons.wikimedia.org/wiki/File:Atomic_orbital_energy_levels.svg). Retrieved 2026-05-20.*
 
+## Watch
+
+- [[Radioactivity-Expect-the-Unexpected|Radioactivity: Expect the unexpected]] — TED-Ed
+- [[Nuclear-Energy-How-Does-It-Work|Nuclear Energy Explained: How does it work? 1/3]] — Kurzgesagt – In a Nutshell
+
 ## Source Trace
 
 - Source: OpenStax College Physics; HyperPhysics; CERN educational material — no copied text

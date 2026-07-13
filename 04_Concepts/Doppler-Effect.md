@@ -139,6 +139,10 @@ flowchart LR
 *Figure: from Wikipedia article "Doppler effect".*
 *Source: Wikimedia Commons — [DopplerSatScheme.png](https://commons.wikimedia.org/wiki/File:DopplerSatScheme.png). Retrieved 2026-05-20.*
 
+## Watch
+
+- [[The-Doppler-Effect-Explained-Visually|The Doppler Effect explained visually]] — ScienceClic English
+
 ## Source Trace
 
 - Source: OpenStax College Physics; HyperPhysics; NASA educational material — no copied text

@@ -122,6 +122,10 @@ flowchart LR
 *Figure: the mass attenuation coefficient of iron falling with photon energy — harder X-rays penetrate further, the energy dependence behind $I = I_0 e^{-\mu x}$.*
 *Source: Wikimedia Commons — [Attenuation Coefficient Iron.svg](https://commons.wikimedia.org/wiki/File:Attenuation_Coefficient_Iron.svg) — CC BY-SA 3.0 — Jarekt. Retrieved 2026-06-27.*
 
+## Watch
+
+- [[How-X-rays-See-Through-Your-Skin|How X-rays see through your skin - Ge Wang]] — TED-Ed
+
 ## Source Trace
 
 - Source: [[AQA-Physics-7407-7408-Specification]] §3.10.5

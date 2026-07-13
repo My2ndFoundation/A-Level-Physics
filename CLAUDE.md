@@ -151,6 +151,7 @@ No future ingest, expand, lint, or MOC-building workflow may bypass these templa
 | `worked-example` | `_meta/templates/worked-example-template.md` | `11_Problems/Worked-Examples/` |
 | `mistake-pattern` | `_meta/templates/mistake-pattern-template.md` | `11_Problems/Mistake-Patterns/` |
 | `source` | `_meta/templates/source-template.md` | `13_Sources/` |
+| `video-resource` | `_meta/templates/video-resource-template.md` | `14_Video-Resources/` |
 | `moc` | `_meta/templates/moc-template.md` | `01_MOCs/` or `00_Home/` |
 
 Future skills must explicitly read the relevant template before writing pages of that type.
@@ -341,6 +342,7 @@ Canonical page types:
 ```text
 moc
 source
+video-resource
 foundation
 common-sense
 frontier-map
@@ -522,6 +524,7 @@ A map of content. It organises links but does not replace atomic notes.
 11_Problems/                     Worked examples, problem types, mistakes, extensions
 12_Frontier-Maps/                Shallow maps of advanced and modern Physics
 13_Sources/                      Source records and provenance
+14_Video-Resources/              Curated external video explainers (embedded, with links)
 _meta/                           Project control layer, templates, workflows, rules
 raw/                             Immutable source input
 .state/                          Operational state
@@ -650,6 +653,7 @@ required-practical
 problem-solving
 mistake-pattern
 source
+video-resource
 moc
 frontier-map
 ```

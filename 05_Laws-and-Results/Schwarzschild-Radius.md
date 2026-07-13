@@ -108,6 +108,10 @@ flowchart LR
 *Figure: The first direct image of a black hole's shadow (M87*, by the Event Horizon Telescope). The dark central region surrounds the event horizon, whose scale is set by the Schwarzschild radius `R_s = 2GM/c²`.*
 *Source: Wikimedia Commons — [Black hole - Messier 87.jpg](https://commons.wikimedia.org/wiki/File:Black_hole_-_Messier_87.jpg) — CC BY 4.0 — Event Horizon Telescope. Retrieved 2026-06-27.*
 
+## Watch
+
+- [[Black-Holes-From-Birth-to-Death|Black Holes Explained – From Birth to Death]] — Kurzgesagt – In a Nutshell
+
 ## Source Trace
 
 - Source: [[AQA-Physics-7407-7408-Specification]] §3.9.3

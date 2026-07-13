@@ -107,6 +107,10 @@ equator — the basis of satellite TV, communications and weather monitoring.
 *Figure: from Wikipedia article "Geostationary orbit".*
 *Source: Wikimedia Commons — [Animation of EchoStar XVII trajectory Equatorial view.gif](https://commons.wikimedia.org/wiki/File:Animation_of_EchoStar_XVII_trajectory_Equatorial_view.gif). Retrieved 2026-05-20.*
 
+## Watch
+
+- [[Satellite-in-Circular-Orbit|Speed of a Satellite in Circular Orbit, Orbital Velocity, Period, Centripetal Force, Physics Problem]] — The Organic Chemistry Tutor
+
 ## Source Trace
 
 - Source: OpenStax College Physics; HyperPhysics; NASA educational material — no copied text

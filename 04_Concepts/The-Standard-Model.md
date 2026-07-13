@@ -129,6 +129,10 @@ flowchart TD
 *Figure: from Wikipedia article "Standard Model".*
 *Source: Wikimedia Commons — [Standard Model of Elementary Particles.svg](https://commons.wikimedia.org/wiki/File:Standard_Model_of_Elementary_Particles.svg). Retrieved 2026-05-20.*
 
+## Watch
+
+- [[The-Standard-Model-of-Particle-Physics|The Standard Model]] — Fermilab
+
 ## Source Trace
 
 - Source: OpenStax College Physics; HyperPhysics; CERN educational material — no copied text
